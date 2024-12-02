@@ -1,0 +1,6 @@
+*.log
+
+/myenv/
+/output/
+
+public_emdat.csv.xlsx

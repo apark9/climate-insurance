@@ -1,0 +1,2 @@
+terminal command: 
+bsub -Is -q short_int -n 1 -R "rusage[mem=8G]" python main.py
