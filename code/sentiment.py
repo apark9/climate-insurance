@@ -8,11 +8,9 @@ import logging
 interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Insurance_Interviews/"
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output"
-keywords = ["climate risk", "catastrophe losses", "weather risk", "premium adjustment",
-            "reinsurance program", "flood", "hurricane", "global warming"]
 analyzer = SentimentIntensityAnalyzer()
 
-def filter_2_sentences(text):
+def filter_2_sentences(text, keywords):
     """
     Extract consecutive sentences where at least one contains a keyword.
     """
@@ -36,7 +34,7 @@ def earnings_calls_split(file_name):
     year = quarter_year[2:]
     return ticker, quarter, int("20" + year)
 
-def analyze_pdfs(folder_path, files, result_storage, file_type, ticker=None, quarter=None, year=None):
+def analyze_pdfs(keywords, folder_path, files, result_storage, file_type, ticker=None, quarter=None, year=None):
     for i, file in enumerate(files, start=1):
         # Ensure file is a string before processing
         if not isinstance(file, str) or not file.endswith(".pdf"):
@@ -46,7 +44,7 @@ def analyze_pdfs(folder_path, files, result_storage, file_type, ticker=None, qua
 
         reader = PdfReader(file_path)
         text = "".join([page.extract_text() for page in reader.pages])
-        filtered_sentences = filter_2_sentences(text)
+        filtered_sentences = filter_2_sentences(text, keywords)
 
         for sentence in filtered_sentences:
             sentiment = analyzer.polarity_scores(sentence)
@@ -60,13 +58,13 @@ def analyze_pdfs(folder_path, files, result_storage, file_type, ticker=None, qua
                 "year": year
             })
 
-def process_sentiment():
+def process_sentiment(keywords):
     interview_results = []
     transcript_results = []
 
     # Process interviews
     # logging.info("Starting interview analysis...")
-    # analyze_pdfs(interview_folder, os.listdir(interview_folder), interview_results, file_type="interview")
+    # analyze_pdfs(keywords, interview_folder, os.listdir(interview_folder), interview_results, file_type="interview")
     # logging.info("Interview analysis complete.")
 
     # Process transcripts by ticker
@@ -85,7 +83,7 @@ def process_sentiment():
     for ticker, files in ticker_files.items():
         logging.info(f"Processing all files for ticker: {ticker}")
         for file, quarter, year in files:
-            analyze_pdfs(transcript_folder, [file], transcript_results, "earnings call", ticker, quarter, year)
+            analyze_pdfs(keywords, transcript_folder, [file], transcript_results, "earnings call", ticker, quarter, year)
 
     logging.info("Transcript analysis complete. All tickers processed.")
 

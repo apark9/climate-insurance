@@ -10,10 +10,12 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+keywords = ["climate", "catastrophe losses", "weather", "flood", "hurricane", "global warming","earthquake"]
+
 if __name__ == "__main__":
     logging.info("Starting main process...")
     try:
-        sentiment.process_sentiment()
+        sentiment.process_sentiment(keywords)
         logging.info("Sentiment analysis completed successfully.")
     except Exception as e:
         logging.error(f"Error in sentiment analysis: {e}")
