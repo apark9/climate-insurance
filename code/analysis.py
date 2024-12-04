@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import os
 import logging
 import ast
+from config import keywords
 
 def load_data():
     """
@@ -55,7 +56,7 @@ def plot_sentiment_trends(data, output_folder="plots"):
             continue
 
         # Create the plot
-        plt.figure(figsize=(8, 6))
+        plt.figure(figsize=(10, 6))
         plt.plot(
             ticker_data["year"],
             ticker_data["compound_sentiment"],
@@ -68,60 +69,53 @@ def plot_sentiment_trends(data, output_folder="plots"):
         plt.grid()
         plt.legend()
 
-        # Save the plot explicitly to the output folder
-        plot_path = os.path.join(output_folder, f"{ticker}_sentiment_trend.png")
+        # Format the x-axis to show only full years
+        plt.xticks(ticker_data["year"].unique().astype(int))
+
+        # Add keywords below the plot
+        keyword_text = f"Keywords: {', '.join(keywords)}"
+        plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
+
+        # Save the plot
+        plot_path = os.path.join(output_folder, f"{ticker}_sentiment.png")
         try:
-            plt.savefig(plot_path)
+            plt.savefig(plot_path, bbox_inches="tight")
             plt.close()
             logging.info(f"Saved sentiment trend plot for {ticker} at {plot_path}.")
         except Exception as e:
             logging.error(f"Error saving plot for {ticker} to {plot_path}: {e}")
 
-import matplotlib.ticker as mticker
-
-def plot_all_tickers(data, output_folder="plots"):
-    """
-    Plot sentiment trends for all tickers on a single graph and save the output.
-    """
-    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
-
-    plt.figure(figsize=(10, 8))
-
+    # Combined plot for all tickers
+    plt.figure(figsize=(10, 6))
     for ticker in data["ticker"].unique():
         ticker_data = data[data["ticker"] == ticker]
-
         if ticker_data.empty:
-            logging.warning(f"No data available for ticker: {ticker}")
             continue
-
-        # Plot the trend for this ticker
         plt.plot(
             ticker_data["year"],
             ticker_data["compound_sentiment"],
             marker="o",
             label=ticker
         )
-
-    # Set x-axis ticks to whole years
-    plt.gca().xaxis.set_major_locator(mticker.MaxNLocator(integer=True))
-
-    # Add labels, title, and legend
     plt.title("Sentiment Trends Across All Tickers")
     plt.xlabel("Year")
     plt.ylabel("Sentiment Score")
+    plt.legend(title="Ticker")
     plt.grid()
-    plt.legend(title="Ticker", loc="upper left", bbox_to_anchor=(1, 1))
-    plt.tight_layout()
 
-    # Save the plot explicitly to the output folder
-    plot_path = os.path.join(os.path.abspath(output_folder), "all_tickers_sentiment_trends.png")
+    # Format the x-axis for full years
+    plt.xticks(data["year"].unique().astype(int))
+
+    # Add keywords below the plot
+    plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
+
+    combined_plot_path = os.path.join(output_folder, "all_tickers_sentiment.png")
     try:
-        plt.savefig(plot_path)
+        plt.savefig(combined_plot_path, bbox_inches="tight")
         plt.close()
-        logging.info(f"Saved combined sentiment trend plot for all tickers at {plot_path}.")
+        logging.info(f"Saved combined sentiment trend plot for all tickers at {combined_plot_path}.")
     except Exception as e:
-        logging.error(f"Error saving combined plot to {plot_path}: {e}")
-
+        logging.error(f"Error saving combined plot to {combined_plot_path}: {e}")
 
 def perform_analysis():
     """
@@ -130,7 +124,6 @@ def perform_analysis():
     data = load_data()
     sentiment_trends = analyze_sentiment_trends(data)
     plot_sentiment_trends(sentiment_trends)
-    plot_all_tickers(sentiment_trends)
 
 if __name__ == "__main__":
     perform_analysis()

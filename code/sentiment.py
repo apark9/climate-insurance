@@ -1,27 +1,38 @@
 import os
 from PyPDF2 import PdfReader
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from multiprocessing import Pool
 import pandas as pd
 import logging
+import spacy
+from config import keywords, transcript_folder, output_folder
 
-# Folders and configurations
-interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Insurance_Interviews/"
-transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
-output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output"
 analyzer = SentimentIntensityAnalyzer()
+nlp = spacy.load("en_core_web_sm")
 
-def filter_2_sentences(text, keywords):
+def filter_sentences(text):
     """
-    Extract consecutive sentences where at least one contains a keyword.
+    Extract consecutive pairs of sentences where at least one contains a keyword.
     """
     sentences = text.split('.')
     relevant_sentence_pairs = []
-    for i in range(len(sentences) - 1):
-        sentence1 = sentences[i].strip()
-        sentence2 = sentences[i + 1].strip()
-        if any(keyword in sentence1.lower() for keyword in keywords) or any(keyword in sentence2.lower() for keyword in keywords):
-            relevant_sentence_pairs.append(f"{sentence1}. {sentence2}.")
+
+    # Process consecutive sentence pairs
+    docs = list(nlp.pipe([" ".join(sentences[i:i + 2]).strip() for i in range(len(sentences) - 1)]))
+
+    for i, doc in enumerate(docs):
+        sentence_pair = " ".join(sentences[i:i + 2]).strip()
+
+        # Skip pairs mentioning PERSON entities
+        if any(ent.label_ == "PERSON" for ent in doc.ents):
+            continue
+
+        # Check for keywords
+        if any(keyword in sentence.lower() for sentence in sentences[i:i + 2] for keyword in keywords):
+            relevant_sentence_pairs.append(sentence_pair)
+
     return relevant_sentence_pairs
+
 
 def earnings_calls_split(file_name):
     """
@@ -34,40 +45,38 @@ def earnings_calls_split(file_name):
     year = quarter_year[2:]
     return ticker, quarter, int("20" + year)
 
-def analyze_pdfs(keywords, folder_path, files, result_storage, file_type, ticker=None, quarter=None, year=None):
-    for i, file in enumerate(files, start=1):
-        # Ensure file is a string before processing
-        if not isinstance(file, str) or not file.endswith(".pdf"):
-            continue
-
-        file_path = os.path.join(folder_path, file)
-
+def analyze_pdf(file_path, file_type, ticker=None, quarter=None, year=None):
+    """
+    Analyze a single PDF file for sentiment and relevant sentences.
+    """
+    try:
+        logging.info(f"Processing file: {file_path}")
         reader = PdfReader(file_path)
         text = "".join([page.extract_text() for page in reader.pages])
-        filtered_sentences = filter_2_sentences(text, keywords)
+        filtered_sentences = filter_sentences(text)
 
+        results = []
         for sentence in filtered_sentences:
             sentiment = analyzer.polarity_scores(sentence)
-            result_storage.append({
+            results.append({
                 "ticker": ticker,
-                "file": file,
+                "file": os.path.basename(file_path),
                 "sentence": sentence,
                 "sentiment": sentiment,
                 "type": file_type,
                 "quarter": quarter,
-                "year": year
+                "year": year,
             })
+        return results
+    
+    except Exception as e:
+        logging.error(f"Error processing file {file_path}: {e}")
+        return []
 
-def process_sentiment(keywords):
-    interview_results = []
-    transcript_results = []
-
-    # Process interviews
-    # logging.info("Starting interview analysis...")
-    # analyze_pdfs(keywords, interview_folder, os.listdir(interview_folder), interview_results, file_type="interview")
-    # logging.info("Interview analysis complete.")
-
-    # Process transcripts by ticker
+def process_sentiment():
+    """
+    Process all transcripts and analyze sentiment in parallel.
+    """
     logging.info("Starting transcript analysis...")
     ticker_files = {}
 
@@ -77,24 +86,25 @@ def process_sentiment(keywords):
             ticker, quarter, year = earnings_calls_split(file)
             if ticker not in ticker_files:
                 ticker_files[ticker] = []
-            ticker_files[ticker].append((file, quarter, year))  # Include quarter and year
+            ticker_files[ticker].append((os.path.join(transcript_folder, file), "earnings call", ticker, quarter, year))
 
-    # Process each ticker
-    for ticker, files in ticker_files.items():
-        logging.info(f"Processing all files for ticker: {ticker}")
-        for file, quarter, year in files:
-            analyze_pdfs(keywords, transcript_folder, [file], transcript_results, "earnings call", ticker, quarter, year)
+    # Prepare tasks for parallel processing
+    tasks = [
+        (file_path, file_type, ticker, quarter, year)
+        for ticker, files in ticker_files.items()
+        for file_path, file_type, ticker, quarter, year in files
+    ]
+
+    # Use multiprocessing Pool for parallel processing
+    transcript_results = []
+    with Pool(processes=8) as pool:  # Adjust the number of processes to match available CPUs
+        all_results = pool.starmap(analyze_pdf, tasks)
+        for result in all_results:
+            transcript_results.extend(result)
 
     logging.info("Transcript analysis complete. All tickers processed.")
 
-    # Save results to the `output_folder`
-    if interview_results:
-        interview_output_path = os.path.join(output_folder, "insurance_interviews.csv")
-        pd.DataFrame(interview_results).to_csv(interview_output_path, index=False)
-        logging.info(f"Interview analysis saved to '{interview_output_path}'.")
-    else:
-        logging.warning("No interview results to save.")
-
+    # Save results to the output folder
     if transcript_results:
         transcript_output_path = os.path.join(output_folder, "insurance_transcripts.csv")
         pd.DataFrame(transcript_results).to_csv(transcript_output_path, index=False)
