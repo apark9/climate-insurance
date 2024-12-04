@@ -44,18 +44,22 @@ def analyze_sentiment_trends(data):
 
 def plot_sentiment_trends(data, output_folder="plots"):
     """
-    Plot sentiment trends for each ticker and save to the specified folder.
+    Plot sentiment trends and their first derivative for each ticker, and save to the specified folder.
     """
     os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
 
+    # Individual plots for each ticker
     for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker]
+        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
 
         if ticker_data.empty:
             logging.warning(f"No data available for ticker: {ticker}")
             continue
 
-        # Create the plot
+        # Calculate first derivative (rate of change)
+        ticker_data["sentiment_derivative"] = ticker_data["compound_sentiment"].diff()
+
+        # Plot sentiment trends
         plt.figure(figsize=(10, 6))
         plt.plot(
             ticker_data["year"],
@@ -63,6 +67,7 @@ def plot_sentiment_trends(data, output_folder="plots"):
             marker="o",
             label="Compound Sentiment"
         )
+        plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
         plt.title(f"Sentiment Trend for {ticker}")
         plt.xlabel("Year")
         plt.ylabel("Sentiment Score")
@@ -76,46 +81,77 @@ def plot_sentiment_trends(data, output_folder="plots"):
         keyword_text = f"Keywords: {', '.join(keywords)}"
         plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
 
-        # Save the plot
-        plot_path = os.path.join(output_folder, f"{ticker}_sentiment.png")
+        # Save the sentiment trend plot
+        sentiment_plot_path = os.path.join(output_folder, f"{ticker}_sentiment.png")
         try:
-            plt.savefig(plot_path, bbox_inches="tight")
+            plt.savefig(sentiment_plot_path, bbox_inches="tight")
             plt.close()
-            logging.info(f"Saved sentiment trend plot for {ticker} at {plot_path}.")
+            logging.info(f"Saved sentiment trend plot for {ticker} at {sentiment_plot_path}.")
         except Exception as e:
-            logging.error(f"Error saving plot for {ticker} to {plot_path}: {e}")
+            logging.error(f"Error saving sentiment plot for {ticker}: {e}")
 
-    # Combined plot for all tickers
-    plt.figure(figsize=(10, 6))
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker]
-        if ticker_data.empty:
-            continue
+        # Plot the first derivative of sentiment
+        plt.figure(figsize=(10, 6))
         plt.plot(
             ticker_data["year"],
-            ticker_data["compound_sentiment"],
+            ticker_data["sentiment_derivative"],
+            marker="o",
+            label="Sentiment Derivative",
+            color="orange"
+        )
+        plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
+        plt.title(f"Rate of Change in Sentiment for {ticker}")
+        plt.xlabel("Year")
+        plt.ylabel("Change in Sentiment")
+        plt.grid()
+        plt.legend()
+
+        # Format the x-axis for full years
+        plt.xticks(ticker_data["year"].unique().astype(int))
+
+        # Save the derivative plot
+        derivative_plot_path = os.path.join(output_folder, f"{ticker}_sentiment_derivative.png")
+        try:
+            plt.savefig(derivative_plot_path, bbox_inches="tight")
+            plt.close()
+            logging.info(f"Saved sentiment derivative plot for {ticker} at {derivative_plot_path}.")
+        except Exception as e:
+            logging.error(f"Error saving derivative plot for {ticker}: {e}")
+
+    # Combined plot for all tickers (sentiment derivative)
+    plt.figure(figsize=(10, 6))
+    for ticker in data["ticker"].unique():
+        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
+        if ticker_data.empty:
+            continue
+        ticker_data["sentiment_derivative"] = ticker_data["compound_sentiment"].diff()
+        plt.plot(
+            ticker_data["year"],
+            ticker_data["sentiment_derivative"],
             marker="o",
             label=ticker
         )
-    plt.title("Sentiment Trends Across All Tickers")
+    plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
+    plt.title("Rate of Change in Sentiment Across All Tickers")
     plt.xlabel("Year")
-    plt.ylabel("Sentiment Score")
-    plt.legend(title="Ticker")
+    plt.ylabel("Change in Sentiment")
     plt.grid()
+    plt.legend(title="Ticker")
 
     # Format the x-axis for full years
     plt.xticks(data["year"].unique().astype(int))
 
-    # Add keywords below the plot
+    # Add keywords below the combined plot
     plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
 
-    combined_plot_path = os.path.join(output_folder, "all_tickers_sentiment.png")
+    combined_derivative_plot_path = os.path.join(output_folder, "all_tickers_sentiment_derivative.png")
     try:
-        plt.savefig(combined_plot_path, bbox_inches="tight")
+        plt.savefig(combined_derivative_plot_path, bbox_inches="tight")
         plt.close()
-        logging.info(f"Saved combined sentiment trend plot for all tickers at {combined_plot_path}.")
+        logging.info(f"Saved combined sentiment derivative plot at {combined_derivative_plot_path}.")
     except Exception as e:
-        logging.error(f"Error saving combined plot to {combined_plot_path}: {e}")
+        logging.error(f"Error saving combined derivative plot: {e}")
+
 
 def perform_analysis():
     """
