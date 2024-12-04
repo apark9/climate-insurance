@@ -152,7 +152,6 @@ def plot_sentiment_trends(data, output_folder="plots"):
     except Exception as e:
         logging.error(f"Error saving combined derivative plot: {e}")
 
-
 def perform_analysis():
     """
     Perform the sentiment analysis and generate plots.
