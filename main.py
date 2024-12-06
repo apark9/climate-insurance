@@ -1,6 +1,7 @@
 import logging
 import code.sentiment as sentiment
 import code.graphing as graphing
+import code.climate as climate
 
 # Configure logging
 logging.basicConfig(
@@ -11,16 +12,22 @@ logging.basicConfig(
 )
 
 if __name__ == "__main__":
-    # logging.info("Starting main process...")
+    logging.info("Starting main process...")
     # try:
     #     sentiment.process_sentiment()
     #     logging.info("Sentiment analysis completed successfully.")
     # except Exception as e:
     #     logging.error(f"Error in sentiment analysis: {e}")
 
+    # try:
+    #     graphing.perform_graphing()
+    #     logging.info("Graphing completed successfully.")
+    # except Exception as e:
+    #     logging.error(f"Error in graphing: {e}")
+
     try:
-        graphing.perform_graphing()
-        logging.info("Graphing completed successfully.")
+        climate.run_climate_analysis()
+        logging.info("Climate analysis completed successfully.")
     except Exception as e:
         logging.error(f"Error in graphing: {e}")
 
