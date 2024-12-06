@@ -30,5 +30,5 @@ keywords = [
 ]
 '''
 keywords = [
-    'climate change', 'natural disasters', 'extreme weather', 'hurricane', 'wildfire', 'earthquake', 'flood'
+    'claims cost', 'underwriting losses', 'reinsurance premiums', 'rate increases'
 ]
