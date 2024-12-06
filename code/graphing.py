@@ -47,7 +47,6 @@ def plot_sentiment_trends(data, output_folder="plots"):
     Plot sentiment trends for each ticker, and save to the specified folder.
     """
     os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
-
     # Individual plots for each ticker
     for ticker in data["ticker"].unique():
         ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
@@ -108,7 +107,6 @@ def plot_sentiment_trends(data, output_folder="plots"):
 
     # Format the x-axis for full years
     plt.xticks(data["year"].unique().astype(int))
-
     # Add keywords below the combined plot
     keyword_text = f"Keywords: {', '.join(keywords)}"
     plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
@@ -121,12 +119,11 @@ def plot_sentiment_trends(data, output_folder="plots"):
     except Exception as e:
         logging.error(f"Error saving combined sentiment plot: {e}")
 
-
 def plot_sentiment_trends_derivatives(data, output_folder="plots"):
     """
     Plot sentiment trends and their first derivative for each ticker, and save to the specified folder.
     """
-    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
+    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder 
 
     # Individual plots for each ticker
     for ticker in data["ticker"].unique():
@@ -255,7 +252,6 @@ def plot_keyword_frequencies(data, output_folder="plots"):
     Plot keyword frequencies for each ticker and include the average, then save to the specified folder.
     """
     os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
-
     # Calculate the average keyword frequency across all tickers for each year
     average_frequencies = (
         data.groupby("year")["keyword_count"]
@@ -336,7 +332,6 @@ def plot_keyword_frequencies(data, output_folder="plots"):
 
     # Format the x-axis for full years
     plt.xticks(data["year"].unique().astype(int))
-
     # Add keywords below the combined plot
     keyword_text = f"Keywords: {', '.join(keywords)}"
     plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)

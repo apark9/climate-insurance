@@ -16,10 +16,19 @@ interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
+'''
+TYPES OF KEYWORDS
+
+WEATHER
 keywords = [
-    "climate risk", "catastrophe losses", "weather risk", "flood", "hurricane", "global warming"
+    'climate change', 'natural disasters', 'extreme weather', 'hurricane', 'wildfire', 'earthquake', 'flood'
 ]
 
-# keywords = [
-#     "reinsurance", "reduce exposure", "premium increase"
-# ]
+FINANCIAL
+keywords = [
+    'claims cost', 'underwriting losses', 'reinsurance premiums', 'rate increases'
+]
+'''
+keywords = [
+    'climate change', 'natural disasters', 'extreme weather', 'hurricane', 'wildfire', 'earthquake', 'flood'
+]
