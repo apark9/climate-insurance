@@ -11,17 +11,17 @@ logging.basicConfig(
 )
 
 if __name__ == "__main__":
-    logging.info("Starting main process...")
-    try:
-        sentiment.process_sentiment()
-        logging.info("Sentiment analysis completed successfully.")
-    except Exception as e:
-        logging.error(f"Error in sentiment analysis: {e}")
+    # logging.info("Starting main process...")
+    # try:
+    #     sentiment.process_sentiment()
+    #     logging.info("Sentiment analysis completed successfully.")
+    # except Exception as e:
+    #     logging.error(f"Error in sentiment analysis: {e}")
 
     try:
-        graphing.perform_analysis()
-        logging.info("Analysis completed successfully.")
+        graphing.perform_graphing()
+        logging.info("Graphing completed successfully.")
     except Exception as e:
-        logging.error(f"Error in analysis: {e}")
+        logging.error(f"Error in graphing: {e}")
 
     logging.info("All processes completed.")

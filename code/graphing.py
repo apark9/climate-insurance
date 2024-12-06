@@ -232,14 +232,130 @@ def plot_sentiment_trends_derivatives(data, output_folder="plots"):
     except Exception as e:
         logging.error(f"Error saving combined derivative plot: {e}")
 
-def perform_analysis():
+def calculate_keyword_frequencies(data):
     """
-    Perform the sentiment analysis and generate plots.
+    Calculate keyword frequencies for each year and ticker.
     """
+    # Create a new column for keyword frequencies
+    data["keyword_count"] = data["sentence"].apply(
+        lambda x: sum(x.lower().count(keyword.lower()) for keyword in keywords)
+    )
+
+    # Group by ticker and year, and sum keyword counts
+    keyword_frequencies = (
+        data.groupby(["ticker", "year"])["keyword_count"]
+        .sum()
+        .reset_index()
+    )
+    logging.info("Calculated keyword frequencies over time.")
+    return keyword_frequencies
+
+def plot_keyword_frequencies(data, output_folder="plots"):
+    """
+    Plot keyword frequencies for each ticker and include the average, then save to the specified folder.
+    """
+    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
+
+    # Calculate the average keyword frequency across all tickers for each year
+    average_frequencies = (
+        data.groupby("year")["keyword_count"]
+        .mean()
+        .reset_index()
+        .rename(columns={"keyword_count": "average_keyword_count"})
+    )
+
+    # Individual plots for each ticker
+    for ticker in data["ticker"].unique():
+        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
+
+        if ticker_data.empty:
+            logging.warning(f"No data available for ticker: {ticker}")
+            continue
+
+        # Plot keyword frequencies
+        plt.figure(figsize=(10, 6))
+        plt.plot(
+            ticker_data["year"],
+            ticker_data["keyword_count"],
+            marker="o",
+            label=f"{ticker} Keyword Count"
+        )
+        plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Thicker horizontal line at 0
+        plt.title(f"Keyword Frequency Trend for {ticker}")
+        plt.xlabel("Year")
+        plt.ylabel("Keyword Frequency")
+        plt.grid()
+        plt.legend()
+
+        # Format the x-axis to show only full years
+        plt.xticks(ticker_data["year"].unique().astype(int))
+
+        # Add keywords below the plot
+        keyword_text = f"Keywords: {', '.join(keywords)}"
+        plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
+
+        # Save the keyword frequency plot
+        keyword_plot_path = os.path.join(output_folder, f"{ticker}_keyword_frequency.png")
+        try:
+            plt.savefig(keyword_plot_path, bbox_inches="tight")
+            plt.close()
+            logging.info(f"Saved keyword frequency plot for {ticker} at {keyword_plot_path}.")
+        except Exception as e:
+            logging.error(f"Error saving keyword frequency plot for {ticker}: {e}")
+
+    # Combined plot for all tickers with the average line
+    plt.figure(figsize=(10, 6))
+    for ticker in data["ticker"].unique():
+        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
+        if ticker_data.empty:
+            continue
+        plt.plot(
+            ticker_data["year"],
+            ticker_data["keyword_count"],
+            marker="o",
+            label=ticker
+        )
+
+    # Add the average line
+    plt.plot(
+        average_frequencies["year"],
+        average_frequencies["average_keyword_count"],
+        marker="o",
+        linestyle="--",
+        linewidth=2,
+        color="purple",
+        label="Average"
+    )
+
+    plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Thicker horizontal line at 0
+    plt.title("Keyword Frequency Trends Across All Tickers (With Average)")
+    plt.xlabel("Year")
+    plt.ylabel("Keyword Frequency")
+    plt.grid()
+    plt.legend(title="Ticker")
+
+    # Format the x-axis for full years
+    plt.xticks(data["year"].unique().astype(int))
+
+    # Add keywords below the combined plot
+    keyword_text = f"Keywords: {', '.join(keywords)}"
+    plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
+
+    combined_keyword_plot_path = os.path.join(output_folder, "all_tickers_keyword_frequency_with_average.png")
+    try:
+        plt.savefig(combined_keyword_plot_path, bbox_inches="tight")
+        plt.close()
+        logging.info(f"Saved combined keyword frequency plot with average at {combined_keyword_plot_path}.")
+    except Exception as e:
+        logging.error(f"Error saving combined keyword frequency plot with average: {e}")
+
+def perform_graphing():
     data = load_data()
     sentiment_trends = analyze_sentiment_trends(data)
     plot_sentiment_trends(sentiment_trends)
     plot_sentiment_trends_derivatives(sentiment_trends)
+    keyword_frequencies = calculate_keyword_frequencies(data)
+    plot_keyword_frequencies(keyword_frequencies)
 
 if __name__ == "__main__":
-    perform_analysis()
+    perform_graphing()
