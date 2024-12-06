@@ -17,9 +17,9 @@ transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
 keywords = [
-    "climate risk", "catastrophe losses", "weather risk", 
-    "premium adjustment", "reinsurance program", 
-    "flood", "hurricane", "global warming"
+    "climate risk", "catastrophe losses", "weather risk", "flood", "hurricane", "global warming"
 ]
 
-# keywords = ["reduce exposure", "reduce climate risk", "reinsurance"]
+# keywords = [
+#     "reinsurance", "reduce exposure", "premium increase"
+# ]
