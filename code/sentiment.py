@@ -73,6 +73,24 @@ def analyze_pdf(file_path, file_type, ticker=None, quarter=None, year=None):
         logging.error(f"Error processing file {file_path}: {e}")
         return []
 
+def aggregate_sentiment(data):
+    """
+    Aggregate sentiment data by ticker and year.
+    """
+    try:
+        logging.info("Aggregating sentiment data by ticker and year.")
+        data["compound_sentiment"] = data["sentiment"].apply(eval).apply(lambda x: x.get("compound"))
+        aggregated_data = data.groupby(["ticker", "year"]).agg({
+            "compound_sentiment": "mean"
+        }).reset_index().rename(columns={"year": "Year"})
+
+        output_path = os.path.join(output_folder, "aggregated_sentiment_data.csv")
+        aggregated_data.to_csv(output_path, index=False)
+        logging.info(f"Aggregated sentiment data saved to '{output_path}'.")
+    except Exception as e:
+        logging.error(f"Error aggregating sentiment data: {e}")
+        raise
+
 def process_sentiment():
     """
     Process all transcripts and analyze sentiment in parallel.
@@ -107,8 +125,12 @@ def process_sentiment():
     # Save results to the output folder
     if transcript_results:
         transcript_output_path = os.path.join(output_folder, "insurance_transcripts.csv")
-        pd.DataFrame(transcript_results).to_csv(transcript_output_path, index=False)
+        full_data = pd.DataFrame(transcript_results)
+        full_data.to_csv(transcript_output_path, index=False)
         logging.info(f"Transcript analysis saved to '{transcript_output_path}'.")
+
+        # Aggregate sentiment data
+        aggregate_sentiment(full_data)
     else:
         logging.warning("No transcript results to save.")
 

@@ -1,356 +1,225 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import os
 import logging
 import ast
-from config import keywords
+from config import keywords, keyword_flag
 
-def load_data():
+# Ensure output and plots directories exist
+os.makedirs("output", exist_ok=True)
+os.makedirs("plots", exist_ok=True)
+
+def load_data(file_path):
     """
     Load data from the CSV file.
     """
     try:
-        df = pd.read_csv("/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/insurance_transcripts.csv")
-        logging.info("Loaded data from 'insurance_transcripts.csv'.")
-        return df
+        data = pd.read_csv(file_path)
+        logging.info(f"Successfully loaded data from {file_path}.")
+        return data
     except Exception as e:
-        logging.error(f"Error loading data: {e}")
+        logging.error(f"Error loading data from {file_path}: {e}")
         raise
 
-def analyze_sentiment_trends(data):
+def plot_sentiment_and_stock_prices(output_folder="plots"):
     """
-    Analyze sentiment trends over time by grouping by ticker and year.
+    Plot sentiment trends alongside stock prices with dual y-axes.
     """
-    # Parse sentiment strings into dictionaries if necessary
-    if isinstance(data["sentiment"].iloc[0], str):
-        data["sentiment"] = data["sentiment"].apply(ast.literal_eval)
+    os.makedirs(output_folder, exist_ok=True)
 
-    # Ensure sentiment is a numerical value (compound score)
-    data["compound_sentiment"] = data["sentiment"].apply(
-        lambda x: x["compound"] if isinstance(x, dict) else None
-    )
+    # File paths
+    sentiment_file = "output/aggregated_sentiment_data.csv"
+    financial_file = "output/aggregated_share_price_data.csv"
 
-    # Drop rows where compound_sentiment is missing
-    data = data.dropna(subset=["compound_sentiment"])
+    # Load data
+    sentiment_data = load_data(sentiment_file)
+    financial_data = load_data(financial_file)
 
-    # Group by ticker and year, and calculate mean sentiment
-    sentiment_over_time = (
-        data.groupby(["ticker", "year"])["compound_sentiment"]
-        .mean()
-        .reset_index()
-    )
-    logging.info("Calculated sentiment trends over time.")
-    return sentiment_over_time
+    # Merge data
+    merged_data = pd.merge(sentiment_data, financial_data, on="Year", how="inner")
 
-def plot_sentiment_trends(data, output_folder="plots"):
-    """
-    Plot sentiment trends for each ticker, and save to the specified folder.
-    """
-    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
-    # Individual plots for each ticker
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
+    # Create a plot with dual y-axes
+    fig, ax1 = plt.subplots(figsize=(12, 8))
 
-        if ticker_data.empty:
-            logging.warning(f"No data available for ticker: {ticker}")
-            continue
-
-        # Plot sentiment trends
-        plt.figure(figsize=(10, 6))
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["compound_sentiment"],
-            marker="o",
-            label="Compound Sentiment"
-        )
-        plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Add thicker horizontal line at 0
-        plt.title(f"Sentiment Trend for {ticker}")
-        plt.xlabel("Year")
-        plt.ylabel("Sentiment Score")
-        plt.grid()
-        plt.legend()
-
-        # Format the x-axis to show only full years
-        plt.xticks(ticker_data["year"].unique().astype(int))
-
-        # Add keywords below the plot
-        keyword_text = f"Keywords: {', '.join(keywords)}"
-        plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
-
-        # Save the sentiment trend plot
-        sentiment_plot_path = os.path.join(output_folder, f"{ticker}_sentiment.png")
-        try:
-            plt.savefig(sentiment_plot_path, bbox_inches="tight")
-            plt.close()
-            logging.info(f"Saved sentiment trend plot for {ticker} at {sentiment_plot_path}.")
-        except Exception as e:
-            logging.error(f"Error saving sentiment plot for {ticker}: {e}")
-
-    # Combined plot for all tickers (sentiment)
-    plt.figure(figsize=(10, 6))
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
-        if ticker_data.empty:
-            continue
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["compound_sentiment"],
-            marker="o",
-            label=ticker
-        )
-    plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Add thicker horizontal line at 0
-    plt.title("Sentiment Trends Across All Tickers")
-    plt.xlabel("Year")
-    plt.ylabel("Sentiment Score")
-    plt.grid()
-    plt.legend(title="Ticker")
-
-    # Format the x-axis for full years
-    plt.xticks(data["year"].unique().astype(int))
-    # Add keywords below the combined plot
-    keyword_text = f"Keywords: {', '.join(keywords)}"
-    plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
-
-    combined_sentiment_plot_path = os.path.join(output_folder, "all_tickers_sentiment.png")
-    try:
-        plt.savefig(combined_sentiment_plot_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved combined sentiment trend plot at {combined_sentiment_plot_path}.")
-    except Exception as e:
-        logging.error(f"Error saving combined sentiment plot: {e}")
-
-def plot_sentiment_trends_derivatives(data, output_folder="plots"):
-    """
-    Plot sentiment trends and their first derivative for each ticker, and save to the specified folder.
-    """
-    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder 
-
-    # Individual plots for each ticker
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
-
-        if ticker_data.empty:
-            logging.warning(f"No data available for ticker: {ticker}")
-            continue
-
-        # Calculate first derivative (rate of change)
-        ticker_data["sentiment_derivative"] = ticker_data["compound_sentiment"].diff()
-
-        # Plot sentiment trends
-        plt.figure(figsize=(10, 6))
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["compound_sentiment"],
-            marker="o",
-            label="Compound Sentiment"
-        )
-        plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
-        plt.title(f"Sentiment Trend for {ticker}")
-        plt.xlabel("Year")
-        plt.ylabel("Sentiment Score")
-        plt.grid()
-        plt.legend()
-
-        # Format the x-axis to show only full years
-        plt.xticks(ticker_data["year"].unique().astype(int))
-
-        # Add keywords below the plot
-        keyword_text = f"Keywords: {', '.join(keywords)}"
-        plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
-
-        # Save the sentiment trend plot
-        sentiment_plot_path = os.path.join(output_folder, f"{ticker}_sentiment.png")
-        try:
-            plt.savefig(sentiment_plot_path, bbox_inches="tight")
-            plt.close()
-            logging.info(f"Saved sentiment trend plot for {ticker} at {sentiment_plot_path}.")
-        except Exception as e:
-            logging.error(f"Error saving sentiment plot for {ticker}: {e}")
-
-        # Plot the first derivative of sentiment
-        plt.figure(figsize=(10, 6))
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["sentiment_derivative"],
-            marker="o",
-            label="Sentiment Derivative",
-            color="orange"
-        )
-        plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
-        plt.title(f"Rate of Change in Sentiment for {ticker}")
-        plt.xlabel("Year")
-        plt.ylabel("Change in Sentiment")
-        plt.grid()
-        plt.legend()
-
-        # Format the x-axis for full years
-        plt.xticks(ticker_data["year"].unique().astype(int))
-
-        # Save the derivative plot
-        derivative_plot_path = os.path.join(output_folder, f"{ticker}_sentiment_derivative.png")
-        try:
-            plt.savefig(derivative_plot_path, bbox_inches="tight")
-            plt.close()
-            logging.info(f"Saved sentiment derivative plot for {ticker} at {derivative_plot_path}.")
-        except Exception as e:
-            logging.error(f"Error saving derivative plot for {ticker}: {e}")
-
-    # Combined plot for all tickers (sentiment derivative)
-    plt.figure(figsize=(10, 6))
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
-        if ticker_data.empty:
-            continue
-        ticker_data["sentiment_derivative"] = ticker_data["compound_sentiment"].diff()
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["sentiment_derivative"],
-            marker="o",
-            label=ticker
-        )
-    plt.axhline(y=0, color="black", linestyle="--", linewidth=1.5)  # Add thicker horizontal line at 0
-    plt.title("Rate of Change in Sentiment Across All Tickers")
-    plt.xlabel("Year")
-    plt.ylabel("Change in Sentiment")
-    plt.grid()
-    plt.legend(title="Ticker")
-
-    # Format the x-axis for full years
-    plt.xticks(data["year"].unique().astype(int))
-
-    # Add keywords below the combined plot
-    plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
-
-    combined_derivative_plot_path = os.path.join(output_folder, "all_tickers_sentiment_derivative.png")
-    try:
-        plt.savefig(combined_derivative_plot_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved combined sentiment derivative plot at {combined_derivative_plot_path}.")
-    except Exception as e:
-        logging.error(f"Error saving combined derivative plot: {e}")
-
-def calculate_keyword_frequencies(data):
-    """
-    Calculate keyword frequencies for each year and ticker.
-    """
-    # Create a new column for keyword frequencies
-    data["keyword_count"] = data["sentence"].apply(
-        lambda x: sum(x.lower().count(keyword.lower()) for keyword in keywords)
-    )
-
-    # Group by ticker and year, and sum keyword counts
-    keyword_frequencies = (
-        data.groupby(["ticker", "year"])["keyword_count"]
-        .sum()
-        .reset_index()
-    )
-    logging.info("Calculated keyword frequencies over time.")
-    return keyword_frequencies
-
-def plot_keyword_frequencies(data, output_folder="plots"):
-    """
-    Plot keyword frequencies for each ticker and include the average, then save to the specified folder.
-    """
-    os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
-    # Calculate the average keyword frequency across all tickers for each year
-    average_frequencies = (
-        data.groupby("year")["keyword_count"]
-        .mean()
-        .reset_index()
-        .rename(columns={"keyword_count": "average_keyword_count"})
-    )
-
-    # Individual plots for each ticker
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
-
-        if ticker_data.empty:
-            logging.warning(f"No data available for ticker: {ticker}")
-            continue
-
-        # Plot keyword frequencies
-        plt.figure(figsize=(10, 6))
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["keyword_count"],
-            marker="o",
-            label=f"{ticker} Keyword Count"
-        )
-        plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Thicker horizontal line at 0
-        plt.title(f"Keyword Frequency Trend for {ticker}")
-        plt.xlabel("Year")
-        plt.ylabel("Keyword Frequency")
-        plt.grid()
-        plt.legend()
-
-        # Format the x-axis to show only full years
-        plt.xticks(ticker_data["year"].unique().astype(int))
-
-        # Add keywords below the plot
-        keyword_text = f"Keywords: {', '.join(keywords)}"
-        plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
-
-        # Save the keyword frequency plot
-        keyword_plot_path = os.path.join(output_folder, f"{ticker}_keyword_frequency.png")
-        try:
-            plt.savefig(keyword_plot_path, bbox_inches="tight")
-            plt.close()
-            logging.info(f"Saved keyword frequency plot for {ticker} at {keyword_plot_path}.")
-        except Exception as e:
-            logging.error(f"Error saving keyword frequency plot for {ticker}: {e}")
-
-    # Combined plot for all tickers with the average line
-    plt.figure(figsize=(10, 6))
-    for ticker in data["ticker"].unique():
-        ticker_data = data[data["ticker"] == ticker].sort_values(by="year")
-        if ticker_data.empty:
-            continue
-        plt.plot(
-            ticker_data["year"],
-            ticker_data["keyword_count"],
-            marker="o",
-            label=ticker
-        )
-
-    # Add the average line
-    plt.plot(
-        average_frequencies["year"],
-        average_frequencies["average_keyword_count"],
+    # Plot sentiment trends on the left y-axis
+    ax1.plot(
+        merged_data["Year"],
+        merged_data["compound_sentiment"],
         marker="o",
-        linestyle="--",
-        linewidth=2,
-        color="purple",
-        label="Average"
+        color="blue",
+        label="Total Sentiment (Summed)"
     )
+    ax1.set_xlabel("Year")
+    ax1.set_ylabel("Sentiment Score", color="blue")
+    ax1.tick_params(axis="y", labelcolor="blue")
+    ax1.grid()
 
-    plt.axhline(y=0, color="black", linestyle="--", linewidth=2)  # Thicker horizontal line at 0
-    plt.title("Keyword Frequency Trends Across All Tickers (With Average)")
-    plt.xlabel("Year")
-    plt.ylabel("Keyword Frequency")
-    plt.grid()
-    plt.legend(title="Ticker")
+    # Plot stock prices on the right y-axis
+    ax2 = ax1.twinx()
+    ax2.plot(
+        merged_data["Year"],
+        merged_data["Average_Share_Price"],
+        marker="o",
+        color="green",
+        label="Average Share Price"
+    )
+    ax2.plot(
+        merged_data["Year"],
+        merged_data["S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)"],
+        linestyle="--",
+        color="orange",
+        label="S&P Insurance BMI (Benchmark)"
+    )
+    ax2.set_ylabel("Stock Prices", color="green")
+    ax2.tick_params(axis="y", labelcolor="green")
 
-    # Format the x-axis for full years
-    plt.xticks(data["year"].unique().astype(int))
-    # Add keywords below the combined plot
-    keyword_text = f"Keywords: {', '.join(keywords)}"
-    plt.figtext(0.5, -0.1, keyword_text, wrap=True, horizontalalignment="center", fontsize=10)
+    # Combine legends from both axes
+    lines1, labels1 = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
 
-    combined_keyword_plot_path = os.path.join(output_folder, "all_tickers_keyword_frequency_with_average.png")
+    plt.title("Sentiment Trends and Stock Prices")
+    fig.tight_layout()
+
+    # Save the plot
+    output_path = os.path.join(output_folder, f"sentiment_and_stock_prices_{keyword_flag}.png")
     try:
-        plt.savefig(combined_keyword_plot_path, bbox_inches="tight")
+        plt.savefig(output_path, bbox_inches="tight")
         plt.close()
-        logging.info(f"Saved combined keyword frequency plot with average at {combined_keyword_plot_path}.")
+        logging.info(f"Saved sentiment and stock prices plot at {output_path}.")
     except Exception as e:
-        logging.error(f"Error saving combined keyword frequency plot with average: {e}")
+        logging.error(f"Error saving sentiment and stock prices plot: {e}")
+
+def plot_sentiment_and_disasters(output_folder="plots"):
+    """
+    Plot sentiment trends alongside climate disasters with dual y-axes.
+    """
+    os.makedirs(output_folder, exist_ok=True)
+
+    # File paths
+    sentiment_file = "output/aggregated_sentiment_data.csv"
+    disaster_file = "output/aggregated_disaster_data.csv"
+
+    # Load data
+    sentiment_data = load_data(sentiment_file)
+    disaster_data = load_data(disaster_file)
+
+    # Merge data
+    merged_data = pd.merge(sentiment_data, disaster_data, on="Year", how="inner")
+
+    # Create a plot with dual y-axes
+    fig, ax1 = plt.subplots(figsize=(12, 8))
+
+    # Plot sentiment trends on the left y-axis
+    ax1.plot(
+        merged_data["Year"],
+        merged_data["compound_sentiment"],
+        marker="o",
+        color="blue",
+        label="Sentiment Score"
+    )
+    ax1.set_xlabel("Year")
+    ax1.set_ylabel("Sentiment Score", color="blue")
+    ax1.tick_params(axis="y", labelcolor="blue")
+    ax1.grid()
+
+    # Plot disaster counts and total damage on the right y-axis
+    ax2 = ax1.twinx()
+    ax2.bar(
+        merged_data["Year"],
+        merged_data["Disaster_Count"],
+        alpha=0.5,
+        color="orange",
+        label="Number of Disasters"
+    )
+    ax2.plot(
+        merged_data["Year"],
+        merged_data["Total_Damage_Adjusted"] / 1e6,
+        marker="x",
+        color="red",
+        linestyle="--",
+        label="Total Damage (Millions)"
+    )
+    ax2.set_ylabel("Disasters / Damage (Millions USD)", color="orange")
+    ax2.tick_params(axis="y", labelcolor="orange")
+
+    # Combine legends from both axes
+    lines1, labels1 = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
+
+    plt.title("Sentiment Trends and Climate Disasters")
+    fig.tight_layout()
+
+    # Save the plot
+    output_path = os.path.join(output_folder, f"sentiment_vs_disasters_{keyword_flag}.png")
+    try:
+        plt.savefig(output_path, bbox_inches="tight")
+        plt.close()
+        logging.info(f"Saved sentiment vs disasters plot at {output_path}.")
+    except Exception as e:
+        logging.error(f"Error saving sentiment vs disasters plot: {e}")
+
+# def plot_sentiment_by_ticker(output_folder="plots"):
+    """
+    Plot sentiment trends for each ticker in separate subplots.
+    """
+    os.makedirs(output_folder, exist_ok=True)
+
+    # File path
+    sentiment_file = "output/aggregated_sentiment_data.csv"
+
+    # Load data
+    sentiment_data = load_data(sentiment_file)
+
+    # Get unique tickers
+    tickers = sentiment_data["ticker"].unique()
+
+    # Create subplots for each ticker
+    fig, axes = plt.subplots(len(tickers), 1, figsize=(12, 8 * len(tickers)), sharex=True)
+
+    for i, ticker in enumerate(tickers):
+        ticker_data = sentiment_data[sentiment_data["ticker"] == ticker]
+
+        # Plot sentiment trends for each ticker
+        axes[i].plot(
+            ticker_data["Year"],
+            ticker_data["compound_sentiment"],
+            marker="o",
+            label=f"{ticker} Sentiment",
+            color="blue"
+        )
+        axes[i].set_title(f"Sentiment Trend for {ticker}")
+        axes[i].set_ylabel("Sentiment Score")
+        axes[i].axhline(y=0, color="black", linestyle="--", linewidth=1.5)
+        axes[i].grid()
+        axes[i].legend()
+
+    # Set common x-axis label
+    axes[-1].set_xlabel("Year")
+
+    # Adjust layout and save the plot
+    fig.tight_layout()
+    output_path = os.path.join(output_folder, f"sentiment_by_ticker_{keyword_flag}.png")
+    try:
+        plt.savefig(output_path, bbox_inches="tight")
+        plt.close()
+        logging.info(f"Saved sentiment trends by ticker plot at {output_path}.")
+    except Exception as e:
+        logging.error(f"Error saving sentiment trends by ticker plot: {e}")
 
 def perform_graphing():
-    data = load_data()
-    sentiment_trends = analyze_sentiment_trends(data)
-    plot_sentiment_trends(sentiment_trends)
-    plot_sentiment_trends_derivatives(sentiment_trends)
-    keyword_frequencies = calculate_keyword_frequencies(data)
-    plot_keyword_frequencies(keyword_frequencies)
+    """
+    Perform all graphing tasks including sentiment, stock prices, and climate disasters.
+    """
+    try:
+        plot_sentiment_and_stock_prices()
+        plot_sentiment_and_disasters()
+        # plot_sentiment_by_ticker()
+        logging.info("Graphing completed successfully.")
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")
 
 if __name__ == "__main__":
     perform_graphing()
