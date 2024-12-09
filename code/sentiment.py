@@ -5,7 +5,7 @@ from multiprocessing import Pool
 import pandas as pd
 import logging
 import spacy
-from config import keywords, transcript_folder, output_folder
+from config import keywords, transcript_folder, output_folder, keyword_flag
 
 analyzer = SentimentIntensityAnalyzer()
 nlp = spacy.load("en_core_web_sm")
@@ -45,12 +45,12 @@ def earnings_calls_split(file_name):
     year = quarter_year[2:]
     return ticker, quarter, int("20" + year)
 
+
 def analyze_pdf(file_path, file_type, ticker=None, quarter=None, year=None):
     """
     Analyze a single PDF file for sentiment and relevant sentences.
     """
     try:
-        logging.info(f"Processing file: {file_path}")
         reader = PdfReader(file_path)
         text = "".join([page.extract_text() for page in reader.pages])
         filtered_sentences = filter_sentences(text)
@@ -68,28 +68,11 @@ def analyze_pdf(file_path, file_type, ticker=None, quarter=None, year=None):
                 "year": year,
             })
         return results
-    
+
     except Exception as e:
         logging.error(f"Error processing file {file_path}: {e}")
         return []
 
-def aggregate_sentiment(data):
-    """
-    Aggregate sentiment data by ticker and year.
-    """
-    try:
-        logging.info("Aggregating sentiment data by ticker and year.")
-        data["compound_sentiment"] = data["sentiment"].apply(eval).apply(lambda x: x.get("compound"))
-        aggregated_data = data.groupby(["ticker", "year"]).agg({
-            "compound_sentiment": "mean"
-        }).reset_index().rename(columns={"year": "Year"})
-
-        output_path = os.path.join(output_folder, "aggregated_sentiment_data.csv")
-        aggregated_data.to_csv(output_path, index=False)
-        logging.info(f"Aggregated sentiment data saved to '{output_path}'.")
-    except Exception as e:
-        logging.error(f"Error aggregating sentiment data: {e}")
-        raise
 
 def process_sentiment():
     """
@@ -122,15 +105,51 @@ def process_sentiment():
 
     logging.info("Transcript analysis complete. All tickers processed.")
 
-    # Save results to the output folder
+    # Save raw results to the output folder
     if transcript_results:
-        transcript_output_path = os.path.join(output_folder, "insurance_transcripts.csv")
-        full_data = pd.DataFrame(transcript_results)
-        full_data.to_csv(transcript_output_path, index=False)
+        transcript_output_path = os.path.join(output_folder, f"insurance_transcripts_{keyword_flag}.csv")
+        pd.DataFrame(transcript_results).to_csv(transcript_output_path, index=False)
         logging.info(f"Transcript analysis saved to '{transcript_output_path}'.")
 
-        # Aggregate sentiment data
-        aggregate_sentiment(full_data)
+        # Aggregate sentiment by ticker and year
+        aggregated_sentiment = pd.DataFrame(transcript_results)
+        aggregated_sentiment["compound_sentiment"] = aggregated_sentiment["sentiment"].apply(lambda x: x["compound"])
+        aggregated_sentiment = aggregated_sentiment.groupby(["ticker", "year"]).agg({
+            "compound_sentiment": "mean"
+        }).reset_index().rename(columns={"year": "Year"})
+
+        # Generate a complete range of years for all tickers
+        all_years = pd.DataFrame({
+            "Year": range(aggregated_sentiment["Year"].min(), aggregated_sentiment["Year"].max() + 1)
+        })
+        unique_tickers = aggregated_sentiment["ticker"].unique()
+
+        # Cross join all years with all tickers to ensure a complete grid
+        complete_grid = pd.MultiIndex.from_product(
+            [unique_tickers, all_years["Year"]],
+            names=["ticker", "Year"]
+        ).to_frame(index=False)
+
+        # Merge the complete grid with the aggregated sentiment data
+        aggregated_sentiment = complete_grid.merge(
+            aggregated_sentiment,
+            on=["ticker", "Year"],
+            how="left"
+        )
+
+        # Fill missing sentiment scores with 0 or NaN
+        aggregated_sentiment["compound_sentiment"] = aggregated_sentiment["compound_sentiment"].fillna(0)
+
+        # Save aggregated sentiment data
+        aggregated_output_path = os.path.join(output_folder, f"aggregated_sentiment_data_{keyword_flag}.csv")
+        aggregated_sentiment.to_csv(aggregated_output_path, index=False)
+        logging.info(f"Aggregated sentiment data saved to '{aggregated_output_path}'.")
+
+        # Log debugging information
+        logging.info(f"Aggregated sentiment data shape: {aggregated_sentiment.shape}")
+        missing_years = set(all_years["Year"]) - set(aggregated_sentiment["Year"].unique())
+        if missing_years:
+            logging.warning(f"Missing years in sentiment data: {missing_years}")
     else:
         logging.warning("No transcript results to save.")
 

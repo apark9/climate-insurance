@@ -3,6 +3,7 @@ import seaborn as sns
 import pandas as pd
 import os
 import logging
+from config import keyword_flag
 
 # Ensure directories exist
 os.makedirs("output", exist_ok=True)
@@ -38,7 +39,7 @@ def load_disaster_data(file_path):
         }, inplace=True)
 
         # Save to output
-        aggregated_disasters.to_csv("output/aggregated_disaster_data.csv", index=False)
+        aggregated_disasters.to_csv(f"output/aggregated_disaster_data_{keyword_flag}.csv", index=False)
         logging.info("Disaster data successfully loaded, filtered, and saved.")
         return aggregated_disasters
 
@@ -63,7 +64,7 @@ def load_sentiment_data(file_path):
         }).reset_index().rename(columns={"year": "Year"})
 
         # Save to output
-        aggregated_sentiment.to_csv("output/aggregated_sentiment_data.csv", index=False)
+        aggregated_sentiment.to_csv(f"output/aggregated_sentiment_data_{keyword_flag}.csv", index=False)
         logging.info("Sentiment data successfully loaded, aggregated, and saved.")
         return aggregated_sentiment
 
@@ -80,7 +81,7 @@ def merge_and_save(sentiment_data, disaster_data):
         merged_data = pd.merge(sentiment_data, disaster_data, on="Year", how="inner")
 
         # Save merged data
-        merged_data.to_csv("output/merged_sentiment_disasters.csv", index=False)
+        merged_data.to_csv(f"output/merged_sentiment_disasters_{keyword_flag}.csv", index=False)
         logging.info("Merged data saved successfully.")
         return merged_data
 

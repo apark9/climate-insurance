@@ -1,6 +1,7 @@
 import pandas as pd
 import logging
 import os
+from config import keyword_flag
 
 # Ensure directories exist
 os.makedirs("output", exist_ok=True)
@@ -50,7 +51,7 @@ def load_share_price_data(file_path):
         ].mean(axis=1)
 
         # Save the processed data
-        output_path = "output/aggregated_share_price_data.csv"
+        output_path = f"output/aggregated_share_price_data_{keyword_flag}.csv"
         aggregated_share_prices.to_csv(output_path, index=False)
         logging.info(f"Share price data successfully processed and saved to {output_path}.")
         return aggregated_share_prices
