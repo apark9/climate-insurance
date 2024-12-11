@@ -9,13 +9,15 @@ interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
-keyword_flag = 'financial'
+keyword_flag = 'climate'
 
 if keyword_flag == 'financial':
     keywords = [
-    'claims cost', 'underwriting losses', 'reinsurance premiums', 'rate increases'
+    'catastrophe', 'underwriting losses', 'rate increases'
     ]
 elif keyword_flag == 'climate':
     keywords = [
     'climate change', 'natural disasters', 'extreme weather', 'hurricane', 'wildfire', 'earthquake', 'flood'
 ]
+
+shifted_flag = 'normal'

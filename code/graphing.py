@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 import logging
-from config import keywords, keyword_flag
+from config import keyword_flag, shifted_flag
 
 # Ensure output and plots directories exist
 os.makedirs("output", exist_ok=True)
@@ -23,7 +23,8 @@ def load_data(file_path):
 
 def preprocess_sentiment_data(sentiment_data):
     """
-    Preprocess sentiment data by averaging sentiment across all tickers for each year.
+    Preprocess sentiment data by averaging sentiment across all tickers for each year
+    and creating a new column for shifted sentiment scores.
     """
     try:
         # Group by year and calculate the average compound sentiment
@@ -32,6 +33,11 @@ def preprocess_sentiment_data(sentiment_data):
             .mean()
         )
         logging.info("Averaged sentiment data across all tickers by year.")
+
+        # Create a shifted column by moving the sentiment score to one year earlier
+        averaged_sentiment_data["shifted_compound_sentiment"] = averaged_sentiment_data["compound_sentiment"].shift(-1)
+        logging.info("Created shifted sentiment column.")
+
         return averaged_sentiment_data
     except Exception as e:
         logging.error(f"Error processing sentiment data: {e}")
@@ -117,8 +123,16 @@ def plot_sentiment_and_disasters(sentiment_data, disaster_data, output_folder="p
     # Create a plot with dual y-axes
     fig, ax1 = plt.subplots(figsize=(12, 8))
 
-    # Plot sentiment trends on the left y-axis
-    ax1.plot(
+    if shifted_flag == 'shifted':
+        ax1.plot(
+        merged_data["Year"],
+        merged_data["shifted_compound_sentiment"],
+        marker="o",
+        color="blue",
+        label="Average Sentiment Score"
+    )
+    else:
+        ax1.plot(
         merged_data["Year"],
         merged_data["compound_sentiment"],
         marker="o",
@@ -159,7 +173,7 @@ def plot_sentiment_and_disasters(sentiment_data, disaster_data, output_folder="p
     fig.tight_layout()
 
     # Save the plot
-    output_path = os.path.join(output_folder, f"sentiment_vs_disasters_{keyword_flag}.png")
+    output_path = os.path.join(output_folder, f"sentiment_vs_disasters_{keyword_flag}_{shifted_flag}.png")
     try:
         plt.savefig(output_path, bbox_inches="tight")
         plt.close()
@@ -182,6 +196,7 @@ def final_graph_corr(sentiment_data, disaster_data, financial_data, output_folde
 
     # Calculate correlation matrix
     correlation_matrix = merged_data[[
+        "shifted_compound_sentiment",
         "compound_sentiment",
         "Total_Damage_Adjusted",
         "Average_Share_Price"
@@ -205,8 +220,16 @@ def final_graph_corr(sentiment_data, disaster_data, financial_data, output_folde
     # Plot sentiment, damages, and stock prices with dual y-axes
     fig, ax1 = plt.subplots(figsize=(12, 8))
 
-    # Plot sentiment trends on the left y-axis
-    ax1.plot(
+    if shifted_flag == 'shifted':
+        ax1.plot(
+        merged_data["Year"],
+        merged_data["shifted_compound_sentiment"],
+        marker="o",
+        color="blue",
+        label="Average Sentiment Score"
+    )
+    else:
+        ax1.plot(
         merged_data["Year"],
         merged_data["compound_sentiment"],
         marker="o",
@@ -247,7 +270,7 @@ def final_graph_corr(sentiment_data, disaster_data, financial_data, output_folde
     fig.tight_layout()
 
     # Save the plot
-    plot_path = os.path.join(output_folder, f"final_graph_corr_{keyword_flag}.png")
+    plot_path = os.path.join(output_folder, f"final_graph_corr_{keyword_flag}_{shifted_flag}.png")
     try:
         plt.savefig(plot_path, bbox_inches="tight")
         plt.close()
