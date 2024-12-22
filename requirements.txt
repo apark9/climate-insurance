@@ -36,6 +36,7 @@ pydantic==1.9.2
 pyparsing==3.1.4
 pypdf==5.0.0
 PyPDF2==3.0.1
+pyphen==0.11.0
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.1
@@ -53,6 +54,7 @@ spacy==3.6.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
+textstat==0.7.4
 thinc==8.1.12
 threadpoolctl==3.1.0
 tokenizers==0.12.1

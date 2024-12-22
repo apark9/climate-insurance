@@ -4,7 +4,6 @@ import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
 
-# Configure logging
 logging.basicConfig(
     filename="main.log",
     filemode="w",
@@ -14,23 +13,23 @@ logging.basicConfig(
 
 if __name__ == "__main__":
     logging.info("Starting main process...")
-    # try:
-    #     sentiment.process_sentiment()
-    #     logging.info("Sentiment analysis completed successfully.")
-    # except Exception as e:
-    #     logging.error(f"Error in sentiment analysis: {e}")
+    try:
+        sentiment.process_sentiment()
+        logging.info("Sentiment analysis completed successfully.")
+    except Exception as e:
+        logging.error(f"Error in sentiment analysis: {e}")
 
-    # try:
-    #     climate.run_climate_analysis()
-    #     logging.info("Climate analysis completed successfully.")
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    try:
+        climate.run_climate_analysis()
+        logging.info("Climate analysis completed successfully.")
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")
 
-    # try:
-    #     financials.run_financial_analysis()
-    #     logging.info("Financial analysis completed.")
-    # except Exception as e:
-    #     logging.error(f"Error in financial analysis: {e}")
+    try:
+        financials.run_financial_analysis()
+        logging.info("Financial analysis completed.")
+    except Exception as e:
+        logging.error(f"Error in financial analysis: {e}")
 
     try:
         graphing.perform_graphing()
