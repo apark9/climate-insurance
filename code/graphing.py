@@ -9,9 +9,6 @@ os.makedirs("output", exist_ok=True)
 os.makedirs("plots", exist_ok=True)
 
 def load_data(file_path):
-    """
-    Load data from the CSV file.
-    """
     try:
         data = pd.read_csv(file_path)
         logging.info(f"Successfully loaded data from {file_path}.")
@@ -21,15 +18,23 @@ def load_data(file_path):
         raise
 
 def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
+    aggregated_data = merged_data.groupby("Year").agg({
+        "compound_sentiment": "mean",
+        "Average_Share_Price": "mean",
+        "S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)": "mean"
+    }).reset_index()
+
+    aggregated_data = aggregated_data.sort_values("Year")
+
     fig, ax1 = plt.subplots(figsize=(12, 8))
 
     ax1.plot(
-            merged_data["Year"],
-            merged_data["compound_sentiment"],
-            marker="o",
-            color="blue",
-            label="Average Sentiment Score"
-        )
+        aggregated_data["Year"],
+        aggregated_data["compound_sentiment"],
+        marker="o",
+        color="blue",
+        label="Average Sentiment Score (Primary)"
+    )
     ax1.set_xlabel("Year")
     ax1.set_ylabel("Sentiment Score", color="blue")
     ax1.tick_params(axis="y", labelcolor="blue")
@@ -37,19 +42,19 @@ def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
 
     ax2 = ax1.twinx()
     ax2.plot(
-        merged_data["Year"],
-        merged_data["Average_Share_Price"],
+        aggregated_data["Year"],
+        aggregated_data["Average_Share_Price"],
         marker="o",
         color="green",
-        label="Average Share Price"
+        label="Average Share Price (Secondary)"
     )
-    if "S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)" in merged_data:
+    if "S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)" in aggregated_data:
         ax2.plot(
-            merged_data["Year"],
-            merged_data["S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)"],
+            aggregated_data["Year"],
+            aggregated_data["S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)"],
             linestyle="--",
             color="orange",
-            label="S&P Insurance BMI (Benchmark)"
+            label="S&P Insurance BMI (Secondary)"
         )
     ax2.set_ylabel("Stock Prices", color="green")
     ax2.tick_params(axis="y", labelcolor="green")
@@ -58,26 +63,32 @@ def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
     lines2, labels2 = ax2.get_legend_handles_labels()
     ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
 
+    plt.xticks(aggregated_data["Year"], aggregated_data["Year"].astype(int), rotation=45)
+
     plt.title("Sentiment Trends and Stock Prices")
     fig.tight_layout()
-
     output_path = os.path.join(output_folder, f"sentiment_and_stock_prices_{keyword_flag}.png")
-    try:
-        plt.savefig(output_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved sentiment and stock prices plot at {output_path}.")
-    except Exception as e:
-        logging.error(f"Error saving sentiment and stock prices plot: {e}")
+    plt.savefig(output_path, bbox_inches="tight")
+    plt.close()
+    logging.info(f"Saved sentiment and stock prices plot at {output_path}.")
 
 def plot_sentiment_and_disasters(merged_data, output_folder="plots"):
-    
+    aggregated_data = merged_data.groupby("Year").agg({
+        "compound_sentiment": "mean",
+        "Disaster_Count": "mean",
+        "Total_Damage_Adjusted": "mean"
+    }).reset_index()
+
+    aggregated_data = aggregated_data.sort_values("Year")
+
     fig, ax1 = plt.subplots(figsize=(12, 8))
+
     ax1.plot(
-        merged_data["Year"],
-        merged_data["compound_sentiment"],
+        aggregated_data["Year"],
+        aggregated_data["compound_sentiment"],
         marker="o",
         color="blue",
-        label="Average Sentiment Score"
+        label="Average Sentiment Score (Primary)"
     )
     ax1.set_xlabel("Year")
     ax1.set_ylabel("Sentiment Score", color="blue")
@@ -86,19 +97,19 @@ def plot_sentiment_and_disasters(merged_data, output_folder="plots"):
 
     ax2 = ax1.twinx()
     ax2.bar(
-        merged_data["Year"],
-        merged_data["Disaster_Count"],
+        aggregated_data["Year"],
+        aggregated_data["Disaster_Count"],
         alpha=0.5,
         color="orange",
-        label="Number of Disasters"
+        label="Number of Disasters (Secondary)"
     )
     ax2.plot(
-        merged_data["Year"],
-        merged_data["Total_Damage_Adjusted"] / 1e6,
+        aggregated_data["Year"],
+        aggregated_data["Total_Damage_Adjusted"] / 1e6,
         marker="x",
         color="red",
         linestyle="--",
-        label="Total Damage (Millions)"
+        label="Total Damage (Millions, Secondary)"
     )
     ax2.set_ylabel("Disasters / Damage (Millions USD)", color="orange")
     ax2.tick_params(axis="y", labelcolor="orange")
@@ -107,94 +118,19 @@ def plot_sentiment_and_disasters(merged_data, output_folder="plots"):
     lines2, labels2 = ax2.get_legend_handles_labels()
     ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
 
+    plt.xticks(aggregated_data["Year"], aggregated_data["Year"].astype(int), rotation=45)
+
     plt.title("Sentiment Trends and Climate Disasters")
     fig.tight_layout()
-
     output_path = os.path.join(output_folder, f"sentiment_vs_disasters_{keyword_flag}.png")
-    try:
-        plt.savefig(output_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved sentiment vs disasters plot at {output_path}.")
-    except Exception as e:
-        logging.error(f"Error saving sentiment vs disasters plot: {e}")
-
-def final_graph_corr(merged_data, output_folder="plots"):
-    """
-    Calculate and plot correlations between sentiment score, total damages, and stock prices.
-    """
-    os.makedirs(output_folder, exist_ok=True)
-    correlation_matrix = merged_data[[
-        "compound_sentiment",
-        "Total_Damage_Adjusted",
-        "Average_Share_Price"
-    ]].corr()
-
-    plt.figure(figsize=(8, 6))
-    sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
-    plt.title("Correlation Matrix: Sentiment, Total Damages, and Stock Prices")
-    plt.tight_layout()
-
-    heatmap_path = os.path.join(output_folder, f"correlation_heatmap_{keyword_flag}.png")
-    try:
-        plt.savefig(heatmap_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved correlation heatmap at {heatmap_path}.")
-    except Exception as e:
-        logging.error(f"Error saving correlation heatmap: {e}")
-
-    fig, ax1 = plt.subplots(figsize=(12, 8))
-
-    ax1.plot(
-        merged_data["Year"],
-        merged_data["compound_sentiment"],
-        marker="o",
-        color="blue",
-        label="Average Sentiment Score"
-    )
-    ax1.set_xlabel("Year")
-    ax1.set_ylabel("Sentiment Score", color="blue")
-    ax1.tick_params(axis="y", labelcolor="blue")
-    ax1.grid()
-
-    ax2 = ax1.twinx()
-    ax2.plot(
-        merged_data["Year"],
-        merged_data["Total_Damage_Adjusted"] / 1e6,
-        marker="x",
-        linestyle="--",
-        color="red",
-        label="Total Damage (Millions)"
-    )
-    ax2.plot(
-        merged_data["Year"],
-        merged_data["Average_Share_Price"],
-        marker="o",
-        color="green",
-        label="Average Share Price"
-    )
-    ax2.set_ylabel("Damages (Millions USD) / Stock Prices", color="orange")
-    ax2.tick_params(axis="y", labelcolor="orange")
-
-    lines1, labels1 = ax1.get_legend_handles_labels()
-    lines2, labels2 = ax2.get_legend_handles_labels()
-    ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
-
-    plt.title("Sentiment, Total Damages, and Stock Prices")
-    fig.tight_layout()
-
-    plot_path = os.path.join(output_folder, f"final_graph_corr_{keyword_flag}.png")
-    try:
-        plt.savefig(plot_path, bbox_inches="tight")
-        plt.close()
-        logging.info(f"Saved sentiment, damages, and stock prices plot at {plot_path}.")
-    except Exception as e:
-        logging.error(f"Error saving sentiment, damages, and stock prices plot: {e}")
+    plt.savefig(output_path, bbox_inches="tight")
+    plt.close()
+    logging.info(f"Saved sentiment vs disasters plot at {output_path}.")
 
 def plot_language_complexity(merged_data, output_folder="plots"):
     try:
         logging.info(f"Data columns in plot_language_complexity: {merged_data.columns}")
 
-        # Aggregate metrics by year
         aggregated_data = merged_data.groupby("Year").agg({
             "flesch_reading_ease": "mean",
             "gunning_fog_index": "mean",
@@ -202,27 +138,56 @@ def plot_language_complexity(merged_data, output_folder="plots"):
             "lexical_density": "mean"
         }).reset_index()
 
-        # Set up the plot
-        plt.figure(figsize=(12, 8))
-        metrics = ["flesch_reading_ease", "gunning_fog_index", "smog_index", "lexical_density"]
-        
-        for metric in metrics:
-            plt.plot(
-                aggregated_data["Year"], 
-                aggregated_data[metric], 
-                marker="o", 
-                label=metric.replace("_", " ").title()
-            )
-        
-        # Customize the plot
+        fig, ax1 = plt.subplots(figsize=(12, 8))
+
+        ax1.plot(
+            aggregated_data["Year"], 
+            aggregated_data["flesch_reading_ease"], 
+            marker="o", 
+            label="Flesch Reading Ease (Primary)", 
+            color="blue"
+        )
+        ax1.plot(
+            aggregated_data["Year"], 
+            aggregated_data["gunning_fog_index"], 
+            marker="o", 
+            label="Gunning Fog Index (Primary)", 
+            color="orange"
+        )
+        ax1.set_xlabel("Year")
+        ax1.set_ylabel("Primary Metrics", color="black")
+        ax1.tick_params(axis="y", labelcolor="black")
+        ax1.grid()
+
+        ax2 = ax1.twinx()
+        ax2.plot(
+            aggregated_data["Year"], 
+            aggregated_data["smog_index"], 
+            marker="x", 
+            linestyle="--", 
+            label="SMOG Index (Secondary)", 
+            color="green"
+        )
+        ax2.plot(
+            aggregated_data["Year"], 
+            aggregated_data["lexical_density"], 
+            marker="s", 
+            linestyle="-.", 
+            label="Lexical Density (Secondary)", 
+            color="red"
+        )
+        ax2.set_ylabel("Secondary Metrics", color="black")
+        ax2.tick_params(axis="y", labelcolor="black")
+
+        lines1, labels1 = ax1.get_legend_handles_labels()
+        lines2, labels2 = ax2.get_legend_handles_labels()
+        ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper center", bbox_to_anchor=(0.5, -0.1), ncol=2)
+
+        plt.xticks(aggregated_data["Year"], aggregated_data["Year"].astype(int), rotation=45)
+
         plt.title("Language Complexity Metrics Over Time")
-        plt.xlabel("Year")
-        plt.ylabel("Average Metric Value")
-        plt.legend()
-        plt.grid()
         plt.tight_layout()
 
-        # Save the plot
         output_path = os.path.join(output_folder, f"language_complexity_{keyword_flag}.png")
         plt.savefig(output_path, bbox_inches="tight")
         plt.close()
@@ -231,9 +196,6 @@ def plot_language_complexity(merged_data, output_folder="plots"):
         logging.error(f"Error plotting language complexity: {e}")
 
 def perform_graphing():
-    """
-    Perform all graphing tasks including sentiment, stock prices, and climate disasters.
-    """
     sentiment_file = f"output/aggregated_sentiment_data_{keyword_flag}.csv"
     disaster_file = f"output/aggregated_disaster_data_{keyword_flag}.csv"
     financial_file = f"output/aggregated_share_price_data_{keyword_flag}.csv"
@@ -242,19 +204,13 @@ def perform_graphing():
     disaster_data = load_data(disaster_file)
     financial_data = load_data(financial_file)
 
-    # Merge sentiment, disaster, and financial data
     merged_data = pd.merge(sentiment_data, disaster_data, on="Year", how="inner")
     merged_data = pd.merge(merged_data, financial_data, on="Year", how="inner")
 
     try:
-        # Plot using merged data
         plot_sentiment_and_stock_prices(merged_data)
         plot_sentiment_and_disasters(merged_data)
-        final_graph_corr(merged_data)
-
-        # Pass sentiment_data directly for language complexity plotting
         plot_language_complexity(sentiment_data)
-        
         logging.info("Graphing completed successfully.")
     except Exception as e:
         logging.error(f"Error in graphing: {e}")

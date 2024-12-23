@@ -25,7 +25,6 @@ def filter_sentences(text):
 
     return relevant_sentence_pairs
 
-
 def earnings_calls_split(file_name):
     parts = file_name.split('_')
     ticker = parts[0]
@@ -33,7 +32,6 @@ def earnings_calls_split(file_name):
     quarter = quarter_year[:2]
     year = quarter_year[2:]
     return ticker, quarter, int("20" + year)
-
 
 def calculate_complexity_metrics(sentence):
     return {
@@ -98,14 +96,8 @@ def process_sentiment():
     logging.info("Transcript analysis complete. All tickers processed.")
 
     if transcript_results:
-        # Create a DataFrame from the processed results
         complexity_data = pd.DataFrame(transcript_results)
-
-        # Extract compound sentiment and ensure consistency
         complexity_data["compound_sentiment"] = complexity_data["sentiment"].apply(lambda x: x["compound"])
-        logging.debug(f"Sample complexity_data before aggregation:\n{complexity_data.head()}")
-
-        # Ensure no missing values in complexity metrics
         complexity_data.fillna({
             "flesch_reading_ease": 0,
             "gunning_fog_index": 0,
@@ -113,13 +105,11 @@ def process_sentiment():
             "lexical_density": 0
         }, inplace=True)
 
-        # Save complexity data separately for debugging or review
         complexity_output_path = os.path.join(output_folder, f"complexity_sentiment_data_{keyword_flag}.csv")
         logging.info(f"Saving complexity data to {complexity_output_path}")
         complexity_data.to_csv(complexity_output_path, index=False)
         logging.info(f"Complexity data saved to {complexity_output_path}")
 
-        # Perform aggregation
         aggregated_sentiment = complexity_data.groupby(["ticker", "year"]).agg({
             "compound_sentiment": "mean",
             "flesch_reading_ease": "mean",
@@ -128,9 +118,6 @@ def process_sentiment():
             "lexical_density": "mean"
         }).reset_index().rename(columns={"year": "Year"})
 
-        logging.debug(f"Aggregated Data Sample:\n{aggregated_sentiment.head()}")
-
-        # Save aggregated data
         aggregated_output_path = os.path.join(output_folder, f"aggregated_sentiment_data_{keyword_flag}.csv")
         aggregated_sentiment.to_csv(aggregated_output_path, index=False)
         logging.info(f"Aggregated sentiment and complexity data saved to '{aggregated_output_path}'.")

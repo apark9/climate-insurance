@@ -15,11 +15,14 @@ keyword_flag = 'financial'
 
 if keyword_flag == 'financial':
     keywords = [
-    'catastrophe', 'underwriting losses', 'rate increases', 'premium increases'
+        'catastrophe', 'underwriting losses', 'rate increases', 'premium increases',
+        'reinsurance', 'claims reserves', 'risk modeling', 'loss ratios',
+        'carbon pricing', 'sustainability initiatives', 'ESG investing'
     ]
 elif keyword_flag == 'climate':
     keywords = [
-    'climate change', 'natural disasters', 'extreme weather', 'hurricane', 'wildfire', 'earthquake', 'flood'
-]
-
-shifted_flag = 'shifted'
+        'climate change', 'natural disasters', 'extreme weather', 'hurricane',
+        'wildfire', 'earthquake', 'flood', 'coastal flooding', 'sea level rise',
+        'drought', 'adaptation strategies', 'climate resilience', 'GHG emissions',
+        'green energy transition', 'net zero commitments'
+    ]
