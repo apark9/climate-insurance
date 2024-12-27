@@ -3,7 +3,6 @@ import code.sentiment as sentiment
 import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
-import code.models as models
 
 logging.basicConfig(
     filename="main.log",
@@ -28,7 +27,7 @@ if __name__ == "__main__":
 
     try:
         # financials.run_financial_analysis()
-        models.run_models()
+        financials.run_models()
         logging.info("Financial analysis completed.")
     except Exception as e:
         logging.error(f"Error in financial analysis: {e}")
