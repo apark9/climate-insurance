@@ -2,31 +2,23 @@ import pandas as pd
 from datetime import datetime
 import logging
 import os
-from config import keyword_flag
 
 os.makedirs("output", exist_ok=True)
 
-# Common Key Line Items
+# Common and company-specific key line items
 key_line_items_common = [
-    # Climate Risk Indicators
     "Total Loss and LAE, mm",
     "Reserve Ratio, %",
     "Solvency Ratio, %",
-
-    # Mitigation Efforts
     "Effective Interest Rate on Debt, %",
     "Deferred Acquisition Costs",
     "Payables for reinsurance premiums",
     "Total Deferred Acquisition Costs, mm",
-
-    # Geographic Exposure
     "Total Gross Written Premiums, mm",
     "Total Net Written Premiums, mm",
     "Net Earned Premiums",
     "Net Investment Income",
     "Net Investment Gains",
-
-    # Additional Key Metrics
     "Book Value per Common Share",
     "Consensus Estimates - Book Value per Common Share",
     "Return on Average Common Equity, %",
@@ -34,9 +26,7 @@ key_line_items_common = [
     "Consensus Estimates - Net Revenue"
 ]
 
-# Updated Key Line Items for Each Company Including Common Items
 key_line_items_afg = key_line_items_common + [
-    # Specific to AFG
     "Property and transportation loss and LAE catastrophe losses, mm",
     "Specialty casualty loss and LAE catastrophe losses, mm",
     "Specialty financial loss and LAE catastrophe losses, mm",
@@ -45,15 +35,14 @@ key_line_items_afg = key_line_items_common + [
 ]
 
 key_line_items_trv = key_line_items_common + [
-    # Specific to TRV
     "Business Insurance - Catastrophes, net of reinsurance, mm",
     "Bond & Specialty Insurance - Catastrophes, net of reinsurance, mm",
     "Personal Insurance - Catastrophes, net of reinsurance, mm",
-    "Catastrophes, net of reinsurance, %"
+    "Catastrophes, net of reinsurance, %",
+    "Reinsurance premium costs, mm"
 ]
 
 key_line_items_afl = key_line_items_common + [
-    # Specific to AFL
     "Aflac Japan - Benefits and claims, mm",
     "Aflac U.S - Benefits and claims, mm",
     "Corporate and Other - Benefits and claims, mm",
@@ -61,18 +50,24 @@ key_line_items_afl = key_line_items_common + [
 ]
 
 key_line_items_pgr = key_line_items_common + [
-    # Specific to PGR
     "Y/Y Total Loss and LAE growth, %",
     "Total Underwriting Expense, mm",
     "Underwriting Margin, %"
 ]
 
 key_line_items_all = key_line_items_common + [
-    # Specific to ALL
     "Allstate Protection - Auto - Effect of catastrophe losses, mm",
     "Gross Loss Reserves, mm",
     "Loss Payout Ratio, %"
 ]
+
+company_key_line_items = {
+    "AFG": key_line_items_afg,
+    "TRV": key_line_items_trv,
+    "AFL": key_line_items_afl,
+    "PGR": key_line_items_pgr,
+    "ALL": key_line_items_all,
+}
 
 def format_row_4_as_dates(header):
     try:
@@ -80,13 +75,12 @@ def format_row_4_as_dates(header):
 
         def parse_date(value):
             try:
-                return datetime.strptime(value.split()[0], '%m/%d/%Y').strftime('%Y-%m-%d')
+                return datetime.strptime(value.split()[0], '%Y-%m-%d').strftime('%Y-%m-%d')
             except ValueError:
                 return value
 
         formatted_dates = row_4.apply(parse_date)
-        header = header.copy()
-        header.iloc[3, :] = formatted_dates
+        header.iloc[3, :] = formatted_dates  # Overwrite the 4th row with formatted dates
     except Exception as e:
         print(f"ERROR - Error formatting row 4: {e}")
     return header
@@ -96,70 +90,50 @@ def filter_and_export(file_path, key_items, output_path):
         # Load the Excel file
         df = pd.read_excel(file_path, sheet_name='Model', header=None, engine='openpyxl')
 
-        # Extract the header (e.g., row with dates or other details)
-        header = df.iloc[:4, :].copy()  # Assume the first 4 rows contain the header
-        header = format_row_4_as_dates(header)  # Format row 4 dates
-        data = df.iloc[4:, :].copy()    # Remaining rows contain the data
+        # Extract the header and data
+        header = df.iloc[:4, :].copy()
+        header = format_row_4_as_dates(header)  # Ensure the dates are formatted
+        data = df.iloc[4:, :].copy()
 
-        # Filter rows where the first column matches the key items
+        # Filter rows by key line items
         filtered_data = data[data.iloc[:, 0].isin(key_items)]
 
-        # Reattach the header
+        # Reattach the header and filtered data
         filtered_df = pd.concat([header, filtered_data], ignore_index=True)
 
-        # Ensure the output directory exists
+        # Save to output
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-
-        # Export to a new Excel file
         filtered_df.to_excel(output_path, index=False, header=False, engine='openpyxl')
     except Exception as e:
         print(f"ERROR - Error in financial analysis: {e}")
 
-def extract_headers(output_folder):
+def compiled(output_folder, compiled_file_path):
     try:
-        # Get all Excel files in the output folder
+        # Get all Excel files from the output folder
         excel_files = [file for file in os.listdir(output_folder) if file.endswith('.xlsx')]
 
-        # Dictionary to store headers from each file
-        headers = {}
-
-        # Loop through each Excel file and extract headers
-        for file in excel_files:
-            file_path = os.path.join(output_folder, file)
-            df = pd.read_excel(file_path, sheet_name='Sheet1', header=None, engine='openpyxl')
-
-            # Extract headers as columns (first column of the file)
-            headers[file] = df.iloc[:, 0].copy()
-
-        return headers
-    except Exception as e:
-        print(f"ERROR - Error extracting headers: {e}")
-        return {}
-
-def create_comparison_file(output_folder, comparison_file_path):
-    try:
-        # Load all filtered Excel files
-        excel_files = [file for file in os.listdir(output_folder) if file.endswith('.xlsx')]
-
-        comparison_data = []
+        compiled_data = []
 
         for file in excel_files:
             file_path = os.path.join(output_folder, file)
             df = pd.read_excel(file_path, sheet_name='Sheet1', header=None, engine='openpyxl')
 
-            # Filter rows for common key line items
-            common_data = df[df.iloc[:, 0].isin(key_line_items_common)]
-            common_data.insert(0, 'Company', file.replace('.xlsx', ''))  # Add company name as the first column
-            comparison_data.append(common_data)
+            # Add the company name as the first column
+            company_name = file.replace('.xlsx', '')
+            df.insert(0, 'Company', company_name)
+
+            # Append to the compiled data list
+            compiled_data.append(df)
 
         # Combine all data into a single DataFrame
-        combined_df = pd.concat(comparison_data, ignore_index=True)
+        combined_df = pd.concat(compiled_data, ignore_index=True)
 
-        # Export to a comparison Excel file
-        combined_df.to_excel(comparison_file_path, index=False, header=False, engine='openpyxl')
-        print(f"Comparison file created at: {comparison_file_path}")
+        # Export the combined DataFrame to a single Excel file
+        combined_df.to_excel(compiled_file_path, index=False, header=False, engine='openpyxl')
+        print(f"Compiled companies file successfully created at: {compiled_file_path}")
+
     except Exception as e:
-        print(f"ERROR - Error creating comparison file: {e}")
+        print(f"ERROR - Error compiling climate risks data: {e}")
 
 def load_share_price_data(file_path):
     try:
@@ -190,15 +164,15 @@ def load_share_price_data(file_path):
             'S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)': 'mean'
         }).reset_index()
 
-        aggregated_share_prices['Average_Share_Price'] = aggregated_share_prices[
-            ['PGR-Share Price (Daily)(%)', 'AFG-Share Price (Daily)(%)',
-             'ALL-Share Price (Daily)(%)', 'AFL-Share Price (Daily)(%)',
-             'TRV-Share Price (Daily)(%)']
-        ].mean(axis=1)
+        aggregated_share_prices['Average_Share_Price'] = aggregated_share_prices[[
+            'PGR-Share Price (Daily)(%)', 'AFG-Share Price (Daily)(%)',
+            'ALL-Share Price (Daily)(%)', 'AFL-Share Price (Daily)(%)',
+            'TRV-Share Price (Daily)(%)'
+        ]].mean(axis=1)
 
-        output_path = f"output/aggregated_share_price_data_{keyword_flag}.csv"
+        output_path = "output/aggregated_share_price_data.csv"
         aggregated_share_prices.to_csv(output_path, index=False)
-        logging.info(f"Share price data successfully processed and saved to {output_path}.")
+        logging.info(f"Share price data saved to {output_path}.")
         return aggregated_share_prices
     except Exception as e:
         logging.error(f"Error processing share price data: {e}")
@@ -215,7 +189,6 @@ def run_financial_analysis():
         raise
 
 def run_models():
-    # File paths for the input Excel files with full descriptive names
     file_paths = {
         "AFG": "data/Financial_Models/American Financial Group AFG US.xlsx",
         "TRV": "data/Financial_Models/The Travelers Companies TRV US.xlsx",
@@ -224,7 +197,6 @@ def run_models():
         "ALL": "data/Financial_Models/The Allstate Corporation ALL US.xlsx"
     }
 
-    # Corresponding output paths in the "output" folder
     output_paths = {
         "AFG": "output/American_Financial_Group_AFG_US.xlsx",
         "TRV": "output/The_Travelers_Companies_TRV_US.xlsx",
@@ -240,8 +212,9 @@ def run_models():
     filter_and_export(file_paths["PGR"], key_line_items_pgr, output_paths["PGR"])
     filter_and_export(file_paths["ALL"], key_line_items_all, output_paths["ALL"])
 
-    # Create comparison file for common key line items
-    create_comparison_file("output", "output/comparison_file.xlsx")
+    # Compile climate risks data
+    compiled_file_path = "output/compiled_companies.xlsx"
+    compiled("output", compiled_file_path)
 
 if __name__ == "__main__":
     run_financial_analysis()
