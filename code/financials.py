@@ -5,7 +5,6 @@ import os
 
 os.makedirs("output", exist_ok=True)
 
-# Common and company-specific key line items
 key_line_items_common = [
     "Total Loss and LAE, mm",
     "Reserve Ratio, %",
@@ -80,28 +79,19 @@ def format_row_4_as_dates(header):
                 return value
 
         formatted_dates = row_4.apply(parse_date)
-        header.iloc[3, :] = formatted_dates  # Overwrite the 4th row with formatted dates
+        header.iloc[3, :] = formatted_dates
     except Exception as e:
         print(f"ERROR - Error formatting row 4: {e}")
     return header
 
 def filter_and_export(file_path, key_items, output_path):
     try:
-        # Load the Excel file
         df = pd.read_excel(file_path, sheet_name='Model', header=None, engine='openpyxl')
-
-        # Extract the header and data
         header = df.iloc[:4, :].copy()
-        header = format_row_4_as_dates(header)  # Ensure the dates are formatted
+        header = format_row_4_as_dates(header)
         data = df.iloc[4:, :].copy()
-
-        # Filter rows by key line items
         filtered_data = data[data.iloc[:, 0].isin(key_items)]
-
-        # Reattach the header and filtered data
         filtered_df = pd.concat([header, filtered_data], ignore_index=True)
-
-        # Save to output
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         filtered_df.to_excel(output_path, index=False, header=False, engine='openpyxl')
     except Exception as e:
@@ -109,40 +99,26 @@ def filter_and_export(file_path, key_items, output_path):
 
 def compiled(output_folder, compiled_file_path):
     try:
-        # Get all Excel files from the output folder
-        excel_files = [file for file in os.listdir(output_folder) if file.endswith('.xlsx')]
-
+        excel_files = [file for file in os.listdir(output_folder) if file.endswith('Filtered.xlsx')]
         compiled_data = []
-
         for file in excel_files:
             file_path = os.path.join(output_folder, file)
             df = pd.read_excel(file_path, sheet_name='Sheet1', header=None, engine='openpyxl')
-
-            # Add the company name as the first column
-            company_name = file.replace('.xlsx', '')
+            company_name = file.replace('.xlsx', '').replace(' Filtered', '')
             df.insert(0, 'Company', company_name)
-
-            # Append to the compiled data list
             compiled_data.append(df)
-
-        # Combine all data into a single DataFrame
         combined_df = pd.concat(compiled_data, ignore_index=True)
-
-        # Export the combined DataFrame to a single Excel file
+        combined_df = combined_df.dropna(how='all', subset=combined_df.columns[2:])
         combined_df.to_excel(compiled_file_path, index=False, header=False, engine='openpyxl')
         print(f"Compiled companies file successfully created at: {compiled_file_path}")
-
     except Exception as e:
         print(f"ERROR - Error compiling climate risks data: {e}")
 
 def load_share_price_data(file_path):
     try:
-        logging.info("Loading share price data.")
         share_price_data = pd.read_csv(file_path)
-
         share_price_data['Pricing Date'] = pd.to_datetime(share_price_data['Pricing Date'])
         share_price_data['Year'] = share_price_data['Pricing Date'].dt.year
-
         price_columns = [
             'PGR-Share Price (Daily)(%)',
             'AFG-Share Price (Daily)(%)',
@@ -151,10 +127,8 @@ def load_share_price_data(file_path):
             'TRV-Share Price (Daily)(%)',
             'S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)'
         ]
-
         for col in price_columns:
             share_price_data[col] = pd.to_numeric(share_price_data[col], errors='coerce')
-
         aggregated_share_prices = share_price_data.groupby('Year').agg({
             'PGR-Share Price (Daily)(%)': 'mean',
             'AFG-Share Price (Daily)(%)': 'mean',
@@ -163,13 +137,11 @@ def load_share_price_data(file_path):
             'TRV-Share Price (Daily)(%)': 'mean',
             'S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)': 'mean'
         }).reset_index()
-
-        aggregated_share_prices['Average_Share_Price'] = aggregated_share_prices[[
-            'PGR-Share Price (Daily)(%)', 'AFG-Share Price (Daily)(%)',
-            'ALL-Share Price (Daily)(%)', 'AFL-Share Price (Daily)(%)',
-            'TRV-Share Price (Daily)(%)'
-        ]].mean(axis=1)
-
+        aggregated_share_prices['Average_Share_Price'] = aggregated_share_prices[
+            ['PGR-Share Price (Daily)(%)', 'AFG-Share Price (Daily)(%)',
+             'ALL-Share Price (Daily)(%)', 'AFL-Share Price (Daily)(%)',
+             'TRV-Share Price (Daily)(%)']
+        ].mean(axis=1)
         output_path = "output/aggregated_share_price_data.csv"
         aggregated_share_prices.to_csv(output_path, index=False)
         logging.info(f"Share price data saved to {output_path}.")
@@ -196,25 +168,11 @@ def run_models():
         "PGR": "data/Financial_Models/The Progressive Corporation PGR US.xlsx",
         "ALL": "data/Financial_Models/The Allstate Corporation ALL US.xlsx"
     }
-
-    output_paths = {
-        "AFG": "output/American_Financial_Group_AFG_US.xlsx",
-        "TRV": "output/The_Travelers_Companies_TRV_US.xlsx",
-        "AFL": "output/Aflac_AFL_US.xlsx",
-        "PGR": "output/The_Progressive_Corporation_PGR_US.xlsx",
-        "ALL": "output/The_Allstate_Corporation_ALL_US.xlsx"
-    }
-
-    # Filter and export individual company data
-    filter_and_export(file_paths["AFG"], key_line_items_afg, output_paths["AFG"])
-    filter_and_export(file_paths["TRV"], key_line_items_trv, output_paths["TRV"])
-    filter_and_export(file_paths["AFL"], key_line_items_afl, output_paths["AFL"])
-    filter_and_export(file_paths["PGR"], key_line_items_pgr, output_paths["PGR"])
-    filter_and_export(file_paths["ALL"], key_line_items_all, output_paths["ALL"])
-
-    # Compile climate risks data
+    for company, file_path in file_paths.items():
+        output_path = f"data/Financial_Models/{company} Filtered.xlsx"
+        filter_and_export(file_path, company_key_line_items[company], output_path)
     compiled_file_path = "output/compiled_companies.xlsx"
-    compiled("output", compiled_file_path)
+    compiled("data/Financial_Models", compiled_file_path)
 
 if __name__ == "__main__":
     run_financial_analysis()
