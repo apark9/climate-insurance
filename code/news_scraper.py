@@ -4,6 +4,7 @@ import time
 import logging
 from datetime import datetime
 from calendar import month_name
+from config import API_KEY, CX
 import os
 
 def setup_logging(log_file):
@@ -30,8 +31,6 @@ general_keywords = [
     '"insurance climate exit"'
 ]
 
-API_KEY = "AIzaSyAT9oXOGzyP1B0Gec_OhbwwtO2AUY6p1E8"
-CX = "c70ecdcc4723d40f0"
 REQUEST_DELAY = 2
 
 def search_google(query, num_results=10):

@@ -26,3 +26,6 @@ elif keyword_flag == 'climate':
         'drought', 'adaptation strategies', 'climate resilience', 'GHG emissions',
         'green energy transition', 'net zero commitments'
     ]
+
+API_KEY = "AIzaSyAT9oXOGzyP1B0Gec_OhbwwtO2AUY6p1E8"
+CX = "c70ecdcc4723d40f0"
