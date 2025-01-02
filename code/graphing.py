@@ -198,7 +198,7 @@ def plot_language_complexity(merged_data, output_folder="plots"):
 def perform_graphing():
     sentiment_file = f"output/aggregated_transcript_analysis_results_{keyword_flag}.csv"
     disaster_file = f"output/aggregated_disaster_data_{keyword_flag}.csv"
-    financial_file = f"output/aggregated_share_price_data_{keyword_flag}.csv"
+    financial_file = f"output/aggregated_share_price_data.csv"
 
     sentiment_data = load_data(sentiment_file)
     disaster_data = load_data(disaster_file)

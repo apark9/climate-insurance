@@ -92,7 +92,7 @@ def analyze_transcripts():
 
     if all_results:
         combined_df = pd.DataFrame(all_results)
-        output_file = os.path.join(output_folder, "transcript_analysis_results.csv")
+        output_file = os.path.join(output_folder, f"transcript_analysis_results_{keyword_flag}.csv")
         combined_df.to_csv(output_file, index=False, escapechar="\\")
         logging.info(f"Transcript analysis results saved to {output_file}")
 
@@ -104,7 +104,7 @@ def analyze_transcripts():
             "sentiment": lambda x: pd.Series([s["compound"] for s in x]).mean(),
         }).reset_index()
 
-        aggregated_output_path = os.path.join(output_folder, "aggregated_transcript_analysis_results.csv")
+        aggregated_output_path = os.path.join(output_folder, f"aggregated_transcript_analysis_results_{keyword_flag}.csv")
         aggregated_output.to_csv(aggregated_output_path, index=False)
         logging.info(f"Aggregated transcript analysis results saved to {aggregated_output_path}")
     else:
