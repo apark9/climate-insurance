@@ -1,41 +1,56 @@
 import logging
+import time
+import os
 import code.sentiment as sentiment
 import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
+import code.news_scraper as news
+import os
 
-logging.basicConfig(
-    filename="main.log",
-    filemode="w",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
-)
+def setup_logging(job_name="main"):
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+    log_file = f"logs/{job_name}_{timestamp}.log"
+    logging.basicConfig(
+        filename=log_file,
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+        filemode="w"
+    )
+    os.makedirs("logs", exist_ok=True)  # Ensure the logs folder exists
+    logging.info(f"Log setup complete for {job_name}")
 
 if __name__ == "__main__":
-    # logging.info("Starting main process...")
-    # try:
-    #     sentiment.process_sentiment()
-    #     logging.info("Sentiment analysis completed successfully.")
-    # except Exception as e:
-    #     logging.error(f"Error in sentiment analysis: {e}")
 
     # try:
-    #     climate.run_climate_analysis()
-    #     logging.info("Climate analysis completed successfully.")
+    #     setup_logging("news")
+    #     news.collect_news()
+    #     news.run_past_months()
     # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    #     logging.error(f"Error in news scrape: {e}")
 
     try:
-        # financials.run_financial_analysis()
+        setup_logging("sentiment")
+        # sentiment.analyze_news()
+        sentiment.analyze_transcripts()
+    except Exception as e:
+        logging.error(f"Error in sentiment analysis: {e}")
+
+    try:
+        setup_logging("climate")
+        climate.run_climate_analysis()
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")
+
+    try:
+        setup_logging("financials")
+        financials.run_financial_analysis()
         financials.run_models()
-        logging.info("Financial analysis completed.")
     except Exception as e:
         logging.error(f"Error in financial analysis: {e}")
 
-    # try:
-    #     graphing.perform_graphing()
-    #     logging.info("Graphing completed successfully.")
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
-
-    logging.info("All processes completed.")
+    try:
+        setup_logging("graphing")
+        graphing.perform_graphing()
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")

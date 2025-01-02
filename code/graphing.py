@@ -196,7 +196,7 @@ def plot_language_complexity(merged_data, output_folder="plots"):
         logging.error(f"Error plotting language complexity: {e}")
 
 def perform_graphing():
-    sentiment_file = f"output/aggregated_sentiment_data_{keyword_flag}.csv"
+    sentiment_file = f"output/aggregated_transcript_analysis_results_{keyword_flag}.csv"
     disaster_file = f"output/aggregated_disaster_data_{keyword_flag}.csv"
     financial_file = f"output/aggregated_share_price_data_{keyword_flag}.csv"
 

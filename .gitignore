@@ -1,5 +1,6 @@
 *.log
 
 /myenv/
+/config.py/
 
 public_emdat.csv.xlsx

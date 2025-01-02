@@ -3,24 +3,21 @@ from PyPDF2 import PdfReader
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from multiprocessing import Pool
 from textstat import textstat
+from config import keyword_flag
 import pandas as pd
 import logging
 import spacy
 
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
+
 analyzer = SentimentIntensityAnalyzer()
 nlp = spacy.load("en_core_web_sm")
 
-logging.basicConfig(
-    filename="sentiment_analysis.log",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    filemode="w"
-)
-
-transcript_folder = "input/transcripts"
+transcript_folder = "data/transcripts"
 news_folder = "output/news"
-processed_folder = "output/processed"
-os.makedirs(processed_folder, exist_ok=True)
+output_folder = "output"
+os.makedirs(output_folder, exist_ok=True)
 
 def filter_sentences(text):
     sentences = text.split(".")
@@ -42,6 +39,43 @@ def calculate_complexity_metrics(sentence):
         "lexical_density": len(set(sentence.split())) / len(sentence.split()) if len(sentence.split()) > 0 else 0
     }
 
+def parse_filename(file_name):
+        parts = file_name.split("_")
+        ticker = parts[0]
+        quarter_year = parts[1].replace(".pdf", "")
+        quarter = quarter_year[:2]
+        year = quarter_year[2:]
+        return ticker, quarter, int("20" + year)
+
+def analyze_pdf(file_path):
+    try:
+        logging.info(f"Processing transcript file: {file_path}")
+        reader = PdfReader(file_path)
+        text = "".join([page.extract_text() for page in reader.pages])
+        filtered_sentences = filter_sentences(text)
+        ticker, quarter, year = parse_filename(os.path.basename(file_path))
+        results = []
+        for sentence in filtered_sentences:
+            sentiment = analyzer.polarity_scores(sentence)
+            complexity = calculate_complexity_metrics(sentence)
+            results.append({
+                "ticker": ticker,
+                "file": os.path.basename(file_path),
+                "sentence": sentence,
+                "sentiment": sentiment,
+                "flesch_reading_ease": complexity["flesch_reading_ease"],
+                "gunning_fog_index": complexity["gunning_fog_index"],
+                "smog_index": complexity["smog_index"],
+                "lexical_density": complexity["lexical_density"],
+                "type": "earnings call",
+                "quarter": quarter,
+                "year": year,
+            })
+        return results
+    except Exception as e:
+        logging.error(f"Error processing transcript file {file_path}: {e}")
+        return []
+
 def analyze_transcripts():
     input_files = [os.path.join(transcript_folder, f) for f in os.listdir(transcript_folder) if f.endswith(".pdf")]
     if not input_files:
@@ -51,29 +85,6 @@ def analyze_transcripts():
     logging.info(f"Found {len(input_files)} transcript files to process.")
     all_results = []
 
-    def analyze_pdf(file_path):
-        try:
-            reader = PdfReader(file_path)
-            text = "".join([page.extract_text() for page in reader.pages])
-            filtered_sentences = filter_sentences(text)
-            results = []
-            for sentence in filtered_sentences:
-                sentiment = analyzer.polarity_scores(sentence)
-                complexity = calculate_complexity_metrics(sentence)
-                results.append({
-                    "file": os.path.basename(file_path),
-                    "sentence": sentence,
-                    "sentiment": sentiment,
-                    "flesch_reading_ease": complexity["flesch_reading_ease"],
-                    "gunning_fog_index": complexity["gunning_fog_index"],
-                    "smog_index": complexity["smog_index"],
-                    "lexical_density": complexity["lexical_density"],
-                })
-            return results
-        except Exception as e:
-            logging.error(f"Error processing transcript file {file_path}: {e}")
-            return []
-
     with Pool(processes=8) as pool:
         file_results = pool.map(analyze_pdf, input_files)
         for result in file_results:
@@ -81,9 +92,21 @@ def analyze_transcripts():
 
     if all_results:
         combined_df = pd.DataFrame(all_results)
-        output_file = os.path.join(processed_folder, "transcript_analysis_results.csv")
-        combined_df.to_csv(output_file, index=False)
+        output_file = os.path.join(output_folder, "transcript_analysis_results.csv")
+        combined_df.to_csv(output_file, index=False, escapechar="\\")
         logging.info(f"Transcript analysis results saved to {output_file}")
+
+        aggregated_output = combined_df.groupby(["ticker", "year"]).agg({
+            "flesch_reading_ease": "mean",
+            "gunning_fog_index": "mean",
+            "smog_index": "mean",
+            "lexical_density": "mean",
+            "sentiment": lambda x: pd.Series([s["compound"] for s in x]).mean(),
+        }).reset_index()
+
+        aggregated_output_path = os.path.join(output_folder, "aggregated_transcript_analysis_results.csv")
+        aggregated_output.to_csv(aggregated_output_path, index=False)
+        logging.info(f"Aggregated transcript analysis results saved to {aggregated_output_path}")
     else:
         logging.warning("No transcript results to save after processing.")
 
@@ -98,10 +121,14 @@ def analyze_news():
 
     def analyze_csv(file_path):
         try:
+            logging.info(f"Processing news file: {file_path}")
             df = pd.read_csv(file_path)
             results = []
             for _, row in df.iterrows():
                 snippet = row.get("snippet", "")
+                title = row.get("title", "")
+                link = row.get("link", "")
+                date = row.get("date", "")
                 sentiment = analyzer.polarity_scores(snippet)
                 complexity = calculate_complexity_metrics(snippet)
                 results.append({
@@ -112,6 +139,10 @@ def analyze_news():
                     "gunning_fog_index": complexity["gunning_fog_index"],
                     "smog_index": complexity["smog_index"],
                     "lexical_density": complexity["lexical_density"],
+                    "type": "news article",
+                    "title": title,
+                    "link": link,
+                    "date": date,
                 })
             return results
         except Exception as e:
@@ -125,12 +156,24 @@ def analyze_news():
 
     if all_results:
         combined_df = pd.DataFrame(all_results)
-        output_file = os.path.join(processed_folder, "news_analysis_results.csv")
-        combined_df.to_csv(output_file, index=False)
+        output_file = os.path.join(output_folder, "news_analysis_results.csv")
+        combined_df.to_csv(output_file, index=False, escapechar="\\")
         logging.info(f"News analysis results saved to {output_file}")
+
+        aggregated_output = combined_df.groupby(["date"]).agg({
+            "flesch_reading_ease": "mean",
+            "gunning_fog_index": "mean",
+            "smog_index": "mean",
+            "lexical_density": "mean",
+            "sentiment": lambda x: pd.Series([s["compound"] for s in x]).mean(),
+        }).reset_index()
+
+        aggregated_output_path = os.path.join(output_folder, f"aggregated_news_analysis_results_{keyword_flag}.csv")
+        aggregated_output.to_csv(aggregated_output_path, index=False)
+        logging.info(f"Aggregated news analysis results saved to {aggregated_output_path}")
     else:
         logging.warning("No news results to save after processing.")
 
 if __name__ == "__main__":
     analyze_news()
-    # analyze_transcripts()
+    analyze_transcripts()

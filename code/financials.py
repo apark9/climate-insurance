@@ -162,11 +162,11 @@ def run_financial_analysis():
 
 def run_models():
     file_paths = {
-        "AFG": "data/Financial_Models/American Financial Group AFG US.xlsx",
-        "TRV": "data/Financial_Models/The Travelers Companies TRV US.xlsx",
-        "AFL": "data/Financial_Models/Aflac AFL US.xlsx",
-        "PGR": "data/Financial_Models/The Progressive Corporation PGR US.xlsx",
-        "ALL": "data/Financial_Models/The Allstate Corporation ALL US.xlsx"
+        "AFG": "data/models/American Financial Group AFG US.xlsx",
+        "TRV": "data/models/The Travelers Companies TRV US.xlsx",
+        "AFL": "data/models/Aflac AFL US.xlsx",
+        "PGR": "data/models/The Progressive Corporation PGR US.xlsx",
+        "ALL": "data/models/The Allstate Corporation ALL US.xlsx"
     }
     for company, file_path in file_paths.items():
         output_path = f"data/Financial_Models/{company} Filtered.xlsx"

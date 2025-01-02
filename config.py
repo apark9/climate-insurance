@@ -1,8 +1,13 @@
 '''
 TERMINAL COMMANDS:
 
-bsub -Is -q short_int -n 8 -R "rusage[mem=16G]" python main.py
-tail -f main.log
+general use:
+    bsub -Is -q short_int -n 8 -R "rusage[mem=16G]" python main.py
+
+for scraping:
+    bsub -Is -q short_int -n 2 -R "rusage[mem=4G]" python main.py
+
+    tail -f main.log
 
 pip freeze > requirements.txt
 '''
@@ -11,7 +16,7 @@ interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
-keyword_flag = 'financial'
+keyword_flag = 'climate'
 
 if keyword_flag == 'financial':
     keywords = [
@@ -29,3 +34,19 @@ elif keyword_flag == 'climate':
 
 API_KEY = "AIzaSyAT9oXOGzyP1B0Gec_OhbwwtO2AUY6p1E8"
 CX = "c70ecdcc4723d40f0"
+
+company_keywords = {
+    "Progressive": ['"Progressive"'],
+    "AllState": ['"AllState"'],
+    "Aflac": ['"Aflac"'],
+    "American Financial Group": ['"American Financial Group"'],
+    "Travelers": ['"Travelers"']
+}
+
+general_keywords = [
+    '"insurers exiting states"',
+    '"climate risk insurance adaptation"',
+    '"reinsurance challenges"',
+    '"climate risk affecting insurers"',
+    '"insurance climate exit"'
+]
