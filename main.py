@@ -22,35 +22,35 @@ def setup_logging(job_name="main"):
 
 if __name__ == "__main__":
 
+    # try:
+    #     setup_logging("news")
+    #     news.collect_news()
+    #     news.run_past_months()
+    # except Exception as e:
+    #     logging.error(f"Error in news scrape: {e}")
+
     try:
-        setup_logging("news")
-        news.collect_news()
-        news.run_past_months()
+        setup_logging("sentiment")
+        # sentiment.analyze_news()
+        sentiment.analyze_transcripts()
     except Exception as e:
-        logging.error(f"Error in news scrape: {e}")
+        logging.error(f"Error in sentiment analysis: {e}")
 
-    # try:
-    #     setup_logging("sentiment")
-    #     # sentiment.analyze_news()
-    #     sentiment.analyze_transcripts()
-    # except Exception as e:
-    #     logging.error(f"Error in sentiment analysis: {e}")
+    try:
+        setup_logging("climate")
+        climate.run_climate_analysis()
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")
 
-    # try:
-    #     setup_logging("climate")
-    #     climate.run_climate_analysis()
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    try:
+        setup_logging("financials")
+        financials.run_financial_analysis()
+        financials.run_models()
+    except Exception as e:
+        logging.error(f"Error in financial analysis: {e}")
 
-    # try:
-    #     setup_logging("financials")
-    #     financials.run_financial_analysis()
-    #     financials.run_models()
-    # except Exception as e:
-    #     logging.error(f"Error in financial analysis: {e}")
-
-    # try:
-    #     setup_logging("graphing")
-    #     graphing.perform_graphing()
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    try:
+        setup_logging("graphing")
+        graphing.perform_graphing()
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")

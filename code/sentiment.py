@@ -69,7 +69,7 @@ def analyze_pdf(file_path):
                 "lexical_density": complexity["lexical_density"],
                 "type": "earnings call",
                 "quarter": quarter,
-                "year": year,
+                "Year": year,
             })
         return results
     except Exception as e:
@@ -96,7 +96,7 @@ def analyze_transcripts():
         combined_df.to_csv(output_file, index=False, escapechar="\\")
         logging.info(f"Transcript analysis results saved to {output_file}")
 
-        aggregated_output = combined_df.groupby(["ticker", "year"]).agg({
+        aggregated_output = combined_df.groupby(["ticker", "Year"]).agg({
             "flesch_reading_ease": "mean",
             "gunning_fog_index": "mean",
             "smog_index": "mean",

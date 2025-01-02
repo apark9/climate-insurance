@@ -16,7 +16,7 @@ interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
-keyword_flag = 'climate'
+keyword_flag = 'financial'
 
 if keyword_flag == 'financial':
     keywords = [

@@ -19,7 +19,7 @@ def load_data(file_path):
 
 def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
     aggregated_data = merged_data.groupby("Year").agg({
-        "compound_sentiment": "mean",
+        "sentiment": "mean",
         "Average_Share_Price": "mean",
         "S&P United States BMI Insurance (Industry Group) Index-Index Value (Daily)(%)": "mean"
     }).reset_index()
@@ -30,7 +30,7 @@ def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
 
     ax1.plot(
         aggregated_data["Year"],
-        aggregated_data["compound_sentiment"],
+        aggregated_data["sentiment"],
         marker="o",
         color="blue",
         label="Average Sentiment Score (Primary)"
@@ -74,7 +74,7 @@ def plot_sentiment_and_stock_prices(merged_data, output_folder="plots"):
 
 def plot_sentiment_and_disasters(merged_data, output_folder="plots"):
     aggregated_data = merged_data.groupby("Year").agg({
-        "compound_sentiment": "mean",
+        "sentiment": "mean",
         "Disaster_Count": "mean",
         "Total_Damage_Adjusted": "mean"
     }).reset_index()
@@ -85,7 +85,7 @@ def plot_sentiment_and_disasters(merged_data, output_folder="plots"):
 
     ax1.plot(
         aggregated_data["Year"],
-        aggregated_data["compound_sentiment"],
+        aggregated_data["sentiment"],
         marker="o",
         color="blue",
         label="Average Sentiment Score (Primary)"
