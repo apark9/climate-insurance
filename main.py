@@ -5,7 +5,6 @@ import code.sentiment as sentiment
 import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
-import code.news_scraper as news
 import os
 
 def setup_logging(job_name="main"):
@@ -21,36 +20,27 @@ def setup_logging(job_name="main"):
     logging.info(f"Log setup complete for {job_name}")
 
 if __name__ == "__main__":
+    try:
+        setup_logging("sentiment")
+        sentiment.analyze_transcripts()
+    except Exception as e:
+        logging.error(f"Error in sentiment analysis: {e}")
 
     try:
-        setup_logging("news")
-        news.collect_news()
-        news.run_past_months()
+        setup_logging("climate")
+        climate.run_climate_analysis()
     except Exception as e:
-        logging.error(f"Error in news scrape: {e}")
+        logging.error(f"Error in graphing: {e}")
 
-    # try:
-    #     setup_logging("sentiment")
-    #     # sentiment.analyze_news()
-    #     sentiment.analyze_transcripts()
-    # except Exception as e:
-    #     logging.error(f"Error in sentiment analysis: {e}")
+    try:
+        setup_logging("financials")
+        financials.run_financial_analysis()
+        financials.run_models()
+    except Exception as e:
+        logging.error(f"Error in financial analysis: {e}")
 
-    # try:
-    #     setup_logging("climate")
-    #     climate.run_climate_analysis()
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
-
-    # try:
-    #     setup_logging("financials")
-    #     financials.run_financial_analysis()
-    #     financials.run_models()
-    # except Exception as e:
-    #     logging.error(f"Error in financial analysis: {e}")
-
-    # try:
-    #     setup_logging("graphing")
-    #     graphing.perform_graphing()
-    # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    try:
+        setup_logging("graphing")
+        graphing.perform_graphing()
+    except Exception as e:
+        logging.error(f"Error in graphing: {e}")

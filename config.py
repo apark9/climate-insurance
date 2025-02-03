@@ -32,8 +32,6 @@ elif keyword_flag == 'climate':
         'green energy transition', 'net zero commitments'
     ]
 
-API_KEY = "AIzaSyAT9oXOGzyP1B0Gec_OhbwwtO2AUY6p1E8"
-CX = "c70ecdcc4723d40f0"
 
 company_keywords = {
     "Progressive": ['"Progressive"'],

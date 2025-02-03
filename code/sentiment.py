@@ -15,7 +15,6 @@ analyzer = SentimentIntensityAnalyzer()
 nlp = spacy.load("en_core_web_sm")
 
 transcript_folder = "data/transcripts"
-news_folder = "output/news"
 output_folder = "output"
 os.makedirs(output_folder, exist_ok=True)
 
@@ -110,70 +109,5 @@ def analyze_transcripts():
     else:
         logging.warning("No transcript results to save after processing.")
 
-def analyze_news():
-    input_files = [os.path.join(news_folder, f) for f in os.listdir(news_folder) if f.endswith(".csv")]
-    if not input_files:
-        logging.warning("No news (CSV) files found for processing.")
-        return
-
-    logging.info(f"Found {len(input_files)} news files to process.")
-    all_results = []
-
-    def analyze_csv(file_path):
-        try:
-            logging.info(f"Processing news file: {file_path}")
-            df = pd.read_csv(file_path)
-            results = []
-            for _, row in df.iterrows():
-                snippet = row.get("snippet", "")
-                title = row.get("title", "")
-                link = row.get("link", "")
-                date = row.get("date", "")
-                sentiment = analyzer.polarity_scores(snippet)
-                complexity = calculate_complexity_metrics(snippet)
-                results.append({
-                    "file": os.path.basename(file_path),
-                    "sentence": snippet,
-                    "sentiment": sentiment,
-                    "flesch_reading_ease": complexity["flesch_reading_ease"],
-                    "gunning_fog_index": complexity["gunning_fog_index"],
-                    "smog_index": complexity["smog_index"],
-                    "lexical_density": complexity["lexical_density"],
-                    "type": "news article",
-                    "title": title,
-                    "link": link,
-                    "date": date,
-                })
-            return results
-        except Exception as e:
-            logging.error(f"Error processing news file {file_path}: {e}")
-            return []
-
-    with Pool(processes=8) as pool:
-        file_results = pool.map(analyze_csv, input_files)
-        for result in file_results:
-            all_results.extend(result)
-
-    if all_results:
-        combined_df = pd.DataFrame(all_results)
-        output_file = os.path.join(output_folder, "news_analysis_results.csv")
-        combined_df.to_csv(output_file, index=False, escapechar="\\")
-        logging.info(f"News analysis results saved to {output_file}")
-
-        aggregated_output = combined_df.groupby(["date"]).agg({
-            "flesch_reading_ease": "mean",
-            "gunning_fog_index": "mean",
-            "smog_index": "mean",
-            "lexical_density": "mean",
-            "sentiment": lambda x: pd.Series([s["compound"] for s in x]).mean(),
-        }).reset_index()
-
-        aggregated_output_path = os.path.join(output_folder, f"aggregated_news_analysis_results_{keyword_flag}.csv")
-        aggregated_output.to_csv(aggregated_output_path, index=False)
-        logging.info(f"Aggregated news analysis results saved to {aggregated_output_path}")
-    else:
-        logging.warning("No news results to save after processing.")
-
 if __name__ == "__main__":
-    analyze_news()
     analyze_transcripts()
