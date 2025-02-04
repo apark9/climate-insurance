@@ -3,10 +3,6 @@ TERMINAL COMMANDS:
 
 general use:
     bsub -Is -q short_int -n 8 -R "rusage[mem=16G]" python main.py
-
-for scraping:
-    bsub -Is -q short_int -n 2 -R "rusage[mem=4G]" python main.py
-
     tail -f main.log
 
 pip freeze > requirements.txt
