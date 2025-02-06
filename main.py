@@ -6,24 +6,43 @@ import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
 import code.keywords as keywords
-import os
+import code.naic as naic
+import sys
 
-def setup_logging(job_name="main"):
+def setup_logging(job_name):
+    os.makedirs("logs", exist_ok=True)
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     log_file = f"logs/{job_name}_{timestamp}.log"
+
+    # Remove any existing handlers to prevent duplicate logs
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+
     logging.basicConfig(
-        filename=log_file,
         level=logging.INFO,
-        format="%(asctime)s - %(levelname)s - %(message)s",
-        filemode="w"
+        format="%(asctime)s - [%(levelname)s] - %(message)s",
+        handlers=[
+            logging.FileHandler(log_file, mode="w"),
+            logging.StreamHandler(sys.stdout)  # ✅ Ensures logs appear in the terminal
+        ]
     )
-    os.makedirs("logs", exist_ok=True)  # Ensure the logs folder exists
-    logging.info(f"Log setup complete for {job_name}")
+
+    # Force logs to flush immediately
+    logging.info(f"📂 Logging started: {log_file}")
+    sys.stdout.flush()
+    sys.stderr.flush()
+
 
 if __name__ == "__main__":
+    # try:
+    #     setup_logging("keywords")
+    #     keywords.analyze_keywords()
+    # except Exception as e:
+    #     logging.error(f"Error in keywords analysis: {e}")
+
     try:
-        setup_logging("keywords")
-        keywords.analyze_keywords()
+        setup_logging("NAIC disclosures")
+        naic.analyze_disclosures()
     except Exception as e:
         logging.error(f"Error in keywords analysis: {e}")
 

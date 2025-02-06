@@ -2,8 +2,9 @@
 TERMINAL COMMANDS:
 
 general use:
-    bsub -Is -q short_int -n 8 -R "rusage[mem=16G]" python main.py
+    bsub -Is -q short_int -n 8 -R "rusage[mem=32G]" python main.py
     tail -f main.log
+    source myenv/bin/activate
 
 pip freeze > requirements.txt
 '''

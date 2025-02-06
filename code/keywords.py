@@ -12,8 +12,7 @@ os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     filename="logs/keyword_analysis.log",
     level=logging.INFO,
-    format="%(asctime)s - [%(levelname)s] - %(message)s",
-    force=True,
+    format="%(asctime)s - [%(levelname)s] - %(message)s"
 )
 
 # Load SpaCy model with increased max_length

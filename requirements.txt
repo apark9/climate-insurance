@@ -33,6 +33,7 @@ openpyxl==3.1.3
 packaging==21.3
 pandas==1.1.5
 pathy==0.10.3
+pdf2image==1.17.0
 Pillow==8.4.0
 preshed==3.0.9
 pydantic==1.9.2
@@ -40,6 +41,7 @@ pyparsing==3.1.4
 pypdf==5.0.0
 PyPDF2==3.0.1
 pyphen==0.11.0
+pytesseract==0.3.8
 python-dateutil==2.9.0.post0
 pytz==2024.2
 PyYAML==6.0.1
@@ -53,6 +55,7 @@ seaborn==0.11.2
 sentence-transformers==2.2.2
 sentencepiece==0.2.0
 six==1.16.0
+sklearn==0.0
 smart-open==6.4.0
 soupsieve==2.3.2.post1
 spacy==3.6.1

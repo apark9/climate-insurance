@@ -16,7 +16,6 @@ logging.basicConfig(
     filemode="w",  # Overwrite on each run
     level=logging.INFO,
     format="%(asctime)s - [%(levelname)s] - %(message)s",
-    force=True,
 )
 
 # Load NLP model
