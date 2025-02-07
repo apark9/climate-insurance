@@ -1,72 +1,77 @@
 import logging
 import time
 import os
+import sys
 import code.sentiment as sentiment
 import code.graphing as graphing
 import code.climate as climate
 import code.financials as financials
 import code.keywords as keywords
 import code.naic as naic
-import sys
 
-def setup_logging(job_name):
+def setup_logging():
+    """Sets up logging with real-time updates."""
     os.makedirs("logs", exist_ok=True)
-    timestamp = time.strftime("%Y%m%d_%H%M%S")
-    log_file = f"logs/{job_name}_{timestamp}.log"
+    timestamp = time.strftime("%Y%m%d_%H%M%S")  # ✅ Only timestamp in log file name
+    log_file = f"logs/{timestamp}.log"
 
-    # Remove any existing handlers to prevent duplicate logs
-    for handler in logging.root.handlers[:]:
-        logging.root.removeHandler(handler)
+    # ✅ Remove existing handlers to prevent duplicate logs
+    if logging.root.handlers:
+        for handler in logging.root.handlers[:]:
+            logging.root.removeHandler(handler)
 
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - [%(levelname)s] - %(message)s",
         handlers=[
             logging.FileHandler(log_file, mode="w"),
-            logging.StreamHandler(sys.stdout)  # ✅ Ensures logs appear in the terminal
+            logging.StreamHandler(sys.stdout)  # ✅ Logs show in both terminal & file
         ]
     )
 
-    # Force logs to flush immediately
     logging.info(f"📂 Logging started: {log_file}")
     sys.stdout.flush()
     sys.stderr.flush()
 
+    return log_file
 
 if __name__ == "__main__":
-    # try:
-    #     setup_logging("keywords")
-    #     keywords.analyze_keywords()
-    # except Exception as e:
-    #     logging.error(f"Error in keywords analysis: {e}")
+    log_file = setup_logging()  # ✅ Set up logging once with a timestamped file
 
     try:
-        setup_logging("NAIC disclosures")
+        logging.info("📝 Running NAIC disclosures analysis...")
         naic.analyze_disclosures()
     except Exception as e:
-        logging.error(f"Error in keywords analysis: {e}")
+        logging.error(f"❌ Error in NAIC disclosures: {e}")
+
+    # Uncomment these to include additional processes
+    # try:
+    #     logging.info("🔍 Running keywords analysis...")
+    #     keywords.analyze_keywords()
+    # except Exception as e:
+    #     logging.error(f"❌ Error in keywords analysis: {e}")
 
     # try:
-    #     setup_logging("sentiment")
+    #     logging.info("📊 Running sentiment analysis...")
     #     sentiment.analyze_transcripts()
     # except Exception as e:
-    #     logging.error(f"Error in sentiment analysis: {e}")
+    #     logging.error(f"❌ Error in sentiment analysis: {e}")
 
     # try:
-    #     setup_logging("climate")
+    #     logging.info("🌍 Running climate analysis...")
     #     climate.run_climate_analysis()
     # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    #     logging.error(f"❌ Error in climate analysis: {e}")
 
     # try:
-    #     setup_logging("financials")
+    #     logging.info("💰 Running financial analysis...")
     #     financials.run_financial_analysis()
     #     financials.run_models()
     # except Exception as e:
-    #     logging.error(f"Error in financial analysis: {e}")
+    #     logging.error(f"❌ Error in financial analysis: {e}")
 
     # try:
-    #     setup_logging("graphing")
+    #     logging.info("📈 Running graphing and visualization...")
     #     graphing.perform_graphing()
     # except Exception as e:
-    #     logging.error(f"Error in graphing: {e}")
+    #     logging.error(f"❌ Error in graphing: {e}")
