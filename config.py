@@ -2,10 +2,18 @@
 TERMINAL COMMANDS:
 
 general use:
-    bsub -Is -q short_int -n 8 -R "rusage[mem=32G]" python main.py
+    bsub -q short -n 8 -R "rusage[mem=32G]" -u averypark@college.harvard.edu -N python main.py
     tail -f main.log
     source myenv/bin/activate
 
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_0_200.log -N -u averypark@college.harvard.edu python main.py --start_index 0 --end_index 200
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_200_400.log -N -u averypark@college.harvard.edu python main.py --start_index 200 --end_index 400
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_400_600.log -N -u averypark@college.harvard.edu python main.py --start_index 400 --end_index 600
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_600_800.log -N -u averypark@college.harvard.edu python main.py --start_index 600 --end_index 800
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_800_1000.log -N -u averypark@college.harvard.edu python main.py --start_index 800 --end_index 1000
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_1000_1200.log -N -u averypark@college.harvard.edu python main.py --start_index 1000 --end_index 1200
+bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_1200_1353.log -N -u averypark@college.harvard.edu python main.py --start_index 1200 --end_index 1353
+    
 pip freeze > requirements.txt
 '''
 
