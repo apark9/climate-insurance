@@ -2,7 +2,7 @@
 TERMINAL COMMANDS:
 
 general use:
-    bsub -q short -n 8 -R "rusage[mem=32G]" -u averypark@college.harvard.edu -N python main.py
+    bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_%J.log -u averypark@college.harvard.edu -N python main.py
     tail -f main.log
     source myenv/bin/activate
 

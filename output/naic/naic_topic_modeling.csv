@@ -1,0 +1,13 @@
+Topic,Keywords
+Topic 1 (LDA),"['group', 'impact', 'emissions', 'financial', 'investment', 'related', 'company', 'insurance', 'business', 'climate change', 'management', 'change', 'risks', 'climate', 'risk']"
+Topic 2 (LDA),"['business', 'risk management', 'members', 'potential', 'opportunities', 'climate related risks', 'management', 'related risks', 'climate risk', 'climate related', 'nationwide', 'related', 'risks', 'climate', 'risk']"
+Topic 3 (LDA),"['consider', 'management', 'related risks opportunities', 'including', 'company', 'risks opportunities', 'opportunities', 'risk', 'climate related risks', 'related risks', 'insurer', 'climate related', 'related', 'risks', 'climate']"
+Topic 4 (LDA),"['environmental', 'health', 'governance', 'report', 'risks', 'related', 'data', 'investment', 'business', 'emissions', 'risk', 'management', 'sustainability', 'esg', 'climate']"
+Topic 5 (LDA),"['based', 'employees', 'es', 'sustainability', 'se', 'company', 'business', 'management', 'ae', 'tokio marine', 'tokio', 'marine', 'insurance', 'ee', 'group']"
+Topic 6 (LDA),"['management', 'does', 'risks opportunities', 'opportunities', 'financial', 'disclosure', 'insurer', '2022', 'risk', 'climate related risks', 'related risks', 'risks', 'climate related', 'related', 'climate']"
+Topic 1 (NMF),"['emissions', 'management', 'related risks opportunities', 'including', 'risks opportunities', 'opportunities', 'company', 'insurer', 'climate related risks', 'related risks', 'risk', 'climate related', 'related', 'risks', 'climate']"
+Topic 2 (NMF),"['marine nichido', 'employees', 'nichido', 'sustainability', 'ee', 'management', 'business', 'company', 'tokio marine group', 'marine group', 'insurance', 'group', 'tokio marine', 'marine', 'tokio']"
+Topic 3 (NMF),"['2021', 'december 31', 'business', '31', 'december', 'investment', 'insurance', 'value', 'net', '2020', 'assets', 'management', 'risk', 'income', 'financial']"
+Topic 4 (NMF),"['emissions', 'ee', 'sustainable', 'employees', 'report', 'governance', 'business', 'risk', 'data', 'sustainability', 'investment', 'climate', 'manulife', 'management', 'esg']"
+Topic 5 (NMF),"['reinsurance', 'year', 'insurance', 'usd', 'climate', 'board', 'sustainability', '2023', 'report', 'financial', 'business', 'risk', '2022', 'group', 'swiss']"
+Topic 6 (NMF),"['opportunities', 'climate related risks', 'risk management', 'business', 'related risks', 'potential', 'members', 'management', 'climate related', 'climate risk', 'related', 'risks', 'nationwide', 'climate', 'risk']"
