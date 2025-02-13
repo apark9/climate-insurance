@@ -6,11 +6,8 @@ import time
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-from wordcloud import WordCloud
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import LatentDirichletAllocation, NMF
 import spacy
-from collections import Counter
+from collections import defaultdict
 
 # Load NLP Model
 nlp = spacy.load("en_core_web_sm")
@@ -26,7 +23,19 @@ os.makedirs(plots_folder, exist_ok=True)
 
 # Output files
 extracted_text_file = os.path.join(naic_folder, "naic_extracted_text.csv")
-topic_keywords_file = os.path.join(naic_folder, "naic_topic_keywords.csv")
+policy_sentences_file = os.path.join(naic_folder, "extracted_policy_sentences.csv")
+topic_modeling_file = os.path.join(naic_folder, "naic_topic_modeling.csv")
+
+# **Expanded ESG Policy Keywords**
+esg_keywords = {
+    "climate_risk": ["climate risk", "transition risk", "physical risk", "heat stress", "disaster risk"],
+    "sustainable_investment": ["green bond", "impact investing", "sustainable finance", "climate-aligned investment"],
+    "carbon_emissions": ["net-zero", "carbon sequestration", "carbon offset", "Scope 1 emissions", "Scope 3 emissions"],
+    "renewable_energy": ["solar power", "wind farms", "hydropower", "clean energy transition", "energy efficiency"],
+    "climate_governance": ["ESG disclosure", "board oversight", "executive ESG accountability"],
+    "biodiversity_nature": ["deforestation", "biodiversity loss", "natural capital", "ecosystem services"],
+    "human_rights_labor": ["worker rights", "fair wages", "supply chain ethics", "social responsibility"],
+}
 
 # Set up logging
 def setup_logging():
@@ -40,10 +49,7 @@ def setup_logging():
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - [%(levelname)s] - %(message)s",
-        handlers=[
-            logging.FileHandler(log_file, mode="w"),
-            logging.StreamHandler(sys.stdout)
-        ]
+        handlers=[logging.FileHandler(log_file, mode="w"), logging.StreamHandler(sys.stdout)],
     )
 
     logging.info(f"📂 Logging started: {log_file}")
@@ -53,7 +59,6 @@ def setup_logging():
 # Load extracted text
 def load_extracted_text():
     """Load all batch-processed extracted text."""
-    
     text_files = [f for f in os.listdir(naic_folder) if f.startswith("naic_extracted_text_")]
     if not text_files:
         logging.error(f"❌ ERROR: No extracted text files found in {naic_folder}.")
@@ -61,84 +66,119 @@ def load_extracted_text():
 
     df_text = pd.concat([pd.read_csv(os.path.join(naic_folder, f)) for f in text_files])
     df_text.to_csv(extracted_text_file, index=False)
-
     logging.info(f"📂 Loaded and merged {len(df_text)} extracted text records.")
     return df_text
 
-# Remove Named Entities (Company Names, Locations, Dates)
-def clean_text_with_ner(text):
-    doc = nlp(text)
-    return " ".join([token.text for token in doc if token.ent_type_ not in ["ORG", "GPE", "DATE"]])
+# Extract ESG-related policy sentences
+def extract_esg_policy_sentences():
+    """Extract full policy-related sentences with refined categorization."""
+    logging.info(f"🚀 Extracting ESG policy sentences.")
 
-def extract_keywords():
-    """Extract high-quality keywords using topic modeling optimized for filtering."""
-
-    logging.info(f"🚀 Extracting keywords from topic modeling.")
     df_text = pd.read_csv(extracted_text_file)
-
-    # Preprocess text
     df_text["text"] = df_text["text"].astype(str).fillna("")
-    df_text["text"] = df_text["text"].apply(clean_text_with_ner)  # Remove company names, locations, dates
 
-    # **Refined Stopwords**
-    custom_stopwords = set([
-        "risk", "management", "company", "business", "insurance", "climate", "change", "related",
-        "data", "report", "financial", "investment", "industry", "policy", "emissions", "impact", 
-        "opportunities", "members", "consider", "including", "potential", "nationwide", "disclosure"
-    ])
+    extracted_sentences = []
+    seen_sentences = set()  # Track unique sentences
 
-    # **Use TF-IDF Instead of CountVectorizer with 1-grams to 3-grams**
-    vectorizer = TfidfVectorizer(stop_words=custom_stopwords, max_features=4000, ngram_range=(1,3))
-    X = vectorizer.fit_transform(df_text["text"])
+    for _, row in df_text.iterrows():
+        text = row["text"]
+        doc = nlp(text)
 
-    # **Use 6 Topics Instead of 10 to Reduce Fragmentation**
-    lda = LatentDirichletAllocation(n_components=6, random_state=42)
-    lda.fit(X)
+        for sent in doc.sents:
+            sentence_text = sent.text.lower().strip()
 
-    nmf = NMF(n_components=6, random_state=42)
-    nmf.fit(X)
+            # **Multi-Category Assignment**
+            matched_categories = []
+            for category, keywords in esg_keywords.items():
+                if any(keyword in sentence_text for keyword in keywords):
+                    matched_categories.append(category)
 
-    # Extract meaningful terms
-    terms = vectorizer.get_feature_names_out()
+            # **Filter Out Generic or Short Sentences**
+            if len(sentence_text.split()) < 5:
+                continue
+            if sentence_text in seen_sentences:
+                continue  # Skip duplicates
+            seen_sentences.add(sentence_text)
 
-    topic_keywords_lda = [
-        {"Topic": f"Topic {idx+1} (LDA)", "Keywords": [terms[i] for i in topic.argsort()[-30:]]}
-        for idx, topic in enumerate(lda.components_)
-    ]
+            # **Store Extracted Sentences**
+            if matched_categories:
+                extracted_sentences.append({
+                    "Company": row["file"],
+                    "Categories": ", ".join(matched_categories),
+                    "Sentence": sentence_text,
+                })
 
-    topic_keywords_nmf = [
-        {"Topic": f"Topic {idx+1} (NMF)", "Keywords": [terms[i] for i in topic.argsort()[-30:]]}
-        for idx, topic in enumerate(nmf.components_)
-    ]
+    # Convert to DataFrame
+    df_policies = pd.DataFrame(extracted_sentences)
+    df_policies.to_csv(policy_sentences_file, index=False)
+    logging.info(f"✅ Extracted and saved refined ESG policy sentences.")
+    plot_policy_categories(df_policies)
 
-    df_keywords = pd.DataFrame(topic_keywords_lda + topic_keywords_nmf)
-    df_keywords.to_csv(topic_keywords_file, index=False)
+def plot_policy_categories(df_policies):
+    """Generate a bar chart showing the frequency of ESG policy categories."""
+    category_counts = df_policies["Categories"].str.split(", ").explode().value_counts().reset_index()
+    category_counts.columns = ["Category", "Frequency"]
 
-    logging.info(f"✅ Keyword extraction completed and saved for filtering.")
+    plt.figure(figsize=(10, 5))
+    sns.barplot(x="Frequency", y="Category", data=category_counts, palette="Blues_r")
+    plt.xlabel("Frequency")
+    plt.ylabel("Policy Category")
+    plt.title("Most Common ESG Policy Categories")
 
-    # **Save Top Keywords for Sentiment Analysis Filtering**
-    save_filtered_keywords(df_keywords)
+    plot_path = os.path.join(plots_folder, "policy_category_distribution.png")
+    plt.savefig(plot_path)
+    logging.info(f"✅ Saved ESG policy category visualization: {plot_path}")
+    plt.close()
 
-def save_filtered_keywords(df_keywords):
-    """Save extracted keywords as a plain list for filtering in later analysis."""
-    all_keywords = set()
-    for _, row in df_keywords.iterrows():
-        all_keywords.update(row["Keywords"])
-
-    keywords_list_file = os.path.join(naic_folder, "filtered_keywords.txt")
-    with open(keywords_list_file, "w") as f:
-        f.write("\n".join(sorted(all_keywords)))
-
-    logging.info(f"✅ Filtered keywords saved to {keywords_list_file} for sentiment analysis.")
+# ---- KEEP TOPIC MODELING BUT COMMENTED OUT ----
+# def apply_topic_modeling():
+#     """Apply LDA and NMF topic modeling to extracted text with refined preprocessing."""
+# 
+#     logging.info(f"🚀 Running topic modeling on final dataset.")
+#     df_text = pd.read_csv(extracted_text_file)
+#
+#     df_text["text"] = df_text["text"].astype(str).fillna("")
+#
+#     custom_stopwords = set([
+#         "risk", "management", "company", "business", "insurance", "climate", "change", "related",
+#         "data", "report", "financial", "investment", "industry", "policy"
+#     ])
+#
+#     vectorizer = TfidfVectorizer(stop_words=custom_stopwords, max_features=3000, ngram_range=(1,3))
+#     X = vectorizer.fit_transform(df_text["text"])
+#
+#     lda = LatentDirichletAllocation(n_components=8, random_state=42)
+#     lda.fit(X)
+#
+#     nmf = NMF(n_components=8, random_state=42)
+#     nmf.fit(X)
+#
+#     terms = vectorizer.get_feature_names_out()
+#
+#     topic_keywords_lda = [
+#         {"Topic": f"Topic {idx+1} (LDA)", "Keywords": [terms[i] for i in topic.argsort()[-12:]]}
+#         for idx, topic in enumerate(lda.components_)
+#     ]
+#
+#     topic_keywords_nmf = [
+#         {"Topic": f"Topic {idx+1} (NMF)", "Keywords": [terms[i] for i in topic.argsort()[-12:]]}
+#         for idx, topic in enumerate(nmf.components_)
+#     ]
+#
+#     df_topics = pd.DataFrame(topic_keywords_lda + topic_keywords_nmf)
+#     df_topics.to_csv(topic_modeling_file, index=False)
+#
+#     logging.info(f"✅ Topic modeling completed and saved.")
+#
+#     # Visualize topic modeling (commented out)
+#     # visualize_topics(lda, terms, title="LDA Topic Modeling", filename="lda_barchart.png")
+#     # visualize_topics(nmf, terms, title="NMF Topic Modeling", filename="nmf_barchart.png")
 
 # Run full pipeline
 def analyze_disclosures():
-    """Main function to extract keywords for filtering & sentiment analysis."""
-    
     logging.info(f"🚀 Processing all extracted text in one go.")
-
-    df_text = load_extracted_text()
-    extract_keywords()
+    load_extracted_text()
+    extract_esg_policy_sentences()
 
 if __name__ == "__main__":
     setup_logging()
