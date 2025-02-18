@@ -2,18 +2,12 @@
 TERMINAL COMMANDS:
 
 general use:
-    bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_%J.log -u averypark@college.harvard.edu -N python main.py
-    tail -f main.log
+    bsub -q long -n 8 -R "rusage[mem=48G]" -e logs/job_error_%J.log -u averypark@college.harvard.edu -N python main.py
     source myenv/bin/activate
 
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_0_200.log -N -u averypark@college.harvard.edu python main.py --start_index 0 --end_index 200
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_200_400.log -N -u averypark@college.harvard.edu python main.py --start_index 200 --end_index 400
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_400_600.log -N -u averypark@college.harvard.edu python main.py --start_index 400 --end_index 600
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_600_800.log -N -u averypark@college.harvard.edu python main.py --start_index 600 --end_index 800
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_800_1000.log -N -u averypark@college.harvard.edu python main.py --start_index 800 --end_index 1000
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_1000_1200.log -N -u averypark@college.harvard.edu python main.py --start_index 1000 --end_index 1200
-bsub -q short -n 8 -R "rusage[mem=32G]" -e logs/job_error_1200_1353.log -N -u averypark@college.harvard.edu python main.py --start_index 1200 --end_index 1353
+    for i in {1..21}; do   bsub -q long -n 8 -R "rusage[mem=48G]"        -e logs/job_error_%J_batch_$i.log        -o logs/job_output_%J_batch_$i.log        -u averypark@college.harvard.edu -N        python main.py $i; done
     
+    for i in {1..1}; do   bsub -q long -n 8 -R "rusage[mem=48G]"        -u averypark@college.harvard.edu -N        python main.py $i; done
 pip freeze > requirements.txt
 '''
 
@@ -21,35 +15,27 @@ interview_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/
 transcript_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/data/Public_Insurance_Transcripts/"
 output_folder = "/export/home/rcsguest/rcs_apark/Desktop/home-insurance/output/"
 
-keyword_flag = 'financial'
+keywords_financial = [
+    'catastrophe', 'underwriting losses', 'rate increases', 'premium increases',
+    'policy cancellations', 'claims reserves', 'risk modeling', 'loss ratios',
+    'insurance payouts', 'capital adequacy', 'financial risk', 'market exposure',
+    'insurance insolvency', 'portfolio risk', 'actuarial adjustments',
+    'carbon pricing', 'sustainability initiatives', 'ESG investing',
+    'reinsurance', 'insurance risk transfer', 'capital markets'
+]
 
-if keyword_flag == 'financial':
-    keywords = [
-        'catastrophe', 'underwriting losses', 'rate increases', 'premium increases',
-        'reinsurance', 'claims reserves', 'risk modeling', 'loss ratios',
-        'carbon pricing', 'sustainability initiatives', 'ESG investing'
-    ]
-elif keyword_flag == 'climate':
-    keywords = [
-        'climate change', 'natural disasters', 'extreme weather', 'hurricane',
-        'wildfire', 'earthquake', 'flood', 'coastal flooding', 'sea level rise',
-        'drought', 'adaptation strategies', 'climate resilience', 'GHG emissions',
-        'green energy transition', 'net zero commitments'
-    ]
+keywords_climate = [
+    'climate change', 'natural disasters', 'extreme weather', 'hurricane',
+    'wildfire', 'earthquake', 'flood', 'coastal flooding', 'sea level rise',
+    'drought', 'climate adaptation', 'climate resilience', 'GHG emissions',
+    'carbon emissions', 'greenhouse gases', 'carbon footprint',
+    'green energy transition', 'net zero commitments', 'carbon offsets',
+    'sustainability risks', 'climate mitigation', 'disaster recovery'
+]
 
-
-company_keywords = {
-    "Progressive": ['"Progressive"'],
-    "AllState": ['"AllState"'],
-    "Aflac": ['"Aflac"'],
-    "American Financial Group": ['"American Financial Group"'],
-    "Travelers": ['"Travelers"']
-}
-
-general_keywords = [
-    '"insurers exiting states"',
-    '"climate risk insurance adaptation"',
-    '"reinsurance challenges"',
-    '"climate risk affecting insurers"',
-    '"insurance climate exit"'
+keywords_risk = [
+    'climate risk', 'physical risk', 'transition risk', 'financial exposure',
+    'economic losses', 'insured losses', 'uninsured losses', 'capital flight',
+    'infrastructure damage', 'business interruption', 'supply chain disruption',
+    'market volatility', 'risk assessment', 'stress testing', 'scenario analysis'
 ]

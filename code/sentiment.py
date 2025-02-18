@@ -1,91 +1,59 @@
 import os
-import json
 import logging
 import pandas as pd
 import spacy
-import argparse
 from PyPDF2 import PdfReader
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from multiprocessing import Pool
+from transformers import pipeline
+from concurrent.futures import ThreadPoolExecutor
 from textstat import textstat
+from config import keywords_financial, keywords_climate, keywords_risk
+from nltk.sentiment import SentimentIntensityAnalyzer
 
 # Set up logging
-os.makedirs("output", exist_ok=True)
+os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
-    filename="output/sentiment_analysis.log",
-    filemode="w",  # Overwrite on each run
+    filename="logs/sentiment_analysis.log",
+    filemode="w",
     level=logging.INFO,
-    format="%(asctime)s - [%(levelname)s] - %(message)s",
+    format="%(asctime)s - %(message)s",
 )
 
-# Load NLP model
 nlp = spacy.load("en_core_web_sm")
-analyzer = SentimentIntensityAnalyzer()
+finbert = None
+vader = SentimentIntensityAnalyzer()
 
-# Paths
 TRANSCRIPT_FOLDER = "data/transcripts"
-OUTPUT_FOLDER = "output"
-KEYWORD_FILE = os.path.join(OUTPUT_FOLDER, "custom_keywords.json")  # Load externally defined keywords
-CHECKPOINT_FILE = os.path.join(OUTPUT_FOLDER, "sentiment_checkpoint.json")
-os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+OUTPUT_FOLDER = "data/sentiment_output"
+ANALYSIS_FOLDER = "analysis/sentiment"
 
-# Load keywords from file (or empty list if not defined yet)
-if os.path.exists(KEYWORD_FILE):
-    with open(KEYWORD_FILE, "r") as f:
-        CUSTOM_KEYWORDS = json.load(f)
-else:
-    CUSTOM_KEYWORDS = []
-    logging.warning("No keyword file found. Sentiment analysis will proceed without keyword filtering.")
+NUM_WORKERS = 4
+NUM_PDFS = 100
+MAX_TOKENS = 512
+TOTAL_BATCHES = 21
 
-# Set default context window
-DEFAULT_CONTEXT_SENTENCES = 2
-
+def load_finbert():
+    global finbert
+    if finbert is None:
+        finbert = pipeline("sentiment-analysis", model="yiyanghkust/finbert-tone", return_all_scores=True)
+        logging.info("FinBERT loaded.")
 
 def extract_text_from_pdf(file_path):
-    """Extracts text from a PDF file."""
     try:
         reader = PdfReader(file_path)
         return " ".join([page.extract_text() or "" for page in reader.pages])
     except Exception as e:
-        logging.error(f"Error reading {file_path}: {e}")
+        logging.error(f"Error extracting text: {e}")
         return ""
 
-
-def parse_filename(file_name):
-    """Extracts stock ticker and quarter/year from filename."""
+def extract_date_from_filename(filename):
     try:
-        parts = file_name.split("_")
-        ticker = parts[0]
-        quarter_year = parts[1].replace(".pdf", "")
-        quarter = quarter_year[:2]
-        year = int("20" + quarter_year[2:])
-        return ticker, quarter, year
+        parts = filename.split("_")
+        return parts[0], int("20" + parts[1][2:4]), parts[1][:2]
     except Exception as e:
-        logging.error(f"Filename parsing error {file_name}: {e}")
+        logging.error(f"Filename error: {e}")
         return None, None, None
 
-
-def filter_sentences(text, context_sentences=DEFAULT_CONTEXT_SENTENCES):
-    """Filters sentences based on keywords and removes those mentioning people."""
-    doc = list(nlp.pipe(text.split(". ")))  # Split and process sentences
-
-    filtered_sentences = []
-    for i in range(len(doc) - context_sentences + 1):
-        sentence_group = " ".join([doc[i + j].text.strip() for j in range(context_sentences)])
-        
-        # Remove if a person's name is detected
-        if any(ent.label_ == "PERSON" for ent in doc[i].ents):
-            continue
-
-        # Check if it contains keywords
-        if any(kw in sentence_group.lower() for kw in CUSTOM_KEYWORDS):
-            filtered_sentences.append(sentence_group)
-
-    return filtered_sentences
-
-
-def calculate_complexity_metrics(sentence):
-    """Calculates readability metrics."""
+def calculate_readability(sentence):
     return {
         "flesch_reading_ease": textstat.flesch_reading_ease(sentence),
         "gunning_fog_index": textstat.gunning_fog(sentence),
@@ -93,68 +61,167 @@ def calculate_complexity_metrics(sentence):
         "lexical_density": len(set(sentence.split())) / len(sentence.split()) if len(sentence.split()) > 0 else 0,
     }
 
+def remove_personal_names(sentences):
+    SKIP_PHRASES = [
+        "Research Division", "Equity Research", "Capital Markets", "Investment Officer",
+        "Vice Chairman", "Managing Director", "Portfolio Manager", "Chief Investment Officer",
+        "Chief Financial Officer", "Chief Operating Officer", "President", "CEO", "Chairman",
+        "Senior Analyst", "Financial Analyst", "BMO Capital", "RBC Capital", "Morgan Stanley", "Goldman Sachs"
+    ]
+    
+    filtered_sentences = []
+    for sent in sentences:
+        doc = nlp(sent)
 
-def analyze_pdf(file_path, context_sentences=DEFAULT_CONTEXT_SENTENCES):
-    """Performs sentiment and complexity analysis on a transcript."""
+        if any(ent.label_ == "PERSON" for ent in doc.ents):
+            continue  
+
+        if any(phrase in sent for phrase in SKIP_PHRASES):
+            continue  
+
+        filtered_sentences.append(sent)
+
+    return filtered_sentences
+
+def analyze_sentiment_vader(sentence):
+    scores = vader.polarity_scores(sentence)
+    return scores["pos"], scores["neg"], scores["neu"]
+
+def analyze_sentiment_finbert(sentence):
+    try:
+        finbert_result = finbert(sentence)
+        if isinstance(finbert_result, list) and len(finbert_result) > 0 and isinstance(finbert_result[0], list):
+            finbert_result = finbert_result[0]
+
+        sentiment_dict = {score["label"].lower(): score["score"] for score in finbert_result}
+        return sentiment_dict.get("positive", 0), sentiment_dict.get("negative", 0), sentiment_dict.get("neutral", 0)
+    except Exception as e:
+        return 0, 0, 0
+
+def analyze_pdf(file_path, file_index, total_files):
     file_name = os.path.basename(file_path)
-    ticker, quarter, year = parse_filename(file_name)
-    if not ticker:
-        return []
+    ticker, year, quarter = extract_date_from_filename(file_name)
 
-    logging.info(f"Processing {ticker} for {quarter} {year}...")
+    if ticker is None or year is None or quarter is None:
+        return file_name, []
+
+    logging.info(f"Processing {file_index}/{total_files}: {file_name}")
 
     text = extract_text_from_pdf(file_path)
-    filtered_sentences = filter_sentences(text, context_sentences)
+    if not text.strip():
+        return file_name, []
+
+    keyword_category_map = {kw: "Financial" for kw in keywords_financial}
+    keyword_category_map.update({kw: "Climate" for kw in keywords_climate})
+    keyword_category_map.update({kw: "Risk" for kw in keywords_risk})
+
+    filtered_sentences_info = []
+    for sent in nlp(text).sents:
+        sent_text = sent.text
+        for kw in keyword_category_map.keys():
+            if kw in sent_text.lower():
+                filtered_sentences_info.append((sent_text, kw, keyword_category_map[kw]))
+                break 
+            
+    filtered_sentences_info = [(sent, kw, cat) for sent, kw, cat in filtered_sentences_info if sent in remove_personal_names([sent])]
+
+    if not filtered_sentences_info:
+        return file_name, []
+
+    load_finbert()
 
     results = []
-    for sentence in filtered_sentences:
-        sentiment = analyzer.polarity_scores(sentence)
-        complexity = calculate_complexity_metrics(sentence)
+    for sentence, keyword, category in filtered_sentences_info:
+        finbert_pos, finbert_neg, finbert_neu = analyze_sentiment_finbert(sentence)
+        vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
+        readability = calculate_readability(sentence)
+        doc = nlp(sentence)
+        
         results.append({
-            "ticker": ticker,
-            "quarter": quarter,
-            "year": year,
+            "file_name": file_name,
+            "Ticker": ticker,
+            "Year": year,
+            "Quarter": quarter,
             "sentence": sentence,
-            "sentiment": sentiment["compound"],
-            "flesch_reading_ease": complexity["flesch_reading_ease"],
-            "gunning_fog_index": complexity["gunning_fog_index"],
-            "smog_index": complexity["smog_index"],
-            "lexical_density": complexity["lexical_density"],
+            "keyword": keyword,
+            "category": category,
+            "finbert_positive": finbert_pos,
+            "finbert_negative": finbert_neg,
+            "finbert_neutral": finbert_neu,
+            "vader_positive": vader_pos,
+            "vader_negative": vader_neg,
+            "vader_neutral": vader_neu,
+            "flesch_reading_ease": readability["flesch_reading_ease"],
+            "gunning_fog_index": readability["gunning_fog_index"],
+            "smog_index": readability["smog_index"],
+            "lexical_density": readability["lexical_density"],
+            "word_count": len(sentence.split()),
+            "named_entity_count": len(doc.ents),
         })
 
-    return results
+    return file_name, results
 
+def process_batch(batch_number):
+    all_files = sorted([os.path.join(TRANSCRIPT_FOLDER, f) for f in os.listdir(TRANSCRIPT_FOLDER) if f.endswith(".pdf")])
 
-def analyze_transcripts(context_sentences=DEFAULT_CONTEXT_SENTENCES):
-    """Main function for sentiment analysis."""
-    input_files = [os.path.join(TRANSCRIPT_FOLDER, f) for f in os.listdir(TRANSCRIPT_FOLDER) if f.endswith(".pdf")]
+    start_idx = (batch_number - 1) * NUM_PDFS
+    end_idx = start_idx + NUM_PDFS
+    batch_files = all_files[start_idx:end_idx]
 
-    if not input_files:
-        logging.warning("No transcripts found.")
+    print(f"Batch {batch_number}: Processing {len(batch_files)} files")  
+    logging.info(f"Batch {batch_number}: Processing {len(batch_files)} files")
+
+    if not batch_files:
+        print(f"No files in batch {batch_number}. Skipping.")
         return
 
-    logging.info(f"Found {len(input_files)} transcripts.")
-
     all_results = []
-    with Pool(processes=8) as pool:
-        file_results = pool.starmap(analyze_pdf, [(f, context_sentences) for f in input_files])
+    for file_index, file_path in enumerate(batch_files, start=1):
+        file_name, results = analyze_pdf(file_path, file_index, len(batch_files))
+        all_results.extend(results)
 
-    for result in file_results:
-        all_results.extend(result)
+    batch_output_file = os.path.join(OUTPUT_FOLDER, f"sentiment_results_batch_{batch_number}.csv")
+    pd.DataFrame(all_results).to_csv(batch_output_file, index=False)
 
-    # Save results
-    if all_results:
-        df = pd.DataFrame(all_results)
-        output_file = os.path.join(OUTPUT_FOLDER, "sentiment_results.csv")
-        df.to_csv(output_file, index=False)
-        logging.info(f"Saved sentiment results to {output_file}")
+def merge_batches():
+    batch_files = sorted([f for f in os.listdir(OUTPUT_FOLDER) if f.startswith("sentiment_results_batch_")])
 
+    if not batch_files:
+        return
+
+    df_list = [pd.read_csv(os.path.join(OUTPUT_FOLDER, f)) for f in batch_files]
+    merged_df = pd.concat(df_list, ignore_index=True)
+    merged_df.to_csv(os.path.join(OUTPUT_FOLDER, "sentiment_results_merged.csv"), index=False)
+
+def analyze_sentiment_trends(df):
+    sentiment_trends = df.groupby(["Year", "Quarter"]).agg(
+        avg_finbert=("finbert_positive", "mean"),
+        avg_vader=("vader_positive", "mean")
+    ).reset_index()
+    sentiment_trends.to_csv(os.path.join(ANALYSIS_FOLDER, "sentiment_trends.csv"), index=False)
+
+def analyze_keyword_sentiment(df):
+    keyword_analysis = df.groupby("keyword").agg(
+        count=("keyword", "count"),
+        avg_finbert=("finbert_positive", "mean"),
+        avg_vader=("vader_positive", "mean")
+    ).reset_index()
+    keyword_analysis.to_csv(os.path.join(ANALYSIS_FOLDER, "keyword_sentiment.csv"), index=False)
+
+def perform_analysis():
+    merged_csv_path = os.path.join(OUTPUT_FOLDER, "sentiment_results_merged.csv")  
+
+    if not os.path.exists(merged_csv_path):
+        logging.error(f"File not found: {merged_csv_path}")
+        return  
+
+    merged_df = pd.read_csv(merged_csv_path)
+
+    analyze_sentiment_trends(merged_df)
+    analyze_keyword_sentiment(merged_df)
 
 if __name__ == "__main__":
-
-    parser = argparse.ArgumentParser(description="Run sentiment analysis on earnings call transcripts.")
-    parser.add_argument("--context_sentences", type=int, default=DEFAULT_CONTEXT_SENTENCES, 
-                        help="Number of sentences to use as context (default: 2)")
-    args = parser.parse_args()
-
-    analyze_transcripts(context_sentences=args.context_sentences)
+    
+    process_batch(batch_number)
+    merge_batches()
+    perform_analysis()
