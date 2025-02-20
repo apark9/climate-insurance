@@ -7,7 +7,7 @@ general use:
 
     for i in {1..21}; do   bsub -q long -n 8 -R "rusage[mem=48G]"        -e logs/job_error_%J_batch_$i.log        -o logs/job_output_%J_batch_$i.log        -u averypark@college.harvard.edu -N        python main.py $i; done
     
-    for i in {1..1}; do   bsub -q long -n 8 -R "rusage[mem=48G]"        -u averypark@college.harvard.edu -N        python main.py $i; done
+    for i in {1..21}; do   bsub -q long -n 8 -R "rusage[mem=48G]"        python main.py $i; done
 pip freeze > requirements.txt
 '''
 

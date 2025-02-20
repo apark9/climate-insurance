@@ -13,11 +13,16 @@ import nltk
 
 if __name__ == "__main__":
 
+    'NAIC'
     # naic.setup_logging()
     # naic.analyze_disclosures()
 
     # batch_number = int(sys.argv[1])
+
+    'SENTIMENT'
     # sentiment.process_batch(batch_number)
     # sentiment.merge_batches()
     # sentiment.perform_analysis()
-    # graphing.perform_graphing()
+
+    'GRAPHING'
+    graphing.perform_graphing()

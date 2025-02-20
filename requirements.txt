@@ -9,12 +9,14 @@ confection==0.1.5
 contextvars==2.4
 cycler==0.11.0
 cymem==2.0.8
+Cython==3.0.12
 dataclasses==0.8
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl
 et-xmlfile==1.1.0
 filelock==3.4.1
 gym==0.26.2
 gym-notices==0.0.8
+hdbscan==0.8.13
 huggingface-hub==0.4.0
 idna==3.10
 immutables==0.19
@@ -35,6 +37,8 @@ pandas==1.1.5
 pathy==0.10.3
 pdf2image==1.17.0
 Pillow==8.4.0
+pipeline==0.1.0
+pool==0.1.2.dev0
 preshed==3.0.9
 pydantic==1.9.2
 pyparsing==3.1.4
@@ -62,6 +66,7 @@ spacy==3.6.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
+tesseract==0.1.3
 textstat==0.7.4
 thinc==8.1.12
 threadpoolctl==3.1.0
@@ -75,5 +80,6 @@ typing_extensions==4.1.1
 urllib3==1.26.20
 vaderSentiment==3.3.2
 wasabi==1.1.3
+wordcloud==1.9.2
 xlrd==2.0.1
 zipp==3.6.0

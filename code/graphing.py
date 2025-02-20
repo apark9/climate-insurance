@@ -4,7 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set up logging
 os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     filename="logs/graphing.log",
@@ -14,15 +13,14 @@ logging.basicConfig(
 )
 print("\U0001F680 Graphing script started...", flush=True)
 
-# Create output directories if they don't exist
-os.makedirs("plots", exist_ok=True)
 ANALYSIS_FOLDER = "analysis/sentiment"
+DATA_FOLDER = "data/sentiment_output"
 
 
 def load_data(file_path):
-    """Loads CSV data from a given file path."""
     try:
         data = pd.read_csv(file_path)
+        data.columns = data.columns.str.upper()
         logging.info(f"✅ Successfully loaded data from {file_path}.")
         return data
     except Exception as e:
@@ -30,101 +28,96 @@ def load_data(file_path):
         raise
 
 
-def plot_sentiment_trends():
-    """Plots sentiment trends over time for FinBERT and Vader."""
-    sentiment_file = os.path.join(ANALYSIS_FOLDER, "sentiment_trends.csv")
-    df = load_data(sentiment_file)
+def compute_average_sentiment(sentiment_df):
+    required_cols = {"DATE", "TICKER", "CATEGORY", "FINBERT_POSITIVE", "FINBERT_NEGATIVE", "VADER_POSITIVE", "VADER_NEGATIVE"}
+    if not required_cols.issubset(set(sentiment_df.columns)):
+        raise KeyError(f"Missing required columns. Found: {set(sentiment_df.columns)}")
+
+    aggregated_df = (
+        sentiment_df.groupby(["DATE", "TICKER", "CATEGORY"])
+        .agg(
+            AVG_FINBERT=("FINBERT_POSITIVE", "mean"),
+            AVG_VADER=("VADER_POSITIVE", "mean"),
+        )
+        .reset_index()
+    )
+
+    print(f"✅ Successfully computed average sentiment scores. DataFrame shape: {aggregated_df.shape}")
+    return aggregated_df
+
+
+def plot_sentiment_by_keyword_type_per_ticker(sentiment_df, sentiment_type="FINBERT", output_folder="output/sentiment_tickers"):
+    os.makedirs(output_folder, exist_ok=True)
+
+    sentiment_column = f"AVG_{sentiment_type}"
+
+    tickers = sentiment_df["TICKER"].unique()
+    categories = ["Financial", "Climate", "Risk"]
+
+    for ticker in tickers:
+        plt.figure(figsize=(12, 6))
+
+        for category in categories:
+            ticker_data = sentiment_df[(sentiment_df["TICKER"] == ticker) & (sentiment_df["CATEGORY"] == category)]
+            if not ticker_data.empty:
+                sns.lineplot(data=ticker_data, x="DATE", y=sentiment_column, marker="o", label=category)
+
+        plt.xlabel("Date")
+        plt.ylabel(f"Average {sentiment_type.capitalize()} Sentiment Score")
+        plt.title(f"{sentiment_type.capitalize()} Sentiment Trends by Keyword Type for {ticker}")
+        plt.xticks(rotation=45)
+        plt.legend(title="Keyword Category")
+        plt.grid()
+
+        output_path = os.path.join(output_folder, f"{sentiment_type.lower()}_sentiment_{ticker}.png")
+        plt.savefig(output_path, bbox_inches="tight")
+        plt.close()
+        logging.info(f"✅ Saved {sentiment_type} sentiment trends plot for {ticker} at {output_path}.")
+
+
+def plot_overall_sentiment_by_keyword_type(sentiment_df, sentiment_type="FINBERT", output_folder="output/sentiment_all_tickers"):
+    os.makedirs(output_folder, exist_ok=True)
+
+    sentiment_column = f"AVG_{sentiment_type}"
 
     plt.figure(figsize=(12, 6))
-    sns.lineplot(data=df, x="Year", y="avg_finbert", marker="o", label="FinBERT Sentiment")
-    sns.lineplot(data=df, x="Year", y="avg_vader", marker="s", label="VADER Sentiment")
-    
-    plt.xlabel("Year")
-    plt.ylabel("Average Sentiment Score")
-    plt.title("Sentiment Trends Over Time (FinBERT vs. Vader)")
-    plt.legend()
+
+    for category in ["Financial", "Climate", "Risk"]:
+        category_data = sentiment_df[sentiment_df["CATEGORY"] == category]
+        if not category_data.empty:
+            sns.lineplot(data=category_data, x="DATE", y=sentiment_column, marker="o", label=category)
+
+    plt.xlabel("Date")
+    plt.ylabel(f"Average {sentiment_type.capitalize()} Sentiment Score")
+    plt.title(f"Overall {sentiment_type.capitalize()} Sentiment Trends by Keyword Type")
+    plt.xticks(rotation=45)
+    plt.legend(title="Keyword Category")
     plt.grid()
-    
-    output_path = "plots/sentiment_trends.png"
+
+    output_path = os.path.join(output_folder, f"overall_{sentiment_type.lower()}_sentiment.png")
     plt.savefig(output_path, bbox_inches="tight")
     plt.close()
-    logging.info(f"✅ Saved sentiment trends plot at {output_path}.")
-
-
-def plot_keyword_sentiment():
-    """Plots average sentiment scores for different keywords."""
-    keyword_file = os.path.join(ANALYSIS_FOLDER, "keyword_sentiment.csv")
-    df = load_data(keyword_file)
-
-    df_sorted = df.sort_values(by="count", ascending=False).head(20)  # Top 20 keywords
-
-    plt.figure(figsize=(14, 7))
-    sns.barplot(data=df_sorted, y="keyword", x="avg_finbert", color="blue", label="FinBERT")
-    sns.barplot(data=df_sorted, y="keyword", x="avg_vader", color="orange", label="VADER")
-    
-    plt.xlabel("Average Sentiment Score")
-    plt.ylabel("Keyword")
-    plt.title("Top Keywords by Sentiment (FinBERT vs. Vader)")
-    plt.legend()
-    
-    output_path = "plots/keyword_sentiment.png"
-    plt.savefig(output_path, bbox_inches="tight")
-    plt.close()
-    logging.info(f"✅ Saved keyword sentiment plot at {output_path}.")
-
-
-def plot_financial_vs_climate():
-    """Compares sentiment for financial vs. climate-related keywords."""
-    keyword_file = os.path.join(ANALYSIS_FOLDER, "keyword_sentiment.csv")
-    df = load_data(keyword_file)
-
-    financial_keywords = ["capital markets", "loss ratios", "reinsurance", "market exposure"]
-    climate_keywords = ["climate change", "hurricane", "flood", "wildfire"]
-
-    df_financial = df[df["keyword"].isin(financial_keywords)]
-    df_climate = df[df["keyword"].isin(climate_keywords)]
-
-    plt.figure(figsize=(12, 6))
-    sns.barplot(data=df_financial, x="keyword", y="avg_finbert", color="blue", label="Financial (FinBERT)")
-    sns.barplot(data=df_climate, x="keyword", y="avg_finbert", color="green", label="Climate (FinBERT)")
-    
-    plt.xlabel("Keyword")
-    plt.ylabel("Average Sentiment Score")
-    plt.title("Financial vs. Climate Keyword Sentiment (FinBERT)")
-    plt.legend()
-    
-    output_path = "plots/financial_vs_climate.png"
-    plt.savefig(output_path, bbox_inches="tight")
-    plt.close()
-    logging.info(f"✅ Saved financial vs. climate sentiment plot at {output_path}.")
-
-
-def plot_sentiment_distribution():
-    """Plots the distribution of sentiment scores by year."""
-    sentiment_file = os.path.join(ANALYSIS_FOLDER, "sentiment_trends.csv")
-    df = load_data(sentiment_file)
-    
-    plt.figure(figsize=(12, 6))
-    sns.histplot(df["avg_finbert"], bins=20, kde=True, color="blue", label="FinBERT")
-    sns.histplot(df["avg_vader"], bins=20, kde=True, color="orange", label="VADER")
-    
-    plt.xlabel("Sentiment Score")
-    plt.ylabel("Frequency")
-    plt.title("Sentiment Score Distribution Over Time")
-    plt.legend()
-    
-    output_path = "plots/sentiment_distribution.png"
-    plt.savefig(output_path, bbox_inches="tight")
-    plt.close()
-    logging.info(f"✅ Saved sentiment distribution plot at {output_path}.")
+    logging.info(f"✅ Saved overall {sentiment_type} sentiment trends plot at {output_path}.")
 
 
 def perform_graphing():
-    """Runs all graphing functions."""
-    plot_sentiment_trends()
-    plot_keyword_sentiment()
-    plot_financial_vs_climate()
-    plot_sentiment_distribution()
+    sentiment_file = os.path.join(DATA_FOLDER, "sentiment_results_merged.csv")
+    sentiment_df = load_data(sentiment_file)
+
+    quarter_to_month = {"1Q": "01", "2Q": "04", "3Q": "07", "4Q": "10"}
+    sentiment_df["DATE"] = sentiment_df.apply(
+        lambda row: f"{row['YEAR']}-{quarter_to_month.get(row['QUARTER'].upper(), '01')}-01", axis=1
+    )
+    sentiment_df["DATE"] = pd.to_datetime(sentiment_df["DATE"])
+
+    sentiment_df = compute_average_sentiment(sentiment_df)
+
+    plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "FINBERT")
+    plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "VADER")
+
+    plot_overall_sentiment_by_keyword_type(sentiment_df, "FINBERT")
+    plot_overall_sentiment_by_keyword_type(sentiment_df, "VADER")
+
     logging.info("✅ Graphing completed successfully.")
 
 

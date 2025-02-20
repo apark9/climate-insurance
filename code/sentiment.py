@@ -9,7 +9,6 @@ from textstat import textstat
 from config import keywords_financial, keywords_climate, keywords_risk
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-# Set up logging
 os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     filename="logs/sentiment_analysis.log",
@@ -53,6 +52,27 @@ def extract_date_from_filename(filename):
         logging.error(f"Filename error: {e}")
         return None, None, None
 
+def extract_ticker(file_name, text):
+    try:
+        ticker = file_name.split("_")[0]  
+
+        first_lines = text.split("\n")[:10]
+        for line in first_lines:
+            cleaned_line = line.strip()
+
+            if any(word in cleaned_line.lower() for word in ["copyright", "all rights reserved", "sp global", "intelligence"]):
+                continue
+
+            if any(exchange in cleaned_line for exchange in ["NYSE:", "NASDAQ:", "TSX:", "LSE:", "ASX:"]):
+                continue
+
+            return ticker
+
+        return ticker
+    except Exception as e:
+        logging.error(f"Error extracting ticker from {file_name}: {e}")
+        return file_name.split("_")[0]
+
 def calculate_readability(sentence):
     return {
         "flesch_reading_ease": textstat.flesch_reading_ease(sentence),
@@ -72,13 +92,10 @@ def remove_personal_names(sentences):
     filtered_sentences = []
     for sent in sentences:
         doc = nlp(sent)
-
         if any(ent.label_ == "PERSON" for ent in doc.ents):
             continue  
-
         if any(phrase in sent for phrase in SKIP_PHRASES):
             continue  
-
         filtered_sentences.append(sent)
 
     return filtered_sentences
@@ -111,6 +128,8 @@ def analyze_pdf(file_path, file_index, total_files):
     if not text.strip():
         return file_name, []
 
+    company_name = extract_ticker(file_name, text)
+
     keyword_category_map = {kw: "Financial" for kw in keywords_financial}
     keyword_category_map.update({kw: "Climate" for kw in keywords_climate})
     keyword_category_map.update({kw: "Risk" for kw in keywords_risk})
@@ -139,7 +158,7 @@ def analyze_pdf(file_path, file_index, total_files):
         
         results.append({
             "file_name": file_name,
-            "Ticker": ticker,
+            "Ticker": company_name,
             "Year": year,
             "Quarter": quarter,
             "sentence": sentence,
@@ -163,16 +182,11 @@ def analyze_pdf(file_path, file_index, total_files):
 
 def process_batch(batch_number):
     all_files = sorted([os.path.join(TRANSCRIPT_FOLDER, f) for f in os.listdir(TRANSCRIPT_FOLDER) if f.endswith(".pdf")])
-
     start_idx = (batch_number - 1) * NUM_PDFS
     end_idx = start_idx + NUM_PDFS
     batch_files = all_files[start_idx:end_idx]
 
-    print(f"Batch {batch_number}: Processing {len(batch_files)} files")  
-    logging.info(f"Batch {batch_number}: Processing {len(batch_files)} files")
-
     if not batch_files:
-        print(f"No files in batch {batch_number}. Skipping.")
         return
 
     all_results = []
@@ -185,7 +199,6 @@ def process_batch(batch_number):
 
 def merge_batches():
     batch_files = sorted([f for f in os.listdir(OUTPUT_FOLDER) if f.startswith("sentiment_results_batch_")])
-
     if not batch_files:
         return
 
@@ -221,7 +234,6 @@ def perform_analysis():
     analyze_keyword_sentiment(merged_df)
 
 if __name__ == "__main__":
-    
     process_batch(batch_number)
     merge_batches()
     perform_analysis()

@@ -1,0 +1,30 @@
+Group 1:
+ACGL, MKL
+
+Group 8:
+AFG, ORI, PGR
+
+Group 4:
+AFL, IFC, SREN
+
+Group 3:
+AIG, ALL, AXS, CNA, EG, HIG, MCY, TRV, ZURN
+
+Group 7:
+AIZ, MAP, SKWD
+
+Group 5:
+ALIZY, CB, KNSL
+
+Group 6:
+APO, RLI, THG
+
+Group 10:
+BRK, HRTG, JRVR, KMPR
+
+Group 2:
+CINF, WRB
+
+Group 9:
+FRFHF, SIGI, TIPT, UVE
+
