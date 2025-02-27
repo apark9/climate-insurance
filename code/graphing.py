@@ -3,6 +3,7 @@ import logging
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from IPython.display import display
 
 os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
@@ -36,8 +37,8 @@ def compute_average_sentiment(sentiment_df):
     aggregated_df = (
         sentiment_df.groupby(["DATE", "TICKER", "CATEGORY"])
         .agg(
-            AVG_FINBERT=("FINBERT_POSITIVE", "mean"),
-            AVG_VADER=("VADER_POSITIVE", "mean"),
+            AVG_FINBERT=("FINBERT_NEGATIVE", "mean"),
+            AVG_VADER=("VADER_NEGATIVE", "mean"),
         )
         .reset_index()
     )
@@ -99,6 +100,31 @@ def plot_overall_sentiment_by_keyword_type(sentiment_df, sentiment_type="FINBERT
     plt.close()
     logging.info(f"✅ Saved overall {sentiment_type} sentiment trends plot at {output_path}.")
 
+def rank_companies_by_sentiment(sentiment_df, output_folder="output/sentiment_all_tickers"):
+    
+    os.makedirs(output_folder, exist_ok=True)
+    output_excel_finbert = os.path.join(output_folder, "ranked_companies_finbert.xlsx")
+    output_excel_vader = os.path.join(output_folder, "ranked_companies_vader.xlsx")
+    output_csv_finbert = os.path.join(output_folder, "ranked_companies_finbert.csv")
+    output_csv_vader = os.path.join(output_folder, "ranked_companies_vader.csv")
+
+    # Compute average sentiment per ticker
+    print("🔢 Computing average negative sentiment per company...")
+    sentiment_aggregated_df = sentiment_df.groupby("TICKER", as_index=False).agg({
+        "AVG_FINBERT": "mean",
+        "AVG_VADER": "mean"
+    })
+
+    sorted_by_finbert = sentiment_aggregated_df.sort_values(by="AVG_FINBERT", ascending=False).reset_index(drop=True)
+    sorted_by_finbert.rename(columns={"AVG_FINBERT": "SORTED_BY_AVG_FINBERT"}, inplace=True)
+    
+    sorted_by_vader = sentiment_aggregated_df.sort_values(by="AVG_VADER", ascending=False).reset_index(drop=True)
+    sorted_by_vader.rename(columns={"AVG_VADER": "SORTED_BY_AVG_VADER"}, inplace=True)
+
+    sorted_by_finbert.to_excel(output_excel_finbert, index=False)
+    sorted_by_finbert.to_csv(output_csv_finbert, index=False)
+    sorted_by_vader.to_excel(output_excel_vader, index=False)
+    sorted_by_vader.to_csv(output_csv_vader, index=False)
 
 def perform_graphing():
     sentiment_file = os.path.join(DATA_FOLDER, "sentiment_results_merged.csv")
@@ -112,11 +138,13 @@ def perform_graphing():
 
     sentiment_df = compute_average_sentiment(sentiment_df)
 
-    plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "FINBERT")
-    plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "VADER")
+    # plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "FINBERT")
+    # plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "VADER")
 
-    plot_overall_sentiment_by_keyword_type(sentiment_df, "FINBERT")
-    plot_overall_sentiment_by_keyword_type(sentiment_df, "VADER")
+    # plot_overall_sentiment_by_keyword_type(sentiment_df, "FINBERT")
+    # plot_overall_sentiment_by_keyword_type(sentiment_df, "VADER")
+
+    rank_companies_by_sentiment(sentiment_df)
 
     logging.info("✅ Graphing completed successfully.")
 

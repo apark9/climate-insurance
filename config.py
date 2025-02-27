@@ -39,3 +39,4 @@ keywords_risk = [
     'infrastructure damage', 'business interruption', 'supply chain disruption',
     'market volatility', 'risk assessment', 'stress testing', 'scenario analysis'
 ]
+
