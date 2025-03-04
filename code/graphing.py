@@ -5,15 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from IPython.display import display
 
-os.makedirs("logs", exist_ok=True)
-logging.basicConfig(
-    filename="logs/graphing.log",
-    filemode="w",
-    level=logging.INFO,
-    format="%(asctime)s - [%(levelname)s] - %(message)s",
-)
-print("\U0001F680 Graphing script started...", flush=True)
-
 ANALYSIS_FOLDER = "analysis/sentiment"
 DATA_FOLDER = "data/sentiment_output"
 

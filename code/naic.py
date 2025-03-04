@@ -3,10 +3,14 @@ from PyPDF2 import PdfReader
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from multiprocessing import Pool
 from textstat import textstat
-from config import keyword_flag
+from PyPDF2 import PdfReader, PdfWriter
+import pdfplumber
 import pandas as pd
 import logging
+import sys
 import spacy
+import time
+import re
 
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
@@ -16,7 +20,13 @@ nlp = spacy.load("en_core_web_sm")
 
 transcript_folder = "data/transcripts"
 output_folder = "output"
+mkt_share_folder = "data/NAIC_market_share"
+trimmed_folder = "data/NAIC_market_share/NAIC_market_share_trimmed"
 os.makedirs(output_folder, exist_ok=True)
+
+logging.getLogger("pdfplumber").setLevel(logging.WARNING)
+logging.getLogger("PyPDF2").setLevel(logging.WARNING)
+logging.getLogger("pdfminer").setLevel(logging.WARNING)
 
 def filter_sentences(text):
     sentences = text.split(".")
@@ -109,5 +119,161 @@ def analyze_transcripts():
     else:
         logging.warning("No transcript results to save after processing.")
 
+
+# -------------------------------
+# STEP 1: TRIM PDFs BEFORE PROCESSING
+# (Already done, leaving as a comment)
+# -------------------------------
+
+# def trim_pdf(input_pdf):
+#     """Trims the PDF by removing pages after the '01-Fire' section."""
+#     start_time = time.time()
+#     output_pdf = os.path.join(trimmed_folder, os.path.basename(input_pdf))
+#     logging.info(f"Trimming PDF: {input_pdf}")
+#     with pdfplumber.open(input_pdf) as pdf:
+#         writer = PdfWriter()
+#         page_count = 0
+#         for i, page in enumerate(pdf.pages):
+#             text = page.extract_text()
+#             if text and "01-Fire" in text:
+#                 logging.info(f"Stopping at page {i} for {input_pdf} (found '01-Fire')")
+#                 break
+#             writer.add_page(PdfReader(input_pdf).pages[i])
+#             page_count += 1
+#         with open(output_pdf, "wb") as f:
+#             writer.write(f)
+#     elapsed_time = round(time.time() - start_time, 2)
+#     logging.info(f"Trimmed {input_pdf}: Kept {page_count} pages (Time taken: {elapsed_time}s)")
+#     return output_pdf
+
+# -------------------------------
+# STEP 2: EXTRACT MARKET SHARE DATA
+# -------------------------------
+
+BATCH_SIZE = 2  # Process 4 PDFs at a time
+
+def parse_market_data(text, year):
+    """Extracts market share data, separating Nationwide and State-level rankings."""
+    lines = text.split("\n")
+    national_data = []
+    state_data = []
+    capture_national = False
+    capture_state = False
+    current_state = None  # Track current state for state-specific data
+
+    for line in lines:
+        # Detect start of Nationwide data
+        if "PROPERTY AND CASUALTY INSURANCE INDUSTRY" in line and "MARKET SHARE REPORT" in line:
+            capture_national = True
+            capture_state = False  # Reset state capture
+            continue
+
+        # Detect transition to State-Level data
+        match = re.match(r"^([A-Z\s]+)\s+\d+\s+\d+", line)
+        if match and len(line.split()) >= 4:
+            current_state = match.group(1).strip()
+            capture_state = True
+            capture_national = False  # Stop capturing national data
+            continue
+
+        cols = re.split(r"\s{2,}", line.strip())
+
+        # Ensure we are processing valid numerical rows
+        if len(cols) >= 5 and cols[-3].replace(",", "").isdigit() and cols[-2].replace(".", "").isdigit():
+            company_name = " ".join(cols[:-3])  # Multi-word company names
+            premium_written = cols[-3]
+            loss_ratio = cols[-1]
+
+            try:
+                premium_written = float(premium_written.replace(",", ""))
+                loss_ratio = float(loss_ratio)
+            except ValueError:
+                continue  # Skip invalid rows
+
+            # Append to correct dataset
+            if capture_national:
+                national_data.append([company_name, year, premium_written, loss_ratio])
+            elif capture_state and current_state:
+                state_data.append([current_state, company_name, year, premium_written, loss_ratio])
+
+    logging.info(f"Extracted {len(national_data)} nationwide records and {len(state_data)} state records for {year}")
+    return national_data, state_data
+
+def pull_market_data(pdf_file):
+    """Extracts market share data, separating Nationwide vs. State-level data."""
+    start_time = time.time()
+    year = os.path.basename(pdf_file).replace(".pdf", "").strip()
+    national_results = []
+    state_results = []
+
+    logging.info(f"Processing market data from {pdf_file}")
+
+    try:
+        with pdfplumber.open(pdf_file) as pdf:
+            full_text = "\n".join([page.extract_text() for page in pdf.pages if page.extract_text()])
+            national_data, state_data = parse_market_data(full_text, year)
+            national_results.extend(national_data)
+            state_results.extend(state_data)
+
+    except Exception as e:
+        logging.error(f"Error processing {pdf_file}: {e}")
+
+    elapsed_time = round(time.time() - start_time, 2)
+    logging.info(f"Completed {pdf_file} (Time taken: {elapsed_time}s)")
+    return national_results, state_results
+
+def analyze_single_batch(batch_index):
+    """Processes a single batch of PDFs and saves separate Nationwide and State-Level data."""
+    trimmed_files = sorted([os.path.join(trimmed_folder, f) for f in os.listdir(trimmed_folder) if f.endswith(".pdf")])
+
+    if not trimmed_files:
+        logging.warning("No trimmed PDFs found. Exiting.")
+        return
+
+    total_batches = (len(trimmed_files) + BATCH_SIZE - 1) // BATCH_SIZE
+
+    if batch_index >= total_batches:
+        logging.error(f"Invalid batch index: {batch_index}. Only {total_batches} batch(es) available.")
+        return
+
+    batch_start = batch_index * BATCH_SIZE
+    batch_files = trimmed_files[batch_start: batch_start + BATCH_SIZE]
+
+    logging.info(f"Processing batch {batch_index + 1} ({batch_start + 1}-{batch_start + len(batch_files)} of {len(trimmed_files)})")
+
+    all_national_results = []
+    all_state_results = []
+
+    for pdf in batch_files:
+        national_data, state_data = pull_market_data(pdf)
+        all_national_results.extend(national_data)
+        all_state_results.extend(state_data)
+
+    # Convert results to DataFrame and save batch results
+    if all_national_results:
+        national_df = pd.DataFrame(all_national_results, columns=["Company", "Year", "Premium Written", "Loss Ratio"])
+        national_df["Year"] = national_df["Year"].astype(int)
+
+        national_csv = os.path.join(output_folder, f"national_market_share_batch_{batch_index}.csv")
+        national_xlsx = os.path.join(output_folder, f"national_market_share_batch_{batch_index}.xlsx")
+
+        national_df.to_csv(national_csv, index=False)
+        national_df.to_excel(national_xlsx, index=False)
+
+        logging.info(f"National batch {batch_index + 1} saved to {national_csv} and {national_xlsx}")
+
+    if all_state_results:
+        state_df = pd.DataFrame(all_state_results, columns=["State", "Company", "Year", "Premium Written", "Loss Ratio"])
+        state_df["Year"] = state_df["Year"].astype(int)
+
+        state_csv = os.path.join(output_folder, f"state_market_share_batch_{batch_index}.csv")
+        state_xlsx = os.path.join(output_folder, f"state_market_share_batch_{batch_index}.xlsx")
+
+        state_df.to_csv(state_csv, index=False)
+        state_df.to_excel(state_xlsx, index=False)
+
+        logging.info(f"State batch {batch_index + 1} saved to {state_csv} and {state_xlsx}")
+
 if __name__ == "__main__":
-    analyze_transcripts()
+    # analyze_transcripts()
+    analyze_single_batch(batch_index)

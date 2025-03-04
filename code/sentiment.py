@@ -9,14 +9,6 @@ from textstat import textstat
 from config import keywords_financial, keywords_climate, keywords_risk
 from nltk.sentiment import SentimentIntensityAnalyzer
 
-os.makedirs("logs", exist_ok=True)
-logging.basicConfig(
-    filename="logs/sentiment_analysis.log",
-    filemode="w",
-    level=logging.INFO,
-    format="%(asctime)s - %(message)s",
-)
-
 nlp = spacy.load("en_core_web_sm")
 finbert = None
 vader = SentimentIntensityAnalyzer()
@@ -233,7 +225,46 @@ def perform_analysis():
     analyze_sentiment_trends(merged_df)
     analyze_keyword_sentiment(merged_df)
 
+
+def generate_sentiment_excel(data_folder="data/sentiment_output", output_path="output/sentiment_analysis.xlsx"):
+    
+    file_path = os.path.join(data_folder, "sentiment_results_merged.csv")
+    sentiment_df = pd.read_csv(file_path)
+    
+    sentiment_df.columns = sentiment_df.columns.str.upper()
+    sentiment_df["YEAR"] = sentiment_df["YEAR"].astype(int)
+    
+    sentiment_agg = sentiment_df.groupby(["TICKER", "YEAR", "CATEGORY"], as_index=False).agg(
+        AVG_FINBERT=("FINBERT_NEGATIVE", "mean"),
+        AVG_VADER=("VADER_NEGATIVE", "mean")
+    )
+    
+    overall_sentiment = sentiment_df.groupby(["TICKER", "YEAR"], as_index=False).agg(
+        AVG_FINBERT=("FINBERT_NEGATIVE", "mean"),
+        AVG_VADER=("VADER_NEGATIVE", "mean")
+    )
+    
+    grouped_data = {}
+    keyword_types = sentiment_df["CATEGORY"].unique()
+    sentiment_models = ["FINBERT", "VADER"]
+    
+    for keyword in keyword_types:
+        for model in sentiment_models:
+            sentiment_column = f"AVG_{model}"
+            df_pivot = sentiment_agg[sentiment_agg["CATEGORY"] == keyword].pivot(
+                index="TICKER", columns="YEAR", values=sentiment_column
+            ).fillna(0)
+            grouped_data[f"{keyword}_{model}"] = df_pivot
+    
+    grouped_data["Overall_FINBERT"] = overall_sentiment.pivot(index="TICKER", columns="YEAR", values="AVG_FINBERT").fillna(0)
+    grouped_data["Overall_VADER"] = overall_sentiment.pivot(index="TICKER", columns="YEAR", values="AVG_VADER").fillna(0)
+
+    with pd.ExcelWriter(output_path, engine="xlsxwriter") as writer:
+        for sheet_name, df in grouped_data.items():
+            df.to_excel(writer, sheet_name=sheet_name)
+
 if __name__ == "__main__":
     process_batch(batch_number)
     merge_batches()
     perform_analysis()
+    generate_sentiment_excel()
