@@ -1,0 +1,2086 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+PGR_NOV22.txt,PGR,2022,Q4,"S&P's P&C sector outlook is negative, partly reflecting their view of reduced
+capital adequacy from these negative marks upon P&C insurers.",capital adequacy,Financial,0.0,0.9671441316604614,0.0,24.78,16.02,0.0,0.9523809523809523,21
+PGR_NOV22.txt,PGR,2022,Q4,"PGR's
+pricing may appear relatively more compelling to customers as it took rate increases on the
+earlier side, we already saw, which we think reflects the continuation of higher new business
+(new applications +20% in 3Q).",rate increases,Financial,0.9479167461395264,0.0,0.0,34.94,19.96,0.0,0.9444444444444444,36
+PGR_NOV22.txt,PGR,2022,Q4,"Nov. operating EPS of $0.54 beat our $0.24 estimate, reflecting better underlying income and a
+$40mn reduction of September's Hurricane lan loss estimates.",hurricane,Climate,0.9376663565635681,0.0,0.0,46.74,15.25,11.9,0.9565217391304348,23
+PGR_NOV22.txt,PGR,2022,Q4,"We had modeled catastrophe
+loss of $42mn vs. PGR's -$4mn.
+PGR:",catastrophe,Financial,0.0,0.9032975435256958,0.0,85.69,8.04,0.0,1.0,11
+PGR_NOV22.txt,PGR,2022,Q4,"Model Summary (pg. 2)
+($ in mn, except per share data)
+2019
+2020
+2021
+2022E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,-1.11,25.48,0.0,0.71875,96
+PGR_NOV22.txt,PGR,2022,Q4,"Valuation Methodology: Our $109 PT is based on 20x EPS and 3.2x BVPS (ex AOCI) on 2023E.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8745034337043762,0.0,0.0,59.94,11.95,11.9,0.8983050847457628,59
+PGR_NOV24.txt,PGR,2024,Q4,"The beat comes
+primarily due to strong performance in the Property segment and lower than expected
+catastrophe losses for the month.",catastrophe,Financial,0.8475134968757629,0.0,0.0,41.7,17.92,0.0,0.9523809523809523,21
+PGR_NOV24.txt,PGR,2024,Q4,"Cat losses came in at $(18) million which was significantly
+below our $63 million estimate, as favorable development associated with Hurricanes Helene
+and Milton exceeded current month storm losses.",hurricane,Climate,0.0,0.8473743796348572,0.0,16.66,21.26,0.0,0.9655172413793104,29
+PGR_NOV24.txt,PGR,2024,Q4,"Overall, a
+solid print as PIF growth remained strong, catastrophes came in much better than expected,
+and strong Property results as well as solid Personal and Commercial results contributed to a
+bottom line beat.
+",catastrophe,Financial,0.9552086591720581,0.0,0.0,36.97,20.66,0.0,0.8235294117647058,34
+PGR_NOV24.txt,PGR,2024,Q4,"PGR - Quick Take Total Company P&C Underwriting
+Nov-21
+Nov-22
+Nov-23
+Oct-24
+Nov-24
+Total Company P&C Underwriting
+Net premiums written
+% Growth YoY
+11.2%
+Net premiums earned
+3,590
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+(1.4%)
+Reserve development ($m)
+Reserve development (pts)
+Actual
+3,289
+14.0%
+73.6%
+18.3%
+91.9%
+76.3%
+94.6%
+(50)
+(48)
+(1.3%)
+(1.4%)
+Actual
+3,699
+12.5%
+3,989
+11.1%
+27.3%
+74.4%
+75.3%
+17.8%
+15.8%
+20.2%
+92.2%
+91.1%
+75.8%
+93.6%
+(4)
+(0.1%)
+(55)
+Actual
+Actual
+6,578
+19.0%
+4,725
+27.7%
+5,079
+6,387
+18.6%
+73.9%
+94.1%
+74.7%
+90.5%
+72.4%
+65.6%
+92.6%
+86.0%
+10
+249
+0.2%
+3.9%
+22
+(156)
+0.4%
+(2.4%)
+Reported
+5,563
+17.7%
+6,040
+18.9%
+65.2%
+20.4%
+85.6%
+(18)
+(0.3%)
+(4)
+(0.1%)
+BARCe
+6,107
+29.3%
+6,304
+24.1%
+67.8%
+21.4%
+89.2%
+66.8%
+88.2%
+Diff vs
+BARCe
+(8.9%)
+(11.5pp)
+(4.2%)
+",catastrophe,Financial,0.0,0.0,0.8588079214096069,89.45,4.65,8.2,0.8041958041958042,143
+PGR_NOV24.txt,PGR,2024,Q4,"Barclays Research, Company Data, Bloomberg
+FIGURE 4. PGR - Quick Take Personal Lines Underwriting
+Nov-21
+Actual
+Nov-22
+Actual
+Nov-23
+Oct-24
+Nov-24
+Personal Lines Underwriting
+Net premiums written
+2,555
+% Growth YoY
+Net premiums earned
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+79.5%
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+(1.8%)
+Reserve development ($m)
+",catastrophe,Financial,0.0,0.0,0.8988797068595886,47.79,10.0,13.0,0.71875,64
+PGR_OCT21.txt,PGR,2021,Q4,PGR is filing for more rate increases.,rate increases,Financial,0.6402915120124817,0.0,0.0,81.29,8.51,0.0,1.0,7
+PGR_OCT21.txt,PGR,2021,Q4,"States
+we are watching closely are TX (10 pending rate increases ranging from 0%-8.4%) and
+FL (4 pending rate increases; magnitude not disclosed).",rate increases,Financial,0.0,0.0,0.7936079502105713,68.26,8.08,0.0,0.8695652173913043,23
+PGR_OCT21.txt,PGR,2021,Q4,"645
+2,426
+27
+2,399
+2,399
+9.5%
+11.0%
+2023E
+56,160
+54,566
+1,015
+818
+289
+56,689
+40,065
+12,005
+33
+300
+206
+52,608
+2,496
+4,081
+857
+-
+3,224
+27
+3,197
+3,197
+$5.45
+$5.45
+9.3%
+10.9%
+17 November 2021
+6
+Barclays | Progressive Corp.
+FIGURE 7
+Model Summary (pg. 2)
+($ in mn, except per share data)
+2018
+2019
+2020
+2021E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+583.2
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Capital deployment
+Assumed Share price for repurchases
+# of shares repurchased (in mn)
+$ Repurchased
+Dividends per share
+$ amt common dividend
+Total capital returned
+Total capital returned, % normalized earnings
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8940606117248535,35.81,16.19,17.3,0.7529411764705882,170
+PGR_OCT22.txt,PGR,2022,Q4,"We think auto insurers have to push high single-digit to
+low double-digit rate increases just to tread water amid
+inflationary loss trends.
+",rate increases,Financial,0.48497793078422546,0.0,0.0,49.15,14.25,0.0,0.9090909090909091,22
+PGR_OCT22.txt,PGR,2022,Q4,"It does not help that PGR is growing now while its underlying loss ratios are deteriorating.
+",loss ratios,Financial,0.5110450983047485,0.0,0.0,55.24,11.4,0.0,1.0,16
+PGR_OCT22.txt,PGR,2022,Q4,"We are cautious regarding how swiftly underlying loss ratios can turn around, particularly given
+PGR's stance that taking rating actions is behind the trend.",loss ratios,Financial,0.0,0.0,0.4541909098625183,38.66,14.6,0.0,1.0,24
+PGR_OCT22.txt,PGR,2022,Q4,"In fact, auto insurers should be
+pushing rate increases just for maintenance purposes, to keep up with loss trends that are still
+accumulating; albeit at a moderating pace.",rate increases,Financial,0.8978566527366638,0.0,0.0,43.06,19.77,0.0,1.0,28
+PGR_OCT22.txt,PGR,2022,Q4,"Oct. operating EPS of $0.40 beat our $0.33 estimate as catastrophe losses were better than
+expected.",catastrophe,Financial,0.9225099682807922,0.0,0.0,57.64,12.12,9.7,1.0,16
+PGR_OCT22.txt,PGR,2022,Q4,"During Oct., PGR experienced some loss creep related to Hurricane lan (by $27
+million, or 0.7 pts on its loss ratio for personal auto and by $3mn or 0.3 pts for Commercial
+lines).",hurricane,Climate,0.0,0.8320096135139465,0.0,68.77,10.46,10.5,0.8787878787878788,33
+PGR_OCT22.txt,PGR,2022,Q4,"We had modeled higher loss
+creep from Hurricane lan, as our catastrophe loss estimate was $124mn vs. PGR's $44mn.
+PGR:",catastrophe,Financial,0.0,0.8560141324996948,0.0,68.1,14.0,0.0,0.95,20
+PGR_OCT22.txt,PGR,2022,Q4,"We had modeled higher loss
+creep from Hurricane lan, as our catastrophe loss estimate was $124mn vs. PGR's $44mn.
+PGR:",hurricane,Climate,0.0,0.8560141324996948,0.0,68.1,14.0,0.0,0.95,20
+PGR_OCT22.txt,PGR,2022,Q4,"Model Summary (pg. 2)
+($ in mn, except per share data)
+2019
+2020
+2021
+2022E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,-1.11,25.48,0.0,0.71875,96
+PGR_OCT22.txt,PGR,2022,Q4,"Valuation Methodology: Our $104 PT is based on 20x EPS and 3.2x BVPS (ex AOCI) on 2023E.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.875188410282135,0.0,0.0,59.94,11.95,11.9,0.8983050847457628,59
+PGR_OCT24.txt,PGR,2024,Q4,"BARCLAYS
+Equity Research
+North America Insurance/Non-Life
+15 November 2024
+Progressive Corp.
+Net EPS Comes in Above Estimate as
+PIF Growth Continues and
+Catastrophe Losses Better than
+Expected
+Progressive's October results yielded a strong Net EPS beat as
+catastrophe losses from named storms in the month were lower
+than expected and on a segment basis, Property performed
+much better than expected.",catastrophe,Financial,0.9516626000404358,0.0,0.0,32.57,18.0,0.0,0.8666666666666667,60
+PGR_OCT24.txt,PGR,2024,Q4,"The beat comes
+primarily due to strong performance in the Property segment and lower than expected
+catastrophe losses for the month.",catastrophe,Financial,0.8475134968757629,0.0,0.0,41.7,17.92,0.0,0.9523809523809523,21
+PGR_OCT24.txt,PGR,2024,Q4,"Cat losses came in at $249 million which was significantly
+below our $595 million estimate based on PGR's prior guidance on Hurricane Milton.
+",hurricane,Climate,0.0,0.9572163820266724,0.0,39.67,14.42,0.0,0.9130434782608695,23
+PGR_OCT24.txt,PGR,2024,Q4,"Overall, a solid print as PIF growth continued to remain strong, catastrophes
+came in better than feared, sizeable favorable reserve development, and strong Property results
+contributed to a bottom line beat.",catastrophe,Financial,0.9522688984870911,0.0,0.0,31.55,20.14,0.0,0.9354838709677419,31
+PGR_OCT24.txt,PGR,2024,Q4,"Property: Underlying loss ratio came in much better than expected at 32.3% vs. our 57.6% as a
+function of materially lower catastrophe losses compared to our estimate.",catastrophe,Financial,0.9146416783332825,0.0,0.0,40.85,14.29,0.0,0.9629629629629629,27
+PGR_OCT24.txt,PGR,2024,Q4,"PGR - Quick Take Total Company P&C Underwriting
+Total Company P&C Underwriting
+Net premiums written
+4,347
+% Growth YoY
+14.5%
+Net premiums earned
+4,398
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+-
+Reserve development ($m)
+(57)
+Reserve development (pts)
+(1.3%)
+(0.9%)
+Oct-21
+Actual
+12.9%
+78.9%
+77.7%
+75.7%
+18.3%
+97.2%
+80.2%
+98.5%
+Oct-22
+Actual
+5,187
+19.3%
+4,873
+10.8%
+18.1%
+16.0%
+20.8%
+95.9%
+91.7%
+77.8%
+95.9%
+44
+0.9%
+Oct-23
+Actual
+5,529
+6.6%
+5,383
+10.5%
+75.9%
+64.1%
+91.9%
+22
+Sep-24
+Actual
+6,570
+34.1%
+6,263
+34.7%
+72.6%
+93.4%
+84.9%
+92.6%
+570
+9.1%
+Reported
+6,578
+19.0%
+6,387
+18.6%
+73.9%
+20.2%
+94.1%
+72.4%
+249
+3.9%
+Oct-24
+BARCe
+7,172
+29.7%
+6,309
+17.2%
+76.8%
+21.2%
+98.0%
+67.4%
+88.6%
+",catastrophe,Financial,0.0,0.0,0.8366868495941162,80.58,5.03,8.7,0.796875,128
+PGR_OCT24.txt,PGR,2024,Q4,"PGR - Quick Take Personal Lines Underwriting
+Personal Lines Underwriting
+Net premiums written
+3,376
+% Growth YoY
+Net premiums earned
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+82.6%
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+(0.1%)
+Reserve development ($m)
+",catastrophe,Financial,0.0,0.0,0.8289346098899841,47.49,10.47,13.0,0.66,50
+PGR_OCT24.txt,PGR,2024,Q4,"Progressive Projections Total Company P&C Underwriting
+4Q23
+1Q24
+2Q24
+3Q24
+Actual
+Actual
+Actual
+Actual
+4Q24E
+1Q25E
+BARCe
+Street
+Diff
+BARCe Street
+Diff
+BARCe Street
+Diff
+17.0% 16.8%
+0.2pp
+11.0%
+8.5%
+2.5pp
+7.0%
+6.4%
+(1.1pp)
+11.6%
+10.1%
+18.4%
+(0.9pp
+10.8%
+9.4%
+1.4pp
+7.2%
+1.3%
+3.1%
+(1.8pp)
+2.1%
+16.5%
+17.1%
+(0.6pp)
+10.3%
+8.9%
+2024E
+2025E
+BARCe Street
+Diff
+12.0%
+12.0%
+0.0pp
+7.0%
+10.4%
+(3.4pp)
+1.5pp
+7.0%
+9.2%
+(2.2pp)
+3.7%
+(1.6pp)
+2.1%
+9.2%
+8.4%
+0.8pp
+8.8%
+1.5pp
+7.2%
+2025E
+Diff
+BARCe Street
+Total Company P&C Underwriting
+Net premiums written
+% Growth YoY
+21.4%
+17.7%
+Net premiums earned
+15,773
+% Growth YoY
+15,130
+18,962
+17,902
+19,456
+21.6%
+24.8%
+16,149
+17,210
+18,297
+19,052
+22.3%
+19.3%
+19.0%
+22.8%
+20.8%
+Loss Ratio
+72.7%
+67.9%
+73.2%
+68.4%
+69.7%
+70.7%
+Expense Ratio
+16.0%
+Combined Ratio
+88.7%
+18.1%
+18.8%
+20.7%
+21.1%
+86.1%
+91.9%
+89.0%
+90.8%
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+72.7%
+65.8%
+66.1%
+65.1%
+68.5%
+68.2%
+88.7%
+84.0%
+84.8%
+85.8%
+89.6%
+Catastrophes ($mn)
+58
+Catastrophes (pts)
+Reserve development ($m)
+(53)
+Reserve development (pts)
+(0.3%)
+350
+1,273
+733
+0.4%
+2.2%
+7.4%
+4.0%
+(11)
+(51)
+(137)
+(0.1%) (0.3%)
+(0.7%)
+(0.8%)
+",catastrophe,Financial,0.0,0.0,0.0,81.43,7.62,9.7,0.745945945945946,185
+PGR_OCT24.txt,PGR,2024,Q4,"Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+Reserve development ($m)
+(42)
+Reserve development (pts)
+71.9%
+65.5%
+65.5%
+65.4%
+68.9%
+69.5%
+86.8%
+83.0%
+83.9%
+86.1%
+89.9%
+67
+205
+691
+542
+275
+0.5%
+1.6%
+5.0%
+4.3%
+(0.3%)
+(0.1%)
+(0.3%)
+(9)
+(41)
+(111)
+(0.7%)
+(0.8%)
+",catastrophe,Financial,0.0,0.0,0.8946000933647156,79.9,8.28,9.7,0.8235294117647058,51
+PGR_SEP21.txt,PGR,2021,Q3,"The 5.5 pts included 4.7 pts (~$168mn) of cat losses
+associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",hurricane,Climate,0.0,0.9569094777107239,0.0,58.79,11.4,0.0,0.92,25
+PGR_SEP21.txt,PGR,2021,Q3,"The 5.5 pts included 4.7 pts (~$168mn) of cat losses
+associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",flood,Climate,0.0,0.9569094777107239,0.0,58.79,11.4,0.0,0.92,25
+PGR_SEP21.txt,PGR,2021,Q3,"A key focus will be on the speed
+regulators allow rate increases, where we see pushback in TX where PGR has 8 pending
+requests ranging from 0% to +4.9% (Figure 4).",rate increases,Financial,0.5542547702789307,0.0,0.0,72.66,8.78,0.0,0.967741935483871,31
+PGR_SEP21.txt,PGR,2021,Q3,"FL is another tough state; PGR has 4
+pending requests at around 6% rate increases (Figure 5).
+",rate increases,Financial,0.0,0.7635734677314758,0.0,71.14,9.15,0.0,1.0,17
+PGR_SEP21.txt,PGR,2021,Q3,"May-20
+Jun-20
+Direct - Auto
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+w
+Nov-19
+Dec-19
+Jan-20
+Sept '21 underlying loss ratio of 76.2% (vs. 75.5% Barclays) and expense ratio of 19.1% (vs. 20.4% Barclays)
+Feb-20
+Mar-20
+Underlying Loss Ratio Expense Ratio
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Barclays | Progressive Corp.
+FIGURE 3
+PGR filing for rate increases exceeding industry in 4 of last 6 months has been a headwind for PIF growth
+Wgt.",rate increases,Financial,0.0,0.9592282176017761,0.0,73.51,11.37,10.1,0.7446808510638298,94
+PGR_SEP21.txt,PGR,2021,Q3,"2022E
+51,052
+49,057
+939
+-
+746
+260
+51,002
+36,563
+10,746
+30
+270
+206
+47,815
+1,748
+3,187
+669
+2,518
+27
+2,491
+2,491
+$4.24
+$4.24
+9.5%
+11.0%
+2023E
+55,788
+54,381
+1,008
+816
+288
+56,494
+39,928
+11,909
+33
+299
+206
+52,374
+2,545
+4,120
+865
+3,255
+27
+3,227
+3,227
+$5.49
+$5.49
+9.3%
+10.9%
+14 October 2021
+8
+Barclays | Progressive Corp.
+FIGURE 10
+Model Summary (pg. 2)
+($ in mn, except per share data)
+2018
+2019
+2020
+2021E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+(89)
+PYD pts
+-0.3%
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Capital deployment
+Assumed Share price for repurchases
+# of shares repurchased (in mn)
+$ Repurchased
+Dividends per share
+$ amt common dividend
+Total capital returned
+Total capital returned, % normalized earnings
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8338807225227356,32.77,16.84,17.3,0.7659574468085106,188
+PGR_SEP22.txt,PGR,2022,Q3,"We are cautious regarding how swiftly
+underlying loss ratios can turn around, particularly given PGR's stance that taking rating actions
+is behind it.
+",loss ratios,Financial,0.0,0.0,0.610851526260376,39.67,14.42,0.0,1.0,23
+PGR_SEP22.txt,PGR,2022,Q3,"We do not think reinsurance reinstatement premiums (second event) meaningfully compress
+the denominator of its underlying loss ratio.",reinsurance,Financial,0.0,0.0,0.576616108417511,10.91,20.53,0.0,1.0,18
+PGR_SEP22.txt,PGR,2022,Q3,"Likewise, 95% of PGR's premium comes from lines other than
+homeowners for which little reinsurance exists.
+",reinsurance,Financial,0.0,0.0,0.9300801753997803,55.24,13.9,0.0,1.0,16
+PGR_SEP22.txt,PGR,2022,Q3,"Wk Avg Daily Volume (mn)
+2.7
+Dividend Yield (%)
+0.33
+Return on Equity TTM (%)
+4.95
+Current BVPS (USD)
+25.92
+Source: Bloomberg
+Price Performance
+Exchange-NYSE
+52 Week range
+USD 129.77-88.05
+PGR's Hurricane lan net losses ($760mn, of which $585mn related to auto) reflected 95% IBNR
+which can be subject to variability.",hurricane,Climate,0.0,0.9192761182785034,0.0,71.61,8.99,9.3,0.9411764705882353,51
+PGR_SEP22.txt,PGR,2022,Q3,"Especially since Hurricane lan took place at the end of
+September and early October.",hurricane,Climate,0.0,0.0,0.719902753829956,48.81,11.31,0.0,1.0,14
+PGR_SEP22.txt,PGR,2022,Q3,We had modeled about $600mn of catastrophe losses.,catastrophe,Financial,0.0,0.0,0.5989331007003784,71.82,8.2,0.0,1.0,8
+PGR_SEP22.txt,PGR,2022,Q3,"130
+120
+110
+100
+90
+Jan-2022
+Apr-2022
+Jul-2022
+Oct-2022
+Source: IDC
+Link to Barclays Live for interactive charting
+Sept. operating EPS of ($0.70) missed our ($0.39) estimate as catastrophe losses were worse
+than expected.
+",catastrophe,Financial,0.0,0.9479987025260925,0.0,71.31,9.28,9.5,1.0,34
+PGR_SEP22.txt,PGR,2022,Q3,"Change Y-o-Y
+We raised our auto catastrophe loss estimate for October in light of potential loss creep.
+",catastrophe,Financial,0.0,0.7071937918663025,0.0,62.68,13.86,0.0,0.9411764705882353,17
+PGR_SEP22.txt,PGR,2022,Q3,"Model Summary (pg. 2)
+($ in mn, except per share data)
+2019
+2020
+2021
+2022E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,-1.11,25.48,0.0,0.71875,96
+PGR_SEP22.txt,PGR,2022,Q3,"Valuation Methodology: Our $104 PT is based on 18x EPS and 3.2x BVPS (ex AOCI) on 2023E.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8751000165939331,0.0,0.0,59.94,11.95,11.9,0.8983050847457628,59
+PGR_SEP23.txt,PGR,2023,Q3,"BARCLAYS
+Equity Research
+U.S. Insurance/Non-Life
+13 October 2023
+Progressive Corp.
+September '23: Catastrophe loss
+breather & underlying loss ratio
+improving
+Reserve development alternation: Sept - modest favorable PYD,
+August unfavorable, July favorable, June (and prior months)
+unfavorable.",catastrophe,Financial,0.6109302043914795,0.0,0.0,8.84,16.11,15.5,0.972972972972973,37
+PGR_SEP23.txt,PGR,2023,Q3,"We anticipate seeing
+PGR return to its pre-pandemic expense ratio of nearly 20% only when pricing is adequate and it
+can organically grow statutory surplus.
+150
+140
+130
+120 -
+PGR reported quiet catastrophe losses of $84mn (vs our $106mn estimate) or 1.8pts on its
+consolidated combined ratio; PGR received a $21mn reinsurance recoverable in the quarter (9.5
+pt favorable impact to its property loss ratio.)",catastrophe,Financial,0.747480571269989,0.0,0.0,46.47,14.52,13.4,0.9090909090909091,66
+PGR_SEP23.txt,PGR,2023,Q3,"We anticipate seeing
+PGR return to its pre-pandemic expense ratio of nearly 20% only when pricing is adequate and it
+can organically grow statutory surplus.
+150
+140
+130
+120 -
+PGR reported quiet catastrophe losses of $84mn (vs our $106mn estimate) or 1.8pts on its
+consolidated combined ratio; PGR received a $21mn reinsurance recoverable in the quarter (9.5
+pt favorable impact to its property loss ratio.)",reinsurance,Financial,0.747480571269989,0.0,0.0,46.47,14.52,13.4,0.9090909090909091,66
+PGR_SEP23.txt,PGR,2023,Q3,"Nice reprieve following elevated catastrophe loss
+ratio points of 4.5% in August, 3.2% in July, and an average monthly cat loss ratio points of 4.1%
+in 1H23.
+",catastrophe,Financial,0.0,0.7379905581474304,0.0,64.57,7.16,8.8,0.7777777777777778,27
+PGR_SEP23.txt,PGR,2023,Q3,"September operating EPS of $0.84 beat our $0.40 estimate due to lower catastrophe losses and
+better combined ratio vs. our estimates.
+",catastrophe,Financial,0.9509005546569824,0.0,0.0,47.45,10.42,10.5,0.9523809523809523,21
+PGR_SEP23.txt,PGR,2023,Q3,"Model Summary (pg. 2)
+($ in mn, except per share data)
+2019
+2020
+2021
+2022
+2023E
+2024E
+2025E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts (negative is unfavorable)
+",catastrophe,Financial,0.0,0.5425366759300232,0.0,41.7,13.16,0.0,0.8372093023255814,43
+PGR_SEP23.txt,PGR,2023,Q3,"Valuation Methodology: Our $111 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8781934976577759,0.0,0.0,65.22,9.94,11.2,0.896551724137931,58
+PGR_SEP24.txt,PGR,2024,Q3,"While the catastrophe loss ratio of 9.1%
+was slightly above our 8.7% estimate, strong attritional loss ratio of 64.1% (vs our 68.2%
+estimate) resulted in the company delivering an overall loss ratio of 72.6% against our
+expectation of 76.8%.",catastrophe,Financial,0.7659468054771423,0.0,0.0,64.88,8.75,9.7,0.7435897435897436,39
+PGR_SEP24.txt,PGR,2024,Q3,"Of note, the Direct channel grew net
+premiums by 42% y/y on both a written and earned basis for the month even as loss ratios
+improved from 73% in September 2023 to 64% this month.
+",loss ratios,Financial,0.9576964974403381,0.0,0.0,61.33,15.14,0.0,0.9714285714285714,35
+PGR_SEP24.txt,PGR,2024,Q3,"It's also worth noting that PGR disclosed the estimated impact of Hurricane Milton, which will
+be included in October results.",hurricane,Climate,0.0,0.0,0.9282146692276001,34.26,14.0,0.0,1.0,20
+PGR_SEP24.txt,PGR,2024,Q3,"We view this update favorably as it appears to be lesser than the Hurricane Helene
+impact and gives more certainty around expected impacts next month.
+",hurricane,Climate,0.8066595792770386,0.0,0.0,46.1,16.4,0.0,1.0,25
+PGR_SEP24.txt,PGR,2024,Q3,"Sep 2024 - Underwriting Metrics
+Total Company P&C Underwriting
+Net premiums written
+4,004
+% Growth YoY
+15.5%
+Net premiums earned
+3,538
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+100.1%
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+95.3%
+Catastrophes ($mn)
+195
+Catastrophes (pts)
+Reserve development ($m)
+(24)
+Reserve development (pts)
+Sep-21
+Actual
+14.0%
+80.9%
+19.2%
+76.1%
+Sep-22
+Actual
+4,007
+0.1%
+3,870
+9.4%
+97.4%
+18.8%
+116.2%
+77.5%
+96.3%
+786
+Sep-23
+Actual
+4,900
+22.3%
+4,649
+20.2%
+73.3%
+16.4%
+89.7%
+71.7%
+88.1%
+84
+Aug-24
+Actual
+6,507
+37.2%
+5,968
+29.8%
+64.8%
+20.8%
+85.5%
+64.8%
+85.5%
+18
+Reported
+6,570
+34.1%
+6,263
+34.7%
+72.6%
+20.8%
+93.4%
+64.1%
+84.9%
+570
+Sep-24
+BARCe
+6,182
+26.2%
+6,292
+35.3%
+76.8%
+19.7%
+96.5%
+68.2%
+87.8%
+Diff vs
+BARCe
+6.3%
+7.9pp
+(0.5%)
+(0.6pp)
+(4.2pp)
+",catastrophe,Financial,0.0,0.0,0.8526064157485962,79.97,5.26,8.6,0.8046875,128
+PGR_SEP24.txt,PGR,2024,Q3,"1.1pp
+(3.1pp)
+(4.1pp)
+(3.0pp)
+545
+4.6%
+5.5%
+(0.7%)
+20.3%
+(13)
+(0.3%)
+1.8%
+(8)
+(0.2%)
+0.3%
+(20)
+(0.3%)
+9.1%
+(34)
+(0.5%)
+8.7%
+0.4pp
+-
+-
+Personal Lines Underwriting
+Net premiums written
+2,950
+3,171
+3,960
+5,396
+5,508
+5,156
+6.8%
+% Growth YoY
+8.7%
+Net premiums earned
+2,762
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+103.1%
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+6.2%
+Reserve development ($m)
+(19)
+Reserve development (pts)
+(0.7%)
+7.4%
+84.8%
+18.3%
+79.3%
+97.6%
+171
+7.5%
+2,969
+7.5%
+98.1%
+18.0%
+116.1%
+78.3%
+96.3%
+597
+24.9%
+3,661
+23.3%
+74.2%
+15.2%
+89.4%
+72.5%
+87.8%
+66
+41.7%
+4,824
+33.2%
+66.3%
+20.9%
+87.2%
+64.8%
+85.7%
+87
+39.1%
+5,089
+39.0%
+72.5%
+20.9%
+93.4%
+64.4%
+68.6%
+85.2%
+87.7%
+443
+30.2%
+5,089
+39.0%
+76.6%
+19.1%
+95.7%
+8.9pp
+(0.0%)
+(0.0pp)
+(4.1pp)
+1.7pp
+(2.4pp)
+(4.2pp)
+(2.5pp)
+407
+8.7%
+20.1%
+1.8%
+(6)
+(0.2%)
+1.8%
+8.7%
+8.0%
+0.7pp
+-
+Source: Company Data, Barclays Research
+(10)
+(0.3%)
+(16)
+(0.3%)
+(28)
+(0.5%)
+15 October 2024
+3
+Barclays | Progressive Corp.
+FIGURE 3.",catastrophe,Financial,0.0,0.0,0.0,90.46,3.99,6.8,0.7823529411764706,170
+PGR_SEP24.txt,PGR,2024,Q3,"Q3 2024 - Underwriting Metrics
+Total Company P&C Underwriting
+Net premiums written
+% Growth YoY
+Net premiums earned
+% Growth YoY
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+89.0%
+Catastrophes ($mn)
+471
+Catastrophes (pts)
+3.2%
+Reserve development ($m)
+37
+Reserve development (pts)
+Personal Lines Underwriting
+Net premiums written
+12,654
+3Q23
+4Q23
+Actual
+Actual
+15,594
+19.8%
+15,130
+21.4%
+14,894
+15,773
+20.1%
+22.3%
+76.5%
+72.7%
+16.0%
+88.7%
+15.9%
+92.4%
+73.0%
+72.7%
+88.7%
+58
+0.4%
+(53)
+0.2%
+(0.3%)
+12,214
+1Q24
+Actual
+18,962
+17.7%
+16,149
+19.3%
+67.9%
+18.1%
+86.1%
+65.8%
+84.0%
+350
+2.2%
+(11)
+(0.1%)
+14,481
+2Q24
+Actual
+17,902
+21.6%
+17,210
+19.0%
+73.2%
+18.8%
+91.9%
+66.1%
+84.8%
+1,273
+7.4%
+(51)
+(0.3%)
+14,562
+Reported
+19,456
+24.8%
+18,297
+22.8%
+68.4%
+20.7%
+89.0%
+65.1%
+85.8%
+733
+4.0%
+(137)
+(0.7%)
+16,290
+BARCe
+19,068
+22.3%
+18,326
+23.0%
+69.8%
+20.3%
+20.0%
+90.1%
+66.5%
+86.8%
+709
+3.9%
+(103)
+(0.6%)
+15,937
+15,919
+3Q24
+Street
+19,033
+22.1%
+18,003
+20.9%
+68.2%
+89.3%
+67.1%
+87.2%
+483
+2.7%
+(117)
+",catastrophe,Financial,0.0,0.0,0.8118296265602112,90.56,4.23,7.7,0.8170731707317073,164
+PGR_SEP24.txt,PGR,2024,Q3,"Diff vs
+BARCe
+2.0%
+2.5pp
+(0.2%)
+(0.2pp)
+(1.5pp)
+0.4pp
+(1.1pp)
+(1.4pp)
+(1.0pp)
+3.5%
+0.1pp
+33.0%
+(0.2pp
+2.2%
+% Growth YoY
+22.5%
+Net premiums earned
+11,776
+% Growth YoY
+Loss Ratio
+76.5%
+72.1%
+Expense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+3.0%
+Reserve development ($m)
+29
+Reserve development (pts)
+",catastrophe,Financial,0.0,0.0,0.7938731908798218,76.82,6.67,8.8,0.75,60
+SKWD_1Q23.txt,SKWD,2023,Q1,"NWP Growth Nuance: NWP growth of 49% y/y was obscured by the restructuring of a global
+property quota share reinsurance treaty in 1Q22.
+",reinsurance,Financial,0.9483564496040344,0.0,0.0,56.59,14.42,0.0,0.9130434782608695,23
+SKWD_1Q23.txt,SKWD,2023,Q1,"US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays | Skyward Specialty Insurance Group, Inc.
+Ceded Re Strategy: The May 1 property catastrophe renewal was in line with managements'
+price and term expectations.",catastrophe,Financial,0.0,0.0,0.5895090699195862,51.55,13.93,13.0,0.9714285714285714,35
+SKWD_1Q23.txt,SKWD,2023,Q1,"On the top of the
+tower, SKWD maintains reinsurance limits in excess of a 1 in 250 year event.",reinsurance,Financial,0.0,0.0,0.9040522575378418,77.57,9.71,0.0,0.8421052631578947,19
+SKWD_1Q23.txt,SKWD,2023,Q1,"Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+26.9%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+95.3%
+92.2%
+92.5%
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+16,063
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+11,828
+CAT points
+1.0%
+2.4%
+FY 2020
+83.9%
+70.9%
+65.3%
+83.9%
+67.7%
+68.9%
+65.3%
+110.3%
+FY 2021
+94.6%
+Source:",catastrophe,Financial,0.0,0.0,0.8027005791664124,79.87,5.15,8.5,0.6714285714285714,70
+SKWD_1Q23.txt,SKWD,2023,Q1,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,0.6163398027420044,0.0,0.0,30.53,19.94,0.0,1.0,7
+SKWD_2Q23.txt,SKWD,2023,Q2,"Rate increases are broad based,
+with the greatest uplift seen in Global Property.
+",rate increases,Financial,0.8468269109725952,0.0,0.0,66.74,11.35,0.0,1.0,13
+SKWD_2Q23.txt,SKWD,2023,Q2,"SKWD typically waits 3 years to reflect positive trends in its
+current vs. initial loss ratios.
+",loss ratios,Financial,0.7398976683616638,0.0,0.0,63.36,8.2,0.0,1.0,16
+SKWD_2Q23.txt,SKWD,2023,Q2,SKWD has not shared prior period loss ratios of exited businesses.,loss ratios,Financial,0.0,0.0,0.7252625226974487,51.85,15.31,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,Q2,2Q catastrophe losses of $6.8mn were worse than our modeled $1.8mn.,catastrophe,Financial,0.0,0.9611812233924866,0.0,82.81,5.84,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,Q2,"Incrementally, we learned that its risk adjusted reinsurance pricing for
+property catastrophe risk at 5/1 was 15-20%.",catastrophe,Financial,0.0,0.0,0.7431774735450745,37.3,18.56,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,Q2,"Incrementally, we learned that its risk adjusted reinsurance pricing for
+property catastrophe risk at 5/1 was 15-20%.",reinsurance,Financial,0.0,0.0,0.7431774735450745,37.3,18.56,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,Q2,"This added reinsurance costs does not compress
+underwriting margins given prop cat is a relatively smaller portion of overall transactional E&S
+and global property pricing.
+",reinsurance,Financial,0.8221516609191895,0.0,0.0,29.18,18.0,0.0,1.0,25
+SKWD_2Q23.txt,SKWD,2023,Q2,Reinsurance risk management.,reinsurance,Financial,0.0,0.0,0.919350266456604,9.21,27.87,0.0,1.0,3
+SKWD_2Q23.txt,SKWD,2023,Q2,"Exposure to reinsurance is predominately in the loss portfolio
+transfer (which is fully collateralized) and captives divisions.",reinsurance,Financial,0.0,0.0,0.9459202289581299,11.92,20.92,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,Q2,"The earnings miss is due to higher than expected catastrophe losses.
+",catastrophe,Financial,0.0,0.9695121645927429,0.0,60.31,11.67,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,Q2,"Double-digit
+premium increases were broad based, seen across transactional E&S, global property and
+agriculture, professional lines, and surety and captives.
+",premium increases,Financial,0.9432488083839417,0.0,0.0,17.34,20.0,0.0,0.9,20
+SKWD_2Q23.txt,SKWD,2023,Q2,"2Q catastrophe
+losses of $6.8mn were worse than our modeled $1.8mn.
+",catastrophe,Financial,0.0,0.9611812233924866,0.0,82.81,5.84,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,Q2,"Operating ROE (annualized) of 12.4% was worse than our estimated 14.9% due to higher
+catastrophe losses.
+",catastrophe,Financial,0.0,0.9749757051467896,0.0,49.18,12.12,9.7,1.0,16
+SKWD_2Q23.txt,SKWD,2023,Q2,"FY 2020
+Loss ratio
+Net Impact of LPT
+0.0%
+Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+26.9%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+11,828
+CAT points
+1.0%
+Source:",catastrophe,Financial,0.0,0.0,0.8411001563072205,70.09,5.95,9.3,0.6557377049180327,61
+SKWD_2Q23.txt,SKWD,2023,Q2,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,0.6163398027420044,0.0,0.0,30.53,19.94,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,Q3,"We understand this
+cession did not have any reinsurance recovery that needed to
+be reversed.",reinsurance,Financial,0.0,0.0,0.8566165566444397,56.25,11.33,0.0,1.0,15
+SKWD_3Q23.txt,SKWD,2023,Q3,"We also view rescinding a reinsurance treaty as
+atypical.
+CORE
+SKWD
+OVERWEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 31.00
+raised 7% from USD 29.00
+Price (07-Nov-23)
+USD 30.53
+Potential Upside/Downside
++1.5%
+Rates vs. Loss trends: Pure rates remain in double digits and are above loss cost inflation.
+",reinsurance,Financial,0.8915219306945801,0.0,0.0,65.28,8.15,8.8,0.9183673469387755,49
+SKWD_3Q23.txt,SKWD,2023,Q3,"The industry has seen pressures on the commercial auto side, we would have
+preferred more reinsurance protection for SKWD.",reinsurance,Financial,0.0,0.0,0.7113208174705505,52.19,16.02,0.0,1.0,19
+SKWD_3Q23.txt,SKWD,2023,Q3,"We do not expect SKWD to rescind future
+reinsurance treaties, we view this action as a one-off, and not a sign that SKWD is leaning into
+commercial auto.
+",reinsurance,Financial,0.0,0.0,0.8734927773475647,59.98,14.06,0.0,0.8928571428571429,28
+SKWD_3Q23.txt,SKWD,2023,Q3,"To recap, its 3Q23 policy acquisition ratio increase q/q was driven by the change in
+business mix and the impact of canceling the quota share reinsurance contract.",reinsurance,Financial,0.0,0.8916019201278687,0.0,44.07,16.73,0.0,0.9259259259259259,27
+SKWD_3Q23.txt,SKWD,2023,Q3,Lighter catastrophe experience despite more property writings.,catastrophe,Financial,0.0,0.0,0.5277381539344788,5.15,19.94,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,Q3,"1Q catastrophe losses was
+minimal at ~$1mn.",catastrophe,Financial,0.4137837290763855,0.0,0.0,55.91,14.23,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,Q3,"Double-
+digit premium increases were broad based, seen across all eight of SKWD's underwriting
+divisions.
+",premium increases,Financial,0.9520136117935181,0.0,0.0,47.79,16.67,0.0,1.0,15
+SKWD_3Q23.txt,SKWD,2023,Q3,"Higher Net Retention: NWP grew 63.7% y/y; however, SKWD rescinded a quota share
+reinsurance contract, whole account commercial auto, which increased premiums by $13.1mn.
+",reinsurance,Financial,0.9609493017196655,0.0,0.0,42.38,13.13,0.0,1.0,24
+SKWD_3Q23.txt,SKWD,2023,Q3,"Underwriting performance: SKWD's combined ratio was 90.2% vs. our estimate of 94.0%, a 9.6
+pt y/y improvement amid lower catastrophes.",catastrophe,Financial,0.9330736994743347,0.0,0.0,57.94,12.0,9.5,1.0,20
+SKWD_3Q23.txt,SKWD,2023,Q3,"Total company Accident Year Combined
+Ratio (AYCR), ex cats, was 89.9% vs. our 89.3% estimate and improved 115bps y/y. 3Q
+catastrophe losses of 0.4pts were better than our modeled 4.7pts.
+",catastrophe,Financial,0.8182123899459839,0.0,0.0,72.32,5.67,8.8,0.9666666666666667,30
+SKWD_3Q23.txt,SKWD,2023,Q3,"Loss ratio
+Net Impact of LPT
+0.0%
+Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+16,063
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+CAT points
+1.0%
+FY 2020
+83.9%
+83.9%
+67.7%
+68.9%
+65.3%
+95.3%
+92.2%
+110.3%
+Source:",catastrophe,Financial,0.0,0.0,0.7831043004989624,78.96,5.57,8.8,0.6617647058823529,68
+SKWD_3Q23.txt,SKWD,2023,Q3,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,0.6163398027420044,0.0,0.0,30.53,19.94,0.0,1.0,7
+SKWD_3Q24.txt,SKWD,2024,Q3,"Another important thing to note is that the Company canceled a quota share
+reinsurance contract during third quarter and first nine months of 2023, making it difficult to
+compare net premiums.",reinsurance,Financial,0.0,0.9645008444786072,0.0,40.01,16.27,0.0,0.967741935483871,31
+SKWD_3Q24.txt,SKWD,2024,Q3,"Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+60.7%
+60.5%
+89.9%
+89.6%
+Catastrophes ($mn)
+1
+2
+17.1%
+1Q24
+Actual
+287
+42.0%
+236
+29.3%
+60.9%
+28.7%
+89.6%
+60.6%
+89.3%
+17.4%
+2Q24
+Actual
+297
+39.0%
+258
+32.5%
+61.7%
+29.0%
+90.7%
+60.6%
+89.6%
+1
+3
+14.7%
+Reported
+268
+(4.4%)
+270
+18.7%
+63.3%
+28.9%
+92.2%
+60.6%
+89.5%
+14.2%
+15.9%
+BARCe
+281
+0.2%
+280
+23.5%
+63.7%
+29.4%
+29.3%
+93.1%
+60.7%
+90.1%
+8
+8
+3Q24
+Street
+281
+0.1%
+271
+19.2%
+64.3%
+93.6%
+60.7%
+90.0%
+0.4pp
+Diff vs
+BARCe
+(4.6%)
+(4.6pp)
+(3.8%)
+",catastrophe,Financial,0.0,0.0,0.8575270175933838,107.38,3.88,6.2,0.8314606741573034,89
+SKWD_3Q24.txt,SKWD,2024,Q3,"(4.7pp)
+(0.4pp)
+(0.5pp)
+(0.9pp)
+(0.1pp)
+(0.6pp)
+9
+(10.2%)
+Catastrophes (pts)
+0.4%
+1.0%
+0.4%
+1.2%
+2.8%
+3.0%
+3.5%
+(0.2pp)
+Reserve development ($m)
+(0)
+-
+(0)
+(0)
+(0)
+(0)
+Reserve development (pts)
+(0.1%)
+-
+(0.1%)
+(0.1%)
+(0.1%)
+-
+(0.0%)
+Source: Barclays Research, Bloomberg
+NA
+(0.1pp)
+(1.3pp)
+Diff vs
+Street
+(4.5%)
+(4.5pp)
+(0.4%)
+(0.5pp)
+(1.0pp)
+(0.4pp)
+(1.4pp)
+(0.2pp)
+(0.5pp)
+(19.6%)
+(0.7pp)
+NM
+(0.1pp)
+29 October 2024
+2
+Barclays | Skyward Specialty Insurance Group, Inc.
+SKWD: Quarterly and Annual EPS (USD)
+2023
+2024
+2025
+Change y/y
+FY Dec
+Actual
+Old
+New
+Cons
+Old
+New
+Q1
+Q2
+0.42A
+0.75A
+0.75A
+N/A
+0.78E
+0.81E
+0.42A
+0.80A
+0.80A
+N/A
+0.77E
+0.80E
+Q3
+0.65A
+Q4
+0.59A
+0.68E
+0.71A
+0.79E
+0.82E
+N/A
+0.76E
+0.79E
+N/A
+N/A
+0.89E
+0.93E
+N/A
+Year
+2.08A
+3.03E
+3.09E
+2.96E
+3.19E
+3.32E
+P/E
+21.5
+14.5
+13.5
+Consensus numbers are from Bloomberg received on 29-Oct-2024; 12:50 GMT
+Source:",catastrophe,Financial,0.0,0.0,0.9106853008270264,97.09,5.56,7.5,0.7605633802816901,142
+SKWD_3Q24.txt,SKWD,2024,Q3,"Our upside case assumes ROE
+expectations increase by 50bps to
+14.7% from improved loss ratios
+and the premium to the regression
+line increases to 65%.
+",loss ratios,Financial,0.9548377990722656,0.0,0.0,58.79,11.4,0.0,0.88,25
+SKWD_3Q24.txt,SKWD,2024,Q3,"Skyward P&C Underwriting Information
+4Q23
+1Q24
+2Q24
+3Q24
+Actual
+Actual Actual
+Actual
+4Q24E
+BARCe Street
+Diff
+1Q25E
+BARCe Street
+Diff
+P&C Underwriting
+Net premiums written
+234
+% Growth YoY
+30.0%
+Net premiums earned
+233
+% Growth YoY
+287
+297
+268
+246
+243
+1.4%
+312
+322
+42.0%
+39.0%
+(4.4%)
+5.3% 13.4%
+(8.1pp)
+8.8% 12.1%
+236
+258
+270
+(3.0%)
+1,099
+(3.3pp)
+279
+276
+1.1%
+19.8%
+22.6%
+(2.8pp)
+19.9%
+283
+283
+0.3%
+19.6%
+36.7%
+29.3%
+32.5%
+18.7%
+0.3pp
+Loss Ratio
+Expense Ratio
+61.5%
+60.9%
+61.7%
+63.3%
+61.9%
+62.1%
+62.5%
+62.2%
+0.3pp
+29.1%
+28.7%
+29.0%
+28.9%
+29.2%
+29.5%
+(0.2pp)
+(0.3pp)
+29.2%
+28.8%
+0.4pp
+Combined Ratio
+90.6%
+89.6%
+90.7%
+92.2%
+91.1%
+91.9%
+(0.8pp)
+91.7% 91.2%
+0.5pp
+Loss Ratio ex cats & PYD
+60.5%
+60.6%
+60.6%
+60.6%
+Combined Ratio ex Cats and PYD
+89.6%
+89.3%
+89.6%
+89.5%
+60.7%
+60.7%
+89.9%
+90.2%
+0.0pp
+(0.3pp)
+60.7%
+60.8%
+89.9% 89.6%
+0.3pp
+(0.1pp)
+Catastrophes ($mn)
+2
+Catastrophes (pts)
+1.0%
+Reserve development ($m)
+Reserve development (pts)
+-
+(0.1%)
+(0.1%)
+(0.1%)
+1
+3
+8
+3
+5
+(28.9%)
+1.2%
+1.7%
+(0.5pp)
+1.8%
+(0) (100.0%)
+-
+(0.0%)
+0.0pp
+5
+4
+17.2%
+1.5%
+0.3pp
+(0) (100.0%)
+(1)
+-
+(0.0%)
+0.0pp
+0.4%
+1.2%
+2.8%
+(0)
+(0)
+(0)
+Source: Barclays Research, Bloomberg
+$3.09
+$2.96
+4.2%
+$3.32
+$20.6
+$18.6
+10.6%
+$20.6
+16.3% 16.5%
+(0.2pp)
+15.1%
+16.2%
+(1.1pp)
+2024E
+BARCe Street
+Diff
+1,108
+(0.8%)
+1,245
+18.1% 21.6%
+(3.5pp)
+13.3%
+11.9%
+1,042
+1,041
+0.2%
+1,190
+24.5%
+25.5%
+(1.0pp)
+62.0%
+62.2%
+(0.3pp)
+29.0% 29.0%
+(0.0pp)
+29.2%
+29.1%
+90.9%
+91.3%
+(0.3pp)
+60.6%
+60.6%
+0.0pp
+60.4%
+60.6%
+89.6%
+89.6%
+(0.0pp)
+15
+18 (17.0%)
+25
+1.4%
+(0.3pp)
+1.7%
+2.1%
+2.1%
+17.0%
+(1)
+(0.1%) (0.1%) (0.0pp)
+-
+(0.1%)
+",catastrophe,Financial,0.0,0.0,0.0,95.37,4.86,7.2,0.6844106463878327,263
+SKWD_4Q22.txt,SKWD,2022,Q4,"Following the earnings call, we gained greater clarity of its ceded Re strategy where SKWD is
+weighing in the merits of reinsurance by each risk class and is not constrained.",reinsurance,Financial,0.7424635887145996,0.0,0.0,57.95,16.0,0.0,0.9,30
+SKWD_4Q22.txt,SKWD,2022,Q4,"At 1/1 renewals, SKWD entered into a whole account QS treaty for
+commercial auto with some optionality on changing the structures of its the portfolio specific
+auto liability reinsurance covers during 2H23.",reinsurance,Financial,0.0,0.0,0.895918607711792,22.08,20.3,0.0,0.9375,32
+SKWD_4Q22.txt,SKWD,2022,Q4,"SKWD's reinsurance renewals are staggered throughout the
+year, we expect to hear more iterations.",reinsurance,Financial,0.0,0.0,0.6915358901023865,57.27,11.31,0.0,1.0,14
+SKWD_4Q22.txt,SKWD,2022,Q4,5/1 is SKWD's large cat reinsurance renewal.,reinsurance,Financial,0.0,0.0,0.8149067163467407,64.37,14.23,0.0,1.0,7
+SKWD_4Q22.txt,SKWD,2022,Q4,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,0.6163398027420044,0.0,0.0,30.53,19.94,0.0,1.0,7
+SKWD_4Q24.txt,SKWD,2024,Q4,"It called for
+expected net income between $138-$150 million, a combined ratio between 91-92%, which
+reflects 2 to 2.5 points of catastrophe losses, and GWP growth of low to mid-teens.",catastrophe,Financial,0.8594889044761658,0.0,0.0,73.17,8.67,0.0,0.9,30
+SKWD_4Q24.txt,SKWD,2024,Q4,"Skyward also
+disclosed that it expects total losses and LAE to be less than $10 million from the CA wildfire
+event, net of reinsurance in 1Q25.
+",reinsurance,Financial,0.0,0.8963533639907837,0.0,62.01,11.94,0.0,1.0,26
+SKWD_4Q24.txt,SKWD,2024,Q4,"Skyward also
+disclosed that it expects total losses and LAE to be less than $10 million from the CA wildfire
+event, net of reinsurance in 1Q25.
+",wildfire,Climate,0.0,0.8963533639907837,0.0,62.01,11.94,0.0,1.0,26
+SKWD_4Q24.txt,SKWD,2024,Q4,"Our upside case assumes ROE
+expectations increase by 50bps to
+14.7% from improved loss ratios
+and the premium to the regression
+line increases to 65%.
+",loss ratios,Financial,0.9548377990722656,0.0,0.0,58.79,11.4,0.0,0.88,25
+SKWD_4Q24.txt,SKWD,2024,Q4,"Diff
+1.3%
+11.7%
+14.19%
+(2.4pp)
+1,546
+1.3%
+12.3%
+15.5%
+(3.3pp)
+62.6%
+62.6%
+(0.0pp)
+62.5%
+62.7%
+(0.2pp)
+62.5%
+62.5%
+29.09
+28.9%
+28.9%
+29.2%
+28.8%
+29.2%
+0.4pp
+29.0%
+0.2pp
+29.2%
+28.9%
+0.3pp
+29.2%
+29.0%
+.Opp
+0.2pp
+29.2%
+29.2%
+Combined Ratio
+89.6%
+90.7%
+92.2%
+95.89%
+92.1%
+91.9%
+0.2pp
+92.1%
+91.7%
+0.4pp
+91.8%
+91.5%
+0.3pp
+91.7%
+91.7%
+0.0pp
+91.7%
+91.7%
+Loss Ratio ex cats & PYD
+60.6%
+Combined Ratio ex Cats and PYD
+89.3%
+60.6%
+60.6%
+60.5%
+60.4%
+60.69
+(0.2pp)
+60.4%
+60.5%
+(0.1pp)
+60.3%
+60.5%
+(0.1pp)
+60.3%
+60.7
+89.6%
+89.5%
+89.4%
+89.6%
+89.4%
+0.2pp
+89.6%
+89.5%
+.1Pp
+89.5%
+89.4%
+0.2pp
+89.5%
+89.7%
+0.0pp
+0.3pp)
+60.3%
+60.396
+(0.2pp)
+89.5%
+89.5%
+Catastrophes ($mn)
+1
+Catastrophes (pts)
+0.4%
+3
+8
+6
+7
+7
+10.6%
+8
+1.2%
+2.8%
+2.2%
+2.5%
+2.4%
+0.1pp
+28.3%
+26
+10.39%
+29
+2.5%
+2.19%
+0.4pp
+2.39
+2.2%
+0.1pp
+Reserve development ($m)
+",catastrophe,Financial,0.0,0.0,0.8522526025772095,99.97,6.03,6.3,0.5912408759124088,137

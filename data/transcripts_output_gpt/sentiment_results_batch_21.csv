@@ -1,0 +1,43 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+ZURN_4Q22.pdf,ZURN,2022,Q4,"While we expect rate increases in commercial insurance to moderate from the 8% seen in 2022, we expect to see further margin
+expansion in 2023.",rate increases,Financial,0.9502338171005249,0.0,0.0,46.1,18.0,0.0,0.8,25
+ZURN_4Q22.pdf,ZURN,2022,Q4,"In retail and SME, given the rate increases that we have already actioned in 2023, we should see results starting
+to improve.",rate increases,Financial,0.9543899893760681,0.0,0.0,66.07,10.62,0.0,0.9545454545454546,22
+ZURN_4Q22.pdf,ZURN,2022,Q4,Firstly is on the reinsurance program.,reinsurance,Financial,0.0,0.0,0.9511094093322754,56.93,9.07,0.0,1.0,6
+ZURN_4Q22.pdf,ZURN,2022,Q4,"So on the reinsurance program, first, we've made two changes.",reinsurance,Financial,0.0,0.0,0.717933714389801,86.71,8.0,0.0,1.0,10
+ZURN_4Q22.pdf,ZURN,2022,Q4,"I mean overall for us, I mean, we've seen a relatively modest change in the reinsurance program.",reinsurance,Financial,0.8189335465431213,0.0,0.0,62.68,11.51,0.0,0.9411764705882353,17
+ZURN_4Q22.pdf,ZURN,2022,Q4,And we're not dependent on reinsurance in that way.,reinsurance,Financial,0.0,0.0,0.8973307013511658,79.26,12.49,0.0,1.0,9
+ZURN_4Q22.pdf,ZURN,2022,Q4,"But I just wanted a few -- and I know you did have a Capital Markets Day and
+you kind of addressed this, but 265 is extraordinary.
+",capital markets,Financial,0.0,0.0,0.7917892336845398,70.47,11.94,0.0,0.8518518518518519,27
+ZURN_4Q22.pdf,ZURN,2022,Q4,So there's a [indiscernible] market volatility.,market volatility,Risk,0.0,0.7962787747383118,0.0,48.47,15.73,0.0,1.0,6
+ZURN_4Q22.pdf,ZURN,2022,Q4,"But I guess my fear is that
+you're seeing nominal rate increases, but not rate in excess of claims inflation once we adjust frequency as well.
+",rate increases,Financial,0.0,0.0,0.5534427165985107,62.01,16.55,0.0,0.9615384615384616,26
+ZURN_4Q22.pdf,ZURN,2022,Q4,"Could you talk about the impact that the reinsurance market changes in
+terms of price structure, et cetera, is likely to have in that market.",reinsurance,Financial,0.0,0.0,0.9317604899406433,71.48,11.6,0.0,0.88,25
+ZURN_4Q22.pdf,ZURN,2022,Q4,"Do you still think that will be the case with all the changes in
+the reinsurance market?",reinsurance,Financial,0.0,0.0,0.8783347606658936,88.06,9.15,0.0,0.8823529411764706,17
+ZURN_4Q22.pdf,ZURN,2022,Q4,"So that may be partly connected to reinsurance, maybe partly connected to the continuing concerns around risk of inflation at that
+point.",reinsurance,Financial,0.0,0.0,0.8199072480201721,49.15,16.07,0.0,0.8181818181818182,22
+ZURN_4Q23.pdf,ZURN,2023,Q4,"The steps taken to manage exposure to natural catastrophes has resulted in a cat loss ratio
+within the guided range and improving year-on-year.",catastrophe,Financial,0.9530453681945801,0.0,0.0,39.67,17.9,0.0,0.9565217391304348,23
+ZURN_4Q23.pdf,ZURN,2023,Q4,"In property, rate increases have remained in the teens while rates in
+commercial, auto and excess liability are seeing continued momentum.",rate increases,Financial,0.8962451219558716,0.0,0.0,24.78,19.83,0.0,0.9523809523809523,21
+ZURN_4Q23.pdf,ZURN,2023,Q4,"Across Retail P&C, we saw rates increased by 4%, with higher rate increases achieved on the motor
+portfolios.",rate increases,Financial,0.956710934638977,0.0,0.0,70.13,11.64,0.0,1.0,18
+ZURN_4Q23.pdf,ZURN,2023,Q4,"Let me
+also stress that we made triple digit profit on the farmers reinsurance management.
+",reinsurance,Financial,0.9307205080986023,0.0,0.0,64.71,11.33,0.0,1.0,15
+ZURN_4Q23.pdf,ZURN,2023,Q4,"So, what your state mix is and what your fund designation is, which means the extent to which you use
+the federal reinsurance program.",reinsurance,Financial,0.0,0.0,0.9427554607391357,64.04,14.6,0.0,0.8333333333333334,24
+ZURN_4Q23.pdf,ZURN,2023,Q4,"And also from the feedback we get from the reinsurance brokers, we've got a strong MPCI book.
+",reinsurance,Financial,0.9204893112182617,0.0,0.0,71.14,9.15,0.0,0.8823529411764706,17
+ZURN_4Q23.pdf,ZURN,2023,Q4,"And then also your retention levels on the reinsurance
+programs, they haven't kept pace with inflation.",reinsurance,Financial,0.0,0.8809705972671509,0.0,55.24,13.9,0.0,1.0,16
+ZURN_4Q23.pdf,ZURN,2023,Q4,"And I would kind of assume that there would have been
+more positive momentum from the rate increases kind of earning through.",rate increases,Financial,0.6630920171737671,0.0,0.0,66.07,14.25,0.0,0.8636363636363636,22
+ZURN_4Q23.pdf,ZURN,2023,Q4,"For my second question, I noticed something a little small in your reinsurance treaties.",reinsurance,Financial,0.0,0.0,0.7817038893699646,65.73,8.46,0.0,1.0,14
+ZURN_4Q23.pdf,ZURN,2023,Q4,"So, we've non-
+renewed the U.S. property quota share and you can see that none of our reinsurance attachment points
+have changed.",reinsurance,Financial,0.0,0.0,0.8109790682792664,77.23,9.85,0.0,1.0,22

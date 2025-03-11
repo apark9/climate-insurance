@@ -1,0 +1,5087 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+WRB_3Q23.txt,WRB,2023,Q3,"Further, they pointed to the market accepting these rate increases
+with a stable renewal retention of around 80%.",rate increases,Financial,0.9393334984779358,0.0,0.0,44.75,16.09,0.0,1.0,18
+WRB_3Q23.txt,WRB,2023,Q3,"The good: NPW growth of 10.5% beat our 9.6% with strong growth in insurance (short-
+tail, liability and commercial auto), while property reinsurance growth slowed to 7.7%
+(lapping a tough comp of 41.2% last year).",reinsurance,Financial,0.0,0.59786057472229,0.0,81.29,8.51,8.8,0.9142857142857143,35
+WRB_3Q23.txt,WRB,2023,Q3,"However, while insurance growth
+picked up to 12.1% on a net basis (from 8.6% in Q2), reinsurance was flat as growth in
+property and mono-line excess was offset by a 6.4% decline in professional lines.",reinsurance,Financial,0.6804884076118469,0.0,0.0,71.0,8.09,9.5,0.8571428571428571,35
+WRB_3Q23.txt,WRB,2023,Q3,"We believe
+that WRB is positioned to continue to see a healthy level of rate
+increases in 2023 and 2024, particularly as they lean in on property
+insurance and reinsurance, which should translate into a good level
+of premium growth, which we do not believe is currently reflected in
+consensus expectations.
+",reinsurance,Financial,0.9501075744628906,0.0,0.0,19.71,29.81,0.0,0.803921568627451,51
+WRB_3Q23.txt,WRB,2023,Q3,"Upcoming Catalysts
+· WRB's 10-Q which comes out after earnings and will give
+additional color on its reserve development for the quarter
+· Monthly pricing surveys, which will highlight the overall strength
+(or lack thereof) of the commercial lines pricing environment
+Company Description
+W. R. Berkley Corporation is the 13th largest commercial
+underwriter in the United States and operates within two segments:
+(1) Insurance, including E&S, admitted and specialty lines and (2)
+Reinsurance and Monoline Excess, which is primarily facultative and
+treaty reinsurance.",reinsurance,Financial,0.0,0.0,0.870521605014801,13.45,24.6,0.0,0.7951807228915663,83
+WRB_3Q23.txt,WRB,2023,Q3,"Casualty reinsurance accounts for the majority of the
+remaining total company GWP.
+2 |",reinsurance,Financial,0.0,0.0,0.95461505651474,15.98,17.51,0.0,0.9285714285714286,14
+WRB_3Q23.txt,WRB,2023,Q3,"Catastrophe losses came in at $61.5 million, lower than our $65 million and down
+relative to $94 million last Q3.",catastrophe,Financial,0.0,0.9743946194648743,0.0,69.79,8.0,0.0,0.95,20
+WRB_3Q23.txt,WRB,2023,Q3,"The expense ratio was 20 basis points better than our estimate as
+change in reinsurance structures and start-up expenses impacted the level of expenses.",reinsurance,Financial,0.9139577150344849,0.0,0.0,38.66,16.27,0.0,1.0,24
+WRB_3Q23.txt,WRB,2023,Q3,"Summary
+Insurance
+207.9
+Reinsurance & Monoline Excess
+49.7
+Underwriting Income
+257.5
+Net Investment Income
+270.9
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.9383068680763245,25.72,15.48,9.4,0.8947368421052632,19
+WRB_3Q23.txt,WRB,2023,Q3,"Book Value per Share
+$26.80
+$27.45
+18.8%
+Revenues
+Gross premiums written
+3,353.2
+y/y change
+(1.2%)
+y/y change
+8.2%
+7.7%
+Net investment income
+270.9
+252.6
+y/y change
+33.6%
+Total revenues
+3,030.6
+Actual
+WFS Estimate
+Delta Vs. WFS
+Absolute Delta
+% Delta
+Underwriting Profitability
+Loss Ratio
+61.9%
+Expense Ratio
+28.3%
+Combined Ratio
+90.2%
+Cats Points on Combined Ratio
+2.3%
+PYD Points on Combined Ratio
+0.0%
+Underlying Loss Ratio
+59.6%
+Underlying Combined Ratio
+87.9%
+Catastrophe Losses ($)
+61.5
+Reserve Development ($)
+0.0
+Capital Return
+Common Dividends
+157.4
+Share Repurchases
+2.9
+Total Capital Return
+160.3
+Total Payout Ratio (% of Operating Income)
+43.7%
+(95.9)
+0.2
+$1.35
+8.8%
+Net premiums written
+2,848.5
+y/y change
+10.5%
+Net premiums earned
+2,641.9
+217.7
+39.9
+257.6
+252.6
+18.4
+7.3%
+(86.8)
+(0.6)
+$1.20
+19.5%
+Operating Return on Equity
+21.3%
+Net Income ROE
+19.2%
+20.8%
+3,389.9
+10.0%
+2,825.7
+9.6%
+0.9%
+2,628.9
+24.5%
+3,048.4
+62.1%
+(0.1pts)
+28.1%
++0.2pts
+90.2%
++0.0pts
+0.0%
+2.5%
+(0.2pts)
+(6.4%)
+0.1%
+(0.1pts)
+(100.0%)
+59.5%
+87.6%
+65.4
+(3.9)
+3.0
+28.0
+100.0
+128.0
+39.3%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+(9.8)
+(4.5%)
+9.8
+24.5%
+(0.1)
+(0.0%)
+30.7
+(31.7%)
+49.0
+11.9%
+(9.1)
+10.5%
+0.8
+(125.0%)
+40.7
+$0.15
+14.5%
+($0.65)
+2.5%
+13.5%
+(158bps)
+(7.6%)
+(36.7)
+(1.1%)
+22.8
+0.8%
+13.0
+0.5%
+18.4
+9.1%
+(17.8)
+",catastrophe,Financial,0.0,0.0,0.0,81.19,6.04,8.3,0.7745098039215687,204
+WRB_3Q23.txt,WRB,2023,Q3,"Some items impacting the
+expense ratio in the quarter included: (1) change in outward reinsurance structures impacting their
+ceding commissions, (2) compensation-relate costs, and (3) start up operating expenses as well as
+investments in technology.
+",reinsurance,Financial,0.0,0.9213324189186096,0.0,10.57,24.29,0.0,0.8571428571428571,35
+WRB_3Q23.txt,WRB,2023,Q3,"Equity Research
+W.R. Berkley Corporation
+Exhibit 2 - WRB Historical Pricing Commentary
+Period
+Pricing Comments
+Q3 2023
+WRB is very focused on social inflation and they said that you can see that in their rate increases (8.5% excluding workers'
+compensation) and they ntend to stay on top of it.",rate increases,Financial,0.0,0.0,0.5254863500595093,55.24,14.73,13.6,0.8775510204081632,49
+WRB_3Q23.txt,WRB,2023,Q3,"The market has been accepting of its rate increases as shown in its steady
+renewal retention of 80%.",rate increases,Financial,0.9434288740158081,0.0,0.0,61.67,16.09,0.0,0.8888888888888888,18
+WRB_3Q23.txt,WRB,2023,Q3,"WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs.",reinsurance,Financial,0.0,0.973501980304718,0.0,31.55,21.43,0.0,0.8064516129032258,31
+WRB_3Q23.txt,WRB,2023,Q3,"WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to see
+resilience in the reinsurance market.",reinsurance,Financial,0.9534586071968079,0.0,0.0,41.7,16.02,0.0,0.8571428571428571,21
+WRB_3Q23.txt,WRB,2023,Q3,"Despite concerns around the economy and a recession, WRB noted that audit premiums are seeing considerable momentum, up
+45% YOY.
+Q2 2022
+Source: Company reports and Wells Fargo Securities, LLC
+Period
+Pricing Comments
+Q1 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points.",rate increases,Financial,0.9498454928398132,0.0,0.0,36.63,17.32,0.0,0.9230769230769231,52
+WRB_3Q23.txt,WRB,2023,Q3,"Q4 2021
+There's nothing that leads us to believe that we will not continue to see rate increases that outpace trend by something measured
+in the hundreds of basis points.",rate increases,Financial,0.6970705986022949,0.0,0.0,57.95,14.67,0.0,0.9,30
+WRB_3Q23.txt,WRB,2023,Q3,"And as far as drilling down into the market a little bit more, when we look at the major product lines with the exception of workers;
+compensation all of them continued to get rate increases that outpace our view of loss trend.",rate increases,Financial,0.9232891201972961,0.0,0.0,45.77,20.61,0.0,0.8809523809523809,42
+WRB_3Q23.txt,WRB,2023,Q3,"Not all of the lines, however, are seeing the same increases and gave the example of professional
+liability having seen rate increases for quite some time, while commercial auto has started to firm more recently and workers' comp
+is in a soft market.
+",rate increases,Financial,0.8751144409179688,0.0,0.0,27.83,22.78,0.0,0.8837209302325582,43
+WRB_3Q23.txt,WRB,2023,Q3,"Non-Deal
+Roadshow
+Q1 2021
+We are coming up for some of the major product lines on a third year in a row where we are getting meaningful rate increases.
+",rate increases,Financial,0.9472733736038208,0.0,0.0,67.42,14.36,0.0,0.9310344827586207,29
+WRB_3Q23.txt,WRB,2023,Q3,"Summary of Estimate Changes
+Exhibit 5 - WRB Estimate Changes
+($ in millions, except as noted)
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+1,051.1
+1,214.8
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.5362524390220642,22.92,16.83,0.0,0.8484848484848485,33
+WRB_3Q23.txt,WRB,2023,Q3,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+11.3%
+26.0%
+21.3%
+21.0%
+Tax Rate
+GAAP Book Value per Share
+$27.96
+$34.05
+19.2%
+Operating Return on Equity
+Net Income ROE
+Revenues
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+y/y change
+Total revenues
+Underwriting Profitability
+Loss Ratio
+Expense Ratio
+28.3%
+28.4%
+28.4%
+Combined Ratio
+Cats Points on Combined Ratio
+PYD Points on Combined Ratio
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+200.7
+217.6
+Reserve Development ($)
+Capital Return
+Common Dividends
+372.6
+530.6
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+2023E
+Current
+2024E
+2025E
+2023E
+Prior
+2024E
+2025E
+Absolute Change
+2023E
+2024E
+2025E
+Percentage Change
+2024E
+2023E
+2025E
+838.7
+212.4
+1,032.9
+1,311.5
+(386.3)
+(421.8)
+1,697.7
+2,104.5
+(361.9)
+(442.0)
+(1.5)
+1,334.3
+$4.88
+20.6%
+12,926.7
+14,281.7
+15,745.7
+10.3%
+8.5%
+10.5%
+10,883.1
+11,961.9
+13,184.6
+8.8%
+9.9%
+10.2%
+10,379.3
+11,428.6
+10.1%
+10.0%
+8.6%
+1,032.9
+1,311.5
+1,509.7
+32.6%
+27.0%
+15.1%
+12,105.1
+13,413.7
+61.5%
+60.9%
+60.8%
+89.9%
+89.4%
+89.2%
+1.9%
+0.2%
+59.4%
+87.7%
+23.0
+903.2
+67.7%
+18.8%
+994.0
+220.8
+(2.5)
+1,660.1
+$6.15
+21.0%
+24.5%
+23.1%
+1.9%
+1.8%
+0.1%
+0.1%
+58.9%
+87.4%
+12.0
+12.0
+112.2
+200.0
+312.2
+1,111.5
+246.0
+1,357.5
+1,509.7
+(462.9)
+2,404.4
+1,642.4
+(504.9)
+(2.5)
+1,896.9
+$7.10
+15.3%
+21.0%
+$41.00
+20.1%
+12,571.6
+14,754.9
+58.9%
+87.3%
+227.6
+118.2
+260.0
+378.2
+19.9%
+846.8
+204.3
+1,051.1
+1,008.2
+(416.8)
+(351.4)
+(2.3)
+1,288.7
+$4.73
+7.8%
+30.0%
+21.4%
+21.0%
+$28.70
+18.5%
+20.8%
+24.1%
+12,963.4
+14,251.1
+8.9%
+9.9%
+10,860.4
+11,940.5
+8.6%
+10,360.6
+8.4%
+10.1%
+10.0%
+1,008.2
+1,288.7
+29.4%
+12,110.8
+13,368.6
+61.6%
+60.9%
+28.3%
+28.4%
+89.9%
+2.0%
+0.3%
+59.3%
+87.6%
+204.6
+217.6
+227.6
+27.0
+242.6
+110.0
+627.7
+240.0
+350.0
+870.3
+67.5%
+21.3%
+18.9%
+993.5
+224.1
+1,217.6
+1,288.7
+(420.9)
+2,085.4
+2,386.3
+(437.9)
+(2.5)
+1,645.0
+$6.15
+$34.75
+20.7%
+9.9%
+11,406.3
+12,543.0
+27.8%
+89.3%
+89.2%
+1.9%
+0.1%
+58.9%
+87.3%
+12.0
+1,110.4
+249.1
+1,359.5
+1,488.5
+(461.7)
+(501.1)
+(2.5)
+1,882.6
+$7.10
+15.6%
+21.0%
+$41.85
+19.9%
+22.9%
+15,697.2
+10.1%
+13,148.6
+10.1%
+1,488.5
+15.5%
+14,705.1
+60.8%
+28.4%
+1.8%
+58.9%
+87.3%
+12.0
+115.9
+240.0
+355.9
+(8.2)
+8.2
+(3.3)
+0.0
+24.8
+30.5
+55.3
+19.1
+(10.4)
+(4.0)
+(3.8)
+0.8
+45.6
+$0.16
+NC
+3.5%
+(4.0%)
+(8bps)
+(0bps)
+0.7%
+0.3%
+(18bps)
++40bps
++17bps
+(36.7)
+30.5
+(0.3%)
+0.5%
+22.8
+21.4
+0.2%
+18.7
+0.2%
+24.8
+3.2%
+(5.7)
+(0.0pts)
+",catastrophe,Financial,0.0,0.0,0.0,54.83,18.38,13.2,0.7154255319148937,376
+WRB_3Q23.txt,WRB,2023,Q3,"W.R. Berkley Corporation
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8637235760688782,-9.74,25.33,0.0,0.9411764705882353,34
+WRB_3Q23.txt,WRB,2023,Q3,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Dividend Payout Ratio
+Share Repurchase Payout Ratio
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+2022
+Q1 2023
+Q2 2023
+Q3 2023
+Q4 2023E
+2023E
+Q1 2024E
+Q2 2024E
+749.2
+95.1
+844.3
+671.6
+(320.7)
+1,195.2
+19.6%
+(234.8)
+(8.5)
+951.9
+$3.40
+117.1%
+119.8%
+20.9%
+17.0%
+413.9
+220.0
+37.7
+671.6
+2.98%
+61.1%
+28.5%
+89.6%
+(3.4%)
+(2.0%)
+(5.4%)
+202.0
+2.5%
+(7.0)
+(0.1%)
+58.7%
+87.2%
+(1.1%)
+(3.1%)
+$25.09
+14.6%
+265.2
+279.7
+355.7
+122.7
+478.4
+37.4%
+12.9%
+50.3%
+243.4
+30.3
+273.7
+173.5
+(75.8)
+371.4
+16.7%
+(62.1)
+(2.4)
+306.921
+$1.10
+52.1%
+52.7%
+15.1%
+21.6%
+112.3
+52.0
+9.2
+173.5
+2.93%
+59.5%
+28.3%
+87.8%
+(1.1%)
+(1.2%)
+(2.3%)
+28.8
+1.3%
+(1.0)
+(0.0%)
+58.3%
+86.6%
+(0.5%)
+(1.8%)
+$25.89
+18.2%
+265.2
+279.2
+23.0
+0.0
+23.0
+7.5%
+0.0%
+7.5%
+233.2
+35.0
+268.2
+171.6
+(45.6)
+394.1
+20.5%
+(80.6)
+(0.1)
+313.4
+$1.12
+43.0%
+43.6%
+14.7%
+19.6%
+133.6
+33.9
+4.1
+171.6
+2.91%
+60.9%
+27.7%
+88.6%
+(0.1%)
+(1.0%)
+(1,1%)
+57.9
+2.5%
+(2.0)
+(0.1%)
+58.5%
+86.2%
+(0.3%)
+(1.3%)
+$24.56
+18.8%
+265.3
+279.5
+159.2
+0.0
+159.2
+50.8%
+0.0%
+50.8%
+187.4
+4.4
+191.7
+202.8
+(40.9)
+353.7
+19.9%
+(70.2)
+(1.6)
+281.8
+$1.01
+14.2%
+14.4%
+10.6%
+17.3%
+156.1
+36.0
+10,7
+202.8
+3.44%
+64.1%
+28.1%
+92.1%
+1.7%
+0.0%
+1.7%
+94.1
+3.9%
+39.0
+1.6%
+58.6%
+86.7%
+(0.3%)
+(0.3%)
+$23.88
+17.5%
+265.8
+279.6
+20.3
+6.6
+26.8
+7.2%
+2,3%
+9.5%
+238.4
+52,7
+291.0
+231.3
+(119.0)
+403.3
+19.9%
+(80.2)
+0.2
+323.3
+$1.16
+13.7%
+13.6%
+5.4%
+14,1%
+186.9
+23.2
+21.2
+231.3
+3.84%
+60.6%
+27.8%
+88.4%
+0.2%
+0.0%
+0.2%
+30.8
+1.2%
+(0.3)
+(0.0%)
+59.3%
+87.2%
+1.1%
+1.1%
+$25.51
+19.8%
+264.5
+278.9
+32.8
+87.6
+120.3
+10.1%
+27.1%
+37.2%
+902.3
+122.4
+1,024.7
+779.2
+(281.3)
+1,522.5
+19.3%
+(293.2)
+(3.9)
+1,225.4
+$4.39
+28.7%
+28.9%
+11.3%
+18.0%
+588.9
+145.1
+45.2
+779.2
+3.27%
+61.3%
+28.0%
+89.3%
+0.2%
+(0.5%)
+(0.3%)
+211.7
+2.2%
+35.7
+0.4%
+58.7%
+86.7%
+0.0%
+(0.5%)
+$25.51
+18.5%
+264.5
+279.3
+235.2
+94.1
+329.3
+19.2%
+7.7%
+26.9%
+185.5
+49.5
+235.0
+223.4
+(105.3)
+353.1
+21.4%
+(75.5)
+(1.6)
+276.0
+$1.00
+(10.1%)
+(9.5%)
+6.6%
+10.8%
+203.0
+2.2
+18.3
+223.4
+3.61%
+61.8%
+28.8%
+90.6%
+2.2%
+0.6%
+2.8%
+47.9
+1.9%
+24.0
+1.0%
+58.9%
+87.7%
+0.6%
+1.1%
+$26.45
+16.1%
+262.5
+277.3
+158.6
+135.2
+293.8
+57.5%
+49.0%
+106,5%
+199.1
+65.2
+264.3
+245.2
+(110.2)
+399.3
+22.3%
+(89.0)
+0.6
+310.9
+$1.14
+(0.8%)
+1.5%
+9.3%
+8.3%
+229.3
+(1.2)
+17.0
+245.2
+3.90%
+61.5%
+28.1%
+89.6%
+0.6%
+0.4%
+1.0%
+53.5
+2.1%
+(3.0)
+(0.1%)
+59.5%
+87.6%
+1.0%
+1.4%
+$26.74
+18.1%
+257.5
+273.1
+28.3
+292.5
+320.8
+9.1%
+94.1%
+103.2%
+207.9
+49.7
+257.5
+270.9
+(66.1)
+462.4
+20.7%
+(95.9)
+0.2
+366.6
+$1.35
+30.1%
+34.0%
+8.8%
+8.2%
+248.6
+4.5
+17.9
+270.9
+4.22%
+61.9%
+28.3%
+90.2%
+(2.1%)
+0.2%
+(1,9%)
+61.5
+2.3%
+(1.0)
+(0.0%)
+59.6%
+87.9%
+1.0%
+1.2%
+$26.80
+21.3%
+258.0
+271.4
+157.4
+2.9
+160.3
+42.9%
+0.8%
+43.7%
+246.3
+48,0
+294.3
+293.4
+(104.7)
+482.9
+21.0%
+(101.4)
+(0.6)
+380.9
+$1.40
+17.8%
+21.2%
+$1.34
+4.7%
+9.3%
+7.2%
+264.8
+20.3
+8.4
+293.4
+4.45%
+61.0%
+28.1%
+89.1%
+0.4%
+0.3%
+0.7%
+37.8
+1.4%
+3.0
+0.1%
+59.4%
+87.6%
+0.1%
+0.4%
+$27.96
+21.6%
+257.2
+271.2
+28.3
+100.0
+128.3
+7.4%
+26.3%
+33.7%
+838.7
+212.4
+1,051.1
+1,032.9
+(386.3)
+1,697.7
+21.3%
+(361.9)
+(1.5)
+1,334.3
+$4.88
+8.9%
+11,3%
+$4.72
+3.4%
+8.5%
+8.6%
+945.7
+25.7
+61.5
+1,032.9
+4.05%
+61.5%
+28.3%
+89.9%
+0.2%
+0.4%
+0.6%
+200.7
+1.9%
+23.0
+0.2%
+59.4%
+87.7%
+0.7%
+1.0%
+$27.96
+19.2%
+257.2
+273.3
+372.6
+530.6
+903.2
+27.9%
+39.8%
+67.7%
+247.0
+56.8
+303.8
+307.8
+(105.2)
+506.3
+21.0%
+(106.3)
+(0.6)
+399.4
+$1.48
+44.7%
+48.6%
+$1.42
+4.1%
+11.0%
+10.6%
+278.4
+20.8
+8,6
+307.8
+4.59%
+60.3%
+28.7%
+89.0%
+(1.5%)
+(0.1%)
+(1.6%)
+37.4
+1.4%
+3.0
+0.1%
+58.8%
+87.5%
+(0.1%)
+(0.2%)
+$29.45
+21.7%
+256.0
+270.2
+243.0
+50.6
+293.6
+321.5
+(107.6)
+507.5
+21.0%
+(106.6)
+(0.6)
+400.3
+$1.48
+28.8%
+30.4%
+$1.38
+7.9%
+9.1%
+10.6%
+291.3
+21.4
+8,8
+321.5
+4.72%
+61.1%
+28.5%
+89.6%
+(0.4%)
+0.3%
+(0.0%)
+67.0
+2.4%
+3.0
+0.1%
+58.7%
+87.1%
+(0.9%)
+(0.5%)
+$30.89
+20.8%
+255.3
+269.6
+28.2
+28.1
+50.0
+50.0
+78.2
+78.1
+7.1%
+7.0%
+12,5%
+12,5%
+19.6%
+19.5%
+6,310.8
+1,022.5
+(355.7)
+(122.7)
+(219.8)
+17.9
+6,653.0
+32.9%
+6,653.0
+590.6
+(23.0)
+0.0
+(367.3)
+11.1
+6,864.5
+29.3%
+6,864.5
+179.3
+(159.2)
+0.0
+(380.8)
+10.6
+6,514.5
+30.4%
+6,514.5
+228.9
+(20.3)
+(6.6)
+(355.0)
+(15.5)
+6,346.1
+30.9%
+6,346.1
+382.2
+(32.8)
+(87.6)
+120.0
+20,3
+6,748,3
+29.6%
+6,653.0
+1,381.1
+(235.2)
+(94.1)
+(983.0)
+26.6
+6,748.3
+29.6%
+Source: Company reports, FactSet, and Wells Fargo Securities, LLC estimates
+6,748.3
+294.1
+(158.6)
+(135.2)
+186.0
+9.4
+6,944.0
+29.0%
+6,944.0
+356.3
+(28.3)
+(292.5)
+(102.0)
+9.7
+6,887.2
+29.2%
+6,887.2
+333.6
+(157.4)
+(2.9)
+(142.0)
+(2.9)
+6,915.6
+29.1%
+6,915.6
+405.9
+(28.3)
+(100.0)
+142.0
+[142,0)
+7,193.2
+28.3%
+6,748.3
+1,389.9
+(372.6)
+(530.6)
+84.0
+(125.9)
+7,193.2
+28.3%
+7,193.2
+424.4
+(28.2)
+(50.0)
+0.0
+(0,0)
+7,539.4
+27.3%
+7,539.4
+425.3
+(28.1)
+(50.0)
+0.0
+(0,0)
+7,886.6
+26.5%
+Q3 2024E
+234.9
+55,6
+290.5
+334.7
+(103.9)
+521.3
+21.0%
+(109.5)
+(0.6)
+411.2
+$1.53
+12.2%
+13.2%
+$1.37
+11.5%
+12.0%
+9.4%
+303.7
+22.0
+9,0
+334.7
+4.83%
+61.5%
+28.5%
+90.0%
+(0.5%)
+0.2%
+(0.3%)
+70.4
+2.4%
+3.0
+0.1%
+58.9%
+87.4%
+(0.7%)
+(0.5%)
+$32.39
+20.4%
+254.5
+269.1
+28.0
+50.0
+78.0
+6.8%
+12,2%
+19.0%
+7,886.6
+436.2
+(28.0)
+(50.0)
+0.0
+0.0
+8,244.8
+25.6%
+Q4 2024E
+269.1
+57.9
+327.0
+347.5
+(105.1)
+569.4
+21.0%
+(119.6)
+(0,6)
+449.2
+$1.67
+17.9%
+19.1%
+$1.55
+8.1%
+9.8%
+9.8%
+315.6
+22.6
+9.2
+347.5
+4.93%
+60.9%
+28.1%
+88.9%
+(0.1%)
+(0.1%)
+(0.1%)
+42.8
+1.4%
+3.0
+0.1%
+59.3%
+87.4%
+(0.1%)
+(0.2%)
+$34.05
+21.3%
+253.8
+268.5
+27.9
+50.0
+77.9
+6.2%
+11.1%
+17.3%
+8,244.8
+474.2
+(27.9)
+(50.0)
+0.0
+0.0
+8,641.1
+24.7%
+2024E
+994.0
+220.8
+1,214.8
+1,311.5
+[421.8)
+2,104.5
+21.0%
+(442.0)
+(2.5)
+1,660.1
+$6.15
+24.4%
+26.0%
+$5.68
+8.3%
+10.5%
+10.1%
+1,189.0
+86.9
+35,6
+1,311.5
+4.77%
+60.9%
+28.4%
+89.4%
+(0.6%)
+0.1%
+(0.5%)
+217.6
+1.9%
+12.0
+0.1%
+58.9%
+87.4%
+(0.4%)
+(0.3%)
+$34.05
+21.0%
+253.8
+269.8
+112.2
+200.0
+312.2
+6.8%
+12.0%
+18.8%
+7,193.2
+1,760.1
+(112.2)
+(200.0)
+0.0
+(0.0)
+8,641.1
+24.7%
+Q1 2025E
+",catastrophe,Financial,0.0,0.0,0.0,64.72,17.0,11.4,0.6823638042474608,1083
+WRB_3Q23.txt,WRB,2023,Q3,"We believe that WRB is positioned to continue to see a healthy level of rate increases
+in 2023 and 2024, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium
+growth, which we do not believe is currently reflected in consensus expectations.
+",rate increases,Financial,0.9501075744628906,0.0,0.0,19.71,29.81,0.0,0.803921568627451,51
+WRB_3Q23.txt,WRB,2023,Q3,"We believe that WRB is positioned to continue to see a healthy level of rate increases
+in 2023 and 2024, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium
+growth, which we do not believe is currently reflected in consensus expectations.
+",reinsurance,Financial,0.9501075744628906,0.0,0.0,19.71,29.81,0.0,0.803921568627451,51
+WRB_3Q23.txt,WRB,2023,Q3,"With that being said, the multiple still provides double-
+digit upside potential in the name.
+Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+",catastrophe,Financial,0.0,0.9360268712043762,0.0,30.54,18.43,0.0,0.8125,64
+WRB_3Q23.txt,WRB,2023,Q3,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+WRB_3Q23.txt,WRB,2023,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+WRB_3Q24.txt,WRB,2024,Q3,"Our 2025 and 2026 estimates go to $4.40
+and $4.80 (from $4.25 and $4.65) reflecting modestly better underlying loss ratios, a
+lower FY cat load and higher fixed NII.",loss ratios,Financial,0.9056940674781799,0.0,0.0,82.51,7.84,8.2,0.896551724137931,29
+WRB_3Q24.txt,WRB,2024,Q3,"Takes for the group: (1) pricing improved: pricing ex comp ticked up modestly and
+Berkley was positive on underlying conditions in E&S market, (2) rate exceeded loss
+trend: WRB said rate remains in excess of trend and underlying margin improvement
+should continue, (3) reinsurance color: reinsurance rates could come under pressure at
+1/1 if Milton losses don't worsen, and (4) no movement in reserves: there was $1m of
+releases as releases in insurance offset modest strengthening in reinsurance.
+",reinsurance,Financial,0.947252094745636,0.0,0.0,-7.7,36.84,0.0,0.8333333333333334,78
+WRB_3Q24.txt,WRB,2024,Q3,"Overall WRB believes rate increases are keeping up and perhaps exceeding trend, and they
+expect their underlying margin to continue to improve.
+",rate increases,Financial,0.9543657898902893,0.0,0.0,40.69,16.07,0.0,0.9090909090909091,22
+WRB_3Q24.txt,WRB,2024,Q3,"The filing of its 10Q, which should provide more color on the
+reserve movement within the insurance segment in Q3
+Company Description
+W. R. Berkley Corporation is the 13th largest commercial
+underwriter in the United States and operates within two segments:
+(1) Insurance, including E&S, admitted and specialty lines and (2)
+Reinsurance and Monoline Excess, which is primarily facultative and
+treaty reinsurance.",reinsurance,Financial,0.0,0.0,0.9151915311813354,31.55,20.14,0.0,0.8225806451612904,62
+WRB_3Q24.txt,WRB,2024,Q3,"Casualty reinsurance accounts for the majority of the
+remaining total company GWP.
+2 |",reinsurance,Financial,0.0,0.0,0.95461505651474,15.98,17.51,0.0,0.9285714285714286,14
+WRB_3Q24.txt,WRB,2024,Q3,"Prior year favorable reserve
+development was $1 million, relative to estimate for $3m of adverse development (0.1 pts) with $3m
+of favorable development in insurance offset by $2m of adverse development within reinsurance.",reinsurance,Financial,0.8036096096038818,0.0,0.0,29.35,13.87,0.0,0.7575757575757576,33
+WRB_3Q24.txt,WRB,2024,Q3,"Versus Actual
+Q3 2024
+WFS Estimate
+($ in millions, except as noted)
+Actual
+Summary
+Insurance
+218.0
+Reinsurance & Monoline Excess
+48.2
+Underwriting Income
+266.2
+Net Investment Income
+323.8
+324.3
+(0.5)
+(0.2%)
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8754436373710632,39.6,12.56,10.8,0.9142857142857143,35
+WRB_3Q24.txt,WRB,2024,Q3,"Underlying Combined Ratio
+Catastrophe Losses ($)
+97.8
+Reserve Development ($)
+(1.0)
+Capital Return
+Common Dividends
+125.8
+Share Repurchases
+12.5
+Total Capital Return
+138.3
+Total Payout Ratio (% of Operating Income)
+37.0%
+482.5
+487.8
+(109.2)
+0.3
+$0.93
+8.4%
+Net premiums written
+3,057.3
+3,148.0
+(90.7)
+(2.9%)
+212.2
+45.7
+258.0
+(115.6)
+(0.6)
+371.6
+$0.93
+2.8%
+19.1%
+3,742.6
+10.5%
+(3.2%)
+2,938.8
+11.2%
+324.3
+19.7%
+3,413.6
+62.5%
+(0.1pts)
+28.7%
+(0.2pts)
+91.2%
+(0.3pts)
+(0.3%)
+2.9%
++0.4pts
+15.6%
+0.1%
+59.5%
+88.2%
+85.0
+3.0
+45.4
+50.0
+95.4
+25.7%
+5.7
+2.7%
+2.5
+5.4%
+8.2
+3.2%
+(12.9)
+(5.3)
+(1.1%)
+6.4
+0.9
+2.1
+$0.00
+0.5%
+(107bps)
+(4.5%)
+($0.06)
+0.1%
++50bps
+2.6%
+(109.4)
+(2.9%)
+(12.0)
+(0.5%)
+(0.5)
+(0.2%)
+(13.3)
+(0.1pts)
+(133.5%)
+(0.4pts)
+(0.6pts)
+12.8
+(4.0)
+13.7%
+(5.6%)
+(153.3%)
+0.5%
+0.6%
+(0.3%)
+0.3%
+(0.4%)
+(0.2%)
+(0.4%)
+(0.2%)
+(0.7%)
+(0.7%)
+(0.7%)
+15.1%
+(133.3%)
+80.4
+1.8
+(37.5)
+(0.8)
+42.9
+0.5
+11.3%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+Equity Research | 3
+",catastrophe,Financial,0.0,0.0,0.0,82.14,8.56,9.6,0.8926174496644296,149
+WRB_3Q24.txt,WRB,2024,Q3,"Commercial Lines Insurance
+Equity Research
+What the Companies Are Saying - WRB
+Outlook
+Overall, WRB believes rate increases are keeping up and perhaps exceeding trend, and they expect
+their underlying margin to continue to improve.",rate increases,Financial,0.9545894861221313,0.0,0.0,20.05,23.01,0.0,0.9142857142857143,35
+WRB_3Q24.txt,WRB,2024,Q3,"WRB sees opportunity emerging in the non-admitted market as we deal with climate change
+and social inflation.",climate change,Climate,0.9037773013114929,0.0,0.0,37.3,13.86,0.0,1.0,17
+WRB_3Q24.txt,WRB,2024,Q3,"On the reinsurance side, if Milton does not prove to
+be uglier WRB would expect it to be hard for reinsurers to see flat pricing at 1/1.",reinsurance,Financial,0.0,0.622529149055481,0.0,69.45,13.76,0.0,0.8888888888888888,27
+WRB_3Q24.txt,WRB,2024,Q3,"Hurricane Helene hit
+areas where cats are not supposed to happen and individuals are taking a step back and analyzing what
+this means for exposure.
+",hurricane,Climate,0.0,0.0,0.7565158009529114,46.1,16.4,0.0,0.92,25
+WRB_3Q24.txt,WRB,2024,Q3,"They said it was premature to give a loss estimate for Hurricane Milton and the outcome would be
+within what would be expected from the company.
+",hurricane,Climate,0.0,0.8093056678771973,0.0,53.55,16.55,0.0,0.8846153846153846,26
+WRB_3Q24.txt,WRB,2024,Q3,"On the reinsurance side, WRB said reinsurance companies are positioning themselves to achieve flat
+pricing but they think it will be difficult for them to achieve that unless Milton proves to be uglier than expected.
+",reinsurance,Financial,0.7757313251495361,0.0,0.0,44.41,19.71,0.0,0.8571428571428571,35
+WRB_3Q24.txt,WRB,2024,Q3,"WRB said there are many insurance
+departments not operating in a timely manner and in some cases quite resistant to allows carriers on the commercial side to get
+rate increases they need which is pushing business into the specialty and E&S market.",rate increases,Financial,0.0,0.7445363402366638,0.0,28.85,24.42,0.0,0.9047619047619048,42
+WRB_3Q24.txt,WRB,2024,Q3,"On the reinsurance side, they
+believe pricing is peaking but still view opportunity in the line as margins remain strong.
+",reinsurance,Financial,0.9402338266372681,0.0,0.0,51.18,12.0,0.0,0.95,20
+WRB_3Q24.txt,WRB,2024,Q3,"Within property cat reinsurance, WRB viewed the market at
+1/1/24 as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_3Q24.txt,WRB,2024,Q3,"Further, they highlighted that there is a distinction between
+property cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_3Q24.txt,WRB,2024,Q3,"Within
+property cat reinsurance, WRB viewed the market at 1/1/24 as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_3Q24.txt,WRB,2024,Q3,"Further,
+they highlighted that there is a distinction between property cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_3Q24.txt,WRB,2024,Q3,"Q4 2023
+WRB is very focused on social inflation and they said that you can see that in their rate increases (8.5% excluding workers'
+compensation) and they intend to stay on top of it.",rate increases,Financial,0.0,0.0,0.5553750991821289,71.14,11.51,0.0,0.8823529411764706,34
+WRB_3Q24.txt,WRB,2024,Q3,"The market has been accepting of its rate increases as shown in its steady
+renewal retention of 80%.",rate increases,Financial,0.9434288740158081,0.0,0.0,61.67,16.09,0.0,0.8888888888888888,18
+WRB_3Q24.txt,WRB,2024,Q3,"WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs.",reinsurance,Financial,0.0,0.973501980304718,0.0,31.55,21.43,0.0,0.8064516129032258,31
+WRB_3Q24.txt,WRB,2024,Q3,"WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to
+see resilience in the reinsurance market.",reinsurance,Financial,0.9534586071968079,0.0,0.0,41.7,16.02,0.0,0.8571428571428571,21
+WRB_3Q24.txt,WRB,2024,Q3,"Despite concerns around the economy and a recession, WRB noted that audit premiums are seeing considerable
+momentum, up 45% YOY.
+Q2 2022
+Q1 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points.",rate increases,Financial,0.9515336155891418,0.0,0.0,50.67,15.03,0.0,0.926829268292683,41
+WRB_3Q24.txt,WRB,2024,Q3,"There's nothing that leads us to believe that we will not continue to see rate increases that outpace trend by something
+measured in the hundreds of basis points.",rate increases,Financial,0.5900149941444397,0.0,0.0,59.98,14.06,0.0,0.8928571428571429,28
+WRB_3Q24.txt,WRB,2024,Q3,"Exhibit 5 - WRB Estimate Changes
+($ in millions, except as noted)
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.6289427280426025,0.0,5.83,23.11,0.0,0.9259259259259259,27
+WRB_3Q24.txt,WRB,2024,Q3,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+Tax Rate
+GAAP Book Value per Share
+Operating Return on Equity
+Net Income ROE (Reported)
+21.3%
+Revenues
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+y/y change
+Total revenues
+2024E
+2025E
+Current
+2026E
+2024E
+Prior
+2025E
+2026E
+Absolute Change
+2025E
+2024E
+2026E
+Underwriting Profitability
+Loss Ratio
+Expense Ratio
+28,6%
+Combined Ratio
+Cats Points on Combined Ratio
+PYD Points on Combined Ratio
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+298.0
+274.0
+Reserve Development ($)
+Capital Return
+Common Dividends
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+864.7
+247.1
+1,111.8
+1,356.7
+(366.2)
+2,102.4
+(487.3)
+0.8
+1,615.9
+1,759.1
+$4,00
+21.7%
+10.0%
+23.2%
+23.7%
+$22.53
+20.2%
+14,299.8
+16,001.4
+17,643.6
+10.2%
+12,043.8
+9.9%
+11,490.3
+10.4%
+1,356.7
+1,447.1
+28.9%
+13,467.0
+61.8%
+90.3%
+2.6%
+2.2%
+2.2%
+(0,0%)
+(0,0%)
+0.0%
+59.2%
+87.8%
+(4.0)
+(5.0)
+493.7
+417.5
+413.7
+336.3
+265.0
+200.0
+830.0
+51.4%
+38.8%
+32.2%
+1,015.8
+263.5
+1,279.3
+1,447.1
+1,549.8
+(420.9)
+(465.5)
+(353.8
+2,305.5
+2,497.3
+2,124.5
+(546.4)
+(591.9)
+0.0
+$4.40
+$25.89
+$29.84
+$22.75
+19.2%
+18.2%
+20.3%
+21.7%
+11.9%
+10.3%
+13,420.1
+14,792.9
+11.4%
+10.2%
+10.7%
+12,727.1
+14,104.7
+11,519.6
+10.8%
+10.8%
+10.7%
+6.7%
+14,969.2
+61.3%
+61.4%
+28,6%
+28,6%
+89.9%
+90.0%
+90.3%
+59.2%
+87.8%
+682.5
+613.7
+1,129.7
+283.4
+0.0
+1,905.5
+$4.80
+9.0%
+22.5%
+5.4%
+23.7%
+20.6%
+1,549.8
+1,358.2
+7.1%
+29.0%
+16,469.4
+59.2%
+87.8%
+304.0
+2.0
+868.4
+251.6
+1,413.1
+1,120.0
+1,358.2
+(497.7)
+(523.4)
+(0.8)
+1,626.0
+$4.03
+23.4%
+23.5%
+21.4%
+14,404.4
+15,951.2
+17,545.0
+11.0%
+12,130.4
+13,378.2
+13,498.6
+61.7%
+61.9%
+28,6%
+2.3%
+0,0%
+59.3%
+59.5%
+87.9%
+88.1%
+266.2
+303.0
+329.0
+4.0
+12.0
+415.7
+323.8
+739.5
+45.5%
+29.7%
+962.5
+244.7
+1,207.2
+1,439.0
+1,538.2
+(421.4)
+2,224.7
+2,421.2
+(2.5)
+1,698.9
+$4.25
+$26.40
+$30.51
+18.4%
+17.4%
+20.9%
+10.7%
+10.0%
+10.3%
+12,746.0
+14,039.6
+10.6%
+10.1%
+1,439.0
+5.9%
+14,980.0
+28,6%
+28,5%
+90.5%
+90.4%
+2.4%
+304.7
+302.2
+200.0
+200.0
+504.7
+502.2
+Source: Company reports and Wells Fargo Securities, LLC estimates
+1,082.6
+263.8
+1,346.4
+(463.3)
+(569.6)
+(2.5)
+",catastrophe,Financial,0.0,0.0,0.0,55.31,15.37,13.2,0.7659574468085106,329
+WRB_3Q24.txt,WRB,2024,Q3,"W.R. Berkley Corporation
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8637235760688782,-9.74,25.33,0.0,0.9411764705882353,34
+WRB_3Q24.txt,WRB,2024,Q3,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Dividend Payout Ratio
+Share Repurchase Payout Ratio
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+AOCI
+Equity ex. AOCI
+Leverage
+Debt/Capital
+2022
+902.3
+122.4
+1,024.7
+779.2
+(281.3)
+1,522.5
+19.3%
+(293.2)
+(3.9)
+1,225.4
+$2.92
+28.7%
+28.9%
+11.3%
+18.0%
+588.9
+145.1
+45.2
+779.2
+3.27%
+61.3%
+28.0%
+89.3%
+0.2%
+(0.5%)
+(0.3%)
+211.7
+2.2%
+35.7
+0.4%
+58.7%
+86.7%
+0.0%
+(0.5%)
+$17.01
+18.5%
+396.8
+419.2
+235.2
+94.1
+329.3
+19.2%
+7.7%
+26.9%
+6,653.0
+1,381.1
+(235.2)
+(94.1)
+(983.0)
+26.6
+6,748.3
+(1,265,0)
+8,013.3
+29.6%
+Q1 2023
+Q2 2023
+188.6
+46.7
+235.3
+223.4
+(105.6)
+353.1
+21.4%
+(75.5)
+(1.6)
+276.0
+$0.66
+(10.1%)
+(9.5%)
+200.8
+63.1
+263.9
+245.2
+(105.7)
+403.3
+22.1%
+(89.0)
+0.6
+314.9
+$0.77
+0.5%
+2.8%
+6.6%
+9.3%
+10.8%
+8.5%
+203.0
+2.2
+18.3
+223.4
+3.61%
+229.3
+(1.2)
+17.0
+245.2
+3.90%
+61.8%
+61.4%
+28.8%
+28.1%
+90.6%
+89.5%
+2.2%
+0.5%
+0.6%
+0.4%
+2.8%
+0.9%
+47.9
+53.5
+1.9%
+2.1%
+24.0
+(3.0)
+1.0%
+(0.1%)
+58.9%
+87.7%
+0.6%
+1.1%
+59.4%
+87.5%
+0.9%
+1.3%
+$17.63
+16.1%
+$17.83
+18.2%
+393.8
+416.0
+386.3
+409,6
+158.6
+135.2
+293.8
+57.5%
+49.0%
+106.5%
+28.3
+292.5
+320.8
+9.0%
+92.9%
+101.9%
+6,748.3
+294.1
+(158.6)
+(135.2)
+186.0
+9.4
+6,944.0
+(1,079.0)
+8,023.0
+6,944.0
+360.3
+(28.3)
+(292.5)
+(102.0)
+5,7
+6,887.2
+(1,181.0)
+8,068.2
+29.0%
+29.2%
+Q3 2023
+205.4
+51.4
+256.9
+270.9
+(65.4)
+462.4
+20.7%
+(95.9)
+0.2
+366.6
+$0.90
+30.1%
+34.0%
+8.8%
+8.2%
+248.6
+4.5
+17.9
+270.9
+4.22%
+61.9%
+28.3%
+90.2%
+(2.1%)
+0.2%
+(1.9%)
+61.5
+2.3%
+(1.0)
+(0.0%)
+59.6%
+87.9%
+1.0%
+1.2%
+$17.87
+21.2%
+387.1
+407,2
+157.4
+2.9
+160.3
+42.9%
+0.8%
+43.7%
+6,887.2
+333.6
+(157.4)
+(2.9)
+(142.0)
+(2,9)
+6,915.6
+(1,323.0)
+8,238.6
+29.1%
+Q4 2023
+251.7
+62.4
+314.1
+313.3
+(134.0)
+493.4
+20.3%
+(100.0)
+11.6)
+391.8
+$0.96
+21.2%
+24.7%
+10.9%
+8.0%
+285.8
+11.3
+16.2
+313.3
+4.72%
+60.0%
+28.4%
+88.4%
+(0.6%)
+0.6%
+(0.0%)
+32.0
+1.2%
+(1.0)
+(0.0%)
+58.8%
+87.2%
+(0.5%)
+0.0%
+$19.37
+21.8%
+384.8
+406,5
+157.1
+106,7
+263.8
+40.1%
+27.2%
+67.3%
+6,915.6
+397.3
+(157.1)
+(106.7)
+397.0
+9,3
+7,455.4
+(926.0)
+8,381.4
+27.6%
+2023
+846.4
+223.7
+1,070.1
+1,052.8
+(410.8)
+1,712.2
+21.1%
+(360.5)
+(2.5)
+1,349.2
+$3.29
+10.1%
+12.6%
+8.9%
+8.8%
+966.7
+16.7
+69.4
+1,052.8
+4.12%
+61.2%
+28.4%
+89.6%
+(0.1%)
+0.4%
+0.4%
+195.0
+1.9%
+19.0
+0.2%
+59.2%
+87.6%
+0.5%
+0.9%
+$19.37
+19.3%
+384.8
+409,9
+501.4
+537.3
+1,038.7
+37.2%
+39.8%
+77.0%
+6,748.3
+1,385.4
+(501.4)
+(537.3)
+339.0
+21.4
+7,455.4
+(926.0)
+8,381.4
+27.6%
+Source: Company reports, FactSet, and Wells Fargo Securities, LLC estimates
+Q1 2024
+235.1
+74.6
+309.7
+319.8
+(81.2)
+548.3
+22.9%
+(125.4)
+0.4
+423.3
+$1.04
+53.4%
+57.3%
+10.3%
+11.0%
+331.2
+(29.3)
+18,0
+319.8
+4.69%
+60.2%
+28.6%
+88.8%
+(1.6%)
+(0.2%)
+(1.8%)
+30.5
+1.1%
+(1.0)
+(0.0%)
+59.1%
+87.8%
+0.2%
+0.0%
+$20.23
+22.2%
+384.8
+405.8
+42.3
+0.0
+42.3
+10.0%
+0.0%
+10.0%
+7,455.4
+442.5
+(42.3)
+0.0
+(98.0)
+27.3
+7,784.8
+(1,024.0)
+8,808.8
+26.7%
+Q2 2024
+188.8
+65.9
+254.7
+372.1
+(80.5)
+546.3
+23.5%
+(128.2)
+0.0
+418.1
+$1.04
+32.8%
+34.7%
+11.4%
+11.3%
+330.0
+25.5
+16,7
+372.1
+5.35%
+62.6%
+28.5%
+91.1%
+1.2%
+0.4%
+1.6%
+89.7
+3.2%
+(1.0)
+(0.0%)
+59.4%
+88.0%
+0.0%
+0.5%
+$20.42
+21.5%
+380.6
+403,7
+157.0
+223.8
+380.8
+37.5%
+53.5%
+91.1%
+7,784.8
+371.9
+(157.0)
+(223.8)
+(10.0)
+7.8
+7,773.8
+(1,034.0)
+8,807.8
+26.7%
+Q3 2024
+",catastrophe,Financial,0.0,0.0,0.0,65.19,14.13,12.6,0.7056145675265554,659
+WRB_3Q24.txt,WRB,2024,Q3,"We believe that WRB is positioned to continue to see a healthy level of rate increases and
+growth in 2024 and 2025, which we do not believe is currently reflected in consensus expectations.
+",rate increases,Financial,0.9439941644668579,0.0,0.0,46.44,21.68,0.0,0.8484848484848485,33
+WRB_3Q24.txt,WRB,2024,Q3,"Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+10 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.923244833946228,28.51,20.07,0.0,0.8260869565217391,69
+WRB_3Q24.txt,WRB,2024,Q3,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+WRB_3Q24.txt,WRB,2024,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+WRB_4Q21.txt,WRB,2021,Q4,"Catastrophe losses came in at $42.4
+million, above our $29.0 million estimate.",catastrophe,Financial,0.0,0.594068169593811,0.0,67.42,8.27,7.8,1.0,12
+WRB_4Q21.txt,WRB,2021,Q4,"The underlying
+combined ratio was 86.0%, better than our 86.4% estimate, as outperformance in
+the insurance segment outweighed an uptick in reinsurance/monoline excess.",reinsurance,Financial,0.9488852024078369,0.0,0.0,38.28,11.78,10.5,0.9565217391304348,23
+WRB_4Q21.txt,WRB,2021,Q4,"By segment, insurance net
+written premium grew by 25.8% beating our 18.8% estimate and reinsurance growth
+of 33.0% beat our 11.0% estimate.",reinsurance,Financial,0.9602681994438171,0.0,0.0,65.89,9.47,9.5,0.9545454545454546,22
+WRB_4Q21.txt,WRB,2021,Q4,"Reinsurance growth was driven by growth
+across the board in casualty reinsurance, monoline, as well as property reinsurance.
+.",reinsurance,Financial,0.7916200757026672,0.0,0.0,44.75,13.87,0.0,0.8947368421052632,19
+WRB_4Q21.txt,WRB,2021,Q4,"Catastrophe losses came in
+at $48.5 million, above our $29.0 million estimate and included $12 million of Covid-19 losses (we
+did not include any Covid-19 losses in our estimate).",catastrophe,Financial,0.0,0.868363082408905,0.0,70.09,8.02,9.7,0.7931034482758621,29
+WRB_4Q21.txt,WRB,2021,Q4,"Exhibit 1 - WRB Q4 2021 Estimates Versus Actual
+04 2021
+Delta Vs. WFS
+$ in millions, except per share data
+Gross premiums written
+2,766.7
+y/y change
+24.5%
+Net premiums written
+2,275.5
+y/y change
+26.6%
+Net premiums earned
+2,203.4
+y/y change
+21.5%
+17.8%
+Net investment income
+165.0
+Investment Yield
+2.81%
+Total revenues
+2,578.2
+Underwriting Income
+261.4
+Operating income after-tax
+284.3
+237.6
+Operating income per diluted share
+Tax Rate
+17.0%
+Book value per share
+37.63
+37.99
+Operating ROE
+17.1%
+14.3%
+Net income ROE
+18.7%
+Underwriting Profitability
+Loss ratio
+60.4%
+(Favorable) / Adverse PYD
+Catastrophe Losses
+Underlying Loss Ratio
+Underlying Combined Ratio
+86.0%
+",catastrophe,Financial,0.0,0.0,0.5693163871765137,57.53,7.06,9.2,0.7524752475247525,101
+WRB_4Q21.txt,WRB,2021,Q4,"Exhibit 2 - WRB Historical Pricing Commentary
+Period Pricing Comments
+Period Pricing Comments
+There's nothing that leads us to believe that we will not continue to see rate increases that outpace
+trend by something measured in the hundreds of basis points.",rate increases,Financial,0.5435167551040649,0.0,0.0,22.42,22.0,0.0,0.8292682926829268,41
+WRB_4Q21.txt,WRB,2021,Q4,"The loss ratios that WRB selected at
+Q3 2020 the beginning of the year assumed that they would not be outpacing loss cost trend by the level that they
+are.",loss ratios,Financial,0.0,0.0,0.8557270765304565,66.41,14.67,0.0,0.8,30
+WRB_4Q21.txt,WRB,2021,Q4,"The rate increases throughout the year, by and large, are above and beyond what was anticipated.
+",rate increases,Financial,0.9377855658531189,0.0,0.0,63.7,11.4,0.0,0.9375,16
+WRB_4Q21.txt,WRB,2021,Q4,"Rate Increases were at a level not
+Q2 2020 seen in some number of years and there was a reduction in capacity that various carriers were offering.",rate increases,Financial,0.0,0.9618125557899475,0.0,44.07,19.69,0.0,0.8888888888888888,27
+WRB_4Q21.txt,WRB,2021,Q4,"And as far as drilling down into the market a little bit more, when we look at the major product lines
+with the exception of workers; compensation all of them continued to get rate increases that outpace
+our view of loss trend.",rate increases,Financial,0.9232891201972961,0.0,0.0,45.77,20.61,0.0,0.8809523809523809,42
+WRB_4Q21.txt,WRB,2021,Q4,"Q1 2020 Rate increases that continue to progress in response to past conversations around social inflation and
+keeping up with loss costs.
+",rate increases,Financial,0.9367765188217163,0.0,0.0,57.61,16.07,0.0,0.9545454545454546,22
+WRB_4Q21.txt,WRB,2021,Q4,"Not all of the lines, however, are seeing the same increases and gave the example of professional
+liability having seen rate increases for quite some time, while commercial auto has started to firm more
+recently and workers' comp is in a soft market,
+The challenges that the market faces has stemmed from a low interest rate environment, frequency of cat
+activity, and social inflation has gotten to the point where it is no longer solely being talked about but it is
+actually being acted upon, This is a meaningful sea change that became very visible in the Q4, and there is
+Q4 2019 no sign of that slowing down.",rate increases,Financial,0.5691767930984497,0.0,0.0,-30.71,48.74,0.0,0.7431192660550459,109
+WRB_4Q21.txt,WRB,2021,Q4,"Q1 2021
+We are coming up for some of the major product lines on a third year in a row where we are getting
+meaningful rate increases.",rate increases,Financial,0.9435743689537048,0.0,0.0,69.45,13.76,0.0,0.9259259259259259,27
+WRB_4Q21.txt,WRB,2021,Q4,"We are seeing rate increases across the board with the exception of workers' comp, which certainly is the
+one major product line moving in the other direction.",rate increases,Financial,0.9260969161987305,0.0,0.0,52.53,13.76,0.0,0.8888888888888888,27
+WRB_4Q21.txt,WRB,2021,Q4,"Further WRB saw an increasing number of examples of business
+getting kicked out of the standard market and making its way into the specialty/E&S market and in addition
+to that an increasing demand for facultative reinsurance.",reinsurance,Financial,0.8267160058021545,0.0,0.0,26.48,21.07,0.0,0.8055555555555556,36
+WRB_4Q21.txt,WRB,2021,Q4,· Premium growth above us in both insurance and reinsurance/monoline excess.,reinsurance,Financial,0.9545781016349792,0.0,0.0,35.95,16.0,0.0,1.0,11
+WRB_4Q21.txt,WRB,2021,Q4,"By segment, insurance net written premium growth of 25.8% beat our 18.8% estimate
+driven by growth in all lines (with the strongest growth in professional lines, commercial auto,
+and other liability), while reinsurance growth of 33% was well above our 11.0% estimate driven by
+growth across the board.",reinsurance,Financial,0.9602932333946228,0.0,0.0,67.76,10.63,11.2,0.7708333333333334,48
+WRB_4Q21.txt,WRB,2021,Q4,Combined ratio misses us on higher catastrophe losses.,catastrophe,Financial,0.0,0.8371128439903259,0.0,37.98,8.2,0.0,1.0,8
+WRB_4Q21.txt,WRB,2021,Q4,"The combined ratio of 88.2% fell short of
+our 87.7% estimate due to higher catastrophe losses.",catastrophe,Financial,0.0,0.9626531600952148,0.0,74.56,7.12,7.8,0.9375,16
+WRB_4Q21.txt,WRB,2021,Q4,"The insurance combined ratio was 88.1%, a
+slight miss versus our 87.8% estimate and the reinsurance combined ratio of 88.4% came in above
+our 87.1% estimate.",reinsurance,Financial,0.8246246576309204,0.0,0.0,73.34,7.22,8.8,0.8846153846153846,26
+WRB_4Q21.txt,WRB,2021,Q4,"Catastrophe losses of $48.5 million (2.2 points)
+were above our $29.0 million (1.4 point) estimate, with $12 million of Covid-19 losses.",catastrophe,Financial,0.0,0.7837702035903931,0.0,84.13,5.49,6.7,0.8571428571428571,21
+WRB_4Q21.txt,WRB,2021,Q4,"The reinsurance underlying combined ratio came in at 58.9%,
+short of our 84.0% estimate driven by higher loss costs.",reinsurance,Financial,0.0,0.9593177437782288,0.0,65.08,8.84,8.8,1.0,19
+WRB_4Q21.txt,WRB,2021,Q4,"The reinsurance underlying loss ratio was
+57.2%, above our 53.5% estimate.",reinsurance,Financial,0.7685807943344116,0.0,0.0,57.43,13.11,0.0,1.0,11
+WRB_4Q21.txt,WRB,2021,Q4,"In getting the segment underlying loss ratios we attribute all of
+the favorable reserve development to the insurance segment (WRB provides the breakout of its
+reserve development in its 10Q/10K).
+",loss ratios,Financial,0.7731866240501404,0.0,0.0,32.57,17.33,0.0,0.7333333333333333,30
+WRB_4Q21.txt,WRB,2021,Q4,"Exhibit 4 - WRB Summary Of Estimate Changes
+$ in millions, except per share data
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+Investment Yield
+Total revenues
+10,526.3
+Current
+FY 2022E FY 2023E FY 2024E
+11,948.2
+12,861.0
+7.6%
+10,558.7
+13,850.1
+7.7%
+11,367.3
+11.7%
+9,812.2
+10.7%
+7.6%
+7.7%
+9,336.8
+10,176.7
+10,953.4
+9,050.5
+15.2%
+9.0%
+7.6%
+12.6%
+544.9
+575.4
+613.2
+543.0
+2.23%
+2.21%
+2.21%
+2.22%
+10,237.0
+10,930.6
+11,407.8
+12,222.2
+Prior Estimates
+FY 2022E FY 2023E FY 2024E
+11,427.2
+8.3%
+12,208.8
+NE
+6.8%
+10,026.1
+NE
+9,386.2
+NE
+7.8%
+6.8%
+9,700.6
+NE
+NE
+7.2%
+NE
+2.6%
+574.5
+NE
+1.9
+2.21%
+NE
+0.00%
+NE
+289.3
+Absolute Change
+FY 2022E FY 2023E FY 2024E
+521.0
+3.3%
+426.0
+652.2
+NA
+0.8%
+532.6
+NA
+NA
+4.5%
+2.9%
+0.8%
+NA
+286.3
+476.2
+NA
+1.8%
+NA
+1.0
+NA
+0.00%
+NA
+477.1
+NA
+Underwriting Income
+Operating income after-tax
+996.7
+Operating income per diluted share
+5.40
+Tax Rate
+21.0%
+Book value per share
+42.67
+Operating ROE
+Net income ROE
+16.5%
+Underwriting Profitability
+Loss ratio
+Expense ratio
+GAAP combined ratio
+(Favorable) / Adverse PYD
+0.0%
+1.8%
+Catastrophe Losses
+Underlying Loss Ratio
+58.0%
+Underlying Combined Ratio
+86.5%
+Capital Return
+Total shares repurchased
+Total Dividends ($M)
+Total capital return to shareholders
+Capital return payout ratio - % Operating
+29.4%
+1083.7
+14.1%
+1224.1
+1341.9
+1111.4
+6.10
+21.0%
+21.0%
+48.37
+54.80
+14.1%
+13.8%
+16.2%
+1212.1
+6.75
+15.8%
+1020.2
+941.3
+1035.9
+5.10
+21.0%
+21.0%
+42.82
+13.4%
+15.6%
+1126.4
+5,70
+48.22
+13.2%
+15.3%
+NE
+63.5
+NE
+55.4
+NE
+0,30
+NE
+0.0%
+NE
+NE
+NE
+0.9%
+59.9%
+28.5%
+88.4%
+59.4%
+59.0%
+28.6%
+88.0%
+0.1%
+1.8%
+57.5%
+86.1%
+86.0%
+28.7%
+87.7%
+0.1%
+1.6%
+57.3%
+60.0%
+28.7%
+88.7%
+88.4%
+0.0%
+0.1%
+1.9%
+1.9%
+58.1%
+86.8%
+59.6%
+28.7%
+57.7%
+86.4%
+NE
+NE
+NE
+NE
+0.0%
+0.0%
+NE
+NE
+-0.1%
+NE
+-0.3%
+200.0
+240.0
+240.0
+93.1
+98.7
+97.3
+200.0
+92.4
+240.0
+97.8
+NE
+NE
+293.1
+338.7
+337.3
+292.4
+337.8
+NE
+30.5%
+27.8%
+31.1%
+32.6%
+NE
+Source: Company reports and Wells Fargo Securities, LLC estimates
+97.6
+75.5
+0.41
+0.0%
+(0.15)
+0.15
+0.8%
+0.8%
+0.9%
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+-0.1%
+-0.2%
+-0.2%
+-0.3%
+-0.4%
+-0.1%
+-0.1%
+-0.2%
+",catastrophe,Financial,0.0,0.0,0.0,88.02,5.54,8.2,0.6412429378531074,354
+WRB_4Q21.txt,WRB,2021,Q4,"Q3 2024E
+Q4 2024E
+FY 2024E
+Expense ratio
+GAAP combined ratio
+(Favorable) / Adverse PYD
+Catastrophe Losses
+Underlying Loss Ratio
+Underlying Combined Ratio
+32,9%
+95.3%
+-0.6%
+1.7%
+61.3%
+94.2%
+62.3%
+31,5%
+93.8%
+-0.3%
+1.4%
+61.2%
+92.7%
+65.5%
+",catastrophe,Financial,0.0,0.0,0.8458197116851807,61.67,10.53,0.0,0.8648648648648649,37
+WRB_4Q21.txt,WRB,2021,Q4,"Risk for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe and/or Covid-19 losses.
+",catastrophe,Financial,0.0,0.947460412979126,0.0,17.34,24.22,0.0,0.8666666666666667,45
+WRB_4Q21.txt,WRB,2021,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases
+in 2022 which should translate into underlying margin improvement, and we do not believe this is currently reflected in consensus
+expectations.
+",rate increases,Financial,0.9496225714683533,0.0,0.0,25.46,24.53,0.0,0.8918918918918919,37
+WRB_4Q21.txt,WRB,2021,Q4,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+WRB_4Q22.txt,WRB,2022,Q4,"The bad: The 60.3% underlying loss ratio in insurance came in above our 59.0% estimate,
+but in part was driven by 1-1.5 points of non-cat weather related to fires, which impacted
+both insurance and reinsurance and will most likely be one-time in nature.",reinsurance,Financial,0.0,0.8055093884468079,0.0,68.97,9.9,10.7,0.8604651162790697,43
+WRB_4Q22.txt,WRB,2022,Q4,"Lost within that is WRB said they chose to add to their
+catastrophe reinsurance exposure at 1/1.",catastrophe,Financial,0.0,0.0,0.8759327530860901,71.14,13.86,0.0,0.9411764705882353,17
+WRB_4Q22.txt,WRB,2022,Q4,"Lost within that is WRB said they chose to add to their
+catastrophe reinsurance exposure at 1/1.",reinsurance,Financial,0.0,0.0,0.8759327530860901,71.14,13.86,0.0,0.9411764705882353,17
+WRB_4Q22.txt,WRB,2022,Q4,"While still probably modest for them, we believe
+cat reinsurance could provide an extra source of revenue and earnings in 2023.",reinsurance,Financial,0.9306848645210266,0.0,0.0,58.62,12.21,0.0,1.0,21
+WRB_4Q22.txt,WRB,2022,Q4,"Catastrophe losses came in at $30.8 million, lower than our $54.0 million estimate, and prior
+year reserve development was $0.3 million favorable vs. our estimate for adverse development of
+($0.5) million.",catastrophe,Financial,0.0,0.9708868265151978,0.0,56.72,7.64,9.4,0.9032258064516129,31
+WRB_4Q22.txt,WRB,2022,Q4,"The underlying combined ratio of 87.2% was worse than our 86.3% estimate, the underlying loss ratio
+came 110bps above us, driven by 1-1.5 points of non-cat weather related to fires that occurred across
+both insurance and reinsurance (they did not provide a breakdown between the two segments), which
+more than offset a modestly favorable expense ratio (20bps above us).",reinsurance,Financial,0.0,0.8531167507171631,0.0,64.91,10.67,11.2,0.864406779661017,59
+WRB_4Q22.txt,WRB,2022,Q4,"Summary
+Insurance
+238.4
+Reinsurance & Monoline Excess
+52.7
+Underwriting Income
+291.0
+Net Investment Income
+231.3
+177.0
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.924842894077301,33.98,14.77,9.4,0.9,20
+WRB_4Q22.txt,WRB,2022,Q4,"Underlying Combined Ratio
+87.2%
+86.3%
+Catastrophe Losses ($)
+30.8
+Reserve Development ($)
+(0.3)
+Capital Return
+Common Dividends
+32.8
+Share Repurchases
+Total Capital Return
+120.3
+Total Payout Ratio (% of Operating Income)
+37.2%
+403.3
+(80.2)
+0.2
+87.6
+257.1
+31.7
+288.7
+368.4
+(77.4)
+(0.6)
+290.4
+$1.04
+1.9%
+21.0%
+19.0%
+12.0%
+2,553.8
+(125.9)
+(4.9%)
+12.2%
+(5.5%)
+15.5
+2,497.7
+13.4%
+7.3%
+2,868.4
+60.4%
++0.2pts
+28.0%
+(0.2pts)
+88.4%
+(0.1pts)
+(0.1%)
+2.2%
+(0.9pts)
+(43.2%)
+0.0%
+(0.0pts)
+(159.6%)
+58.2%
+54.0
+0.5
+26.5
+50.0
+76.5
+26.4%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+(18.7)
+(7.3%)
+21.0
+2.3
+0.8%
+54.3
+30.7%
+35.0
+9.5%
+(2.9)
+3.7%
+0.9
+32.9
+$0.12
+11.7%
+(111bps)
+$0.12
+2.0%
++331bps
+17.5%
+(184.6)
+(6.0%)
+(6.7%)
+0.7%
+54.3
+32.9%
+145.4
++1.1pts
++0.9pts
+(23.2)
+(0.8)
+(160.0%)
+6.2
+0.2
+37.6
+43.8
+10.8%
+66.3%
+22.2%
+(138.2%)
+11.3%
+11.5%
+(5.3%)
+0.5%
+11.3%
+0.6%
+30.7%
+5.1%
+0.3%
+(0.8%)
+2.0%
+1.1%
+(42.9%)
+0.8
+0.6
+2 | Equity Research
+",catastrophe,Financial,0.0,0.0,0.8909274935722351,82.44,8.22,9.4,0.9246575342465754,146
+WRB_4Q22.txt,WRB,2022,Q4,"WRB said they are willing to lean in on the property
+hard market in both insurance and reinsurance, but the growth won't be anything that will shift the
+mix of the company.",reinsurance,Financial,0.7967795133590698,0.0,0.0,64.38,16.55,0.0,0.875,32
+WRB_4Q22.txt,WRB,2022,Q4,"WRB was disappointed by the lack of
+discipline in property as they mentioned many carriers failed to price in the higher reinsurance costs
+that were awaiting at 1/1s and the lack of reinsurance capacity.",reinsurance,Financial,0.0,0.9719844460487366,0.0,36.97,20.66,0.0,0.8235294117647058,34
+WRB_4Q22.txt,WRB,2022,Q4,"In terms of reinsurance, they said the clock is right to
+lean in but will see how much staying power and discipline there in the market.",reinsurance,Financial,0.0,0.0,0.7733601331710815,70.47,13.48,0.0,0.9230769230769231,26
+WRB_4Q22.txt,WRB,2022,Q4,"They mentioned they
+are seeing more attractive returns in the US reinsurance market versus international.",reinsurance,Financial,0.9557432532310486,0.0,0.0,30.87,14.0,0.0,1.0,15
+WRB_4Q22.txt,WRB,2022,Q4,"Equity Research
+Commercial Lines Insurance
+Exhibit 2 - WRB Historical Pricing Commentary
+Period Pricing Comments
+WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs.",reinsurance,Financial,0.0,0.97223299741745,0.0,0.42,30.44,0.0,0.8260869565217391,46
+WRB_4Q22.txt,WRB,2022,Q4,"WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to see
+resilience in the reinsurance market.",reinsurance,Financial,0.9534586071968079,0.0,0.0,41.7,16.02,0.0,0.8571428571428571,21
+WRB_4Q22.txt,WRB,2022,Q4,"Q2 2022
+Q1 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points.",rate increases,Financial,0.7937336564064026,0.0,0.0,67.08,12.21,0.0,0.9523809523809523,21
+WRB_4Q22.txt,WRB,2022,Q4,"There's nothing that leads us to believe that we will not continue to see rate increases that outpace trend by something
+measured in the hundreds of basis points.",rate increases,Financial,0.5900149941444397,0.0,0.0,59.98,14.06,0.0,0.8928571428571429,28
+WRB_4Q22.txt,WRB,2022,Q4,"And as far as drilling down into the market a little bit more, when we look at the major product lines with the exception of workers;
+compensation all of them continued to get rate increases that outpace our view of loss trend.",rate increases,Financial,0.9232891201972961,0.0,0.0,45.77,20.61,0.0,0.8809523809523809,42
+WRB_4Q22.txt,WRB,2022,Q4,"Not all of the lines, however, are seeing the same increases and gave the
+example of professional liability having seen rate increases for quite some time, while commercial auto has started to firm more
+recently and workers' comp is in a soft market.
+June 2021
+Non-Deal
+Roadshow
+(6/21/21)
+Q1 2021
+We are coming up for some of the major product lines on a third year in a row where we are getting meaningful rate increases.
+",rate increases,Financial,0.9471739530563354,0.0,0.0,41.87,18.73,0.0,0.7866666666666666,75
+WRB_4Q22.txt,WRB,2022,Q4,"The loss ratios that WRB selected at the beginning of the year assumed that they would not be outpacing
+loss cost trend by the level that they are.",loss ratios,Financial,0.0,0.0,0.8823541402816772,68.44,14.06,0.0,0.7857142857142857,28
+WRB_4Q22.txt,WRB,2022,Q4,"The rate increases throughout the year, by and large, are above and beyond what was
+anticipated.",rate increases,Financial,0.9377855658531189,0.0,0.0,63.7,11.4,0.0,0.9375,16
+WRB_4Q22.txt,WRB,2022,Q4,"Rate increases were at a level not seen in some number of years and there was a reduction in
+capacity that various carriers were offering.",rate increases,Financial,0.0,0.9605832099914551,0.0,46.1,19.6,0.0,0.88,25
+WRB_4Q22.txt,WRB,2022,Q4,"Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.930534839630127,-9.41,23.66,0.0,0.8666666666666667,15
+WRB_4Q22.txt,WRB,2022,Q4,"Underwriting Profitability
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Cats Points on Combined Ratio
+1.8%
+PYD Points on Combined Ratio
+0.1%
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+194.4
+214.4
+Reserve Development ($)
+Capital Return
+Common Dividends
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+1,034.2
+1,208.7
+188.7
+208.3
+1,222.9
+957.8
+1,785.0
+(374.9)
+(434.7)
+(2.5)
+(2.5)
+1,407.7
+1,632.7
+$5.05
+15.2%
+$29.80
+$35.54
+19.5%
+19.3%
+22.3%
+22.3%
+21.3%
+13,448.9
+14,709.5
+16,184.5
+12.9%
+9.4%
+11,142.6
+12,232.8
+11.4%
+9.8%
+10,548.5
+10.3%
+10.8%
+9.9%
+957.8
+1,072.6
+22.9%
+12,183.6
+60.0%
+59.5%
+59.0%
+28.4%
+88.4%
+58.1%
+86.5%
+12.0
+236.7
+240.0
+476.7
+1,417.0
+1,072.6
+2,069.9
+$5.90
+16.8%
+21.0%
+21.0%
+11,685.9
+13,432.1
+28.3%
+28.3%
+87.9%
+1.8%
+0.1%
+57.6%
+85.9%
+85.6%
+12.0
+12.0
+103.7
+240.0
+240.0
+342.5
+343.7
+33.9%
+21.0%
+1,396.4
+226.8
+1,623.2
+1,185.3
+905.6
+1,062.3
+(460.0)
+2,348.5
+(493.2)
+(2.5)
+1,852.8
+$6.75
+14.3%
+21.0%
+$42.24
+18.6%
+10.0%
+13,447.7
+9.9%
+12,838.3
+1,185.3
+12.0%
+10.5%
+14,697.3
+87.4%
+1.7%
+0.1%
+57.3%
+214.4
+102.5
+18.5%
+1,076.9
+188.0
+1,264.9
+(412.4)
+1,758.1
+(369.2)
+(2.5)
+1,386.4
+$5.00
+17.1%
+21.0%
+$29.54
+$35.18
+19.3%
+19.2%
+22.1%
+13,693.5
+13.2%
+11,338.7
+11.9%
+10,726.1
+12.4%
+10.8%
+905.6
+24.9%
+12,309.0
+60.0%
+28.2%
+88.2%
+1.8%
+0.1%
+58.1%
+86.3%
+194.4
+214.4
+NM
+12.0
+237.7
+104.1
+240.0
+344.1
+240.0
+477.7
+34.5%
+21.2%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+1,224.0
+1,429.4
+2,053.6
+(431.3)
+(2.5)
+1,619.8
+$5.90
+17.9%
+21.0%
+14,965.4
+12,443.4
+9.7%
+11,886.3
+1,062.3
+17.3%
+13,622.2
+59.6%
+88.0%
+1.8%
+0.1%
+57.7%
+86.1%
+12.0
+NM
+205.4
+NM
+NM
+NM
+(438.1)
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+22.2%
+NM
+9.3%
+NM
+NM
+NM
+NM
+NM
+NM
+52.2
+NM
+NM
+NM
+28.4%
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+(42.7)
+",catastrophe,Financial,0.0,0.0,0.0,83.9,9.9,9.1,0.6570397111913358,277
+WRB_4Q22.txt,WRB,2022,Q4,"Commercial Lines Insurance
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8947932720184326,-9.74,25.33,0.0,0.9117647058823529,34
+WRB_4Q22.txt,WRB,2022,Q4,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Dividend Payout Ratio
+Share Repurchase Payout Ratio
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+749.2
+95.1
+844.3
+671.6
+(320.7)
+1,195.2
+19.6%
+(234.8)
+(8.5)
+951.9
+$3.40
+117.1%
+119.8%
+20.9%
+17.0%
+413.9
+220.0
+37,7
+671.6
+2.98%
+61.1%
+28,5%
+89.6%
+(3.4%)
+(2.0%)
+(5.4%)
+202.0
+2.5%
+(7.0)
+(0.1%)
+58.7%
+87.2%
+(1.1%)
+(3.1%)
+$25.09
+14.6%
+265.2
+279.7
+355.7
+122.Z
+478.4
+37.4%
+12,9%
+50.3%
+6,310.8
+1,022.5
+(355.7)
+(122.7)
+(219.8)
+17.9
+6,653.0
+32,9%
+Q1 2022
+243.4
+30.3
+273.7
+173.5
+(75.8)
+371.4
+16.7%
+(62.1)
+(2.4)
+306,9
+$1.10
+52.1%
+52.7%
+15.1%
+21.6%
+112.3
+52.0
+9.2
+173.5
+2.93%
+59.5%
+28.3%
+87.8%
+(1.1%)
+(1,2%)
+(2.3%)
+28.8
+1.3%
+(1.0)
+(0.0%)
+58.3%
+86.6%
+(0.5%)
+(1,8%)
+$25.89
+18.2%
+265.2
+279.2
+23.0
+0.0
+23.0
+7.5%
+0.0%
+7.5%
+6,653.0
+590.6
+(23.0)
+0.0
+(367.3)
+11.1
+6,864,5
+29.3%
+Q2 2022
+233.2
+35.0
+268.2
+171.6
+(45.6)
+394.1
+20.5%
+(80.6)
+(0.1)
+313.4
+$1.12
+43.0%
+43.6%
+14.7%
+19.6%
+133.6
+33.9
+4,1
+171.6
+2.91%
+60.9%
+27,7%
+88.6%
+(0.1%)
+(1,0%)
+(1.1%)
+57.9
+2.5%
+(2.0)
+(0.1%)
+58.5%
+86.2%
+(0.3%)
+(1.3%)
+$24.56
+18.8%
+265.3
+279.5
+159.2
+0.0
+159,2
+50.8%
+0.0%
+50.8%
+6,864.5
+179.3
+(159.2)
+0.0
+(380.8)
+10.6
+6,514.5
+30.4%
+Q3 2022
+187.4
+4.4
+191.7
+202.8
+[40.9)
+353.7
+19.9%
+(70.2)
+(1,6)
+281.8
+$1.01
+14.2%
+14.4%
+10.6%
+17.3%
+156.1
+36.0
+10,7
+202.8
+3.44%
+64.1%
+",catastrophe,Financial,0.0,0.0,0.0,57.4,11.53,13.3,0.6535433070866141,381
+WRB_4Q22.txt,WRB,2022,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2023, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth and
+underlying margin improvement, and we do not believe this is currently reflected in consensus expectations.
+",rate increases,Financial,0.952412486076355,0.0,0.0,8.21,31.97,0.0,0.8148148148148148,54
+WRB_4Q22.txt,WRB,2022,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2023, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth and
+underlying margin improvement, and we do not believe this is currently reflected in consensus expectations.
+",reinsurance,Financial,0.952412486076355,0.0,0.0,8.21,31.97,0.0,0.8148148148148148,54
+WRB_4Q22.txt,WRB,2022,Q4,"Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe and/or Covid-19 losses.
+",catastrophe,Financial,0.0,0.9390400052070618,0.0,11.25,25.89,0.0,0.8235294117647058,51
+WRB_4Q22.txt,WRB,2022,Q4,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+WRB_4Q22.txt,WRB,2022,Q4,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+WRB_4Q23.txt,WRB,2023,Q4,"We believe
+that WRB is positioned to continue to see a healthy level of
+rate increases in 2024, particularly as they lean in on property
+insurance and reinsurance, which should translate into a good level
+of premium growth, which we do not believe is currently reflected in
+consensus expectations.
+",rate increases,Financial,0.9503340125083923,0.0,0.0,13.28,29.4,0.0,0.8163265306122449,49
+WRB_4Q23.txt,WRB,2023,Q4,"We believe
+that WRB is positioned to continue to see a healthy level of
+rate increases in 2024, particularly as they lean in on property
+insurance and reinsurance, which should translate into a good level
+of premium growth, which we do not believe is currently reflected in
+consensus expectations.
+",reinsurance,Financial,0.9503340125083923,0.0,0.0,13.28,29.4,0.0,0.8163265306122449,49
+WRB_4Q23.txt,WRB,2023,Q4,"Upcoming Catalysts
+· WRB's 10-K which comes out after earnings and will give
+additional color on its reserve development for the quarter
+· Monthly pricing surveys, which will highlight the overall
+strength (or lack thereof) of the commercial lines pricing
+environment
+Company Description
+W. R. Berkley Corporation is the 13th largest commercial
+underwriter in the United States and operates within two segments:
+(1) Insurance, including E&S, admitted and specialty lines and (2)
+Reinsurance and Monoline Excess, which is primarily facultative and
+treaty reinsurance.",reinsurance,Financial,0.0,0.0,0.8689574003219604,13.45,24.6,0.0,0.7951807228915663,83
+WRB_4Q23.txt,WRB,2023,Q4,"Casualty reinsurance accounts for the majority of the
+remaining total company GWP.
+2 |",reinsurance,Financial,0.0,0.0,0.95461505651474,15.98,17.51,0.0,0.9285714285714286,14
+WRB_4Q23.txt,WRB,2023,Q4,"Catastrophe losses came in at $32
+million (1.2 pts), lower than our $50 million (1.9 pts).",catastrophe,Financial,0.0,0.9696792364120483,0.0,80.28,5.7,0.0,0.9375,16
+WRB_4Q23.txt,WRB,2023,Q4,"Exhibit 1 - WRB Q4 2023 Estimates Versus Actual
+Q4 2023
+($ in millions, except as noted)
+Summary
+Insurance
+251.7
+Reinsurance & Monoline Excess
+62.4
+Underwriting Income
+314.1
+Net Investment Income
+313.3
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8191167116165161,39.6,13.81,10.8,0.8888888888888888,36
+WRB_4Q23.txt,WRB,2023,Q4,"Cats Points on Combined Ratio
+1.2%
+PYD Points on Combined Ratio
+(0.0%)
+0.1%
+Underlying Loss Ratio
+58.8%
+59.4%
+Underlying Combined Ratio
+87.2%
+87.6%
+Catastrophe Losses ($)
+32.0
+50.0
+(18.0)
+Reserve Development ($)
+Capital Return
+Common Dividends
+157.1
+Share Repurchases
+Total Capital Return
+263.8
+Total Payout Ratio (% of Operating Income)
+67.3%
+35.9%
+493.4
+453.3
+(100.0)
+(1.6)
+$1.45
+$29.06
+(1.0)
+106.7
+232.3
+49.8
+282.1
+276.0
+(104.7)
+(95.2)
+(0.6)
+357.5
+$1.32
+13.7%
+21.0%
+$29.58
+19.7%
+22.7%
+9.3%
+2,648.3
+9.1%
+2,693.2
+7.2%
+19.3%
+3,166.1
+61.4%
+28.1%
+1.9%
+(0.7pts)
+(36.5%)
+3.0
+28.3
+100.0
+128.3
+Source: Company reports and Wells Fargo Securities, LLC estimates
+19.4
+8.4%
+12.6
+25.3%
+32.0
+11.4%
+37.4
+13.5%
+(29.3)
+28.0%
+40.1
+8.8%
+(4.8)
+5.1%
+(1.0)
+34.3
+$0.13
+11.0%
+(73bps)
+($0.52)
+3.5%
++88bps
+3.9%
+45.3
+1.6%
+71.3
+2.7%
+2.9%
+21.4
+0.9%
+37.4
+16.2%
+55.3
+(1.5pts)
+",catastrophe,Financial,0.0,0.0,0.8611889481544495,76.42,7.18,9.1,0.8796992481203008,133
+WRB_4Q23.txt,WRB,2023,Q4,"Within property
+cat reinsurance, WRB viewed the market at 1/1/24 as very attractive, but maybe not as attractive as
+at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_4Q23.txt,WRB,2023,Q4,"Further, they highlighted that there is a distinction between property cat and property per
+risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_4Q23.txt,WRB,2023,Q4,"Within property cat reinsurance, WRB viewed the market at 1/1/24
+as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_4Q23.txt,WRB,2023,Q4,"Further, they highlighted that there is a distinction between property
+cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_4Q23.txt,WRB,2023,Q4,"Within property cat
+reinsurance, WRB viewed the market at 1/1/24 as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_4Q23.txt,WRB,2023,Q4,"Further, they
+highlighted that there is a distinction between property cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_4Q23.txt,WRB,2023,Q4,"Q4 2023
+Q3 2023
+WRB is very focused on social inflation and they said that you can see that in their rate increases (8.5% excluding workers'
+compensation) and they intend to stay on top of it.",rate increases,Financial,0.0,0.0,0.5428035855293274,70.13,11.64,0.0,0.8611111111111112,36
+WRB_4Q23.txt,WRB,2023,Q4,"The market has been accepting of its rate increases as shown in its steady
+renewal retention of 80%.",rate increases,Financial,0.9434288740158081,0.0,0.0,61.67,16.09,0.0,0.8888888888888888,18
+WRB_4Q23.txt,WRB,2023,Q4,"WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs.",reinsurance,Financial,0.0,0.973501980304718,0.0,31.55,21.43,0.0,0.8064516129032258,31
+WRB_4Q23.txt,WRB,2023,Q4,"WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to see
+resilience in the reinsurance market.",reinsurance,Financial,0.9534586071968079,0.0,0.0,41.7,16.02,0.0,0.8571428571428571,21
+WRB_4Q23.txt,WRB,2023,Q4,"Despite concerns around the economy and a recession, WRB noted that audit premiums are seeing considerable momentum, up
+45% YOY.
+Q2 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points.",rate increases,Financial,0.9524450898170471,0.0,0.0,51.68,14.98,0.0,0.9487179487179487,39
+WRB_4Q23.txt,WRB,2023,Q4,"Q1 2022
+There's nothing that leads us to believe that we will not continue to see rate increases that outpace trend by something measured
+in the hundreds of basis points.",rate increases,Financial,0.585805356502533,0.0,0.0,57.95,14.67,0.0,0.9,30
+WRB_4Q23.txt,WRB,2023,Q4,"And as far as drilling down into the market a little bit more, when we look at the major product lines with the exception of workers;
+compensation all of them continued to get rate increases that outpace our view of loss trend.",rate increases,Financial,0.9232891201972961,0.0,0.0,45.77,20.61,0.0,0.8809523809523809,42
+WRB_4Q23.txt,WRB,2023,Q4,"Not all of the lines, however, are seeing the same increases and gave the example of professional
+liability having seen rate increases for quite some time, while commercial auto has started to firm more recently and workers' comp
+is in a soft market.
+June 2021
+Non-Deal
+Roadshow
+(6/21/21)
+Source: Company reports and Wells Fargo Securities, LLC
+Equity Research | 5
+",rate increases,Financial,0.0,0.0,0.7482256293296814,41.53,17.22,0.0,0.9,60
+WRB_4Q23.txt,WRB,2023,Q4,"Summary of Estimate Changes
+Exhibit 5 - WRB Estimate Changes
+($ in millions, except as noted)
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.6223343014717102,1.77,22.65,0.0,0.8387096774193549,31
+WRB_4Q23.txt,WRB,2023,Q4,"Realized Gains/(Losses)
+(429.6)
+(475.9)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+Tax Rate
+GAAP Book Value per Share
+Operating Return on Equity
+Net Income ROE
+Revenues
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+y/y change
+Total revenues
+Underwriting Profitability
+Loss Ratio
+Expense Ratio
+28.4%
+Combined Ratio
+89.9%
+Cats Points on Combined Ratio
+2.2%
+PYD Points on Combined Ratio
+0.1%
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+253.4
+280.0
+12.0
+12.0
+Reserve Development ($)
+Capital Return
+Common Dividends
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+2024E
+Current
+2025E
+2026E
+2024E
+Prior
+2025E
+2026E
+Absolute Change
+2024E
+2025E
+2026E
+Percentage Change
+2024E
+2025E
+2026E
+961.5
+211.2
+1,172.6
+1,323.0
+1,344.9
+1,464.1
+2,088.0
+2,311.2
+(438.5)
+(485.4)
+(2.5)
+1,647.0
+$6.10
+23.9%
+21.0%
+$34.47
+$40.44
+22.1%
+23.4%
+22.0%
+20.7%
+14,722.2
+16,179.6
+17,423.2
+13.5%
+9.9%
+12,340.1
+13,546.7
+12.6%
+9.8%
+11,647.8
+12,934.7
+12.0%
+11.0%
+8.7%
+1,344.9
+1,464.1
+1,592.4
+27.7%
+8.9%
+13,666.3
+15,072.4
+16,330.9
+61.5%
+61.4%
+61.3%
+59.3%
+87.7%
+12.0
+264.1
+268.6
+265.5
+260.0
+200.0
+464.1
+28.2%
+29.0%
+1,096.0
+1,204.1
+227.0
+(2.5)
+1,823.4
+$6.80
+$7.50
+11.5%
+21.0%
+20.9%
+28.3%
+89.8%
+2.2%
+0.1%
+59.2%
+87.5%
+260.0
+528.6
+247.6
+1,451.7
+1,592.4
+1,263.6
+1,402.1
+(516.7)
+2,527.4
+(530.7)
+(2.5)
+1,994.1
+1,635.2
+10.2%
+21.0%
+$47.24
+19.7%
+7.7%
+14,587.5
+7.7%
+14,065.0
+8.8%
+28.3%
+89.7%
+2.1%
+0.1%
+59.1%
+87.5%
+301.4
+525.5
+26.4%
+1,010.0
+224.5
+1,234.6
+1,374.3
+(425.1)
+(467.8)
+2,073.0
+(435.3)
+(2.5)
+$6.05
+26.2%
+$35.54
+$42.13
+19.7%
+18.6%
+22.8%
+14,512.2
+12.3%
+9.2%
+12,153.3
+13,264.4
+11.7%
+11,521.5
+11.0%
+1,263.6
+24.4%
+13,458.7
+60.9%
+60.8%
+28.4%
+28.4%
+89.3%
+1.8%
+0.1%
+58.9%
+87.4%
+208.8
+226.8
+12.0
+112.3
+200.0
+260.0
+19.1%
+20.8%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+1,129.7
+244.6
+2,308.6
+(484.8)
+(2.5)
+1,821.3
+$6.80
+12.3%
+21.0%
+21.0%
+21.3%
+9.1%
+12,705.6
+10.3%
+1,402.1
+11.0%
+14,781.3
+89.2%
+1.8%
+0.1%
+58.9%
+87.3%
+12.0
+118.6
+378.6
+312.3
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+15,841.8
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+207.7
+NE
++0.7pts
+NE
+(0.0pts)
+NE
++0.6pts
+NE
++0.4pts
++0.4pts
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+(48.6)
+(33.6)
+(13.3)
+(61.9)
+NE
+81.4
+(4.5)
+14.9
+(3.1)
+0.0
+11.8
+$0.05
+(2.2%)
+(Obps)
+($1.07)
+2.4%
++64bps
+210.0
+337.8
+1.2%
+186.8
+1.0%
+126.3
+1.0%
+81.4
+3.3%
+(0.0pts)
+(0.0pts)
+",catastrophe,Financial,0.0,0.0,0.0,75.34,10.47,10.6,0.6588541666666666,384
+WRB_4Q23.txt,WRB,2023,Q4,"W.R. Berkley Corporation
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8637235760688782,-9.74,25.33,0.0,0.9411764705882353,34
+WRB_4Q23.txt,WRB,2023,Q4,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Dividend Payout Ratio
+Share Repurchase Payout Ratio
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2022
+Q1 2023
+Q2 2023
+Q3 2023
+Q4 2023
+2023
+Q1 2024E
+Q2 2024E
+902.3
+122.4
+1,024.7
+779.2
+(281.3)
+1,522.5
+19.3%
+(293.2)
+(3.9)
+1,225.4
+$4.38
+28.7%
+28.9%
+11.3%
+18.0%
+588.9
+145.1
+45.2
+779.2
+3.27%
+61.3%
+28,0%
+89.3%
+0.2%
+(0.5%)
+(0.3%)
+211.7
+2.2%
+35.7
+0.4%
+185.5
+49.5
+235.0
+223.4
+(105.3)
+353.1
+21.4%
+(75.5)
+(1.6)
+276.0
+$1.00
+(10.1%)
+(9.5%)
+6.6%
+10,8%
+203.0
+2.2
+18,3
+223.4
+3.61%
+61.8%
+28.8%
+90.6%
+2.2%
+0.6%
+2.8%
+47.9
+1.9%
+24.0
+1.0%
+199.1
+65.2
+264.3
+245.2
+(110.2)
+399.3
+22.3%
+(89.0)
+0.6
+310.9
+$1.14
+(0.8%)
+1.5%
+9.3%
+8.3%
+229.3
+(1.2)
+17.0
+245.2
+3.90%
+61.5%
+28,1%
+89.6%
+0.6%
+0.4%
+1.0%
+53.5
+2.1%
+(3.0)
+(0.1%)
+207.9
+49.7
+257.5
+270.9
+(66.1)
+462.4
+20.7%
+(95.9)
+0.2
+366.6
+$1.35
+30.1%
+34.0%
+8.8%
+8.2%
+248.6
+4.5
+17.9
+270.9
+4.22%
+61.9%
+28.3%
+90.2%
+(2.1%)
+0.2%
+(1.9%)
+61.5
+2.3%
+(1.0)
+(0.0%)
+251.7
+62.4
+314.1
+313.3
+[134.0)
+493.4
+20.3%
+(100.0)
+",catastrophe,Financial,0.0,0.0,0.0,3.27,29.86,21.9,0.6253687315634219,339
+WRB_4Q23.txt,WRB,2023,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2024, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth, which
+we do not believe is currently reflected in consensus expectations.
+",rate increases,Financial,0.9503340125083923,0.0,0.0,13.28,29.4,0.0,0.8163265306122449,49
+WRB_4Q23.txt,WRB,2023,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2024, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth, which
+we do not believe is currently reflected in consensus expectations.
+",reinsurance,Financial,0.9503340125083923,0.0,0.0,13.28,29.4,0.0,0.8163265306122449,49
+WRB_4Q23.txt,WRB,2023,Q4,"Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+10 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.923244833946228,28.51,20.07,0.0,0.8260869565217391,69
+WRB_4Q23.txt,WRB,2023,Q4,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+WRB_4Q23.txt,WRB,2023,Q4,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+WRB_4Q24.txt,WRB,2024,Q4,"Estimates mixed, price target goes up:Our 2025 is lowered to $4.40 (from $4.45) due
+to CA wildfire losses (assume $24.7m of losses / $30b industry loss based on 0.6% CA
+commercial share as of 2023 YE) while 2026 is up to $5.05 (from $4.95) on a lower tax
+rate, higher NII and better margins.",wildfire,Climate,0.5158057808876038,0.0,0.0,89.14,5.3,6.9,0.8518518518518519,54
+WRB_4Q24.txt,WRB,2024,Q4,"Q4 2024 Variance (Key Metrics)
+Variance vs WFS and Consensus
+Operating EPS
+$1.13
+Net Premium Growth
+8.0%
+Insurance Net Premium Growth
+9.9%
+Reinsurance Net Premium Growth
+(5.5%)
+",reinsurance,Financial,0.7044053077697754,0.0,0.0,56.11,10.13,10.7,0.7407407407407407,27
+WRB_4Q24.txt,WRB,2024,Q4,"Net Investment Income
+317
+Catastrophe Points
+2.6%
+2.7%
+3.0%
+PYD Points
+(0.1%)
+",catastrophe,Financial,0.0,0.0,0.9283750057220459,82.31,9.07,0.0,0.9166666666666666,12
+WRB_4Q24.txt,WRB,2024,Q4,"Insurance Underlying Loss Ratio
+60.6%
+Reinsurance Underlying Loss Ratio
+49.0%
+Total Company Expense Ratio
+28.4%
+Total Company",reinsurance,Financial,0.0,0.0,0.6587409973144531,16.35,8.78,10.1,0.6470588235294118,17
+WRB_4Q24.txt,WRB,2024,Q4,"Miss
+Miss
+4.4%
+(2.4%)
+Beat
+Miss
+(0.1%)
+(0.3%)
+Beat
+Beat
+(0.0%)
+(0.0%)
+In-Line
+In-Line
+0.4%
+0.4%
+Miss
+Miss
+(0.6%)
+(1.9%)
+Beat
+Beat
+(0.2%)
+(0.2%)
+Beat
+Beat
+0.0%
+(0.1%)
+In-Line
+Beat
+Miss
+Beat
+(32.6%)
+10.5%
+Source: Company Reports, Visible Alpha and Wells Fargo Securities, LLC estimates
+Note: $ in millions except per share and where indicated
+Takes for the group: (1) Pricing remains strong although it slowed to 7.7% (ex comp)
+from 8.4% in the Q3 with property continuing to see pressure, (2) E&S submission flow
+remains robust although momentum shifting more towards casualty vs property, (3)
+social inflation continues to be a headwind with WRB pointing to casualty reinsurance
+being slow in recognizing this dynamic (WRB saw casualty reinsurance NWP down 15%
+given competitive environment), and (4) comp continues to see favorable trends.
+",reinsurance,Financial,0.0,0.9200224280357361,0.0,59.3,9.95,11.4,0.7293233082706767,133
+WRB_4Q24.txt,WRB,2024,Q4,"Cautious on casualty re: WRB saw casualty reinsurance NWP decline 15.4% in the quarter
+(NWP growth of +9.9% ex casualty reinsurance) as a result of a competitive pricing
+environment which led to Berkley taking more of a defensive stance as they believe the
+market is not being disciplined and achieving appropriate risk-adjusted returns.",reinsurance,Financial,0.0,0.9704222083091736,0.0,45.05,13.12,14.1,0.8490566037735849,53
+WRB_4Q24.txt,WRB,2024,Q4,"Other conference call highlights: WRB does not expect any material losses from the
+CA wildfires given Berkley One (private client personal lines) does not participate in the
+CA market and overall they have small commercial property exposure (0.6% commercial
+share as of 2023 YE).",wildfire,Climate,0.0,0.0,0.6427404880523682,49.15,15.16,0.0,0.8863636363636364,44
+WRB_4Q24.txt,WRB,2024,Q4,"Company Description
+W. R. Berkley Corporation is the 13th largest commercial
+underwriter in the United States and operates within two segments:
+(1) Insurance, including E&S, admitted and specialty lines and (2)
+Reinsurance and Monoline Excess, which is primarily facultative and
+treaty reinsurance.",reinsurance,Financial,0.0,0.0,0.9365680813789368,24.78,19.83,0.0,0.8571428571428571,42
+WRB_4Q24.txt,WRB,2024,Q4,"Casualty reinsurance accounts for the majority of the
+remaining total company GWP.
+",reinsurance,Financial,0.0,0.0,0.9547213912010193,8.53,18.13,0.0,0.9166666666666666,12
+WRB_4Q24.txt,WRB,2024,Q4,"Prior year favorable reserve development was $1.6 million, in
+line with our $1m of favorable development (0.0 pts) although a breakout was not provided between
+insurance / reinsurance.",reinsurance,Financial,0.7831419110298157,0.0,0.0,45.42,11.01,11.9,0.8928571428571429,28
+WRB_4Q24.txt,WRB,2024,Q4,"Summary
+Insurance
+250.7
+Reinsurance & Monoline Excess
+43.2
+Underwriting Income
+293.9
+Net Investment Income
+317.4
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.9200435280799866,25.72,15.48,9.4,0.8947368421052632,19
+WRB_4Q24.txt,WRB,2024,Q4,"Underlying Combined Ratio
+87.7%
+87.6%
+Catastrophe Losses ($)
+79.6
+Reserve Development ($)
+(1.6)
+Capital Return
+Total Dividends (Including Special)
+220.4
+Share Repurchases
+67.4
+Total Capital Return
+287.8
+Total Payout Ratio (% of Operating Income)
+63.6%
+85.0%
+(21.4%)
+569.8
+$22.09
+225.6
+59.6
+285.2
+304.0
+(94.9)
+494.2
+(117.1)
+0.0
+377.1
+$0.94
+(2.4%)
+23.7%
+$21.57
+18.1%
+20.7%
+8.3%
+2,937.2
+(0.4)
+(0.0%)
+8.0%
+2,938.4
+8.2%
+304.0
+(3.0%)
+3,448.6
+61.6%
+28.6%
+(0.2pts)
+90.3%
+(0.0pts)
+(0.0%)
+80.0
+(0.4)
+(1.0)
+220.5
+(0.1)
+(0.0)
+100.0
+320.5
+Source: Company reports and Wells Fargo Securities, LLC estimates
+25.1
+11.1%
+(16.4)
+8.7
+3.0%
+13.5
+4.4%
+53.4
+(56.3%)
+75.6
+15.3%
+(0.8)
+0.7%
+0.8
+75.5
+$0.19
+19.5%
+(300bps)
+(12.7%)
+$0.52
+3.4%
++1020bps
+(3.6)
+(0.1%)
+(0.0%)
+72.5
+2.7%
+13.5
+4.3%
+219.0
++0.2pts
+(0.0pts)
+56.1%
++0.3pts
++0.0pts
+(0.6)
+60.0%
+(32.6)
+(32.7)
+(27.5%)
+",catastrophe,Financial,0.0,0.0,0.8890358209609985,75.81,7.86,9.4,0.905511811023622,127
+WRB_4Q24.txt,WRB,2024,Q4,"NWP was 8% and came in below
+the 10-15% guided range but WRB noted it will vary quarter to quarter and if you backed out casualty
+reinsurance, growth was within the range (at around 10%).",reinsurance,Financial,0.6928736567497253,0.0,0.0,61.33,16.29,0.0,0.8571428571428571,35
+WRB_4Q24.txt,WRB,2024,Q4,"WRB was bearish on casualty reinsurance
+(pointing to being in a defensive posture) as they believe the market is not exercising the discipline and
+expecting an appropriate risk-adjust return.",reinsurance,Financial,0.0,0.9565289616584778,0.0,16.66,21.26,0.0,0.9655172413793104,29
+WRB_4Q24.txt,WRB,2024,Q4,"In property reinsurance / retro, there was
+no tailwind to be found at 1/1 with their property cat renewal risk-adjusted returns down 15%-ish and
+retro seeing similar declines.
+",reinsurance,Financial,0.0,0.9705055952072144,0.0,44.07,18.21,0.0,0.9642857142857143,28
+WRB_4Q24.txt,WRB,2024,Q4,"Guidance
+On the guidance side, they remained confident in achieving premium growth between 10-15%,
+although they did caveat some quarters may be below or above the range (last two quarters have
+been below) with the shortfall in the Q4 attributed to casualty reinsurance where they saw limited
+opportunities.",reinsurance,Financial,0.0,0.5248080492019653,0.0,22.76,25.03,0.0,0.8541666666666666,48
+WRB_4Q24.txt,WRB,2024,Q4,"As for the CA
+wildfire losses, WRB expects manageable losses as Berkley One (private client personal lines) does not
+participate in California and overall WRB is pretty light in terms of property exposure (CA market share
+overall is 0.6% for the commercial space as of 2023 YE).
+",wildfire,Climate,0.0,0.9398097991943359,0.0,56.08,15.36,0.0,0.8297872340425532,47
+WRB_4Q24.txt,WRB,2024,Q4,"WRB's call focused on growth,
+margins, pricing trends,
+CA wildfire implications,
+investments, and expenses.
+",wildfire,Climate,0.0,0.0,0.9431249499320984,40.35,14.17,0.0,1.0,14
+WRB_4Q24.txt,WRB,2024,Q4,"WRB was more cautious on casualty reinsurance as the pricing
+environment is competitive and they believe the market is not achieving appropriate risk-adjusted returns.",reinsurance,Financial,0.0,0.9203868508338928,0.0,21.74,19.6,0.0,0.9166666666666666,24
+WRB_4Q24.txt,WRB,2024,Q4,"On the reinsurance side, WRB said reinsurance companies are positioning themselves to achieve flat
+pricing but they think it will be difficult for them to achieve that unless Milton proves to be uglier than expected.
+",reinsurance,Financial,0.7757313251495361,0.0,0.0,44.41,19.71,0.0,0.8571428571428571,35
+WRB_4Q24.txt,WRB,2024,Q4,"WRB said there are many insurance departments not operating in a
+timely manner and in some cases quite resistant to allows carriers on the commercial side to get rate increases they need which
+is pushing business into the specialty and E&S market.",rate increases,Financial,0.0,0.7445363402366638,0.0,28.85,24.42,0.0,0.9047619047619048,42
+WRB_4Q24.txt,WRB,2024,Q4,"On the reinsurance side, they believe
+pricing is peaking but still view opportunity in the line as margins remain strong.
+",reinsurance,Financial,0.9402338266372681,0.0,0.0,51.18,12.0,0.0,0.95,20
+WRB_4Q24.txt,WRB,2024,Q4,"Within property cat reinsurance, WRB viewed the market at 1/1/24
+as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_4Q24.txt,WRB,2024,Q4,"Further, they highlighted that there is a distinction between property
+cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_4Q24.txt,WRB,2024,Q4,"Within property cat
+reinsurance, WRB viewed the market at 1/1/24 as very attractive, but maybe not as attractive as at 1/1/23.",reinsurance,Financial,0.7607142925262451,0.0,0.0,58.62,14.11,0.0,0.8571428571428571,21
+WRB_4Q24.txt,WRB,2024,Q4,"Further, they
+highlighted that there is a distinction between property cat and property per risk reinsurance.",reinsurance,Financial,0.0,0.0,0.9109175801277161,38.32,16.4,0.0,0.9375,16
+WRB_4Q24.txt,WRB,2024,Q4,"Q4 2023
+WRB is very focused on social inflation and they said that you can see that in their rate increases (8.5% excluding workers'
+compensation) and they intend to stay on top of it.",rate increases,Financial,0.0,0.0,0.5553750991821289,71.14,11.51,0.0,0.8823529411764706,34
+WRB_4Q24.txt,WRB,2024,Q4,"The market has been accepting of its rate increases as shown in its steady
+renewal retention of 80%.",rate increases,Financial,0.9434288740158081,0.0,0.0,61.67,16.09,0.0,0.8888888888888888,18
+WRB_4Q24.txt,WRB,2024,Q4,"WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs.",reinsurance,Financial,0.0,0.973501980304718,0.0,31.55,21.43,0.0,0.8064516129032258,31
+WRB_4Q24.txt,WRB,2024,Q4,"WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to see
+resilience in the reinsurance market.",reinsurance,Financial,0.9534586071968079,0.0,0.0,41.7,16.02,0.0,0.8571428571428571,21
+WRB_4Q24.txt,WRB,2024,Q4,"Q2 2022
+Q1 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points.",rate increases,Financial,0.7937336564064026,0.0,0.0,67.08,12.21,0.0,0.9523809523809523,21
+WRB_4Q24.txt,WRB,2024,Q4,"2025 EPS is down modestly due to a higher Q1 cat load (as we bake in $24.7m of losses for the
+wildfires - split evenly between insurance / reinsurance), partially offset by a lower tax rate.
+.",reinsurance,Financial,0.0,0.965858519077301,0.0,71.14,11.51,0.0,0.972972972972973,37
+WRB_4Q24.txt,WRB,2024,Q4,"2025 EPS is down modestly due to a higher Q1 cat load (as we bake in $24.7m of losses for the
+wildfires - split evenly between insurance / reinsurance), partially offset by a lower tax rate.
+.",wildfire,Climate,0.0,0.965858519077301,0.0,71.14,11.51,0.0,0.972972972972973,37
+WRB_4Q24.txt,WRB,2024,Q4,"2026 EPS is up to $5.05 (from $4.95) reflecting a lower tax rate, modestly better underlying
+margins in both insurance / reinsurance and modestly higher NII.
+.",reinsurance,Financial,0.9572064280509949,0.0,0.0,54.59,11.32,11.2,0.9629629629629629,27
+WRB_4Q24.txt,WRB,2024,Q4,"Equity Research
+Our 2025 is modestly lower
+due to CA wildfire loss (of
+$24.7m) and 2026 is up on
+better underlying margins and
+a lower tax rate.",wildfire,Climate,0.875438928604126,0.0,0.0,66.23,9.84,0.0,0.8888888888888888,27
+WRB_4Q24.txt,WRB,2024,Q4,"Exhibit 5 - WRB Estimate Changes
+($ in millions, except as noted)
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+1,472.1
+1,639.0
+1,816.2
+1,479.8
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.5480633974075317,32.39,17.25,0.0,0.9354838709677419,31
+WRB_4Q24.txt,WRB,2024,Q4,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+Tax Rate
+GAAP Book Value per Share
+Operating Return on Equity
+Net Income ROE (Reported)
+Revenues
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+y/y change
+Total revenues
+2025E
+Current
+2026E
+2027E
+2025E
+Prior
+2026E
+2027E
+Absolute Change
+2025E
+2026E
+2027E
+Percentage Change
+2025E
+2026E
+2027E
+1,014.7
+217.1
+260,6
+1,231.9
+1,427.1
+(417.5)
+(462.5)
+2,286.5
+2,603.5
+2,875.1
+(525.9)
+(598.8)
+(661.3)
+0.0
+0.0
+1,760.6
+$4.40
+6.5%
+14.6%
+23.0%
+$25.25
+19.6%
+22.1%
+15,763.9
+17,512.7
+19,445.0
+10.9%
+13,273.0
+10.9%
+12,622.1
+9.3%
+1,472.1
+10.4%
+11.3%
+14,889.2
+16,464.5
+1,166.5
+1,302.4
+0.0
+2,004.7
+$5.05
+23.0%
+23.0%
+$29.18
+$33.67
+19.6%
+22.1%
+11.1%
+14,743.9
+11.1%
+14,010.5
+15,556.9
+12,654.0
+14,022.5
+11.0%
+1,639.0
+285.6
+1,588.1
+(529.1)
+(418.5)
+2,329.3
+2,570.1
+2,213.9
+$5.60
+11.0%
+18.9%
+20.2%
+21.3%
+11.0%
+16,366.5
+11.0%
+11.0%
+10.3%
+1,816.2
+10.8%
+18,188.1
+1,009.4
+258.5
+1,268.0
+(552.0)
+0.0
+1,777.2
+$4.45
+12.8%
+23.7%
+23.7%
+$24,79
+22.8%
+22.1%
+15,904.7
+17,535.6
+NE
+11.9%
+10.3%
+13,339.7
+14,703.2
+11.4%
+10.2%
+1,479.8
+1,627.2
+12.1%
+14,928.8
+1,128.3
+277.3
+1,405.6
+1,627.2
+NE
+[462.8)
+(609.1)
+0.0
+1,961.0
+$4.95
+11.1%
+$28.61
+NE
+19.6%
+10.8%
+10.0%
+16,464.7
+NE
+NE
+NE
+NE
+NE
+(42.8)
+33.4
+NE
+26.2
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+(71bps)
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+(39.6)
+5.3
+(41.4)
+(36.1)
+(7.7)
+0.9
+0.0
+(16.7)
+($0.05)
+(6.3%)
+(70bps)
+(70bps)
+NM
+(3.0%)
+(3.0%)
+NM
+$0.46
+$0.57
+NM
+(0.6%)
+(140.7)
+(22.9)
+(1.0%)
+0.8%
+(66.7)
+(0.6%)
+(31.9)
+(1.0%)
+(7.7)
+(1.7%)
+38.2
+(16.8)
+21.4
+11.8
+0.3
+10.3
+0.0
+43.7
+$0.10
+3.5%
+0.0%
+NM
++6bps
+NM
+NM
+NM
+(2.8%)
+(0.5%)
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+(3.1%)
+0.3%
+NM
+NM
+40.7
+NM
+0.9%
+NM
+(12.0)
+NM
+0.2%
+NM
+11.8
+NM
+1.4%
+NM
+(0.3)
+NM
+Underwriting Profitability
+Loss Ratio
+Expense Ratio
+Combined Ratio
+Cats Points on Combined Ratio
+PYD Points on Combined Ratio
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+312.3
+Reserve Development ($)
+1.0
+Capital Return
+Total Dividends (Including Special)
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+43.1%
+36.1%
+61.7%
+28.6%
+90,2%
+2.5%
+0.0%
+59.2%
+87.8%
+493.9
+265.0
+758.9
+61.2%
+61.2%
+28.6%
+28.6%
+89.8%
+89.8%
+90.0%
+2.1%
+2.1%
+0.0%
+59.0%
+59.0%
+87.6%
+299.8
+331.9
+7.0
+523.6
+532.6
+200.0
+200.0
+723.6
+732.6
+0.0%
+87.6%
+7.0
+33.1%
+61.4%
+61.4%
+28.6%
+28.6%
+NE
+2.2%
+0.0%
+0.0%
+59.2%
+59.2%
+87.8%
+274.0
+304.0
+1.0
+493.8
+523.3
+NE
+265.0
+758.8
+42.7%
+90.0%
+2.2%
+NE
+87.8%
+NE
+7.0
+200.0
+NE
+723.3
+NE
+36.9%
+NE
+NE
+NE
++0.3pts
+NE
+NE
+NE
+NE
++0.3pts
+(0.0pts)
++0.3pts
++0.0pts
+(0.0pts)
+(0.0pts)
+38.3
+(4.2)
+0.0
+(0.2pts)
+",catastrophe,Financial,0.0,0.0,0.0,83.76,6.94,8.6,0.5953488372093023,430
+WRB_4Q24.txt,WRB,2024,Q4,"Commercial Lines Insurance
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex.",reinsurance,Financial,0.0,0.0,0.8947932720184326,-9.74,25.33,0.0,0.9117647058823529,34
+WRB_4Q24.txt,WRB,2024,Q4,"Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Total Dividends (Including Special)
+",catastrophe,Financial,0.0,0.0,0.7137993574142456,-112.25,68.04,0.0,0.46835443037974683,158
+WRB_4Q24.txt,WRB,2024,Q4,"We believe that WRB is positioned to continue to see a healthy level of rate increases and
+growth in 2025, which we do not believe is currently reflected in consensus expectations.
+",rate increases,Financial,0.9422227144241333,0.0,0.0,40.01,21.43,0.0,0.8709677419354839,31
+WRB_4Q24.txt,WRB,2024,Q4,"Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+",catastrophe,Financial,0.0,0.9307570457458496,0.0,13.28,25.31,0.0,0.8163265306122449,49
+WRB_4Q24.txt,WRB,2024,Q4,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+WRB_4Q24.txt,WRB,2024,Q4,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97

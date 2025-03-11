@@ -1,0 +1,8405 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+TRV_1Q20.txt,TRV,2020,Q1,"We are surprised the shares traded up post earnings (and
+outperformed the P&C sector), but we do view the market
+responding favorably to TRV's thoughts surrounding potential
+business interruption claims from Covid-19.",business interruption,Risk,0.9525367021560669,0.0,0.0,39.0,20.3,0.0,0.9375,32
+TRV_1Q20.txt,TRV,2020,Q1,"· Business interruption should be mostly insulated from Covid-
+19 claims.",business interruption,Risk,0.0,0.0,0.6696981191635132,44.41,12.0,0.0,1.0,11
+TRV_1Q20.txt,TRV,2020,Q1,"We are
+surprised the shares traded up post earnings, but we do view the market responding favorably to the
+company's thoughts surrounding potential business interruption claims from Covid-19.
+",business interruption,Risk,0.9491520524024963,0.0,0.0,43.06,19.77,0.0,0.9285714285714286,28
+TRV_1Q20.txt,TRV,2020,Q1,"The downside versus us reflects a lower level of favorable reserve development,
+higher catastrophe losses, and Covid-19 related losses (impacted Business Insurance and Bond &
+Specialty Insurance) of $86 million pre-tax, and $68 million after-tax.",catastrophe,Financial,0.0,0.9593835473060608,0.0,11.59,21.84,0.0,0.8857142857142857,35
+TRV_1Q20.txt,TRV,2020,Q1,"Actual
+Net premiums written (in millions)
+Growth in net premiums written
+4.1%
+Growth in net premiums earned
+Investment income (in millions)
+Combined ratio
+Catastrophe losses (in millions)
+$333
+Reserve releases (in millions)
+($27)
+($70)
+Underlying Loss Ratio
+61.3%
+63.0%
+Expense Ratio
+Underlying combined ratio
+Tax rate
+17.4%
+Operating EPS
+$2.62
+Growth in operating EPS
+Book value per share
+$99.69
+Segment Underwriting Income (in millions):
+Business Insurance
+($146)
+Bond & Specialty Insurance
+$91
+Personal Insurance
+$295
+$253
+Operating ROE
+11.5%
+12.3%
+Source: Wells Fargo Securities, LLC estimates and Company reports
+$7,346
+5.5%
+5.3%
+$611
+95.5%
+93.6%
+30.0%
+91.2%
+(7.4%)
+Q1 2020 Estimate
+$7,389
+4.7%
+$606
+$150
+29.5%
+92.5%
+16.5%
+$3.15
+11.1%
+$103.64
+$41
+$98
+2 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.9252189993858337,50.73,9.95,11.9,0.8074074074074075,135
+TRV_1Q20.txt,TRV,2020,Q1,"For catastrophe losses, the company highlighted that approximately 40% of its annual losses
+have come in the second quarter of the year.",catastrophe,Financial,0.0,0.9264745116233826,0.0,40.69,16.07,0.0,0.8636363636363636,22
+TRV_1Q20.txt,TRV,2020,Q1,(2) Business interruption should be insulated from Covid-19 claims.,business interruption,Risk,0.0,0.0,0.8895890712738037,45.42,12.49,0.0,1.0,9
+TRV_1Q20.txt,TRV,2020,Q1,"The charts shows how its rate started to move up in Q4 2017 (following the
+high level of hurricane losses during the 2017 hurricane season) then dropped in Q3 2018 and has
+since risen over the past five quarters.
+.",hurricane,Climate,0.8503435254096985,0.0,0.0,57.27,16.63,0.0,0.875,40
+TRV_1Q20.txt,TRV,2020,Q1,"Within Personal Insurance, TRV continues to secure rate increases in auto (but the level is slowing).
+",rate increases,Financial,0.9079344272613525,0.0,0.0,38.32,16.4,0.0,1.0,16
+TRV_1Q20.txt,TRV,2020,Q1,"The consolidated combined ratio was 95.5%, missing our 93.6% estimate largely reflective of higher
+catastrophe losses.",catastrophe,Financial,0.0,0.9690719842910767,0.0,32.26,12.12,9.7,1.0,16
+TRV_1Q20.txt,TRV,2020,Q1,"The $333 million of catastrophe losses came in above our $150 million estimate,
+while prior year development slowed (and missed our estimate) due to adverse development for
+commercial auto.",catastrophe,Financial,0.0,0.9632593989372253,0.0,33.58,17.12,0.0,0.896551724137931,29
+TRV_1Q20.txt,TRV,2020,Q1,"·
+Catastrophe losses of $333 million were higher than our $150 million estimate and stemmed primarily
+from tornadoes in Tennessee.
+·
+Favorable development totaled $27 million and fell short of our estimate for favorable development of
+$70 million.",catastrophe,Financial,0.0,0.938766598701477,0.0,36.28,14.98,0.0,0.7631578947368421,38
+TRV_1Q20.txt,TRV,2020,Q1,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Reported Combined Ratio
+96.0%
+96.7%
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+97.5%
+3.8%
+93.7%
+98.4%
+84%
+84%
+2,532
+2,540
+0%
+0%
+1%
+1%
+86%
+86%
+7.3%
+7.7%
+5,016
+5,111
+8%
+8%
+2%
+2%
+Q4 2019
+Q1 2020
+101.5%
+92.4%
+95.5%
+Catastrophe Losses, net of reinsurance
+5.6%
+6.4%
+10.7%
+7.5%
+5.4%
+7.3%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+",catastrophe,Financial,0.0,0.0,0.519567608833313,74.02,11.67,10.1,0.6593406593406593,91
+TRV_1Q20.txt,TRV,2020,Q1,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Reported Combined Ratio
+96.0%
+96.7%
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+97.5%
+3.8%
+93.7%
+98.4%
+84%
+84%
+2,532
+2,540
+0%
+0%
+1%
+1%
+86%
+86%
+7.3%
+7.7%
+5,016
+5,111
+8%
+8%
+2%
+2%
+Q4 2019
+Q1 2020
+101.5%
+92.4%
+95.5%
+Catastrophe Losses, net of reinsurance
+5.6%
+6.4%
+10.7%
+7.5%
+5.4%
+7.3%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+",reinsurance,Financial,0.0,0.0,0.519567608833313,74.02,11.67,10.1,0.6593406593406593,91
+TRV_1Q20.txt,TRV,2020,Q1,"Exhibit 9 highlights the statutory general liability (Other
+Liability - Claims Made) initial loss ratios and the total level of development for AIG, CB, HIG, TRV, and the
+P&C industry for the 2019 accident year and how other prior years have developed (this data was just
+available last month following the filing of company's annual statutory results).",loss ratios,Financial,0.0,0.0,0.9373016357421875,-2.29,28.11,0.0,0.8421052631578947,57
+TRV_1Q20.txt,TRV,2020,Q1,"Other Liability Claims Made - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+AY Loss
+CB
+HIG
+AY Loss
+TRV
+AY Loss
+Ratio
+Peer Average
+AY Loss
+Dev.
+Dev.
+",loss ratios,Financial,0.0,0.0,0.8051608204841614,46.44,19.26,0.0,0.7352941176470589,34
+TRV_1Q20.txt,TRV,2020,Q1,"Other Liability Claims Occurrence - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+CB
+HIG
+TRV
+AY Loss
+Ratio
+Peer Average
+AY Loss
+Accident Year
+Ratio
+2010
+2011
+82.28
+2012
+78.73
+2013
+72.73
+2014
+73.36
+2015
+75.90
+2016
+2017
+2018
+2019
+Average
+80.37
+82.10
+81.70
+79.42
+82.77
+78.94
+12.36
+Dev.
+",loss ratios,Financial,0.0,0.0,0.8598737120628357,70.8,8.04,9.7,0.8909090909090909,55
+TRV_1Q20.txt,TRV,2020,Q1,"Commercial Auto - Summary Of Loss Ratios and Total Development Relative To
+Initial Loss Picks
+AIG
+CB
+HIG
+TRV
+Peer Average
+AY Loss
+Ratio
+Accident Year
+2010
+2011
+68.18
+2012
+71.46
+2013
+65.87
+2014
+76.83
+2015
+2016
+2017
+2018
+2019
+Average
+65.10
+76.62
+92.34
+110.46
+18.18
+92.87
+94.80
+81.45
+20.22
+Dev.
+16.42
+12.67
+21.21
+28.75
+31.62
+64.73
+25.62
+64.48
+18.13
+9.39
+AY Loss
+Ratio
+69.48
+67.28
+65.08
+61.21
+68.76
+67.16
+70.42
+66.69
+0.32
+Dev.
+",loss ratios,Financial,0.0,0.0,0.7037476897239685,84.47,7.62,9.3,0.9054054054054054,74
+TRV_1Q20.txt,TRV,2020,Q1,"Risks to achieving our price target include large
+catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs, and
+a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9145407676696777,0.0,28.17,16.55,0.0,0.9230769230769231,26
+TRV_1Q20.txt,TRV,2020,Q1,"TRV: Risks to achieving our price target include large catastrophe losses, adverse reserve development, increased competition, a
+deterioration in loss costs, and a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9060531854629517,0.0,35.61,16.73,0.0,0.9259259259259259,27
+TRV_1Q20.txt,TRV,2020,Q1,"Insurance
+Equity Research
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its
+subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and
+Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA
+and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A. and
+Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9534040093421936,34.46,13.17,15.1,0.58,100
+TRV_1Q21.txt,TRV,2021,Q1,"TRV's results beat on higher favorable reserve
+development and stronger investment income, which more than offset higher catastrophe losses.",catastrophe,Financial,0.9582029581069946,0.0,0.0,35.27,16.02,0.0,0.9473684210526315,19
+TRV_1Q21.txt,TRV,2021,Q1,"Catastrophe losses (in millions)
+$835
+$615
+89.5%
+($134)
+$92
+$132
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.9477664828300476,56.76,12.7,0.0,1.0,30
+TRV_1Q21.txt,TRV,2021,Q1,"For catastrophe losses, TRV highlighted that as of the Q1 it has incurred
+$915 million towards the $1.9 billion retention under its aggregate program.",catastrophe,Financial,0.0,0.8152640461921692,0.0,59.3,11.47,0.0,0.9583333333333334,24
+TRV_1Q21.txt,TRV,2021,Q1,Catastrophe losses totaled $835 million with $703 million related to the Texas winter storm.,catastrophe,Financial,0.0,0.9401416778564453,0.0,57.27,11.31,0.0,0.9285714285714286,14
+TRV_1Q21.txt,TRV,2021,Q1,"Exhibit 7 - Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In Expense Ratio
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Reported Combined Ratio
+95.5%
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+95.5%
+103.7%
+94.9%
+86.7%
+Catastrophe Losses, net of reinsurance
+5.4%
+7.3%
+3.8%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+12.3%
+5.3%
+0.4%
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+(2.3%)
+",catastrophe,Financial,0.0,0.5388116240501404,0.0,53.55,15.53,13.0,0.6875,80
+TRV_1Q21.txt,TRV,2021,Q1,"Exhibit 7 - Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In Expense Ratio
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Reported Combined Ratio
+95.5%
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+95.5%
+103.7%
+94.9%
+86.7%
+Catastrophe Losses, net of reinsurance
+5.4%
+7.3%
+3.8%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+12.3%
+5.3%
+0.4%
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+(2.3%)
+",reinsurance,Financial,0.0,0.5388116240501404,0.0,53.55,15.53,13.0,0.6875,80
+TRV_1Q21.txt,TRV,2021,Q1,"Risk for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.8107604384422302,0.0,0.0,19.37,22.78,0.0,0.8372093023255814,43
+TRV_1Q21.txt,TRV,2021,Q1,"TRV:
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs, and a rise in D&O claims,
+while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.7418420314788818,0.0,0.0,21.4,22.25,0.0,0.8292682926829268,41
+TRV_1Q21.txt,TRV,2021,Q1,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_1Q22.txt,TRV,2022,Q1,"TRV
+traded down (-4.9% versus the S&P which was +1.6%), reflecting underlying loss ratios
+falling short of expectations and the company adding to its loss trend assumption in the
+quarter.
+.",loss ratios,Financial,0.0,0.9758912324905396,0.0,61.33,9.33,10.5,0.9032258064516129,31
+TRV_1Q22.txt,TRV,2022,Q1,"First of all this can add legs to the
+harder market (MarketScout for instance saw strong rate increases in March relative
+to the other months in the Q1 - see Exhibit 2 inside) and all peers may not be affected
+to the same degree.",rate increases,Financial,0.4870148003101349,0.0,0.0,53.21,20.92,0.0,0.8409090909090909,44
+TRV_1Q22.txt,TRV,2022,Q1,"Away from
+other investments, TRV saw a better combined ratio due to lower cats and better prior year reserve
+development, while the underlying loss ratio fell short of us with weaker loss ratios in all segments.",loss ratios,Financial,0.6943036317825317,0.0,0.0,34.94,17.73,0.0,0.9166666666666666,36
+TRV_1Q22.txt,TRV,2022,Q1,"Catastrophe losses were only $79 million, lower than our
+$225 million.",catastrophe,Financial,0.0,0.9698595404624939,0.0,60.31,8.04,0.0,1.0,11
+TRV_1Q22.txt,TRV,2022,Q1,"Exhibit 1 - Consolidated Results Versus Wells Fargo Securities Estimates
+Net Premiums Written (in millions)
+$8,367
+11.5%
+Y/Y Growth in Net Premiums Written
+Y/Y Growth in Net Premiums Earned
+8.5%
+Investment Income (in millions)
+$637
+Combined Ratio
+91.3%
+Catastrophe Losses (in millions)
+$160
+Reserve Development (in millions)
+($153)
+",catastrophe,Financial,0.6509371995925903,0.0,0.0,42.58,11.53,12.2,0.7083333333333334,48
+TRV_1Q22.txt,TRV,2022,Q1,"MarketScout Pricing Trends
+Exhibit 2 - Pricing Trends-MarketScout Commercial Lines Trends-Monthly
+By Month
+Sep-21
+Line
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Oct-21
+Commercial Property
+Inland Marine
+10.0%
+9.0%
+4.0%
+10.0%
+10.0%
+5.0%
+9.0%
+5.0%
+9.0%
+9.0%
+9.0%
+4.0%
+4.0%
+6.0%
+6.0%
+5.0%
+Business Owners Policy
+4.0%
+4.0%
+4.0%
+8.0%
+4.0%
+4.0%
+5.0%
+5.0%
+5.0%
+Business Interruption
+7.0%
+5.0%
+8.0%
+7.0%
+7.0%
+6.0%
+7.0%
+Umbrella Excess
+14.0%
+12.0%
+10.0%
+13.0%
+11.0%
+12.0%
+12.0%
+13.0%
+General Liability
+6.0%
+D&O Liability
+Professional Liability
+8.0%
+5.0%
+7.0%
+7.0%
+6.0%
+12.0%
+11.0%
+11.0%
+10.0%
+6.0%
+6.0%
+6.0%
+14.0%
+11.0%
+11.0%
+11.0%
+8.0%
+5.0%
+8.0%
+6.0%
+7.0%
+7.0%
+7.0%
+6.0%
+6.0%
+Employment Practices Liability
+7.0%
+6.0%
+8.0%
+7.0%
+9.0%
+9.0%
+9.0%
+9.0%
+8.0%
+Commercial Auto
+9.0%
+8.0%
+10.0%
+9.0%
+9.0%
+9.0%
+9.0%
+8.0%
+6.0%
+Workers' Comp
+1.0%
+1.0%
+1.0%
+1.0%
+0.0%
+0.0%
+0.0%
+0.0%
+-1.0%
+1.0%
+1.0%
+Surety
+2.0%
+2.0%
+1.0%
+1.0%
+1.0%
+1.0%
+1.0%
+1.0%
+1.0%
+Fiduciary
+3.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+2.0%
+Crime
+3.0%
+3.0%
+3.0%
+3.0%
+2.0%
+2.0%
+2.0%
+1.0%
+1.0%
+Average
+7.0%
+6.3%
+7.0%
+6.8%
+6.7%
+6.9%
+6.7%
+6.4%
+Nov-21
+8.0%
+5.0%
+6.0%
+11.0%
+10.0%
+5.0%
+5.0%
+11.0%
+10.0%
+1.0%
+5.5%
+Dec-21
+Jan-22
+8.0%
+4.0%
+4.0%
+5.0%
+6.0%
+6.0%
+6.0%
+7.0%
+6.0%
+6.0%
+7.0%
+2.0%
+1.0%
+2.0%
+2.0%
+5.6%
+5.9%
+7.0%
+6.0%
+6.0%
+7.0%
+9.0%
+10.0%
+10.0%
+5.0%
+4.0%
+6.0%
+9.0%
+9.0%
+5.0%
+6.0%
+6.0%
+7.0%
+2.0%
+1.0%
+Feb-22
+7.0%
+4.0%
+6.0%
+7.0%
+8.0%
+7.0%
+7.0%
+1.0%
+1.0%
+2.0%
+1.0%
+5.7%
+Mar-22
+9.0%
+5.0%
+9.0%
+1.0%
+2.0%
+3.0%
+2.0%
+6.8%
+By Month
+Line
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Jumbo (Premium > $1 Mil)
+9.0%
+5.0%
+8.0%
+6.0%
+7.0%
+7.0%
+8.0%
+7.0%
+8.0%
+7.0%
+7.0%
+Large Account (Premium $250,001-$1 Mil)
+8.0%
+10.0%
+9.0%
+8.0%
+8.0%
+7.0%
+7.0%
+Medium Account (Premium $25,001-$250K)
+6.0%
+6.0%
+6.0%
+7.0%
+7.0%
+8.0%
+7.0%
+6.0%
+5.0%
+Small Account (Premium up to $25K)
+5.0%
+5.0%
+5.0%
+6.0%
+6.0%
+6.0%
+6.0%
+6.0%
+4.0%
+Average
+7.0%
+6.3%
+7.0%
+6.8%
+6.7%
+6.9%
+6.7%
+6.4%
+5.5%
+Source: MarketScout and Wells Fargo Securities, LLC
+· Underlying margin in Business Insurance benefited from rate exceeding trend.",business interruption,Risk,0.0,0.0,0.0,81.73,7.83,9.4,0.2976878612716763,346
+TRV_1Q22.txt,TRV,2022,Q1,"With the aggregate reinsurance cover, TRV has accumulated $175 million toward the retention
+as of the end of the Q1.",reinsurance,Financial,0.0,0.0,0.5576410889625549,42.72,16.0,0.0,0.8,20
+TRV_1Q22.txt,TRV,2022,Q1,"Catastrophe losses totaled $160 million, below our $225 million estimate.",catastrophe,Financial,0.0,0.9711282849311829,0.0,35.95,12.0,0.0,1.0,10
+TRV_1Q22.txt,TRV,2022,Q1,"TRV did note that
+catastrophe losses primarily resulted from wind storms in multiple states.",catastrophe,Financial,0.0,0.8504866361618042,0.0,48.81,17.03,0.0,1.0,14
+TRV_1Q22.txt,TRV,2022,Q1,"Through March 31,
+they have accumulated $175 million of qualifying losses toward the aggregate retention (under
+its aggregate reinsurance cover TRV gets $225 million of protection as part of $500 million of
+coverage above a $2 billion retention).
+.",reinsurance,Financial,0.0,0.8901757597923279,0.0,15.99,22.57,0.0,0.8461538461538461,39
+TRV_1Q22.txt,TRV,2022,Q1,"Exhibit 8 - Underlying Combined Ratio - Misses On Higher Loss Ratio, Offset by Lower Expense Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Reported Combined Ratio
+Catastrophe Losses, net of reinsurance
+93.7%
+98.4%
+101.5%
+2.8%
+5.3%
+(0,7%)
+(1,8%)
+4.1%
+(0,8%)
+95.5%
+92.4%
+3.4%
+1.2%
+103.7%
+4.6%
+12.3%
+94.9%
+86.7%
+5.3%
+0.4%
+96.6%
+95.3%
+",catastrophe,Financial,0.0,0.0,0.5882042050361633,73.51,12.1,10.5,0.6901408450704225,71
+TRV_1Q22.txt,TRV,2022,Q1,"Exhibit 8 - Underlying Combined Ratio - Misses On Higher Loss Ratio, Offset by Lower Expense Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Reported Combined Ratio
+Catastrophe Losses, net of reinsurance
+93.7%
+98.4%
+101.5%
+2.8%
+5.3%
+(0,7%)
+(1,8%)
+4.1%
+(0,8%)
+95.5%
+92.4%
+3.4%
+1.2%
+103.7%
+4.6%
+12.3%
+94.9%
+86.7%
+5.3%
+0.4%
+96.6%
+95.3%
+",reinsurance,Financial,0.0,0.0,0.5882042050361633,73.51,12.1,10.5,0.6901408450704225,71
+TRV_1Q22.txt,TRV,2022,Q1,"Target Price Valuation for TRV: $180.00 from NC
+Our price target of $180 is based on around a ~1.53x multiple of our projected 2023 book value estimate of around $117 and 12.4x our
+2023 EPS estimate of $14.50.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.8992122411727905,0.0,0.0,62.27,11.56,11.6,0.735632183908046,87
+TRV_1Q22.txt,TRV,2022,Q1,"Wells Fargo Securities, LLC is not registered in Brazil and
+its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or negotiated
+in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores Mobiliários,
+the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_1Q22.txt,TRV,2022,Q1,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_1Q23.txt,TRV,2023,Q1,"TRV noted the pricing environment remains strong and property saw a continued
+acceleration given hardening reinsurance market and capacity constraints.
+",reinsurance,Financial,0.9546178579330444,0.0,0.0,0.42,22.0,0.0,0.95,20
+TRV_1Q23.txt,TRV,2023,Q1,"These factors include: higher reinsurance
+pricing, economic inflation, weather (including frequency and severity of events) and the tight labor
+market.",reinsurance,Financial,0.0,0.5530326962471008,0.0,17.34,20.0,0.0,0.95,20
+TRV_1Q23.txt,TRV,2023,Q1,"No change to previous guide
+Business Insurance: RRC in workers' comp was more
+negative than expected and property pricing improved from a
+price per unit of risk standpoint as terms and conditions
+improved along with pricing
+Bond & Specialty: Written premium contracted modestly in
+their international business due to tougher Y/Y compares and
+a significant decline in M&A activity
+Business Insurance: TRV saw continued acceleration of
+pricing in property given hardening reinsurance market and
+capacity constraint.
+",reinsurance,Financial,0.6759735345840454,0.0,0.0,-21.58,39.6,0.0,0.8026315789473685,76
+TRV_1Q23.txt,TRV,2023,Q1,"Alternatives: No guide
+Source: Company reports and Wells Fargo Securities, LLC
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 2023 to $560 million in Q4 (with an average
+of $535 million per quarter)
+Fixed Book: Expect after-tax fixed NII to be from a range of
+|$530 million in Q2 2023 to $570 million in Q4
+Alternatives: No guide
+They do not expect to continue to be able to return nearly
+100% in terms of operating earnings between buybacks and
+dividends and the higher reinsurance retention does not
+impact their view of capital adequacy.
+",capital adequacy,Financial,0.6408286094665527,0.0,0.0,-22.59,43.96,0.0,0.6336633663366337,101
+TRV_1Q23.txt,TRV,2023,Q1,"Alternatives: No guide
+Source: Company reports and Wells Fargo Securities, LLC
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 2023 to $560 million in Q4 (with an average
+of $535 million per quarter)
+Fixed Book: Expect after-tax fixed NII to be from a range of
+|$530 million in Q2 2023 to $570 million in Q4
+Alternatives: No guide
+They do not expect to continue to be able to return nearly
+100% in terms of operating earnings between buybacks and
+dividends and the higher reinsurance retention does not
+impact their view of capital adequacy.
+",reinsurance,Financial,0.6408286094665527,0.0,0.0,-22.59,43.96,0.0,0.6336633663366337,101
+TRV_1Q23.txt,TRV,2023,Q1,"The Travelers Companies, Inc.
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Reported Combined Ratio
+93.7%
+2.8%
+98.4%
+5.3%
+101.5%
+3.4%
+4.1%
+(0.8%)
+92.4%
+Catastrophe Losses, net of reinsurance
+1.2%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.7%)
+(1.8%)
+",catastrophe,Financial,0.0,0.0,0.4829447269439697,33.1,15.32,13.4,0.8653846153846154,52
+TRV_1Q23.txt,TRV,2023,Q1,"The Travelers Companies, Inc.
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Reported Combined Ratio
+93.7%
+2.8%
+98.4%
+5.3%
+101.5%
+3.4%
+4.1%
+(0.8%)
+92.4%
+Catastrophe Losses, net of reinsurance
+1.2%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.7%)
+(1.8%)
+",reinsurance,Financial,0.0,0.0,0.4829447269439697,33.1,15.32,13.4,0.8653846153846154,52
+TRV_1Q23.txt,TRV,2023,Q1,"The Travelers Companies, Inc.
+Equity Research
+Exhibit 12 - TRV Consolidated Earnings Model
+($ in millions, except as noted
+Summary
+Business Insurance
+Bond & Specialty Insurance
+Personal Insurance
+Other
+Adjusted Pre-Tax Operating Income
+Tax Rate
+Taxes
+Adjusted After-Tax Operating Income
+Adjusted Operating EPS
+YoY Change in Adjusted After-Tax Operating Income
+YoY Change in Adjusted Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Fixed Maturities
+Fixed Maturities Pre-Tax Annualized Yield
+Alternatives
+Alternatives Pre-Tax Annualized Yield
+Short-Term Securities
+Invesment Expenses
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+2022
+Q1 2023
+Q2 2023E
+Q3 2023E
+Q4 2023E
+2,889
+833
+939
+(369)
+4,292
+17.8%
+(765)
+3,527
+$13.94
+32.7%
+33.0%
+7.8%
+6.3%
+1,989
+2.6%
+1,077
+18.8%
+5
+(40)
+3,031
+3.7%
+811
+239
+252
+(95)
+1,207
+13.9%
+(168)
+1,039
+$4.22
+42.5%
+54.7%
+10.4%
+8.5%
+505
+2.7%
+142
+9.8%
+2
+(12)
+637
+3.0%
+313
+285
+(250)
+(97)
+751
+16.9%
+(127)
+624
+$2.56
+(29.8%)
+(25.7%)
+10.9%
+9,2%
+512
+2.9%
+197
+13.6%
+9
+(11)
+707
+3.3%
+560
+304
+(147)
+(96)
+621
+15.3%
+(95)
+526
+$2.20
+20.2%)
+(15.4%)
+10.5%
+10.0%
+534
+3.1%
+46
+3.2%
+23
+(10)
+593
+2.7%
+884
+275
+(85)
+(94)
+980
+17.3%
+(170)
+810
+$3.40
+38.6%)
+(34.6%)
+10.5%
+9.8%
+562
+3.2%
+34
+2.3%
+39
+(10)
+625
+2.8%
+3,068
+1,103
+(230)
+(382)
+3,559
+15.7%
+(560)
+2,999
+$12.43
+(17.1%)
+(10.9%)
+10.6%
+9.4%
+2,113
+3.0%
+419
+7.3%
+73
+(43)
+2,562
+2.9%
+713
+248
+58
+(97)
+922
+(5.2%)
+48
+970
+$4.11
+(23.6%)
+(2,8%)
+11.5%
+10.5%
+575
+3.2%
+53
+3.6%
+47
+(12)
+663
+3.0%
+766
+241
+(166)
+(97)
+745
+15.2%
+(113)
+632
+$2.71
+(0.8%)
+5.7%
+$2.58
+4.9%
+10.8%
+11.5%
+597
+3.3%
+118
+8.0%
+25
+(11)
+728
+3.3%
+814
+271
+(168)
+97)
+821
+15.6%
+(128)
+693
+$3.00
+32.2%
+36,3%
+$3.11
+(3.4%)
+10.8%
+10.3%
+1,042
+255
+206
+(97)
+1,407
+18.0%
+(254)
+1,153
+$5.05
+43.5%
+48.5%
+$4.99
+1.3%
+10.8%
+11.3%
+617
+637
+3.4%
+3.4%
+120
+122
+8.0%
+8.0%
+30
+34
+(12)
+(12)
+756
+782
+3.4%
+3.5%
+65.1%
+29.4%
+94.5%
+(0.6%)
+1,847
+6.0%
+(538)
+(1.7%)
+60.9%
+90,3%
+0.0%
+(0.5%)
+$119.77
+11.8%
+241.2
+250.9
+876
+2.156
+3,032
+86.0%
+62.3%
+29.0%
+91.3%
+(5.4%)
+160
+2.0%
+(153)
+(1.9%)
+62.2%
+91.2%
+2.5%
+1.7%
+$106.40
+14.9%
+240.0
+243.7
+214
+559
+773
+74.4%
+69.3%
+29.0%
+98.3%
+3.0%
+746
+9.0%
+(291)
+(3.5%)
+63.8%
+92.8%
+2.1%
+1.4%
+$96.39
+10.1%
+237.3
+241.1
+225
+500
+'25
+116.2%
+70.1%
+28.1%
+98.2%
+(0.4%)
+512
+5.9%
+(20)
+(0.2%)
+64.4%
+92.5%
+2.4%
+1.1%
+$84.94
+9.7%
+234.4
+237.9
+221
+501
+722
+137.3%
+66.6%
+27.9%
+94.5%
+6.5%
+459
+5.2%
+(185)
+(2.1%)
+63.5%
+91.4%
+3.3%
+2.7%
+$92.90
+15.3%
+232.1
+236.3
+221
+501
+722
+89.1%
+67.2%
+28.5%
+95.8%
+1.3%
+1,877
+5.6%
+(649)
+(1.9%)
+63.6%
+92.1%
+2.7%
+1.9%
+$92.90
+11.7%
+232.1
+239.7
+881
+2,061
+2,942
+98.1%
+66.7%
+28.7%
+95.4%
+4.1%
+535
+6.0%
+(105)
+(1.2%)
+61.8%
+90.5%
+(0.4%)
+(0.7%)
+$99.80
+17.1%
+231.0
+234.4
+218
+462
+680
+70.1%
+69.9%
+28.6%
+98.5%
+0.2%
+730
+7.9%
+(100)
+(1.1%)
+63.1%
+91.7%
+(0.7%)
+(1.2%)
+$100.68
+10.8%
+228.5
+231.9
+231
+450
+681
+107.8%
+69.6%
+28.5%
+98,1%
+(0.1%)
+500
+5.3%
+10
+0.1%
+64.2%
+92,7%
+(0.2%)
+0.2%
+$101.83
+11.8%
+226.0
+229.7
+64.0%
+28.3%
+92,3%
+(2.2%)
+300
+3.1%
+(77)
+(0.8%)
+61.7%
+90.0%
+(1.8%)
+(1.4%)
+$105.06
+19.5%
+223.6
+227.6
+228
+226
+150
+450
+678
+676
+97.9%
+58.6%
+29,201
+3,667
+(876)
+(2,156)
+(1,309)
+360
+28,887
+20.2%
+28,887
+1,020
+(214)
+(559)
+(3,795)
+192
+25,531
+22.2%
+25,531
+550
+225)
+500)
+(2,553)
+71
+22,874
+24.2%
+22,874
+454
+(221)
+(501)
+(2,753)
+53
+19,906
+26.8%
+19,906
+819
+(221)
+(501)
+1,463
+94
+21,560
+25.3%
+28,887
+2,843
+(881)
+(2,061)
+(7,638)
+410
+21,560
+25.3%
+Source: Company Reports, Factset and Wells Fargo Securiites, LLC estimates
+21,560
+975
+(218)
+(462)
+1,059
+138
+23,052
+24.0%
+23,052
+$32
+(231)
+(450)
+0
+Q
+23,003
+24.1%
+23,003
+693
+(228)
+(450)
+0
+Q
+23,017
+24.1%
+23,017
+1,153
+(226)
+(450)
+0
+23,494
+23.7%
+2023E
+3,335
+1,015
+(69)
+(387)
+3,894
+11.5%
+446)
+3,448
+$14.85
+9.4%
+19.5%
+$14.26
+4.1%
+11.0%
+10.9%
+2,427
+3.3%
+413
+7.1%
+136
+(48)
+2,928
+3.3%
+67.5%
+28.5%
+96.1%
+0.3%
+2,065
+5.5%
+(272)
+(0.7%)
+62.8%
+91.3%
+(0.8%)
+(0.9%)
+$105.06
+15.0%
+223.6
+230.9
+903
+1.812
+2,715
+78.8%
+21,560
+3,453
+(903)
+(1,812)
+1,059
+138
+23,494
+23.7%
+Q1 2024E
+926
+251
+227
+(97)
+1,307
+17.7%
+(231)
+1,076
+$4.74
+41.8%
+15.4%
+$4.62
+2.5%
+5.5%
+10.4%
+657
+3.5%
+125
+8.0%
+35
+(13)
+804
+3.6%
+65.1%
+28.5%
+93.5%
+(1.9%)
+390
+4.0%
+(36)
+(0.4%)
+61.4%
+89.9%
+(0.4%)
+(0.6%)
+$108.00
+17.8%
+221.3
+225.5
+224
+450
+674
+62.6%
+23,494
+1,076
+(224)
+(450)
+0
+0
+23,896
+23.4%
+Q2 2024E
+784
+238
+44)
+(97)
+881
+15.4%
+(136)
+745
+$3.31
+18.3%
+22.5%
+$3.18
+4.3%
+5.6%
+7.0%
+675
+3.6%
+127
+8.0%
+35
+(13)
+825
+3.7%
+69.7%
+28.5%
+98.1%
+(0.4%)
+775
+7.8%
+(44)
+(0.4%)
+62.3%
+90,7%
+(0.8%)
+(0.9%)
+$109.44
+12.2%
+219.0
+223.5
+228
+450
+678
+91.0%
+23,896
+745
+(228)
+(450)
+0
+Q
+23,963
+23.3%
+Q3 2024E
+881
+273
+26
+(97)
+1,083
+16.5%
+(179)
+904
+$4.06
+31.9%
+35,4%
+$3.62
+12.3%
+5.6%
+6.3%
+693
+3.7%
+130
+8.0%
+35
+(13)
+845
+3.8%
+67.8%
+28.6%
+96.4%
+(1.6%)
+530
+5.2%
+3
+0.0%
+62.5%
+91.1%
+(1.7%)
+(1.5%)
+$111.64
+14.7%
+216.7
+221.5
+226
+450
+676
+74.8%
+23,963
+904
+(226)
+(450)
+0
+Q
+24,191
+23.2%
+Q4 2024E
+1,060
+263
+391
+(97)
+1,618
+18.3%
+(295)
+1,322
+$6.01
+15.0%
+18.9%
+$5.71
+5.2%
+5.6%
+5.6%
+710
+3.8%
+132
+8.0%
+35
+(14)
+864
+3.8%
+62.9%
+28.5%
+91.4%
+(0.9%)
+330
+3.2%
+40)
+(0.4%)
+60.1%
+88.6%
+(1.6%)
+(1.4%)
+$115.82
+21.1%
+214.5
+219.5
+223
+450
+673
+50.9%
+24,191
+1,322
+(223)
+(450)
+0
+Q
+24,840
+22.7%
+2024E
+3,651
+1,025
+600
+(388)
+4,888
+17.2%
+(842)
+4,046
+$18.10
+25.5%
+21.9%
+$16.77
+7.9%
+5.6%
+7.3%
+2,735
+3.6%
+514
+8.2%
+140
+(53)
+3,337
+3.7%
+66.3%
+28.5%
+94.8%
+(1.2%)
+2,025
+5.0%
+(117)
+(0.3%)
+61.6%
+90.1%
+(1.2%)
+(1.2%)
+$115.82
+16.4%
+214.5
+222.5
+900
+1,800
+2,700
+66.7%
+23,494
+4,046
+900)
+(1,800)
+0
+0
+24,840
+22.7%
+Q1 2025E
+1,032
+267
+234
+97)
+1,436
+17.7%
+(254)
+1,182
+$5.40
+9.9%
+13.9%
+$5.16
+4.6%
+5.5%
+5.1%
+727
+3.8%
+135
+8.0%
+35
+14)
+883
+3.9%
+64.9%
+28.4%
+93.3%
+(0.2%)
+420
+4.1%
+(21)
+(0.2%)
+61.0%
+89.4%
+(0.4%)
+(0.5%)
+$119.42
+18.4%
+212.3
+217.6
+221
+450
+671
+56.8%
+24,840
+1,182
+(221)
+(450)
+0
+Q
+25,351
+22.3%
+Q2 2025E
+899
+260
+(68)
+(97)
+994
+15.6%
+(155)
+838
+$3.87
+12.8%
+16.7%
+$3.54
+9.3%
+5.6%
+5.1%
+743
+3.9%
+138
+8.0%
+35
+(14)
+902
+4.0%
+69.4%
+28.4%
+97.8%
+(0.3%)
+820
+7.9%
+(22)
+(0.2%)
+61.8%
+90,2%
+(0.5%)
+(0.6%)
+$121.41
+12.8%
+210.2
+215.8
+225
+450
+675
+80.5%
+25,351
+838
+225)
+(450)
+0
+Q
+25,515
+22.2%
+Q3 2025E
+1,011
+292
+5
+(97)
+1,211
+16.7%
+(202)
+1,009
+$4,70
+11.8%
+15.6%
+$4.23
+11.1%
+5.6%
+5.1%
+758
+4.0%
+140
+8.0%
+35
+(14)
+920
+4.0%
+67.6%
+28.5%
+96,0%
+(0.4%)
+560
+5.3%
+(2)
+(0.0%)
+62.3%
+90.8%
+(0.2%)
+(0.4%)
+$124.24
+15.3%
+",catastrophe,Financial,0.0,0.0,0.0,98.51,3.79,6.7,0.6521739130434783,1196
+TRV_1Q23.txt,TRV,2023,Q1,"Target Price Valuation for TRV: $183.00 from $182.00
+Our price target of $183 is based on around a ~1.6x multiple of our projected 2024 book value estimate of around $115.82 and just
+around 10x our 2024 EPS estimate of $18.10.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and reported / underlying margins coming in better
+than expected.
+12 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.7825080752372742,55.54,12.1,12.0,0.75,112
+TRV_1Q23.txt,TRV,2023,Q1,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+TRV_1Q23.txt,TRV,2023,Q1,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_1Q24.txt,TRV,2024,Q1,"We expect WRB could also see movement within their LT reserves
+(for more see our report); (2) Personal auto margins are improving as rate increases are
+earned in and severity is getting better; and (3) Commercial rate and exposure continues
+to moderate modestly but remains at healthy levels.
+",rate increases,Financial,0.9548721313476562,0.0,0.0,22.76,26.7,0.0,0.8958333333333334,48
+TRV_1Q24.txt,TRV,2024,Q1,"The Q1 is about 3 pts lower than the FY CR, although it does not take into
+account the impact of rate increases being earned in.
+",rate increases,Financial,0.0,0.9233238101005554,0.0,70.47,11.94,0.0,0.9615384615384616,26
+TRV_1Q24.txt,TRV,2024,Q1,"Given the uncertainty in
+terms of weather volatility, economic and social
+inflation, hardening reinsurance market and the
+geopolitical landscape TRV will continue to push
+for price increases to achieve its return
+objectives.
+",reinsurance,Financial,0.9380790591239929,0.0,0.0,13.62,25.3,0.0,0.90625,32
+TRV_1Q24.txt,TRV,2024,Q1,"Commercial Lines Insurance
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Reported Combined Ratio
+95.5%
+4.6%
+(0.4%)
+103.7%
+12.3%
+(0.0%)
+94.9%
+86.7%
+Catastrophe Losses, net of reinsurance
+5.3%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(2.4%)
+(1.9%)
+",catastrophe,Financial,0.0,0.4739517271518707,0.0,29.55,17.13,15.0,0.86,50
+TRV_1Q24.txt,TRV,2024,Q1,"Commercial Lines Insurance
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Reported Combined Ratio
+95.5%
+4.6%
+(0.4%)
+103.7%
+12.3%
+(0.0%)
+94.9%
+86.7%
+Catastrophe Losses, net of reinsurance
+5.3%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(2.4%)
+(1.9%)
+",reinsurance,Financial,0.0,0.4739517271518707,0.0,29.55,17.13,15.0,0.86,50
+TRV_1Q24.txt,TRV,2024,Q1,"Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2022
+Q1 2023
+Q2 2023
+Q3 2023
+Q4 2023
+2023
+Q1 2024
+Q2 2024E
+Q3 2024E
+Q4 2024E
+2024E
+Q1 2025E
+Q2 2025E
+3,068
+1,103
+(230)
+(382)
+3,559
+15.7%
+(560)
+2,999
+$12.42
+(17.1%)
+(10,9%)
+10.6%
+9.4%
+713
+248
+58
+(97)
+922
+(5.2%)
+48
+970
+$4.11
+(23.6%)
+(2,8%)
+11.5%
+10.5%
+185
+289
+(685)
+(102)
+(13)
+215.4%
+28
+15
+$0.06
+(101.7%)
+(97,6%)
+14.4%
+10.8%
+569
+331
+(256)
+(108)
+536
+15.5%
+83)
+453
+$1.95
+(13.7%)
+(11,5%)
+14.8%
+12.8%
+1,184
+302
+652
+(107)
+2,031
+19.6%
+(397)
+1,634
+$7.01
+107.2%
+106,3%
+13.1%
+13.1%
+2,951
+1,170
+(231)
+(414)
+3,476
+11.6%
+(404)
+3,072
+$13.13
+(2.3%)
+5.7%
+13.5%
+11.8%
+934
+240
+267
+(106)
+1,335
+17.9%
+(239)
+1,096
+$4.69
+44.8%
+14.1%
+$4.69
+(0.1%)
+9.3%
+14.4%
+384
+233
+192
+(107)
+1,201
+18.9%
+(227)
+975
+$4.21
+NM
+NM
+$3.29
+28.0%
+7.9%
+13.6%
+787
+290
+229
+(107)
+1,199
+18.8%
+(225)
+974
+$4.22
+123.7%
+116.9%
+$3.92
+7.6%
+7.5%
+10.1%
+1,171
+306
+159
+(107)
+1,829
+19.5%
+(357)
+1,472
+$6.41
+(9.9%)
+(8.6%)
+$6.20
+3.4%
+8.2%
+9.5%
+3,776
+1,068
+1,147
+(427)
+5,564
+18.8%
+(1,048)
+4,516
+$19.52
+60.1%
+48.7%
+$18.29
+6.7%
+8.2%
+11.8%
+1,045
+293
+315
+(107)
+1,546
+19.1%
+(295)
+1,252
+$5.46
+15.8%
+16.6%
+$5.75
+(4.9%)
+958
+290
+79
+(107)
+1,220
+18.6%
+(226)
+994
+$4.37
+1.5%
+3,9%
+$3.86
+13.3%
+4.2%
+5.1%
+9.1%
+7.2%
+2,113
+2.8%
+419
+7.3%
+73
+(43)
+2,562
+2.9%
+575
+3.2%
+53
+3.6%
+47
+12)
+663
+3.0%
+591
+3.2%
+78
+5.3%
+55
+(12)
+712
+3.2%
+631
+3.5%
+82
+5.6%
+67
+(11
+769
+3.4%
+675
+3.6%
+40
+2.7%
+72
+(9)
+78
+3.4%
+2,472
+3.2%
+253
+4.3%
+241
+(44)
+2,922
+3.2%
+692
+3.6%
+98
+6.6%
+70
+(14)
+846
+3.6%
+720
+748
+3.6%
+3.7%
+120
+122
+8.0%
+8.0%
+60
+60
+(14)
+",catastrophe,Financial,0.0,0.0,0.0,90.26,4.01,7.0,0.7669376693766937,369
+TRV_1Q24.txt,TRV,2024,Q1,"· Implies around a ~1.6x multiple of our projected 2025 book value estimate of ~$133.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and reported / underlying margins coming in better
+than expected.
+",catastrophe,Financial,0.8840112090110779,0.0,0.0,40.99,15.45,14.1,0.8208955223880597,67
+TRV_1Q24.txt,TRV,2024,Q1,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_1Q24.txt,TRV,2024,Q1,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_2Q20.txt,TRV,2020,Q2,"The combination of weather-related
+losses, historically low interest rates, higher loss trend in liability
+lines, the Covid-19 pandemic and resulting economic contraction
+have Travelers comparing this market to the one after 9/11 and
+Hurricane Katrina.",hurricane,Climate,0.0,0.8868265748023987,0.0,-6.36,28.86,0.0,0.9428571428571428,35
+TRV_2Q20.txt,TRV,2020,Q2,"TRV left a bullish view on the level of
+workers' comp related Covid-19 losses slowing, combined with
+maintaining its stance that it should largely be immune from
+Business Interruption losses from the pandemic, and pointed to
+conserving capital and potentially still remain muted on buybacks
+given the economic uncertainty and the fact that we are in hurricane
+season.",hurricane,Climate,0.0,0.7992027401924133,0.0,4.15,29.41,0.0,0.8448275862068966,58
+TRV_2Q20.txt,TRV,2020,Q2,"TRV left a bullish view on the level of
+workers' comp related Covid-19 losses slowing, combined with
+maintaining its stance that it should largely be immune from
+Business Interruption losses from the pandemic, and pointed to
+conserving capital and potentially still remain muted on buybacks
+given the economic uncertainty and the fact that we are in hurricane
+season.",business interruption,Risk,0.0,0.7992027401924133,0.0,4.15,29.41,0.0,0.8448275862068966,58
+TRV_2Q20.txt,TRV,2020,Q2,"Actual
+Net premiums written (in millions)
+$7,346
+Growth in net premiums written
+(1.4%)
+Growth in net premiums earned
+Investment income (in millions)
+Combined ratio
+Catastrophe losses (in millions)
+$854
+Reserve releases (in millions)
+($2)
+Underlying Loss Ratio
+60.4%
+61.7%
+Expense Ratio
+Underlying combined ratio
+Tax rate
+Operating EPS
+Growth in operating EPS
+Book value per share
+Segment Underwriting Income (in millions):
+Business Insurance
+Bond & Specialty Insurance
+$39
+Personal Insurance
+Operating ROE
+(0.8%)
+(0.8%)
+(0.5%)
+(0.6%)
+$268
+$268
+103.7%
+103.4%
+31.0%
+31.1%
+91.4%
+49.0%
+($0.20)
+(110.0%)
+$106.42
+$98.69
+($315)
+($47)
+Source: Wells Fargo Securities, LLC estimates and Company reports
+Q2 2020 Estimate
+$7,372
+(1,1%)
+$854
+($114)
+92.8%
+16.5%
+($0.20)
+NM
+($320)
+$112
+($89)
+2 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.9034625291824341,40.48,13.99,15.0,0.7777777777777778,135
+TRV_2Q20.txt,TRV,2020,Q2,"For catastrophe losses, TRV highlighted that they have accumulated
+$1.4 billion of qualified losses towards the aggregate retention of $1.55 billion on its property aggregate
+cat XOL treaty.",catastrophe,Financial,0.0,0.9340237975120544,0.0,45.12,13.72,12.5,0.8928571428571429,28
+TRV_2Q20.txt,TRV,2020,Q2,"The combination of weather-related losses, historically low interest rates,
+higher loss trend in liability lines, the Covid-19 pandemic and resulting economic contraction have
+Travelers comparing this market to the one after 9/11 and Hurricane Katrina.",hurricane,Climate,0.0,0.8868265748023987,0.0,-6.36,28.86,0.0,0.9428571428571428,35
+TRV_2Q20.txt,TRV,2020,Q2,"Further, with Travelers not seeing as much Covid-19 losses as some peers and more immune from
+reinsurance rate increases (as they have high retentions on their treaties) we do wonder if they can
+continue to push for as much price (double-digits away from workers' comp).
+",rate increases,Financial,0.0,0.690420389175415,0.0,42.72,22.44,0.0,0.8888888888888888,45
+TRV_2Q20.txt,TRV,2020,Q2,"Further, with Travelers not seeing as much Covid-19 losses as some peers and more immune from
+reinsurance rate increases (as they have high retentions on their treaties) we do wonder if they can
+continue to push for as much price (double-digits away from workers' comp).
+",reinsurance,Financial,0.0,0.690420389175415,0.0,42.72,22.44,0.0,0.8888888888888888,45
+TRV_2Q20.txt,TRV,2020,Q2,(3) Business interruption should be insulated from Covid-19 claims.,business interruption,Risk,0.0,0.0,0.8890753388404846,45.42,12.49,0.0,1.0,9
+TRV_2Q20.txt,TRV,2020,Q2,"Following not buying back any of its shares in the
+Q2, TRV once again pointed to being more cautious when it comes to capital return, due to the impact
+of both the ongoing economic uncertainty and the fact that we are now in hurricane season.",hurricane,Climate,0.0,0.45632556080818176,0.0,42.72,21.56,0.0,0.8444444444444444,45
+TRV_2Q20.txt,TRV,2020,Q2,"Although The Level Is Slowing
+·
+Within Personal Insurance, TRV continues to secure rate increases in auto (but the level is slowing).
+",rate increases,Financial,0.8355004787445068,0.0,0.0,33.24,16.02,0.0,1.0,22
+TRV_2Q20.txt,TRV,2020,Q2,"Catastrophe losses of $854 million were in line with preannounced levels and came from severe
+storms in several regions of the United States as well as civil unrest.
+",catastrophe,Financial,0.0,0.9451424479484558,0.0,51.52,14.06,0.0,0.8928571428571429,28
+TRV_2Q20.txt,TRV,2020,Q2,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q2 2017
+Q3 2017 Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Reported Combined Ratio
+96.7%
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+3.8%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+Q1 2020
+Q2 2020
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+6.4%
+10.7%
+7.5%
+5.4%
+7.3%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+",catastrophe,Financial,0.0,0.5042564868927002,0.0,72.8,12.86,11.2,0.6666666666666666,72
+TRV_2Q20.txt,TRV,2020,Q2,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q2 2017
+Q3 2017 Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Reported Combined Ratio
+96.7%
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+3.8%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+Q1 2020
+Q2 2020
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+6.4%
+10.7%
+7.5%
+5.4%
+7.3%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+",reinsurance,Financial,0.0,0.5042564868927002,0.0,72.8,12.86,11.2,0.6666666666666666,72
+TRV_2Q20.txt,TRV,2020,Q2,"Exhibit 10 highlights the statutory general liability (Other
+Liability - Claims Made) initial loss ratios and the total level of development for AIG, CB, HIG, TRV, and the
+P&C industry for the 2019 accident year and how other prior years have developed (this data was just
+available last month following the filing of company's annual statutory results).",loss ratios,Financial,0.0,0.0,0.9384473562240601,-2.29,28.11,0.0,0.8421052631578947,57
+TRV_2Q20.txt,TRV,2020,Q2,"Given the lower loss ratios to start versus most peers we are not surprised to see
+TRV once again adding to its loss trend within Business Insurance.
+",loss ratios,Financial,0.9415302276611328,0.0,0.0,69.45,12.28,0.0,0.8888888888888888,27
+TRV_2Q20.txt,TRV,2020,Q2,"Other Liability Claims Made - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+CB
+AY Loss
+AY Loss
+Ratio
+Dev.
+Dev.
+",loss ratios,Financial,0.0,0.0,0.9088304042816162,46.1,16.4,0.0,0.8076923076923077,26
+TRV_2Q20.txt,TRV,2020,Q2,"Other Liability Claims Occurrence - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+CB
+AY Loss
+Ratio
+AY Loss
+Dev.
+Dev.
+",loss ratios,Financial,0.0,0.0,0.8782309889793396,37.64,18.0,0.0,0.8076923076923077,26
+TRV_2Q20.txt,TRV,2020,Q2,"Commercial Auto - Summary Of Loss Ratios and Total Development Relative To
+Initial Loss Picks
+AIG
+CB
+AY Loss
+HIG
+AY Loss
+Ratio
+TRV
+Peer Average
+Industry
+AY Loss
+Accident Year
+2010
+2011
+68.18
+2012
+71.46
+2013
+2014
+2015
+2016
+2017
+110.46
+18.18
+2018
+2019
+Average
+Ratio
+65.10
+65.87
+76.83
+76.62
+92.34
+18.13
+92.87
+94.80
+81.45
+Dev.
+16.42
+69.48
+(18.13)
+0.40
+12.67
+67.28
+21.21
+28.75
+31.62
+25.62
+9.39
+Ratio
+65.08
+61.21
+64.73
+64.48
+68.34
+66.69
+Dev.
+0.19
+1.28
+2.19
+4.68
+68.76
+7.69
+67.16
+5.26
+70.42
+56.72
+57.21
+(0.70)
+66.45
+64.75
+62.21
+59.93
+73.28
+70.11
+63.63
+10.55
+68.12
+64.24
+11.26
+20.22
+0.32
+Source: SNL and Wells Fargo Securities, LLC
+Dev.
+10.58
+21.72
+65.50
+18.18
+65.01
+7.43
+65.29
+8.72
+61.85
+14.31
+5.49
+4.33
+AY Loss
+Ratio
+59.06
+61.34
+62.89
+65.20
+64.65
+6.08
+Dev.
+7.05
+7.51
+4.55
+67.00
+3.66
+64.28
+3.56
+9.05
+10.41
+7.48
+69.90
+1.42
+70.46
+-
+AY Loss
+Ratio
+62.59
+64.54
+66.40
+65.59
+74.21
+78.63
+69.26
+Dev.
+3.98
+10.57
+10.81
+66.14
+6.60
+10.01
+65.65
+8.35
+11.30
+65.25
+9.69
+12.79
+66.18
+9.96
+9.68
+69.39
+8.78
+9.42
+73.39
+6.65
+75.95
+9.47
+AY Loss
+Ratio
+64.70
+2.75
+65.56
+7.03
+70.76
+69.82
+70.93
+67.44
+6.90
+Dev.
+5.62
+3.30
+-
+Exhibit 13.",loss ratios,Financial,0.0,0.0,0.6253267526626587,85.73,9.38,8.8,0.8622448979591837,196
+TRV_2Q20.txt,TRV,2020,Q2,"Commercial Multi-Peril - Summary Of Loss Ratios and Total Development Relative
+To Initial Loss Picks
+AIG
+AY Loss
+Ratio
+Dev.
+",loss ratios,Financial,0.0,0.0,0.8243411183357239,35.27,16.02,0.0,0.9,20
+TRV_2Q20.txt,TRV,2020,Q2,"Risks to achieving our price target include large
+catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs, and
+a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9145407676696777,0.0,28.17,16.55,0.0,0.9230769230769231,26
+TRV_2Q20.txt,TRV,2020,Q2,"TRV: Risks to achieving our price target include large catastrophe losses, adverse reserve development, increased competition, a
+deterioration in loss costs, and a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9060531854629517,0.0,35.61,16.73,0.0,0.9259259259259259,27
+TRV_2Q20.txt,TRV,2020,Q2,"The Travelers Companies, Inc.
+Equity Research
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its
+subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and
+Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA
+and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A. and
+Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9534923434257507,37.3,12.29,14.3,0.5922330097087378,103
+TRV_2Q21.txt,TRV,2021,Q2,"Further,
+as loss experience approached pre-pandemic levels, TRV said that they will look to file
+for rate increases in selected states later this year.",rate increases,Financial,0.7774258852005005,0.0,0.0,55.58,16.27,0.0,1.0,24
+TRV_2Q21.txt,TRV,2021,Q2,"The Fidelis
+investment will give the company access to the non-admitted market, and while it
+does bring some reinsurance exposure, it does not change TRV's overall view, which is
+that they are not looking to get bigger in reinsurance via M&A.
+Equity Analyst(s)
+Elyse Greenspan, CFA
+Senior Equity Analyst | Wells Fargo Securities, LLC
+elyse.greenspan@wellsfargo.com | 212-214-8031
+Rating
+Ticker
+Price Target/Prior:
+$159.00/$155.00
+Upside/(Downside) to Target
+5.2%
+Price (07/20/2021)
+$151.09
+52 Week Range
+$105.67 - 162.71
+Shares Outstanding
+251,465,267
+Market Cap (MM)
+$37,994
+Enterprise Value (MM)
+$44,461
+Average Daily Volume
+1,377,477
+Average Daily Value (MM)
+$208
+Dividend (NTM)
+$3.49
+Dividend Yield
+2.3%
+Net Debt (MM) - last reported
+$6,467
+ROIC - Current year est.
+",reinsurance,Financial,0.0,0.0,0.9034326672554016,59.3,9.61,11.9,0.831858407079646,113
+TRV_2Q21.txt,TRV,2021,Q2,"TRV's results beat on better underlying results,
+higher favorable reserve development and stronger investment income, which more than offset higher
+catastrophe losses.",catastrophe,Financial,0.9580739140510559,0.0,0.0,15.31,17.89,0.0,0.9545454545454546,22
+TRV_2Q21.txt,TRV,2021,Q2,"Catastrophe losses were $475 million,
+higher than our $300 million estimate.",catastrophe,Financial,0.8496426939964294,0.0,0.0,51.85,11.67,0.0,1.0,11
+TRV_2Q21.txt,TRV,2021,Q2,"Catastrophe losses (in millions)
+$475
+Reserve releases (in millions)
+($182)
+Underlying Loss Ratio
+Expense Ratio
+61.7%
+62.1%
+29.7%
+Underlying combined ratio
+91.4%
+Tax rate
+17.9%
+Operating EPS
+Growth in operating EPS
+NM
+$3.45
+$2.68
+Book value per share
+$116.86
+$113.84
+Segment Underwriting Income (in millions):
+Business Insurance
+$108
+Bond & Specialty Insurance
+$164
+Personal Insurance
+($17)
+$154
+Operating ROE
+12.0%
+9.5%
+Source: Wells Fargo Securities, LLC estimates and Company reports
+Q2 2021 Estimate
+$7,617
+3.7%
+$300
+($23)
+30.0%
+92.1%
+16.5%
+NM
+($25)
+$89
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.92989581823349,51.65,10.42,11.9,0.9029126213592233,103
+TRV_2Q21.txt,TRV,2021,Q2,"For catastrophe losses, TRV highlighted that as of Q2 it
+has incurred $1.5 billion towards the $1.9 billion retention under its aggregate program.",catastrophe,Financial,0.0,0.8723915219306946,0.0,55.2,10.04,9.7,0.9565217391304348,23
+TRV_2Q21.txt,TRV,2021,Q2,"TRV pointed to the sequential slowdown in rates reflective
+of rational moderating rate increases in excess casualty and national property due to three years of
+compounding rate increases in the two business lines.
+",rate increases,Financial,0.0,0.9528550505638123,0.0,21.06,24.11,0.0,0.7878787878787878,33
+TRV_2Q21.txt,TRV,2021,Q2,"Catastrophe losses totaled $475 million and came in above our $300 million estimate-due to the
+cat announcement by ALL in June and the losses that PGR also saw in June we were not necessarily
+surprised to see TRV see cats that exceeded our estimate.",catastrophe,Financial,0.0,0.47228243947029114,0.0,35.28,22.15,0.0,0.75,44
+TRV_2Q21.txt,TRV,2021,Q2,"Exhibit 7 - Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In Expense Ratio
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Reported Combined Ratio
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+95.5%
+103.7%
+94.9%
+Catastrophe Losses, net of reinsurance
+7.3%
+3.8%
+8.8%
+2.8%
+5-3%
+3.4%
+1.2%
+4.6%
+12.3%
+Q4 2020
+86.7%
+5.3%
+0.4%
+Q1 2021
+Q2 2021
+96.6%
+11.3%
+95-3%
+3.9%
+",catastrophe,Financial,0.0,0.4971705675125122,0.0,75.91,8.7,9.3,0.6842105263157895,76
+TRV_2Q21.txt,TRV,2021,Q2,"Exhibit 7 - Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In Expense Ratio
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Reported Combined Ratio
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+92.4%
+95.5%
+103.7%
+94.9%
+Catastrophe Losses, net of reinsurance
+7.3%
+3.8%
+8.8%
+2.8%
+5-3%
+3.4%
+1.2%
+4.6%
+12.3%
+Q4 2020
+86.7%
+5.3%
+0.4%
+Q1 2021
+Q2 2021
+96.6%
+11.3%
+95-3%
+3.9%
+",reinsurance,Financial,0.0,0.4971705675125122,0.0,75.91,8.7,9.3,0.6842105263157895,76
+TRV_2Q21.txt,TRV,2021,Q2,"The Fidelis investment would give the company access to the
+non-admitted market, and while it does bring some reinsurance exposure it does not change TRV's
+overall view, which is that they are not looking to get bigger in reinsurance via M&A.
+Premium Growth Benefited From Exposure Growth
+· Net premiums written rose 10.7% (or 7.6% excluding personal auto refunds in the prior year),
+smashing our 3.7% estimate and the +2.2% in the Q1 2021.",reinsurance,Financial,0.9592995047569275,0.0,0.0,67.55,10.36,11.5,0.8243243243243243,74
+TRV_2Q21.txt,TRV,2021,Q2,"Price Target for TRV: $159.00 from $155.00
+Our price target of $159 is based on around a ~1.25x multiple of our projected 2022 book value estimate of around $127 and 13.0x our
+2022 EPS estimate of $12.15.
+Risk for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.9205690622329712,0.0,0.0,66.44,9.82,10.5,0.7875,80
+TRV_2Q21.txt,TRV,2021,Q2,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_2Q22.txt,TRV,2022,Q2,"Net Premiums Written
+$9,020
+YoY Growth in Net Premiums Written
+10.9%
+YoY Growth in Net Premiums Earned
+9.2%
+Investment Income
+$707
+Combined Ratio
+98.3%
+Catastrophe Losses
+$746
+Reserve Development (Unfavorable)
+($291)
+Underlying Loss Ratio
+63.8%
+Expense Ratio
+29.0%
+Underlying Combined Ratio
+92.8%
+Tax rate
+16.9%
+15.1%
+Operating EPS
+Growth in Operating EPS
+NM
+Book value per share
+$96.39
+Share Repurchases
+$500
+Segment Underwriting Income:
+Business Insurance
+$208
+Bond & Specialty Insurance
+$217
+Personal Insurance
+($390)
+Operating ROE
+9.3%
+7.3%
+Q2 2022",catastrophe,Financial,0.0,0.0,0.4590519070625305,46.44,9.2,11.0,0.7530864197530864,81
+TRV_2Q22.txt,TRV,2022,Q2,"MarketScout Pricing Trends
+Exhibit 2 - Pricing Trends-MarketScout Commercial Lines Trends-Quarterly
+By Quarter
+Line
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Commercial Property
+2.5%
+3.5%
+4.5%
+5.3%
+4.5%
+5.0%
+7.0%
+9.0%
+8.6%
+4.3%
+Inland Marine
+2.0%
+2.0%
+3.0%
+4.0%
+4.0%
+4.6%
+5.0%
+4.3%
+Business Owners Policy
+2.0%
+2.5%
+2.5%
+3.5%
+5.0%
+4.0%
+4.6%
+5.0%
+5.7%
+4.7%
+Business Interruption
+2.0%
+3.0%
+4.0%
+4.0%
+6.0%
+5.5%
+5.7%
+6.0%
+7.0%
+14.0%
+11.6%
+Umbrella Excess
+2.0%
+2.5%
+4.5%
+5.5%
+4.5%
+4.0%
+8.5%
+12.7%
+General Liability
+D&O Liability
+1.0%
+2.0%
+4.5%
+8.3%
+2.0%
+3.0%
+3.0%
+4.3%
+4.3%
+4.3%
+5.5%
+6.0%
+6.0%
+6.3%
+6.0%
+5.3%
+7.5%
+9.3%
+11.5%
+11.7%
+11.6%
+11.0%
+11.3%
+4.3%
+Professional Liability
+2.0%
+2.5%
+4.0%
+6.0%
+6.3%
+6.7%
+7.5%
+10.3%
+Employment Practices Liability
+1.0%
+1.5%
+2.5%
+4.3%
+4.5%
+5.0%
+6.5%
+6.7%
+6.0%
+7.0%
+Commercial Auto
+7.0%
+6.0%
+6.5%
+8.0%
+7.0%
+5.3%
+8.0%
+8.3%
+8.7%
+9.0%
+Workers' Comp
+Surety
+Flat
+1.5%
+-1.0%
+-1.5%
+-1.5%
+-1.0%
+-1.3%
+0.0%
+0.5%
+0.7%
+1.7%
+1.0%
+1.0%
+2.0%
+1.0%
+1.3%
+0.5%
+1.0%
+1.7%
+1.3%
+1.0%
+",business interruption,Risk,0.0,0.0,0.0,78.99,9.09,10.6,0.4745762711864407,177
+TRV_2Q22.txt,TRV,2022,Q2,"With the aggregate reinsurance cover, TRV has accumulated $935 million toward the retention
+as of the end of the Q2.",reinsurance,Financial,0.0,0.0,0.7218599915504456,42.72,16.0,0.0,0.8,20
+TRV_2Q22.txt,TRV,2022,Q2,"Catastrophe losses totaled $746 million, above our $375 million estimate.",catastrophe,Financial,0.0,0.8423207402229309,0.0,44.41,12.0,0.0,1.0,10
+TRV_2Q22.txt,TRV,2022,Q2,"Through the
+end of the second quarter, they have accumulated $935 million of qualifying losses toward the
+aggregate retention (under its aggregate reinsurance cover TRV gets $225 million of protection as
+part of $500 million of coverage above a $2 billion retention).
+.",reinsurance,Financial,0.0,0.9382407665252686,0.0,20.39,23.47,0.0,0.7906976744186046,43
+TRV_2Q22.txt,TRV,2022,Q2,"Exhibit 9 - Underlying Combined Ratio Beats on Favorable Expense Ratio
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Reported Combined Ratio
+95.5%
+4.6%
+103.7%
+12.3%
+94.9%
+86.7%
+5.3%
+96.6%
+95.3%
+98.6%
+Catastrophe Losses, net of reinsurance
+0.4%
+11.3%
+6.3%
+6.4%
+0.4%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.4%)
+(0.0%)
+(1.9%)
+(2.4%)
+(4.3%)
+(2.4%)
+0.8%
+Underlying Combined Ratio
+91.3%
+(0.3%)
+91.4%
+(3.5%)
+91.5%
+88.7%
+89.5%
+91.4%
+(1.8%)
+(0.1%)
+91.4%
+(0.1%)
+",catastrophe,Financial,0.0,0.0,0.8573125600814819,59.84,12.48,12.2,0.7375,80
+TRV_2Q22.txt,TRV,2022,Q2,"Exhibit 9 - Underlying Combined Ratio Beats on Favorable Expense Ratio
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Reported Combined Ratio
+95.5%
+4.6%
+103.7%
+12.3%
+94.9%
+86.7%
+5.3%
+96.6%
+95.3%
+98.6%
+Catastrophe Losses, net of reinsurance
+0.4%
+11.3%
+6.3%
+6.4%
+0.4%
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.4%)
+(0.0%)
+(1.9%)
+(2.4%)
+(4.3%)
+(2.4%)
+0.8%
+Underlying Combined Ratio
+91.3%
+(0.3%)
+91.4%
+(3.5%)
+91.5%
+88.7%
+89.5%
+91.4%
+(1.8%)
+(0.1%)
+91.4%
+(0.1%)
+",reinsurance,Financial,0.0,0.0,0.8573125600814819,59.84,12.48,12.2,0.7375,80
+TRV_2Q22.txt,TRV,2022,Q2,"Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+Q1 2021
+372
+169
+394
+88)
+847
+17.5%
+(148)
+699
+$2.73
+3.5%
+4.2%
+3.1%
+2.2%
+491
+2.5%
+218
+17.3%
+3
+(11)
+701
+3.5%
+66.7%
+29.9%
+96.6%
+1.2%
+835
+11.3%
+(317)
+(4.3%)
+59.7%
+89.5%
+(1.6%)
+(1.8%)
+$112.42
+9.6%
+251.5
+254.1
+216
+356
+572
+81.8%
+29,201
+733
+(216)
+(356)
+(1,211)
+118
+28,269
+18.8%
+Q2 2021
+780
+235
+146
+(91)
+1,070
+17.9%
+(191)
+879
+$3.45
+(1,191.8%)
+(1,799,7%)
+10.9%
+9.5%
+493
+2.4%
+335
+25.4%
+1
+(11)
+818
+4.0%
+65.6%
+29.7%
+95.3%
+(8.4%)
+475
+6.3%
+(182)
+(2.4%)
+61.7%
+91.4%
+1.2%
+(0.1%)
+$116.86
+12.0%
+249.5
+253.1
+224
+400
+624
+71.0%
+28,269
+934
+224)
+(400)
+478
+99
+29,156
+20.0%
+Q3 2021
+664
+217
+-8
+(95)
+778
+15.8%
+(123)
+655
+$2.60
+(18.0%)
+(16,6%)
+7.7%
+6.1%
+497
+2.4%
+281
+19.7%
+2
+9)
+71
+3.7%
+69.2%
+29.4%
+98.6%
+3.7%
+501
+6.4%
+56
+0.8%
+62.0%
+91.4%
+(0.2%)
+(0.1%)
+$115.74
+8.9%
+246.0
+250.1
+220
+600
+320
+125.2%
+29,156
+662
+(220)
+(600)
+(603)
+79
+28,474
+20.4%
+Q4 2021
+1,068
+212
+407
+95)
+1,592
+19.0%
+(303)
+1,289
+$5.20
+1.7%
+5.8%
+9.8%
+7.3%
+508
+2.5%
+243
+17.0%
+1
+(9)
+743
+3.5%
+59.5%
+28.5%
+88.0%
+1.3%
+36
+0.4%
+(95)
+(1.2%)
+60.2%
+88.7%
+0.9%
+0.0%
+$119.77
+17.7%
+241.2
+246.4
+216
+800
+1,016
+78.8%
+28,474
+1,333
+(216)
+(800)
+27
+69
+28,887
+20.2%
+Source: Company Reports and Wells Fargo Securiites, LLC estimates
+12 | Equity Research
+2021
+2,884
+833
+939
+(369)
+4,287
+17.8%
+(765)
+3,522
+$13.94
+32.5%
+33.0%
+7.8%
+6.2%
+1,989
+2.4%
+1,077
+18.8%
+5
+(40)
+3,031
+3.7%
+65.1%
+29.4%
+94.5%
+(0.5%)
+1,847
+6.0%
+(538)
+(1.7%)
+60.9%
+90.2%
+0.0%
+(0.5%)
+$119.77
+11.8%
+241.2
+250.9
+876
+2.156
+3,032
+86.1%
+29,201
+3,662
+(876)
+(2,156)
+(1,309)
+365
+28,887
+20.2%
+Q1 2022
+809
+239
+252
+(95)
+1,205
+13.9%
+(168)
+1,037
+$4.22
+42.3%
+54.4%
+10.4%
+8.5%
+505
+2.6%
+142
+9.8%
+2
+(12)
+637
+3.0%
+62.3%
+29.0%
+91.3%
+(5.3%)
+160
+2.0%
+(153)
+(1.9%)
+62.2%
+91.2%
+2.5%
+1.7%
+$106.40
+14.9%
+240.0
+243.7
+214
+500
+714
+68.9%
+28,887
+1,018
+(214)
+(500)
+(3,795)
+135
+25,531
+22.2%
+Q2 2022
+814
+285
+-250
+(97)
+752
+16.9%
+(127)
+625
+$2.57
+(29.7%)
+(25.5%)
+10.9%
+9.2%
+512
+2.7%
+197
+13.6%
+9
+(11)
+707
+3.3%
+69.3%
+29.0%
+98.3%
+3.0%
+746
+9.0%
+(291)
+(3.5%)
+63.8%
+92.8%
+2.1%
+1.5%
+$96.39
+10.1%
+237.3
+241.1
+225
+500
+725
+116.0%
+25,531
+551
+(225)
+(500)
+(2,553)
+70
+22,874
+24.2%
+Q3 2022E
+290
+182
+-56
+(97)
+320
+11.1%
+(35)
+285
+$1.18
+58.8%)
+",catastrophe,Financial,0.0,0.0,0.0,98.21,4.06,6.9,0.7945492662473794,477
+TRV_2Q22.txt,TRV,2022,Q2,"Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.8702924847602844,0.0,0.0,21.74,24.5,0.0,0.7959183673469388,49
+TRV_2Q22.txt,TRV,2022,Q2,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_2Q22.txt,TRV,2022,Q2,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_2Q23.txt,TRV,2023,Q2,"Read thrus: (1) Continued firming in commercial pricing aided by seasonally higher
+property renewals, (2) exposure re-accelerated, which should bode well for the brokers,
+(3) personal auto severity remains stickier than expected with loss costs in the low double
+digits, and (4) TRV added to its reinsurance program and pointed to repurchases being
+lower in the second half given the outsized cat losses to start the year, which we could
+potentially see from others.
+",reinsurance,Financial,0.8630768656730652,0.0,0.0,-12.1,36.63,0.0,0.8648648648648649,74
+TRV_2Q23.txt,TRV,2023,Q2,Adds to its reinsurance coverage.,reinsurance,Financial,0.8160604238510132,0.0,0.0,49.48,18.0,0.0,1.0,5
+TRV_2Q23.txt,TRV,2023,Q2,"They also added a new hurricane cat excess of
+loss reinsurance program in their personal insurance property book that provided 50% coverage
+for the $1.0B layer above the attachment point of $1.75B. They said the margin impact of this
+new program was de-minimis and the overall impact from higher reinsurance program across all
+programs should little or no impact on expected margins given the rate they are taking (which is
+offsetting the higher costs).",reinsurance,Financial,0.7763234376907349,0.0,0.0,46.4,15.29,14.6,0.7972972972972973,74
+TRV_2Q23.txt,TRV,2023,Q2,"They also added a new hurricane cat excess of
+loss reinsurance program in their personal insurance property book that provided 50% coverage
+for the $1.0B layer above the attachment point of $1.75B. They said the margin impact of this
+new program was de-minimis and the overall impact from higher reinsurance program across all
+programs should little or no impact on expected margins given the rate they are taking (which is
+offsetting the higher costs).",hurricane,Climate,0.7763234376907349,0.0,0.0,46.4,15.29,14.6,0.7972972972972973,74
+TRV_2Q23.txt,TRV,2023,Q2,"We could see other companies pullback on repurchases in the back half to preserve
+capital, especially depending on the updated reinsurance programs at mid-year renewals where
+retentions are higher.
+.",reinsurance,Financial,0.0,0.510909378528595,0.0,25.12,21.26,0.0,0.9333333333333333,30
+TRV_2Q23.txt,TRV,2023,Q2,"TRV pointed
+to reinsurance costs being higher at mid-year renewals and highlighted a new program they added
+that will provide protection for hurricane losses for their personal insurance property boo.",reinsurance,Financial,0.9287720918655396,0.0,0.0,32.57,21.33,0.0,0.9666666666666667,30
+TRV_2Q23.txt,TRV,2023,Q2,"TRV pointed
+to reinsurance costs being higher at mid-year renewals and highlighted a new program they added
+that will provide protection for hurricane losses for their personal insurance property boo.",hurricane,Climate,0.9287720918655396,0.0,0.0,32.57,21.33,0.0,0.9666666666666667,30
+TRV_2Q23.txt,TRV,2023,Q2,"The overall higher reinsurance costs and
+the new reinsurance treaty should have little to no impact on margins as they are passing on the higher
+costs through rate.
+",reinsurance,Financial,0.0,0.0,0.8477886319160461,59.98,12.63,0.0,0.8214285714285714,28
+TRV_2Q23.txt,TRV,2023,Q2,"No change to previous guide
+Business Insurance: RRC in workers' comp was more
+negative than expected and property pricing improved from a
+price per unit of risk standpoint as terms and conditions
+improved along with pricing
+Bond & Specialty: Written premium contracted modestly in
+their international business due to tougher Y/Y compares and
+a significant decline in M&A activity
+Business Insurance: TRV saw continued acceleration of
+pricing in property given hardening reinsurance market and
+capacity constraint.
+",reinsurance,Financial,0.6759735345840454,0.0,0.0,-21.58,39.6,0.0,0.8026315789473685,76
+TRV_2Q23.txt,TRV,2023,Q2,"Alternatives: No outlook commentary
+No outlook commentary for 2023
+Personal Lines: Expect RPC to rise from these levels
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 2023 to $560 million in Q4 (with an average
+of $535 million per quarter)
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$530 million in Q2 2023 to $570 million in Q4
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+They do not expect to continue to be able to return nearly
+100% in terms of operating earnings between buybacks and
+dividends and the higher reinsurance retention does not
+impact their view of capital adequacy.
+",capital adequacy,Financial,0.8645359873771667,0.0,0.0,-43.23,48.74,0.0,0.5752212389380531,113
+TRV_2Q23.txt,TRV,2023,Q2,"Alternatives: No outlook commentary
+No outlook commentary for 2023
+Personal Lines: Expect RPC to rise from these levels
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 2023 to $560 million in Q4 (with an average
+of $535 million per quarter)
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$530 million in Q2 2023 to $570 million in Q4
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+They do not expect to continue to be able to return nearly
+100% in terms of operating earnings between buybacks and
+dividends and the higher reinsurance retention does not
+impact their view of capital adequacy.
+",reinsurance,Financial,0.8645359873771667,0.0,0.0,-43.23,48.74,0.0,0.5752212389380531,113
+TRV_2Q23.txt,TRV,2023,Q2,"Commercial Lines Insurance
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Reported Combined Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+93.7%
+2.8%
+(0,7%)
+(1,8%)
+4,1%
+98.4%
+5.3%
+101.5%
+3.4%
+92.4%
+1.2%
+(0.8%)
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+4.6%
+12.3%
+(0,4%)
+(0,0%)
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.6%
+94.9%
+94.1%
+92.1%
+91.3%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.8%)
+1.3%
+1.1%
+0.9%
+(0.3%)
+(3.5%)
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+63.0%
+1.3%
+",catastrophe,Financial,0.0,0.0,0.5393269062042236,45.76,13.39,13.3,0.8023255813953488,86
+TRV_2Q23.txt,TRV,2023,Q2,"Commercial Lines Insurance
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Reported Combined Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+93.7%
+2.8%
+(0,7%)
+(1,8%)
+4,1%
+98.4%
+5.3%
+101.5%
+3.4%
+92.4%
+1.2%
+(0.8%)
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+4.6%
+12.3%
+(0,4%)
+(0,0%)
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.6%
+94.9%
+94.1%
+92.1%
+91.3%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.8%)
+1.3%
+1.1%
+0.9%
+(0.3%)
+(3.5%)
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+63.0%
+1.3%
+",reinsurance,Financial,0.0,0.0,0.5393269062042236,45.76,13.39,13.3,0.8023255813953488,86
+TRV_2Q23.txt,TRV,2023,Q2,"Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+2022
+Q1 2023
+Q2 2023
+Q3 2023E
+Q4 2023E
+2023E
+Q1 2024E
+Q2 2024E
+Q3 2024E
+Q4 2024E
+2024E
+Q1 2025E
+Q2 2025E
+2,889
+833
+939
+(369)
+4,292
+17.8%
+(765)
+3,527
+$13.94
+32.7%
+33.0%
+7.8%
+6.3%
+811
+239
+252
+(95'
+1,207
+13.9%
+(168)
+1,039
+$4.22
+42.5%
+",catastrophe,Financial,0.0,0.0,0.7936166524887085,33.41,18.47,17.7,0.5562913907284768,151
+TRV_2Q23.txt,TRV,2023,Q2,"Target Price Valuation for TRV: $185.00 from NC
+Our price target of $185 is based on around a ~1.7x multiple of our projected 2024 book value estimate of around $111 and just over 10x
+our 2024 EPS estimate of $18.15.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and reported / underlying margins coming in better
+than expected.
+",catastrophe,Financial,0.9190360307693481,0.0,0.0,56.79,14.39,13.4,0.75,92
+TRV_2Q23.txt,TRV,2023,Q2,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+TRV_2Q23.txt,TRV,2023,Q2,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_2Q24.txt,TRV,2024,Q2,"Commercial Lines Insurance
+Equity Research
+Other Liability Occurrence-Incurred Loss Ratios
+Other liability occurrence loss picks.",loss ratios,Financial,0.0,0.0,0.7831554412841797,-28.36,19.33,0.0,0.9333333333333333,15
+TRV_2Q24.txt,TRV,2024,Q2,"Exhibit 5 - Travelers Statutory Reserve Triangles
+PYD ($ in millions) - Build / (Release)
+Long-Tail (10-yr triangles)
+Other Liability (Occurrence)
+(2)
+Commercial Auto
+2
+Private Passenger Auto Liability
+0
+Reinsurance: Non-proportional Assumed Property
+0
+Commercial Multiple Peril
+2
+Special Liability
+0
+Reinsurance: Non-proportional Assumed Liability
+Medical Professional Liability (Occurrence)
+Medical Professional Liability (Claims Made)
+International
+Reinsurance: Non-proportional Assumed Financial
+Product Liability (Claims)
+",reinsurance,Financial,0.0,0.0,0.9299853444099426,-81.48,33.77,0.0,0.6666666666666666,63
+TRV_2Q24.txt,TRV,2024,Q2,"The Travelers Companies, Inc.
+Appendix - Other Liability Occurrence Loss Ratios
+Exhibit 6 - P&C Industry Other Liability-Occurrence Loss Picks
+Loss Pick
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+2014
+61.7%
+61.1%
+62.9%
+63.1%
+65.1%
+62.0%
+64.4%
+66.7%
+66.9%
+62.9%
+66.9%
+68.4%
+68.4%
+70.4%
+2015
+61.7%
+63.7%
+63.7%
+2016
+2017
+2018
+2019
+2020
+64.0%
+64.9%
+63.1%
+67.8%
+67.1%
+64.5%
+65.6%
+67.8%
+70.0%
+66.5%
+67.1%
+68.3%
+70.2%
+72.6%
+67.4%
+66.3%
+65.8%
+66.4%
+2021
+62.8%
+62.6%
+63.4%
+2022
+62.8%
+62.7%
+2023
+65.5%
+2014
+2015
+2016
+2017
+2018
+Initial
+61.7%
+Current
+64.5%
+61.7%
+68.7%
+63.7%
+63.1%
+64.5%
+73.0%
+70.8%
+72.6%
+Change
+2.9%
+7.0%
+7.0%
+9.8%
+8.1%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 7 - AIG Other Liability-Occurrence Loss Picks
+Loss Pick
+2014
+2015
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+73.4%
+75.9%
+75.1%
+104.3%
+86.3%
+93.9%
+83.4%
+97.5%
+83.8%
+2016
+2017
+2018
+2019
+2020
+82.1%
+92.5%
+92.5%
+97.4%
+81.7%
+85.0%
+94.0%
+99.5%
+96.6%
+79.4%
+79.1%
+81.8%
+84.6%
+90.6%
+82.8%
+84.0%
+85.8%
+88.1%
+88.3%
+86.6%
+86.7%
+83.7%
+83.7%
+2021
+80.5%
+78.1%
+77.8%
+2022
+65.6%
+66.9%
+2023
+66.7%
+2014
+2015
+2016
+2017
+2018
+Initial
+Current
+73.4%
+88.0%
+75.9%
+108.0%
+82.1%
+81.7%
+93.3%
+79.4%
+98.3%
+90.9%
+Change
+14.7%
+32.1%
+11.2%
+16.6%
+11.5%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 8 - CB Other Liability-Occurrence Loss Picks
+Loss Pick
+2014
+2015
+2016
+2017
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+71.0%
+71.8%
+69.7%
+72.5%
+72.2%
+74.7%
+72.1%
+71.9%
+72.2%
+72.9%
+73.1%
+71.1%
+72.0%
+73.2%
+74.6%
+74.1%
+73.6%
+74.4%
+74.3%
+73.3%
+2018
+2019
+75.5%
+75.5%
+78.5%
+80.6%
+80.3%
+74.0%
+77.1%
+81.8%
+86.0%
+2020
+77.2%
+77.7%
+80.1%
+81.4%
+2021
+72.1%
+73.3%
+77.6%
+2022
+71.5%
+74.2%
+2023
+74.2%
+2014
+2015
+2016
+2017
+2018
+Initial
+71.0%
+Current
+66.4%
+(4.6%)
+69.7%
+69.3%
+(0.3%)
+71.1%
+71.8%
+0.7%
+74.1%
+75.5%
+74.3%
+79.5%
+Change
+0.3%
+4.0%
+12.4%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 9 - HIG Other Liability-Occurrence Loss Picks
+Loss Pick
+Year 1
+2014
+2015
+2016
+52.3%
+50.1%
+2017
+50.7%
+48.3%
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+51.3%
+46.8%
+46.7%
+51.7%
+50.2%
+49.5%
+52.9%
+49.1%
+54.0%
+58.1%
+51.3%
+53.0%
+53.4%
+55.9%
+62.5%
+60.7%
+59.9%
+60.7%
+55.6%
+55.3%
+2018
+51.7%
+52.4%
+58.0%
+59.9%
+65.1%
+2019
+54.4%
+56.7%
+58.6%
+61.7%
+2020
+56.2%
+57.2%
+57.6%
+57.0%
+2021
+53.6%
+54.3%
+54.9%
+54.6%
+2022
+53.1%
+2023
+54.3%
+2014
+2015
+2016
+2017
+2018
+Initial
+51.3%
+Current
+56.6%
+5.3%
+51.7%
+63.9%
+12.1%
+52.3%
+66.3%
+14.0%
+50.7%
+51.7%
+67.3%
+60.2%
+9.5%
+Change
+15.6%
+Source: SNL and Wells Fargo Securities, LLC
+Year 6
+64.4%
+72.6%
+2019
+",loss ratios,Financial,0.0,0.0,0.0,94.45,5.05,7.0,0.517814726840855,421
+TRV_2Q24.txt,TRV,2024,Q2,"Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+while risks to the upside include stronger premium growth, reported / underlying margins coming in better than expected, and higher-
+than-expected favorable PYD.
+Equity Research | 11
+",catastrophe,Financial,0.9323105812072754,0.0,0.0,28.17,18.09,0.0,0.8703703703703703,54
+TRV_2Q24.txt,TRV,2024,Q2,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_2Q24.txt,TRV,2024,Q2,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+Equity Research | 13
+",capital markets,Financial,0.0,0.0,0.9508383870124817,43.73,12.51,15.0,0.711864406779661,59
+TRV_3Q20.txt,TRV,2020,Q3,"TRV's results missed us on higher catastrophe
+losses and lower prior year reserve development, which offset better investment income and a better
+underlying margin, NPW rose by 2.7%, better than our estimate for a 0.6% increase, and improving from
+the 1.4% decline in Q2.",catastrophe,Financial,0.9558250308036804,0.0,0.0,60.31,9.85,10.1,0.8863636363636364,44
+TRV_3Q20.txt,TRV,2020,Q3,"Actual
+Net premiums written (in millions)
+$7,771
+Growth in net premiums written
+2.7%
+Growth in net premiums earned
+2.8%
+1.7%
+Investment income (in millions)
+$671
+Combined ratio
+94.9%
+Catastrophe losses (in millions)
+$0
+Reserve releases (in millions)
+$0
+Underlying Loss Ratio
+Expense Ratio
+Underlying combined ratio
+Tax rate
+15.9%
+16.5%
+Operating EPS
+$3.12
+Growth in operating EPS
+Book value per share
+Segment Underwriting Income (in millions):
+Business Insurance
+($152)
+Bond & Specialty Insurance
+$74
+Personal Insurance
+$363
+Operating ROE
+(0.8%)
+",catastrophe,Financial,0.0,0.0,0.6059520840644836,41.16,10.85,13.0,0.7125,80
+TRV_3Q20.txt,TRV,2020,Q3,"For
+catastrophe losses, TRV highlighted it exhausted its aggregate cover in the Q3.",catastrophe,Financial,0.0,0.9650495052337646,0.0,41.36,17.51,0.0,1.0,13
+TRV_3Q20.txt,TRV,2020,Q3,"Travelers also
+pointed to higher reinsurance costs as helping to maintain the primary pricing momentum.",reinsurance,Financial,0.9558100700378418,0.0,0.0,30.87,16.67,0.0,0.9333333333333333,15
+TRV_3Q20.txt,TRV,2020,Q3,"Travelers also pointed to higher reinsurance costs as helping
+to maintain the primary pricing momentum.",reinsurance,Financial,0.9558100700378418,0.0,0.0,30.87,16.67,0.0,0.9333333333333333,15
+TRV_3Q20.txt,TRV,2020,Q3,"-1.9%
+(4.0%)
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Renewal Premium Change
+-Renewal Rate Change
+-
+- Exposure/Other
+Source: Wells Fargo Securities, LLC and Company data
+5.2%
+6.0%
+26.2%
+4.7%
+7.4%
+8.2%
+-2.7%
+-1.9%
+20.7%
+20.2%
+Personal Auto - TRV Continues to Secure Rate, Although The Level Is Slowing
+·
+Within Personal Insurance, TRV continues to secure rate increases in auto (but the level is slowing as
+they pointed to filing for a handful of modest declines in a handful of states during the quarter).",rate increases,Financial,0.0,0.5320033431053162,0.0,36.63,23.54,0.0,0.6886792452830188,106
+TRV_3Q20.txt,TRV,2020,Q3,"·
+Catastrophe losses of $397 million included the impacts from Hurricane Laura, Tropical Storms Isaias,
+wind events that impacted the Midwest in August, and several large wildfires in the Western U.S. TRV
+noted that the increase in cat activity levels was even more pronounced than its catastrophe loss
+number suggests, as its net results in the Q3 were tempered by recoveries under its aggregate
+catastrophe XOL treaty.",catastrophe,Financial,0.0,0.48701000213623047,0.0,37.98,18.05,0.0,0.835820895522388,67
+TRV_3Q20.txt,TRV,2020,Q3,"·
+Catastrophe losses of $397 million included the impacts from Hurricane Laura, Tropical Storms Isaias,
+wind events that impacted the Midwest in August, and several large wildfires in the Western U.S. TRV
+noted that the increase in cat activity levels was even more pronounced than its catastrophe loss
+number suggests, as its net results in the Q3 were tempered by recoveries under its aggregate
+catastrophe XOL treaty.",hurricane,Climate,0.0,0.48701000213623047,0.0,37.98,18.05,0.0,0.835820895522388,67
+TRV_3Q20.txt,TRV,2020,Q3,"·
+Catastrophe losses of $397 million included the impacts from Hurricane Laura, Tropical Storms Isaias,
+wind events that impacted the Midwest in August, and several large wildfires in the Western U.S. TRV
+noted that the increase in cat activity levels was even more pronounced than its catastrophe loss
+number suggests, as its net results in the Q3 were tempered by recoveries under its aggregate
+catastrophe XOL treaty.",wildfire,Climate,0.0,0.48701000213623047,0.0,37.98,18.05,0.0,0.835820895522388,67
+TRV_3Q20.txt,TRV,2020,Q3,"TRV recognized a full recovery under that treaty in its Q3 results with $233
+million pre-tax benefiting the catastrophe line and $47 million pre-tax benefiting non-cat weather in
+its underlying results.
+.
+",catastrophe,Financial,0.9511339664459229,0.0,0.0,23.09,18.85,0.0,0.84375,32
+TRV_3Q20.txt,TRV,2020,Q3,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Reported Combined Ratio
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+3.4%
+92.4%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+10.7%
+7.5%
+5.4%
+(2.3%)
+7.3%
+3.8%
+8.8%
+2.8%
+5.3%
+",catastrophe,Financial,0.0,0.6524709463119507,0.0,45.93,18.77,0.0,0.7205882352941176,68
+TRV_3Q20.txt,TRV,2020,Q3,"Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Reported Combined Ratio
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+97.5%
+93.7%
+98.4%
+101.5%
+3.4%
+92.4%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+10.7%
+7.5%
+5.4%
+(2.3%)
+7.3%
+3.8%
+8.8%
+2.8%
+5.3%
+",reinsurance,Financial,0.0,0.6524709463119507,0.0,45.93,18.77,0.0,0.7205882352941176,68
+TRV_3Q20.txt,TRV,2020,Q3,"Risks to achieving our price target include large
+catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs, and
+a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9145407676696777,0.0,28.17,16.55,0.0,0.9230769230769231,26
+TRV_3Q20.txt,TRV,2020,Q3,"TRV: Risks to achieving our price target include large catastrophe losses, adverse reserve development, increased competition, a
+deterioration in loss costs, and a rise in D&O claims.
+",catastrophe,Financial,0.0,0.9060531854629517,0.0,35.61,16.73,0.0,0.9259259259259259,27
+TRV_3Q20.txt,TRV,2020,Q3,"Insurance
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its
+subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and
+Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA
+and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A. and
+Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9529440402984619,34.86,12.71,14.8,0.5714285714285714,98
+TRV_3Q21.txt,TRV,2021,Q3,"We have lowered our Q4 2021 cat load, as TRV should be able to get recoveries on most
+of its losses under its aggregate reinsurance cover (which has $255 million remaining).
+",reinsurance,Financial,0.0,0.8163874745368958,0.0,48.47,17.56,0.0,0.967741935483871,31
+TRV_3Q21.txt,TRV,2021,Q3,"Travelers
+has 40 planned rate increases over the next few quarters, with 2-3 rate increases
+likely this month and another handful before the end of the year (subject to approval
+from states), with the remainder expected in H1 2022.",rate increases,Financial,0.6424468159675598,0.0,0.0,40.35,19.7,0.0,0.8461538461538461,39
+TRV_3Q21.txt,TRV,2021,Q3,"In H2, TRV expects that it
+will take rate increases on about 25-30% of its book, although this does depend on
+receiving approval from regulators.",rate increases,Financial,0.7654311656951904,0.0,0.0,63.02,14.8,0.0,0.96,25
+TRV_3Q21.txt,TRV,2021,Q3,"We have lowered our
+Q4 2021 cat load, as TRV should be able to get recoveries on most of its losses under its aggregate
+reinsurance cover (which has $255 million remaining).",reinsurance,Financial,0.0,0.8163874745368958,0.0,48.47,17.56,0.0,0.967741935483871,31
+TRV_3Q21.txt,TRV,2021,Q3,"Cats were $501 million, lower than our $525 million estimate (cat and non-cat
+weather benefited from $95 million of recoveries under its aggregate reinsurance cover), as TRV saw
+lower hurricane losses than its market share implies as it pulled back from writing business along the
+coast in Louisiana.",reinsurance,Financial,0.0,0.9699371457099915,0.0,22.76,25.03,0.0,0.875,48
+TRV_3Q21.txt,TRV,2021,Q3,"Cats were $501 million, lower than our $525 million estimate (cat and non-cat
+weather benefited from $95 million of recoveries under its aggregate reinsurance cover), as TRV saw
+lower hurricane losses than its market share implies as it pulled back from writing business along the
+coast in Louisiana.",hurricane,Climate,0.0,0.9699371457099915,0.0,22.76,25.03,0.0,0.875,48
+TRV_3Q21.txt,TRV,2021,Q3,"Exhibit 1 - Consolidated Results Versus Wells Fargo Securities Estimates
+Q3 2021 Actual
+Net premiums written (in millions)
+$8,324
+Growth in net premiums written
+7.1%
+Growth in net premiums earned
+6.1%
+4.8%
+Investment income (in millions)
+$771
+$675
+Combined ratio
+98.6%
+101.3%
+Catastrophe losses (in millions)
+$501
+Reserve releases (in millions)
+$56
+$155
+Underlying Loss Ratio
+62.0%
+63.1%
+Expense Ratio
+29.4%
+29.4%
+Underlying combined ratio
+91.4%
+Tax rate
+15.8%
+Operating EPS
+$2.60
+$1.52
+Growth in operating EPS
+(16.6%)
+(51.3%)
+",catastrophe,Financial,0.540433406829834,0.0,0.0,54.18,9.12,10.5,0.759493670886076,79
+TRV_3Q21.txt,TRV,2021,Q3,"For catastrophe losses,
+TRV highlighted that as of Q3, it has incurred $95 million of recoveries under its aggregate reinsurance
+cover, leaving $255 million of recoveries in the Q4 (depending on the level of qualifying losses).",catastrophe,Financial,0.0,0.9008597731590271,0.0,18.02,22.18,0.0,0.8333333333333334,36
+TRV_3Q21.txt,TRV,2021,Q3,"For catastrophe losses,
+TRV highlighted that as of Q3, it has incurred $95 million of recoveries under its aggregate reinsurance
+cover, leaving $255 million of recoveries in the Q4 (depending on the level of qualifying losses).",reinsurance,Financial,0.0,0.9008597731590271,0.0,18.02,22.18,0.0,0.8333333333333334,36
+TRV_3Q21.txt,TRV,2021,Q3,"We have lowered our
+Q4 2021 cat load, as TRV should be able to get recoveries on most of its losses under its aggregate
+reinsurance cover (which has $255 million remaining).",reinsurance,Financial,0.0,0.8163874745368958,0.0,48.47,17.56,0.0,0.967741935483871,31
+TRV_3Q21.txt,TRV,2021,Q3,Catastrophe losses totaled $501 million and came in just below our $525 million estimate.,catastrophe,Financial,0.0,0.9561589360237122,0.0,57.27,11.31,0.0,0.9285714285714286,14
+TRV_3Q21.txt,TRV,2021,Q3,"TRV
+noted that $425 million of the $501 came from Hurricane Ida, with the rest coming from other
+severe storms.",hurricane,Climate,0.0,0.0,0.8319255113601685,68.1,10.0,0.0,0.9,20
+TRV_3Q21.txt,TRV,2021,Q3,"Assuming the industry loss of $30 billion for Ida, that would give Travelers a market
+share of about 1.4%, which is below its average hurricane share of 2.6%.
+",hurricane,Climate,0.0,0.7847225069999695,0.0,65.73,12.74,0.0,0.8928571428571429,28
+TRV_3Q21.txt,TRV,2021,Q3,"Travelers recognized a benefit of $95 million provided from its aggregate reinsurance cover (due to
+TRV's cat definition, some losses count toward the aggregate retention that the company does not
+consider cat, with $83 million benefiting cats and $12 million non-cats).",reinsurance,Financial,0.9167675375938416,0.0,0.0,12.94,26.16,0.0,0.9024390243902439,41
+TRV_3Q21.txt,TRV,2021,Q3,"Commercial Lines Insurance
+Equity Research
+Exhibit 7 - Underlying Combined Ratio-Improvement in Loss Ratio, Flat Expense Ratio
+Q3 2018
+96.6%
+Q4 2018
+97.5%
+Q1 2019
+93-7%
+Q2 2019
+98.4%
+Q3 2019
+101.5%
+Q4 2019
+92.4%
+Reported Combined Ratio
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+Underlying Combined Ratio
+93.0%
+91.1%
+Underlying (improvement) deterioration
+0.2%
+(1.3%)
+",catastrophe,Financial,0.4744081497192383,0.0,0.0,37.87,12.36,11.5,0.7931034482758621,58
+TRV_3Q21.txt,TRV,2021,Q3,"Commercial Lines Insurance
+Equity Research
+Exhibit 7 - Underlying Combined Ratio-Improvement in Loss Ratio, Flat Expense Ratio
+Q3 2018
+96.6%
+Q4 2018
+97.5%
+Q1 2019
+93-7%
+Q2 2019
+98.4%
+Q3 2019
+101.5%
+Q4 2019
+92.4%
+Reported Combined Ratio
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+Underlying Combined Ratio
+93.0%
+91.1%
+Underlying (improvement) deterioration
+0.2%
+(1.3%)
+",reinsurance,Financial,0.4744081497192383,0.0,0.0,37.87,12.36,11.5,0.7931034482758621,58
+TRV_3Q21.txt,TRV,2021,Q3,"The Travelers Companies, Inc.
+Equity Research
+Price Target Basis and Risk
+Price Target for ALL: $132.00
+Our price target of $132 represents around a 1.4x multiple on our 2022 book value per share estimate of approximately $95.
+Risk for ALL
+Risks to achieving the price target include large cat losses, regulatory constraints in key states (including around getting rate increases
+approved), reserve strengthening, irrational competition in personal lines, and deterioration in loss cost trends.",rate increases,Financial,0.0,0.8379159569740295,0.0,47.99,14.03,13.0,0.8513513513513513,74
+TRV_3Q21.txt,TRV,2021,Q3,"Risk for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+",catastrophe,Financial,0.8107604384422302,0.0,0.0,19.37,22.78,0.0,0.8372093023255814,43
+TRV_3Q21.txt,TRV,2021,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_3Q22.txt,TRV,2022,Q3,"The call focused
+on the pricing environment and expected impact of Hurricane lan, the reinsurance
+environment, and updated guidance around investment income and its expense ratio.
+",reinsurance,Financial,0.0,0.0,0.8847629427909851,19.71,19.63,0.0,0.8846153846153846,26
+TRV_3Q22.txt,TRV,2022,Q3,"The call focused
+on the pricing environment and expected impact of Hurricane lan, the reinsurance
+environment, and updated guidance around investment income and its expense ratio.
+",hurricane,Climate,0.0,0.0,0.8847629427909851,19.71,19.63,0.0,0.8846153846153846,26
+TRV_3Q22.txt,TRV,2022,Q3,· Commercial pricing should benefit from Hurricane lan.,hurricane,Climate,0.9340959787368774,0.0,0.0,30.53,19.94,0.0,1.0,8
+TRV_3Q22.txt,TRV,2022,Q3,"While TRV did see less cat loss
+than others (and what we expect for others in the Q3) and is less impacted by higher
+reinsurance costs, their commentary on the state of the P&C commercial lines market
+should be a positive for all.
+.",reinsurance,Financial,0.9198740124702454,0.0,0.0,53.21,21.85,0.0,0.8863636363636364,44
+TRV_3Q22.txt,TRV,2022,Q3,Reinsurance prices should rise.,reinsurance,Financial,0.912310779094696,0.0,0.0,75.88,11.6,0.0,1.0,4
+TRV_3Q22.txt,TRV,2022,Q3,"TRV said they expect upward pressure on reinsurance
+pricing going into 1/1 renewals as well as capital constraints.",reinsurance,Financial,0.0,0.9553473591804504,0.0,44.75,9.42,0.0,0.9444444444444444,18
+TRV_3Q22.txt,TRV,2022,Q3,"They mentioned they
+would be less impacted than others in terms of pricing pressure as they (1) do not
+buy as much reinsurance as others and (2) have a strong track record of underwriting
+performance, which should allow them to obtain the reinsurance coverage they need
+at acceptable rates.
+·",reinsurance,Financial,0.8129358887672424,0.0,0.0,38.66,24.5,0.0,0.86,50
+TRV_3Q22.txt,TRV,2022,Q3,"Exhibit 1 - Actual Results Versus Wells Fargo Securities Estimates and Prior Year Quarter
+($ in millions, except as noted)
+Net Premiums Written
+$9,198
+YoY Growth in Net Premiums Written
+10.5%
+Net Premiums Earned
+$8,615
+$8,350
+YoY Growth in Net Premiums Earned
+10.0%
+Net Investment Income (Pre-Tax)
+$593
+Combined Ratio
+98.2%
+Catastrophe Losses
+$512
+Points of Cats
+5.9%
+Reserve Development (Favorable)
+($20)
+",catastrophe,Financial,0.8960928916931152,0.0,0.0,50.84,10.8,12.0,0.7903225806451613,62
+TRV_3Q22.txt,TRV,2022,Q3,"Net-net, the biggest takes are that TRV is not seeing any change in its loss trend assumption and
+pointed to the market hardening following Hurricane lan.",hurricane,Climate,0.5553062558174133,0.0,0.0,53.55,15.02,0.0,0.9615384615384616,26
+TRV_3Q22.txt,TRV,2022,Q3,Commercial lines pricing remains strong with Hurricane lan adding to the momentum.,hurricane,Climate,0.9565948843955994,0.0,0.0,50.84,14.8,0.0,1.0,12
+TRV_3Q22.txt,TRV,2022,Q3,"Rate continues to exceed loss trends in BI and there is some upward momentum from
+Hurricane lan.",hurricane,Climate,0.9504749774932861,0.0,0.0,62.68,13.86,0.0,1.0,17
+TRV_3Q22.txt,TRV,2022,Q3,Aggregate reinsurance cover update.,reinsurance,Financial,0.0,0.0,0.9424362182617188,-8.73,21.6,0.0,1.0,4
+TRV_3Q22.txt,TRV,2022,Q3,"Expect lower returns than last year in their non-fixed income
+book in the Q4 2022 (last year saw a 17% annualized return)
+Do not expect to continue returning north of 100% (which they
+have done the last two quarters) of their operating earnings to
+shareholders'
+They mentioned they are not seeing any underlying impacts on
+their clients that would foreshadow a recession
+Expect Reinsurance pricing to be strong going into 1/1
+renewals given constrained capacity in the market and the
+losses from Hurricane lan.",reinsurance,Financial,0.0,0.8451911211013794,0.0,-13.79,38.84,0.0,0.8095238095238095,84
+TRV_3Q22.txt,TRV,2022,Q3,"Expect lower returns than last year in their non-fixed income
+book in the Q4 2022 (last year saw a 17% annualized return)
+Do not expect to continue returning north of 100% (which they
+have done the last two quarters) of their operating earnings to
+shareholders'
+They mentioned they are not seeing any underlying impacts on
+their clients that would foreshadow a recession
+Expect Reinsurance pricing to be strong going into 1/1
+renewals given constrained capacity in the market and the
+losses from Hurricane lan.",hurricane,Climate,0.0,0.8451911211013794,0.0,-13.79,38.84,0.0,0.8095238095238095,84
+TRV_3Q22.txt,TRV,2022,Q3,"They believe they can alleviate that
+uptick due to their strong underwriting and need for less
+reinsurance than peers
+Equity Research | 5
+",reinsurance,Financial,0.9504590630531311,0.0,0.0,57.61,16.07,0.0,1.0,23
+TRV_3Q22.txt,TRV,2022,Q3,"Total expenses
+33,190
+35,532
+37,189
+Pretax operating income
+3,809
+(11.3%)
+4,255
+11.7%
+4,746
+11.5%
+816
+% growth (YoY)
+Income tax expense/(benefit)
+612
+726
+After-tax core income
+3,197
+3,529
+3,930
+% growth (YoY)
+(9.3%)
+10.4%
+11.4%
+Weighted average number of diluted shares
+239
+229
+Company income tax rate (%)
+16.1%
+17.1%
+17.2%
+Participating share-based awards
+19
+16
+16
+Adjusted Operating EPS
+$13.27
+$15.35
+$17.85
+Profitability Metrics
+Loss and loss adjustment expense ratio
+Underwriting expense ratio
+66.6%
+28.6%
+66.5%
+66.1%
+28.7%
+28.6%
+95.1%
+94.7%
+5.1%
+Combined ratio
+95.1%
+Cat points on the combined ratio
+4.9%
+5.0%
+PYD points on the combined ratio
+(1.6%)
+(0.5%)
+(0.2%)
+Current accident year combined ratio
+Underlying loss ratio
+91.8%
+90.6%
+89.9%
+63.2%
+62.1%
+61.2%
+Segment Underwriting Income:
+Business Insurance
+Bond & Specialty Insurance
+Personal Insurance
+$855
+$794
+$794
+$659
+$656
+$700
+($432)
+($162)
+$211
+$87.38
+$95.30
+Book value per share
+$105.54
+ROE
+12.8%
+16.8%
+17.8%
+2022E
+37,226
+5.5%
+39,244
+5.1%
+33,186
+35,074
+7.6%
+5.7%
+2,392
+2,926
+3,100
+400
+400
+357
+327
+36,335
+38,726
+22,029
+5,430
+5,722
+4.894
+351
+32,705
+34,447
+3,631
+4,279
+(15.3%)
+577
+3,054
+(13.3%)
+16.1%
+7.8%
+15.9%
+17.2%
+17.2%
+240
+229
+$12.66
+$15.40
+65.9%
+65.7%
+29.0%
+94.9%
+4.8%
+(1.4%)
+91.6%
+62.6%
+61.3%
+$647
+$507
+$715
+$85.55
+$93.50
+$103.21
+12.3%
+17.2%
+17.6%
+2023E
+39,283
+8.7%
+5.5%
+36,275
+5.2%
+34,489
+7.9%
+(1,303)
+(1,201)
+23,250
+5,138
+5,375
+337
+337
+17.9%
+735
+3,544
+3,819
+28.8%
+94.5%
+5.0%
+90.1%
+$624
+$692
+$673
+($96)
+$82
+$368
+Source: Company reports and Wells Fargo Securities, LLC estimates
+2024E
+41,459
+(1,265)
+36,902
+5.2%
+400
+336
+40,738
+24,385
+6,028
+36,125
+4,613
+7.8%
+794
+219
+19
+219
+16
+16
+$17.35
+65.5%
+28.8%
+94.3%
+5.0%
+(0.5%)
+(0.2%)
+89.5%
+60.8%
+2022E 2023E
+2024E
+334
+5.5%
+1.0%
+38,167
+5.2%
+701
+2.2%
+0.9%
+(0.1%)
+(271)
+(69)
+(60
+430
+1.4%
+233
+56
+172
+7
+(6)
+0
+664
+496
+925
+855
+68
+228
+269
+(78)
+(83)
+(75)
+0
+15
+15
+485
+1,085
+1,064
+178
+133
+4.1%
+35
+144
+(15)
+111
+3.9%
+0.2%
+(0.1%)
+(0.0%)
+(0)
+(0)
+(0)
+0
+0
+0
+$0.61
+($0.05)
+$0.51
+0.6%
+0.8%
+0.5%
+(0.1%)
+(0.4%)
+(0.2%)
+0.2%
+0.6%
+0.5%
+0.1%
+0.0%
+0.1%
+(0.1%)
+0.0%
+(0.0%)
+0.2%
+0.5%
+0,6%
+0.7%
+0.5%
+$208
+$170
+$152
+$79
+742
+1.0%
+1.066
+997
+1.6%
+(0.1%)
+7
+1.060
+1,196
+(24)
+(6.2%)
+3.7%
+(9)
+22
+(5.7%)
+3.6%
+$8
+($17)
+($335)
+($244)
+($157)
+$1.84
+$1.79
+$2.33
+0.5%
+(0.4%)
+0.1%
+Outlook Guidance
+784
+0.0%
+1.077
+1,017
+Guided after-tax Fixed Income NII to $500MM for Q4, $515-$570MM for each quarter in 2023
+7
+0
+Expecting expense ratio under 29% for 2022
+Accumulated $1.4B towards their aggregate reinsurance cover ($2.0B) through 3Q
+0.4%
+6 | Equity Research
+",reinsurance,Financial,0.0,0.0,0.0,88.13,5.43,7.6,0.7939110070257611,427
+TRV_3Q22.txt,TRV,2022,Q3,"The Travelers Companies, Inc.
+Equity Research
+Underlying Margin Tables
+Exhibit 8 - Underlying Margin Trends
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Reported Combined Ratio
+95.5%
+4.6%
+103.7%
+12.3%
+(0.0%)
+(1.9%)
+94.9%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.4%)
+",catastrophe,Financial,0.0,0.6482334136962891,0.0,31.17,16.79,14.6,0.8666666666666667,45
+TRV_3Q22.txt,TRV,2022,Q3,"The Travelers Companies, Inc.
+Equity Research
+Underlying Margin Tables
+Exhibit 8 - Underlying Margin Trends
+Underling Margin Trends
+Q1 2020
+Q2 2020
+Q3 2020
+Reported Combined Ratio
+95.5%
+4.6%
+103.7%
+12.3%
+(0.0%)
+(1.9%)
+94.9%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+(0.4%)
+",reinsurance,Financial,0.0,0.6482334136962891,0.0,31.17,16.79,14.6,0.8666666666666667,45
+TRV_3Q22.txt,TRV,2022,Q3,"The Travelers Companies, Inc.
+Equity Research
+Exhibit 12 - TRV Consolidated Earnings Model
+($ in millions, except as noted
+Summary
+Business Insurance
+Bond & Specialty Insurance
+Personal Insurance
+Other
+Adjusted Pre-Tax Operating Income
+Tax Rate
+Taxes
+Adjusted After-Tax Operating Income
+Adjusted Operating EPS
+YoY Change in Adjusted After-Tax Operating Income
+YoY Change in Adjusted Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Fixed Maturities
+Fixed Maturities Pre-Tax Annualized Yield
+Alternatives
+Alternatives Pre-Tax Annualized Yield
+Short-Term Securities
+Invesment Expenses
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+Q1 2021
+372
+169
+394
+88)
+847
+17.5%
+(148)
+699
+$2.73
+3.5%
+4.2%
+3.1%
+2.2%
+491
+2.7%
+218
+17.3%
+3
+(11)
+701
+3.5%
+66.7%
+29.9%
+96.6%
+1.2%
+835
+11.3%
+(317)
+(4.3%)
+59.7%
+89.5%
+(1.6%)
+(1.8%)
+$112.42
+9.6%
+251.5
+254.1
+216
+356
+572
+81.8%
+29,201
+733
+(216)
+(356)
+(1,211)
+118
+28,269
+18.8%
+Q2 2021
+780
+235
+146
+(91)
+1,070
+17.9%
+(191)
+879
+$3.45
+(1,191.8%)
+(1,799,7%)
+10.9%
+9.5%
+493
+2.6%
+335
+25.4%
+1
+(11)
+818
+4.0%
+65.6%
+29.7%
+95.3%
+(8.4%)
+475
+6.3%
+(182)
+(2.4%)
+61.7%
+91.4%
+1.2%
+(0.1%)
+$116.86
+12.0%
+249.5
+253.1
+224
+400
+624
+71.0%
+28,269
+934
+(224)
+(400)
+478
+99
+29,156
+20.0%
+Q3 2021
+664
+217
+-8
+(95)
+78
+15.8%
+(123)
+655
+$2.60
+(18.0%)
+(16,6%)
+7.7%
+6.1%
+497
+2.6%
+281
+19.7%
+2
+9)
+71
+3.7%
+69.2%
+29.4%
+98.6%
+3.7%
+501
+6.4%
+56
+0.8%
+62.0%
+91.4%
+(0.2%)
+(0.1%)
+$115.74
+8.9%
+246.0
+250.1
+220
+600
+320
+125.2%
+29,156
+662
+(220)
+(600)
+(603)
+79
+28,474
+20.4%
+Q4 2021
+1,073
+212
+407
+(95)
+1,597
+19.0%
+(303)
+1,294
+$5.22
+2.0%
+6.3%
+9.8%
+7.3%
+508
+2.6%
+243
+17.0%
+1
+(9)
+743
+3.5%
+59.5%
+28.5%
+88.0%
+1.3%
+36
+0.4%
+(95)
+(1.2%)
+60.2%
+88.7%
+0.9%
+0.0%
+$119.77
+17.7%
+241.2
+246.4
+216
+800
+1,016
+78.5%
+28,474
+1,338
+(216)
+(800)
+27
+64
+28,887
+20.2%
+2021
+2,889
+833
+939
+(369)
+4,292
+17.8%
+(765)
+3,527
+$13.96
+32.7%
+33,2%
+7.8%
+6.3%
+1,989
+2.6%
+1,077
+18.8%
+5
+(40)
+3,031
+3.7%
+65.1%
+29.4%
+94.5%
+(0.5%)
+1,847
+6.0%
+(538)
+(1.7%)
+60.9%
+90.2%
+0.0%
+(0.5%)
+$119.77
+11.8%
+241.2
+250.9
+876
+2.156
+3,032
+86.0%
+29,201
+3,667
+(876)
+(2,156)
+(1,309)
+360
+28,887
+20.2%
+Source: Company Reports, Factset and Wells Fargo Securiites, LLC estimates
+Q1 2022
+811
+239
+252
+(95)
+1,207
+13.9%
+(168)
+1,039
+$4.22
+42.5%
+54.7%
+10.4%
+8.5%
+505
+2.7%
+142
+9.8%
+2
+(12)
+637
+3.0%
+62.3%
+29.0%
+91.3%
+(5.3%)
+160
+2.0%
+(153)
+(1.9%)
+62.2%
+91.2%
+2.5%
+1.7%
+$106.40
+14.9%
+240.0
+243.7
+214
+500
+714
+68.7%
+28,887
+1,020
+(214)
+(500)
+(3,795)
+133
+25,531
+22.2%
+Q2 2022
+813
+285
+(250)
+97)
+751
+16.9%
+(127)
+624
+$2.56
+(29.8%)
+(25.7%)
+10.9%
+9.2%
+512
+2.9%
+197
+13.6%
+9
+(11)
+707
+3.3%
+69.3%
+29.0%
+98.3%
+3.0%
+746
+9.0%
+(291)
+(3.5%)
+63.8%
+92.8%
+2.1%
+1.5%
+$96.39
+10.1%
+237.3
+241.1
+225
+500
+725
+116.2%
+25,531
+550
+(225)
+(500)
+(2,553)
+71
+22,874
+24.2%
+Q3 2022
+560
+304
+(147)
+(96)
+621
+15.3%
+(95)
+526
+$2.20
+(20.2%)
+(15,2%)
+10.5%
+10.0%
+534
+3.1%
+46
+3.2%
+23
+(10)
+593
+2.7%
+70.1%
+28.1%
+98.2%
+(0.4%)
+512
+5.9%
+(20)
+(0.2%)
+64.4%
+92.5%
+2.4%
+1.1%
+$84.94
+9.7%
+234.4
+237.9
+221
+500
+721
+137.1%
+22,874
+454
+(221)
+(500)
+(2,753)
+52
+19,906
+26.8%
+Q4 2022E
+340
+249
+239
+(97)
+1,230
+18.0%
+(222)
+1,008
+$4.27
+(23.0%)
+(18,2%)
+$4.13
+3.3%
+6.8%
+8.0%
+581
+3.4%
+115
+8.0%
+3
+(11)
+688
+3.1%
+64.1%
+28.2%
+92.3%
+4.3%
+230
+2.7%
+(58)
+(0.7%)
+62.1%
+90.3%
+1.9%
+1.6%
+$87.38
+19.8%
+231.7
+235.2
+218
+450
+668
+66.2%
+19,906
+1,008
+(218)
+(450)
+0
+Q
+20,246
+26.5%
+2022E
+3,024
+1,077
+94
+(385)
+3,809
+16.1%
+(612)
+3,197
+$13.27
+(11.3%)
+(4.9%)
+$12.75
+4.1%
+9.7%
+8.9%
+2,132
+3.1%
+500
+8.7%
+37
+(44)
+2,625
+3.0%
+66.6%
+28.6%
+95.1%
+0.7%
+1,648
+4.9%
+(522)
+(1.6%)
+63.2%
+91.8%
+2.3%
+1.6%
+$87.38
+12.8%
+231.7
+239.5
+878
+1.950
+2,828
+88.4%
+28,887
+3,032
+(878)
+(1,950)
+(9,101)
+256
+20,246
+26.5%
+Q1 2023E
+780
+272
+133
+(97)
+1,089
+17.4%
+(189)
+899
+$3.85
+(9.8%)
+(8.9%)
+$3.83
+0.4%
+6.6%
+9.5%
+602
+3.5%
+117
+8.0%
+3
+(11)
+711
+3.2%
+65.4%
+28.9%
+94.3%
+3.0%
+360
+4.1%
+(69)
+(0.8%)
+62.1%
+91.0%
+(0.1%)
+(0.2%)
+$89.40
+17.4%
+229.1
+232.6
+215
+450
+665
+74.0%
+20,246
+899
+(215)
+(450)
+0
+0
+20,480
+26.3%
+Q2 2023E
+725
+240
+-96
+(97)
+772
+15.4%
+(119)
+653
+$2.82
+2.8%
+10.2%
+$2.66
+6.0%
+6.6%
+7.3%
+623
+3.6%
+119
+8.0%
+3
+(12)
+734
+3.3%
+69.4%
+28.8%
+98.2%
+(0.1%)
+710
+8.0%
+(100)
+(1.1%)
+62.6%
+91.3%
+(1.3%)
+(1.5%)
+$90.35
+12.6%
+226.5
+230.1
+218
+4.50
+668
+102.2%
+20,480
+653
+(218)
+(450)
+0
+0
+20,466
+26.3%
+Q3 2023E
+789
+272
+-15
+(97)
+950
+16.4%
+(156)
+794
+$3.47
+52.9%
+57.5%
+$3.10
+12.0%
+6.6%
+6.2%
+644
+3.7%
+122
+8.0%
+3
+(12)
+757
+3.4%
+68.2%
+28.4%
+96.6%
+(1.6%)
+480
+5.2%
+10
+0.1%
+62.8%
+91.2%
+(1.6%)
+(1.3%)
+$91.93
+15.2%
+224.0
+227.6
+215
+4.50
+665
+83.8%
+20,466
+794
+(215)
+(450)
+0
+Q
+20,595
+26.1%
+Q4 2023E
+928
+258
+355
+(97)
+1,444
+18.1%
+(262)
+1,182
+$5.23
+17.4%
+22,6%
+$5.17
+1.2%
+6.5%
+6.4%
+666
+3.8%
+124
+8.0%
+3
+(12)
+781
+3.5%
+63.1%
+28.3%
+91.4%
+(0.9%)
+250
+2.7%
+(31)
+(0.3%)
+60.7%
+89.0%
+(1.4%)
+(1.3%)
+$95.30
+22.4%
+221.6
+225.1
+213
+4.50
+563
+56.1%
+20,595
+1,182
+(213)
+(450)
+0
+0
+21,114
+25.7%
+2023E
+3,223
+1,041
+376
+(386)
+4,255
+17.1%
+(726)
+3,529
+$15.35
+11.7%
+15.7%
+$14.77
+3.9%
+6.6%
+7.3%
+2,535
+3.6%
+482
+8.2%
+12
+(47)
+2,982
+3.4%
+66.5%
+28.6%
+95.1%
+(0.1%)
+1,800
+5.0%
+(189)
+(0.5%)
+62.1%
+90.6%
+(1.2%)
+(1.2%)
+$95.30
+16.8%
+221.6
+228.8
+861
+1.800
+2,661
+75.4%
+20,246
+3,529
+(861)
+(1,800)
+0
+0
+21,114
+25.7%
+Q1 2024E
+819
+273
+243
+(97)
+1,238
+17.5%
+(217)
+1,021
+$4.57
+13.7%
+18.7%
+$4.55
+0.4%
+5.5%
+5.2%
+678
+3.8%
+127
+8.0%
+3
+(13)
+795
+3.6%
+65.0%
+28.8%
+93.8%
+(0.5%)
+390
+4.2%
+(36)
+(0.4%)
+61.2%
+90.0%
+(0.9%)
+(1.0%)
+$97.99
+18.9%
+219.2
+222.7
+210
+450
+660
+64.7%
+21,114
+1,021
+(210)
+(450)
+0
+0
+21,475
+25.3%
+Q2 2024E
+709
+229
+15
+(97)
+856
+15.4%
+(132)
+724
+$3.27
+10.8%
+15.8%
+$3.04
+7.5%
+5.6%
+5.1%
+691
+3.9%
+129
+8.0%
+3
+(13)
+810
+3.6%
+69.3%
+28.8%
+98.1%
+(0.0%)
+760
+8.1%
+(44)
+(0.5%)
+61.7%
+90.5%
+(0.9%)
+(0.8%)
+$99.33
+13.3%
+216.8
+220.3
+215
+150
+665
+91.8%
+21,475
+724
+(215)
+(450)
+0
+0
+21,534
+25.3%
+Q3 2024E
+828
+270
+99
+(97)
+1,100
+16.8%
+(184)
+916
+$4.18
+15.8%
+20.5%
+$3.47
+20.5%
+5.6%
+5.1%
+704
+4.0%
+132
+8.0%
+3
+(13)
+825
+3.7%
+67.1%
+28.7%
+95.8%
+(0.7%)
+500
+5.2%
+3
+0.0%
+61.9%
+90.6%
+(0.9%)
+(0.6%)
+$101.58
+16.6%
+214.5
+218.0
+212
+4.50
+662
+72.4%
+21,534
+916
+(212)
+(450)
+0
+0
+21,787
+25.1%
+Q4 2024E
+955
+257
+437
+(97)
+1,552
+18.2%
+(283)
+1,269
+$5.86
+7.4%
+12.0%
+$5.53
+5.9%
+5.5%
+5.1%
+716
+4.0%
+134
+8.0%
+3
+(13)
+841
+3.8%
+62.8%
+28.4%
+91.3%
+(0.1%)
+270
+2.8%
+(16)
+(0.2%)
+60.2%
+88.6%
+(0.5%)
+(0.4%)
+$105.54
+22.6%
+212.2
+215.8
+210
+4.50
+660
+52.0%
+21,787
+1,269
+(210)
+(450)
+0
+Q
+22,396
+24.6%
+2024E
+3,311
+1,029
+794
+(388)
+4,746
+17.2%
+(816)
+3,930
+$17.85
+11.5%
+16.3%
+$16.44
+8.6%
+5.5%
+5.1%
+2,789
+3.9%
+522
+8.2%
+12
+(52)
+3,272
+3.7%
+66.1%
+28.7%
+94.7%
+(0.4%)
+1,920
+5.1%
+92)
+(0.2%)
+61.2%
+89.9%
+(0.8%)
+(0.7%)
+$105.54
+17.8%
+212.2
+219.2
+848
+1.800
+2,648
+67.4%
+21,114
+3,930
+(848)
+(1,800)
+0
+0
+22,396
+24.6%
+Equity Research | 11
+",catastrophe,Financial,0.0,0.0,0.0,98.82,3.61,6.6,0.6437598736176935,1266
+TRV_3Q22.txt,TRV,2022,Q3,"Target Price Valuation for TRV: $180.00 from NC
+Our price target of $180 is based on around a ~1.9x multiple of our projected 2023 book value estimate of around $95.30 and 11.7x our
+2023 EPS estimate of $15.35.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and margins coming in better than expected.
+12 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.8779277205467224,64.61,11.32,11.5,0.7476635514018691,107
+TRV_3Q22.txt,TRV,2022,Q3,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_3Q22.txt,TRV,2022,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_3Q23.txt,TRV,2023,Q3,"Read thrus: (1) still bullish on commercial lines pricing - TRV is continuing to push for
+price given weather, hardening reinsurance market, and inflationary environment; (2) in
+personal lines, the RPC should slow as more states are at rate adequate levels (though the
+Q4 underlying loss ratio should be about 6-7 points higher than other quarters of the year
+due to seasonality); (3) investment income guidance raised and initial 2024 guide laid out
+to reflect the higher interest rate environment.
+",reinsurance,Financial,0.9257113337516785,0.0,0.0,-8.72,37.68,0.0,0.8875,80
+TRV_3Q23.txt,TRV,2023,Q3,"Catastrophe losses returning to
+normalized levels
+· Share repurchase also returning to
+normalized levels in 2024
+Downside Scenario | $139.00
+.",catastrophe,Financial,0.0,0.0,0.5301366448402405,19.37,16.09,0.0,0.8095238095238095,21
+TRV_3Q23.txt,TRV,2023,Q3,"Loss cost trends continue to rise and we
+see further additions to reserves
+· Personal lines loss trends get worse,
+causing TRV to push for another round
+of elevated rate increases
+Upcoming Catalysts
++ Commercial pricing survey data from MarketScout and Ivans to
+track movement in rate across various commercial lines, including
+workers' compensation
++ Commentary from other peers around loss cost trends and rate
+adequacy in lines including commercial and personal insurance lines
+Company Description
+Travelers Companies, Inc. (TRV) is the second largest writer of
+commercial lines, the eight largest personal insurance writer,
+and biggest writer of workers' comp in the United States (as of
+2022).",rate increases,Financial,0.5142270922660828,0.0,0.0,10.24,27.34,0.0,0.6915887850467289,107
+TRV_3Q23.txt,TRV,2023,Q3,"However, given the
+uncertainty in terms of weather volatility, economic and social inflation, hardening reinsurance market
+and the geopolitical landscape TRV will continue to push for price increases to achieve its return
+objectives.
+",reinsurance,Financial,0.9449355602264404,0.0,0.0,12.6,25.32,0.0,0.9090909090909091,33
+TRV_3Q23.txt,TRV,2023,Q3,"The
+catastrophe losses this year have results in lower YTD earnings than TRV expected and as a result they
+expect the Q4 repurchases will likely be lower than the level of average quarterly repurchases in the
+first half of the year.",catastrophe,Financial,0.0,0.9726830124855042,0.0,29.86,21.28,0.0,0.8048780487804879,41
+TRV_3Q23.txt,TRV,2023,Q3,"Given the uncertainty in
+terms of weather volatility, economic and social
+inflation, hardening reinsurance market and the
+geopolitical landscape TRV will continue to push
+for price increases to achieve its return objectives.
+",reinsurance,Financial,0.9380790591239929,0.0,0.0,13.62,25.3,0.0,0.90625,32
+TRV_3Q23.txt,TRV,2023,Q3,"Business Insurance: TRV said that RPC was
+not just property and saw broad-based rate
+across all lines as all lines were up sequentially vs
+the Q1
+acceleration of pricing in property given hardening
+reinsurance market and capacity constraint.
+",reinsurance,Financial,0.9531528949737549,0.0,0.0,24.45,22.57,0.0,0.8947368421052632,38
+TRV_3Q23.txt,TRV,2023,Q3,"Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Capital Management
+They do not expect to continue to be able to
+return nearly 100% in terms of operating earnings
+between buybacks and dividends and the higher
+reinsurance retention does not impact their view
+of capital adequacy.
+",capital adequacy,Financial,0.48968228697776794,0.0,0.0,-20.23,29.12,0.0,0.631578947368421,57
+TRV_3Q23.txt,TRV,2023,Q3,"Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+Capital Management
+They do not expect to continue to be able to
+return nearly 100% in terms of operating earnings
+between buybacks and dividends and the higher
+reinsurance retention does not impact their view
+of capital adequacy.
+",reinsurance,Financial,0.48968228697776794,0.0,0.0,-20.23,29.12,0.0,0.631578947368421,57
+TRV_3Q23.txt,TRV,2023,Q3,"Commercial Lines Insurance
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Reported Combined Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+93.7%
+2.8%
+98.4%
+5.3%
+101.5%
+3.4%
+92.4%
+1.2%
+(0,8%)
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+4.6%
+12.3%
+(0,4%)
+(0,0%)
+(0,7%)
+(1,8%)
+4.1%
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.6%
+94.9%
+94.1%
+92.1%
+91.3%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.8%)
+1.3%
+1.1%
+0.9%
+(0.3%)
+(3.5%)
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+63.0%
+1.3%
+61.3%
+62.2%
+(0.7%)
+",catastrophe,Financial,0.0,0.0,0.5015616416931152,47.79,12.67,12.7,0.8241758241758241,91
+TRV_3Q23.txt,TRV,2023,Q3,"Commercial Lines Insurance
+Equity Research
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Reported Combined Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+93.7%
+2.8%
+98.4%
+5.3%
+101.5%
+3.4%
+92.4%
+1.2%
+(0,8%)
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+4.6%
+12.3%
+(0,4%)
+(0,0%)
+(0,7%)
+(1,8%)
+4.1%
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.6%
+94.9%
+94.1%
+92.1%
+91.3%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.8%)
+1.3%
+1.1%
+0.9%
+(0.3%)
+(3.5%)
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+63.0%
+1.3%
+61.3%
+62.2%
+(0.7%)
+",reinsurance,Financial,0.0,0.0,0.5015616416931152,47.79,12.67,12.7,0.8241758241758241,91
+TRV_3Q23.txt,TRV,2023,Q3,"Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+2,889
+833
+939
+(369)
+4,292
+17.8%
+(765)
+3,527
+$13.94
+32.7%
+33.0%
+7.8%
+6.3%
+1,989
+2.6%
+1,077
+18.8%
+5
+(40)
+3,031
+3.7%
+Q1 2022
+811
+239
+252
+(95)
+1,207
+13.9%
+(168)
+1,039
+$4.22
+42.5%
+54.7%
+10.4%
+8.5%
+505
+2.7%
+142
+9.8%
+2
+(12)
+637
+3.0%
+Q2 2022
+813
+285
+(250)
+(97)
+751
+16.9%
+(127)
+624
+$2.56
+(29.8%)
+(25.7%)
+10.9%
+9,2%
+512
+2.9%
+197
+13.6%
+9
+(11)
+707
+3.3%
+Q3 2022
+560
+304
+(147)
+(96)
+621
+15.3%
+(95)
+526
+$2.20
+(20.2%)
+(15.4%)
+10.5%
+10.0%
+534
+3.1%
+46
+3.2%
+23
+(10)
+593
+2.7%
+Q4 2022
+884
+275
+(85)
+(94)
+980
+17.3%
+(170)
+310
+$3.40
+(38.6%)
+(34.6%)
+10.5%
+9.8%
+562
+3.2%
+34
+2.3%
+39
+(10)
+625
+2.8%
+2022
+3,068
+1,103
+(230)
+(382)
+3,559
+15.7%
+(560)
+2,999
+$12.43
+(17.1%)
+(10.9%)
+10.6%
+9.4%
+2,113
+3.0%
+419
+7.3%
+73
+(43)
+2,562
+2.9%
+Q1 2023
+713
+248
+58
+(97)
+922
+(5.2%)
+48
+970
+$4.11
+(23.6%)
+(2.8%)
+11.5%
+10.5%
+575
+3.2%
+53
+3.6%
+47
+(12)
+663
+3.0%
+Q2 2023
+485
+289
+(685)
+(102)
+(13)
+215.4%
+28
+15
+$0.06
+(101.7%)
+(97.6%)
+14.4%
+10.8%
+591
+3.2%
+78
+5.3%
+55
+(12)
+712
+3.2%
+Q3 2023
+569
+331
+(256)
+(108)
+536
+15.5%
+83)
+453
+$1.95
+(13.7%)
+(11.5%)
+14.8%
+12,8%
+631
+3.5%
+82
+5.6%
+67
+(11)
+769
+3.4%
+Q4 2023E
+1,084
+263
+97
+(107)
+1,337
+18.8%
+(251)
+1,086
+$4.71
+36.4%
+38.5%
+$5.02
+(6.3%)
+13.2%
+12.6%
+676
+3.7%
+118
+8.0%
+57
+(13)
+837
+3.6%
+2023E
+2,851
+1,131
+(786)
+(414)
+2,782
+9.3%
+(258)
+2,524
+$10.85
+(21.8%)
+(12.7%)
+$12.09
+(10.3%)
+13.5%
+11.7%
+2,473
+3.4%
+331
+5.7%
+226
+(48)
+2,981
+3.3%
+Q1 2024E
+1,005
+260
+200
+(107)
+1,359
+18.8%
+(256)
+1,104
+$4.81
+47.4%
+17.0%
+$4.68
+2.7%
+5.5%
+11.0%
+Q2 2024E
+897
+252
+4
+(107)
+1,046
+17.7%
+(185)
+861
+$3.79
+(8,146.8%)
+6,125.1%
+$3.15
+20.5%
+5.6%
+10.2%
+705
+733
+3.8%
+4.0%
+120
+122
+8.0%
+8.0%
+50
+50
+(14)
+(14)
+862
+891
+3.7%
+3.8%
+65.1%
+29.4%
+94.5%
+(0.6%)
+1,847
+6.0%
+(538)
+(1.7%)
+60.9%
+90.3%
+0.0%
+(0.5%)
+$119.77
+11.8%
+241.2
+250.9
+876
+2.156
+3,032
+86.0%
+62.3%
+29.0%
+91.3%
+(5.4%)
+160
+2.0%
+(153)
+(1.9%)
+62.2%
+91.2%
+2.5%
+1.7%
+$106.40
+14.9%
+240.0
+243.7
+214
+559
+773
+74.4%
+69.3%
+29.0%
+98.3%
+3.0%
+746
+9.0%
+(291)
+(3.5%)
+63.8%
+92.8%
+2.1%
+1.4%
+$96.39
+10.1%
+237.3
+241.1
+225
+500
+725
+116.2%
+70.1%
+28.1%
+98.2%
+(0.4%)
+512
+5.9%
+(20)
+(0.2%)
+64.4%
+92.5%
+2.4%
+1.1%
+$84.94
+9.7%
+234.4
+237.9
+221
+501
+722
+137.3%
+66.6%
+27.9%
+94.5%
+6.5%
+459
+5.2%
+(185)
+(2.1%)
+63.5%
+91,4%
+3.3%
+2.7%
+$92.90
+15,3%
+232.1
+236.3
+221
+501
+722
+89.1%
+67.2%
+28.5%
+95.8%
+1.3%
+1,877
+5.6%
+(649)
+(1.9%)
+63.6%
+92.1%
+2.7%
+1.9%
+$92.90
+11.7%
+232.1
+239.7
+881
+2.061
+2,942
+98.1%
+66.7%
+28.7%
+95.4%
+4.1%
+535
+6.0%
+(105)
+(1.2%)
+61.8%
+90.5%
+(0.4%)
+(0.7%)
+$99.80
+17.1%
+231.0
+234.4
+218
+462
+680
+70.1%
+77.9%
+28.6%
+106.5%
+8.2%
+1,481
+16.1%
+(60)
+(0.7%)
+62.5%
+91.1%
+(1.3%)
+(1.7%)
+$95.46
+0,2%
+228.9
+229.7
+233
+400
+633
+4,220.0%
+73.0%
+28.0%
+101.0%
+2.8%
+850
+8.7%
+154
+1.6%
+62.7%
+90.7%
+(1.7%)
+(1.8%)
+$87.47
+8,5%
+228.4
+231.1
+232
+101
+333
+73.5%
+65.1%
+28.4%
+93.5%
+(1.0%)
+300
+3.0%
+(83)
+(0.8%)
+62.9%
+91.3%
+(0.6%)
+(0.1%)
+$90.71
+21.1%
+226.9
+229.8
+228
+250
+478
+44.0%
+70.7%
+28.5%
+99.2%
+3.4%
+3,166
+8.4%
+(94)
+(0.2%)
+62.6%
+91.0%
+(1.0%)
+(1.1%)
+$90.71
+11.8%
+226.9
+231.3
+911
+1.213
+2,124
+84.2%
+65.0%
+28.5%
+93.5%
+(1.9%)
+450
+4.6%
+(36)
+(0.4%)
+60.8%
+89.3%
+(1.0%)
+(1.3%)
+$93.66
+20,9%
+224.4
+228.1
+68.5%
+28.6%
+97.1%
+(9.4%)
+800
+7.9%
+(41)
+(0.4%)
+61.0%
+89.6%
+(1.5%)
+(1.5%)
+$95.54
+16.0%
+221.8
+225.8
+227
+231
+450
+450
+677
+681
+61.3%
+79.1%
+29,201
+3,667
+(876)
+(2,156)
+(1,309)
+360
+28,887
+20.2%
+28,887
+1,020
+(214)
+(559)
+(3,795)
+192
+25,531
+22.2%
+25,531
+550
+(225)
+(500)
+(2,553)
+71
+22,874
+24.2%
+22,874
+454
+(221)
+(501)
+(2,753)
+53
+19,906
+26.8%
+19,906
+819
+(221)
+(501)
+1,463
+94
+21,560
+25.3%
+28,887
+2,843
+(881)
+(2,061)
+(7,638)
+410
+21,560
+25.3%
+Source: Company Reports, Factset and Wells Fargo Securiites, LLC estimates
+10 | Equity Research
+21,560
+975
+(218)
+(462)
+1,059
+138
+23,052
+24.0%
+23,052
+(14)
+(233)
+(400)
+(623)
+73
+21,855
+25.0%
+21,855
+403
+(232)
+(101)
+(2,003)
+56
+19,978
+26.7%
+19,978
+1,086
+(228)
+(250)
+0
+2
+20,586
+26.2%
+21,560
+2,450
+(911)
+(1,213)
+(1,567)
+267
+20,586
+26.2%
+20,586
+1,104
+(227)
+(450)
+Q
+21,012
+25.8%
+21,012
+861
+(231)
+(450)
+0
+Q
+21,192
+25.6%
+Q3 2024E
+375
+289
+50
+(107)
+1,108
+17.8%
+(197)
+910
+$4.05
+106.7%
+108.1%
+$3.64
+11.3%
+5.6%
+6.5%
+760
+4.1%
+125
+8.0%
+50
+(14)
+920
+4.0%
+68.2%
+28,7%
+96.9%
+(4.1%)
+550
+5.3%
+103
+1.0%
+61.9%
+90.5%
+(0.8%)
+(0.1%)
+$97.68
+16,8%
+219.3
+223.6
+228
+450
+678
+74.5%
+21,192
+910
+(228)
+(450)
+0
+Q
+21,424
+25.4%
+Q4 2024E
+1,167
+274
+290
+(107)
+1,623
+19.1%
+(309)
+1,314
+$5.91
+21.4%
+25.6%
+$5.87
+0.7%
+5.6%
+5.8%
+785
+4.2%
+127
+8.0%
+50
+(15)
+948
+4.1%
+63.8%
+28,4%
+92.2%
+(1.3%)
+350
+3.3%
+(35)
+(0.3%)
+60.8%
+89.2%
+(2.1%)
+(2.1%)
+$101.71
+23.7%
+216.9
+221.5
+226
+450
+676
+51.4%
+21,424
+1,314
+(226)
+(450)
+0
+Q
+22,062
+24.8%
+2024E
+3,944
+1,075
+544
+(428)
+5,136
+18.4%
+(947)
+4,189
+$18.55
+84.6%
+71.0%
+$17.22
+7.7%
+5.6%
+8.3%
+2,983
+4.0%
+495
+8.2%
+200
+(57)
+3,621
+3.9%
+66.4%
+28.5%
+94.9%
+(4.3%)
+2,150
+5.3%
+(9)
+(0.0%)
+61.1%
+89.7%
+(1.5%)
+(1.4%)
+$101.71
+19.3%
+216.9
+224.8
+912
+1.800
+2,712
+64.8%
+20,586
+4,189
+(912)
+(1,800)
+0
+0
+22,062
+24.8%
+Q1 2025E
+1,101
+276
+250
+(107)
+1,520
+18.8%
+(285)
+1,235
+$5.60
+11.9%
+16.5%
+$5.60
+0.0%
+5.5%
+5.1%
+810
+4.3%
+130
+8.0%
+50
+(15)
+975
+4.1%
+64.7%
+28.6%
+93.3%
+(0.2%)
+475
+4.6%
+(21)
+(0.2%)
+60.3%
+88.9%
+(0.5%)
+(0.4%)
+$105.46
+21.6%
+214.5
+219.4
+223
+4.50
+673
+54.5%
+22,062
+1,235
+(223)
+(450)
+0
+0
+22,624
+24.4%
+Q2 2025E
+996
+274
+(3)
+(107)
+1,160
+17.6%
+(205)
+955
+$4.38
+10.9%
+15.4%
+$3.85
+13.8%
+5.6%
+5.1%
+834
+4.4%
+133
+8.0%
+50
+(16)
+1,001
+4.2%
+68.6%
+28.5%
+97.1%
+0.0%
+825
+7.7%
+(31)
+(0.3%)
+61.2%
+89.7%
+0.2%
+0.1%
+$107.93
+16.4%
+212.2
+217.3
+227
+150
+677
+70.9%
+22,624
+955
+(227)
+(450)
+0
+Q
+22,901
+24.1%
+Q3 2025E
+1,033
+310
+19
+(107)
+1,254
+17.9%
+(224)
+1,030
+$4.77
+13.2%
+17.6%
+$4.41
+8.0%
+5.6%
+5.1%
+857
+4.5%
+135
+8.0%
+50
+(16)
+1,026
+4.3%
+68.0%
+28.5%
+96.6%
+(0.3%)
+575
+5.3%
+46
+0.4%
+62.3%
+90.9%
+0.4%
+0.3%
+$110.81
+17.4%
+209.9
+215.3
+225
+4.50
+675
+65.5%
+22,901
+1,030
+(225)
+(450)
+0
+23,257
+23.9%
+Q4 2025E
+1,234
+292
+261
+(107)
+1,680
+18.8%
+(316)
+1,363
+$6.37
+3.5%
+7.7%
+$6.99
+(8.8%)
+5.6%
+5.1%
+379
+4.6%
+138
+8.0%
+50
+(17)
+1,050
+4.4%
+64.6%
+28.3%
+92.9%
+0.7%
+375
+3.4%
+(21)
+(0.2%)
+61.3%
+89.7%
+0.6%
+0.5%
+$115.33
+22,5%
+207.6
+213.3
+222
+4.50
+672
+49.3%
+23,257
+1,363
+(222)
+(450)
+0
+0
+23,947
+23.3%
+2025E
+4,363
+1,152
+527
+",catastrophe,Financial,0.0,0.0,0.0,107.79,2.88,5.4,0.7052173913043478,1150
+TRV_3Q23.txt,TRV,2023,Q3,"Implies around a ~1.65x multiple of our projected 2024 book value estimate of ~$105
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and reported / underlying margins coming in better
+than expected.
+",catastrophe,Financial,0.8885868191719055,0.0,0.0,30.03,19.77,0.0,0.8181818181818182,66
+TRV_3Q23.txt,TRV,2023,Q3,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,6.52,29.98,0.0,0.703125,64
+TRV_3Q23.txt,TRV,2023,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97
+TRV_3Q24.txt,TRV,2024,Q3,"SI) income (after-tax)
+2,661
+2,996
+3,282
+2,627
+2,922
+3,171
+34
+74
+111
+Fee income
+462
+Other income
+424
+Total revenue
+Losses and loss adjustment expenses
+Interest expense
+392
+392
+Total expenses
+40,736
+5,497
+Pretax operating income
+% growth (YoY)
+58.2%
+9.9%
+Income tax expense/(benefit)
+1,042
+4,455
+After-tax core income
+% growth (YoY)
+45.1%
+Company income tax rate (%)
+19.0%
+Share repurchases
+1,144
+Weighted average number of diluted shares
+230.9
+Participating share-based awards
+28.4
+Adjusted Operating EPS
+Profitability Metrics
+Loss and loss adjustment expense ratio
+65.8%
+66.1%
+66,7%
+Underwriting expense ratio
+Combined ratio
+94.3%
+Cat points on the combined ratio
+8.4%
+PYD points on the combined ratio
+(1.2%)
+Current accident year combined ratio
+Underlying loss ratio
+Catastrophe Losses ($)
+3,495
+Reserve Development ($)
+(511)
+",catastrophe,Financial,0.0,0.0,0.649712085723877,51.04,9.8,11.6,0.7479674796747967,123
+TRV_3Q24.txt,TRV,2024,Q3,"Given the uncertainty in
+terms of weather volatility, economic and social
+inflation, hardening reinsurance market and the
+geopolitical landscape TRV will continue to push
+for price increases to achieve its return
+objectives.
+",reinsurance,Financial,0.9380790591239929,0.0,0.0,13.62,25.3,0.0,0.90625,32
+TRV_3Q24.txt,TRV,2024,Q3,"They noted on their conference call that umbrella and auto continue to lead the way
+with rate increases well into double-digits.",rate increases,Financial,0.941328227519989,0.0,0.0,50.16,14.11,0.0,1.0,21
+TRV_3Q24.txt,TRV,2024,Q3,"Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.3%
+91.4%
+91.5%
+88.7%
+89.5%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.3%)
+61.3%
+(0.7%)
+30.0%
+0.3%
+0.8%
+(3.5%)
+60.4%
+(4.3%)
+(2.5%)
+62.2%
+(2.3%)
+(3.3%)
+59.3%
+(3.6%)
+(1.8%)
+59.7%
+(1.6%)
+1.2%
+Underlying Expense Ratio
+31.0%
+29.3%
+29.4%
+29.9%
+29.7%
+YoY Change
+(0.2%)
+0.3%
+(0.0%)
+Source: Company reports and Wells Fargo Securities, LLC
+Q2 2021
+95.3%
+91.4%
+(0.1%)
+",catastrophe,Financial,0.0,0.0,0.6373526453971863,48.81,10.74,11.6,0.8714285714285714,70
+TRV_3Q24.txt,TRV,2024,Q3,"Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.3%
+91.4%
+91.5%
+88.7%
+89.5%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.3%)
+61.3%
+(0.7%)
+30.0%
+0.3%
+0.8%
+(3.5%)
+60.4%
+(4.3%)
+(2.5%)
+62.2%
+(2.3%)
+(3.3%)
+59.3%
+(3.6%)
+(1.8%)
+59.7%
+(1.6%)
+1.2%
+Underlying Expense Ratio
+31.0%
+29.3%
+29.4%
+29.9%
+29.7%
+YoY Change
+(0.2%)
+0.3%
+(0.0%)
+Source: Company reports and Wells Fargo Securities, LLC
+Q2 2021
+95.3%
+91.4%
+(0.1%)
+",reinsurance,Financial,0.0,0.0,0.6373526453971863,48.81,10.74,11.6,0.8714285714285714,70
+TRV_3Q24.txt,TRV,2024,Q3,"The Travelers Companies, Inc.
+Equity Research
+Exhibit 12 - TRV Consolidated Earnings Model
+($ in millions, except as noted
+Summary
+Business Insurance
+Bond & Specialty Insurance
+Personal Insurance
+Other
+Adjusted Pre-Tax Operating Income
+Tax Rate
+Taxes
+Adjusted After-Tax Operating Income
+Adjusted Operating EPS
+YoY Change in Adjusted After-Tax Operating Income
+YoY Change in Adjusted Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Fixed Maturities
+Fixed Maturities Pre-Tax Annualized Yield
+Alternatives
+Alternatives Pre-Tax Annualized Yield
+Short-Term Securities
+Investment Expenses
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2022
+3,068
+1,103
+(230)
+(382)
+3,559
+15.7%
+(560)
+2,999
+$12.42
+(17.1%)
+(10.9%)
+10.6%
+9.4%
+2,113
+2.8%
+419
+7.3%
+73
+(43)
+2,562
+2.9%
+67.2%
+28.5%
+95.8%
+1.3%
+1,877
+5.6%
+(649)
+(1.9%)
+63.6%
+92.1%
+2.7%
+1.9%
+$92.90
+11.7%
+232.1
+239.7
+881
+2.061
+2,942
+98.1%
+28,887
+2,843
+(881)
+(2,061)
+(7,638)
+410
+21,560
+25.3%
+Q1 2023
+713
+248
+58
+(97)
+922
+(5.2%)
+48
+970
+$4.11
+(23.6%)
+(2.8%)
+11.5%
+10.5%
+575
+3.2%
+53
+3.6%
+47
+(12)
+663
+3.0%
+66.7%
+28.7%
+95.4%
+4.1%
+535
+6.0%
+(105)
+(1.2%)
+61.8%
+90.5%
+(0.4%)
+(0.7%)
+$99.80
+17.1%
+231.0
+234.4
+218
+462
+680
+70.1%
+21,560
+975
+(218)
+(462)
+1,059
+138
+23,052
+24.0%
+Q2 2023
+485
+289
+(685)
+(102)
+(13)
+215.4%
+28
+15
+$0.06
+(101.7%)
+(97.6%)
+14.4%
+10.8%
+591
+3.2%
+78
+5.3%
+55
+(12)
+712
+3.2%
+77.9%
+28,6%
+106.5%
+8.2%
+1,481
+16.1%
+60)
+(0.7%)
+62.5%
+91.1%
+(1.3%)
+(1.7%)
+$95.46
+0,2%
+228.9
+229.7
+233
+400
+633
+4,220.0%
+23,052
+(14)
+(233)
+(400)
+(623)
+73
+21,855
+26.9%
+Q3 2023
+569
+331
+(256)
+(108)
+536
+15.5%
+(83)
+453
+$1.95
+(13.7%)
+(11.5%)
+14.8%
+12.8%
+631
+3.5%
+82
+5.6%
+67
+(11)
+769
+3.4%
+73.0%
+28.0%
+101.0%
+2.8%
+850
+8.7%
+154
+1.6%
+62.7%
+90.7%
+(1.7%)
+(1.8%)
+$87.47
+8.5%
+228.4
+231.1
+232
+101
+333
+73.5%
+21,855
+403
+(232)
+(101)
+(2,003)
+56
+19,978
+28.7%
+Q4 2023
+1,184
+302
+652
+(107)
+2,031
+19.6%
+(397)
+1,634
+$7.01
+107.2%
+106.3%
+13.1%
+13.1%
+675
+3.6%
+40
+2.7%
+72
+778
+3.4%
+58.4%
+27.4%
+85.8%
+(8.7%)
+125
+1.3%
+(132)
+(1.3%)
+58.5%
+85.9%
+(5.0%)
+(5.5%)
+$109.19
+28.5%
+228.2
+231.1
+232
+66
+298
+18.2%
+19,978
+1,627
+(232)
+66)
+3,541
+74
+24,921
+24.4%
+2023
+2,951
+1,170
+(231)
+(414)
+3,476
+11.6%
+(404)
+3,072
+$13.13
+(2.3%)
+5.7%
+13.5%
+11.8%
+2,472
+3.2%
+253
+4.3%
+241
+(44)
+2,922
+3.2%
+69.0%
+28.2%
+97.2%
+1.4%
+2,991
+7.9%
+(143)
+(0.4%)
+61.4%
+89.6%
+(2.2%)
+(2.5%)
+$109.19
+13.0%
+228.2
+232.2
+915
+1.029
+1,944
+63.3%
+21,560
+2,991
+(915)
+(1,029)
+1,974
+341
+24,921
+24.4%
+Source: Company Reports, Factset and Wells Fargo Securiites, LLC estimates
+Q1 2024
+934
+240
+267
+(106)
+1,335
+17.9%
+(239)
+1,096
+$4.69
+44.8%
+14.1%
+9.3%
+14.4%
+692
+3.6%
+98
+6.6%
+70
+(14)
+846
+3.6%
+65.2%
+28.7%
+93.9%
+(1.5%)
+712
+7.0%
+(91)
+(0.9%)
+59.1%
+87.8%
+(2.8%)
+(2.8%)
+$109.28
+17.2%
+229.0
+232.0
+232
+388
+620
+56.6%
+24,921
+1,123
+(232)
+(388)
+(660)
+258
+25,022
+24.3%
+Q2 2024
+Q3 2024
+814
+215
+(198)
+(110)
+721
+18.9%
+(136)
+585
+$2.51
+(5,647.7%)
+4,012.1%
+860
+280
+475
+(109)
+1,506
+19.1%
+(287)
+1,219
+$5.24
+181.0%
+169.2%
+8.8%
+11.1%
+7.9%
+10.1%
+709
+749
+3.6%
+3.7%
+118
+90
+7.9%
+6.0%
+70
+77
+(12)
+(12)
+885
+904
+3.7%
+3.7%
+71.4%
+28.8%
+100.2%
+(6.3%)
+1,509
+14.7%
+(230)
+(2.2%)
+64.8%
+28.4%
+93.2%
+(7.8%)
+939
+8.8%
+(126)
+(1.2%)
+58.9%
+87.7%
+(3.6%)
+(3.4%)
+57.2%
+85,6%
+(5.5%)
+(5.1%)
+$109.08
+9.2%
+$122.00
+18.2%
+227.9
+231.5
+227.0
+230.6
+245
+243
+253
+253
+498
+496
+85.1%
+40.7%
+25,022
+534
+(245)
+(253)
+(279)
+83
+24,862
+24,862
+1,261
+(243)
+(253)
+1,977
+92
+27,696
+24.4%
+22.5%
+Q4 2024E
+1,271
+280
+493
+(109)
+1,935
+19.6%
+(380)
+1,556
+$6.75
+(4.7%)
+(3.8%)
+$6.28
+7.4%
+7.7%
+7.0%
+778
+3.7%
+121
+8.0%
+80
+(12)
+968
+3.9%
+61.4%
+28.2%
+89.6%
+3.8%
+335
+3.1%
+(64)
+(0.6%)
+58.9%
+87.0%
+0.4%
+1.1%
+$127.21
+21.7%
+226.1
+229.7
+239
+250
+489
+31.5%
+27,696
+1,556
+(239)
+(250)
+0
+Q
+28,762
+21.8%
+2024E
+3,879
+1,015
+1,037
+(434)
+5,497
+19.0%
+(1,042)
+4,455
+$19.17
+58.2%
+46.0%
+$18.00
+6.5%
+8.4%
+10.6%
+2,928
+3.4%
+427
+7.1%
+297
+(50)
+3,603
+3.8%
+65.8%
+28.5%
+94.3%
+(2.9%)
+3,495
+8.4%
+(511)
+(1.2%)
+58.6%
+87.1%
+(2.8%)
+(2.5%)
+$127.21
+16.2%
+226.1
+230.9
+959
+1.144
+2,103
+47.2%
+24,921
+4,473
+(959)
+(1,144)
+1,038
+4.33
+28,762
+21.8%
+Q1 2025E
+1,098
+266
+349
+(107)
+1,606
+19.3%
+(309)
+1,296
+$5.62
+20.3%
+20.0%
+$5.83
+(3.5%)
+6.0%
+7.2%
+800
+3.8%
+123
+8.0%
+70
+(16)
+977
+3.9%
+64.1%
+28.9%
+93.0%
+(0.9%)
+673
+6.2%
+(60)
+(0.6%)
+58.4%
+87.4%
+(0.6%)
+(0.4%)
+$130.85
+17.4%
+224.5
+229.1
+238
+150
+688
+53.1%
+28,762
+1,296
+(238)
+(450)
+0
+Q
+29,370
+21.5%
+Q2 2025E
+Q3 2025E
+870
+266
+(34)
+(111)
+991
+17.8%
+(176)
+815
+$3.54
+37.5%
+41.3%
+$3.59
+(1.3%)
+",catastrophe,Financial,0.0,0.0,0.0,89.24,4.51,7.7,0.7221570926143025,853
+TRV_3Q24.txt,TRV,2024,Q3,"We come to the 12.0x multiple using an average of the
+multiples for AIG, CB and HIG.
+· Implies around a ~1.8x multiple of our projected 2025 book value estimate of ~$140.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+while risks to the upside include stronger premium growth, reported / underlying margins coming in better than expected, and higher-
+than-expected favorable PYD.
+10 | Equity Research
+",catastrophe,Financial,0.5944040417671204,0.0,0.0,49.01,12.75,12.7,0.813953488372093,86
+TRV_3Q24.txt,TRV,2024,Q3,"Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM).",capital markets,Financial,0.0,0.0,0.9164742827415466,-1.95,29.98,0.0,0.703125,64
+TRV_3Q24.txt,TRV,2024,Q3,"About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+",capital markets,Financial,0.0,0.0,0.9530574679374695,43.53,12.26,14.6,0.5670103092783505,97

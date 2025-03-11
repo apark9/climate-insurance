@@ -1,0 +1,18 @@
+keyword,count,avg_finbert
+business interruption,13,0.3912239395655118
+capital adequacy,13,0.6510005295276642
+capital markets,83,0.0
+catastrophe,595,0.20244721259389606
+climate change,1,0.9037773013114928
+earthquake,5,0.3682715892791748
+flood,5,0.0
+hurricane,55,0.35225785753943706
+insured losses,3,0.0
+loss ratios,88,0.493543723767454
+policy cancellations,1,0.9471256136894226
+premium increases,4,0.47381560504436493
+rate increases,225,0.6576348458396064
+reinsurance,873,0.4445183102344456
+supply chain disruption,3,0.0
+underwriting losses,2,0.0
+wildfire,37,0.20288739011094375

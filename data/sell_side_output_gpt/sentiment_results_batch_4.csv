@@ -1,0 +1,2568 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+HIG_4Q20.txt,HIG,2020,Q4,"HIG has one of several companies in the spotlight with respect to Business Interruption related lawsuits,
+particularly from the restaurant business, we expect to hear continued optimism by management that these
+claims are unfounded given tight policy language.
+",business interruption,Risk,0.6544542908668518,0.0,0.0,15.99,24.67,0.0,0.9473684210526315,38
+HIG_4Q21.txt,HIG,2021,Q4,"LOBs effected
+were general liability and assumed reinsurance.",reinsurance,Financial,0.0,0.0,0.9075515866279602,-4.33,18.2,0.0,1.0,8
+HIG_4Q21.txt,HIG,2021,Q4,"That being said, before the ADC deferred gain,
+HIG recorded $144mn of total favorable PYD reflecting catastrophe exposed lines, WC and
+personal auto.
+",catastrophe,Financial,0.0,0.0,0.854698896408081,39.67,16.16,0.0,1.0,23
+HIG_4Q21.txt,HIG,2021,Q4,"+8.1%
+Note: Renewal written premium increases
+Source: Barclays Research, Company Data.
+",premium increases,Financial,0.0,0.0,0.4332549273967743,18.01,15.31,0.0,1.0,11
+HIG_4Q21.txt,HIG,2021,Q4,"Model Summary (pg. 2)
+($ in mn, except per share data)
+Capital deployment
+Assumed Repurchase Price Per Share
+Shares Repurchased (in mn)
+Dollar Amount Repurchased (in $ mn)
+Dividends Per Share
+Shareholder dividends (in $ mn)
+Total capital returned
+Total capital returned as % normalized earnings
+Other statistics
+Effective Tax Rate
+Catastrophe losses (P/T)
+Prior year reserve development (fav)/unfav (P/T)
+Shareholders' Equity and Returns on Capital
+Common stockholders' equity ex AOCI
+Total stockholders' equity ex AOCI
+Book value per diluted share ex AOCI
+Core Earnings ROE
+Underwriting Margins - P&C
+Loss ratio
+Expense ratio
+Policyholder dividends
+0.2%
+Total P&C Combined ratio
+Underlying Combined Ratio
+Catastrophe loss CR pts
+7.9%
+1,242
+(40)
+",catastrophe,Financial,0.0,0.0,0.9028630256652832,19.2,17.39,18.5,0.7387387387387387,111
+HIG_4Q22.txt,HIG,2022,Q4,"The homeowners underlying combined ratio of 68.3% was down 12.1 pts q/q. HIG is also
+pushing for rate on the homeowners side with 13% rate increases seen in 4Q22 (11% for
+FY2022).
+",rate increases,Financial,0.0,0.959571897983551,0.0,80.28,6.95,8.8,0.90625,32
+HIG_4Q22.txt,HIG,2022,Q4,"1/1 Reinsurance Renewal change
+Slightly higher retention
+Per Occurrence XOL, retention up to $150mn from $100mn.",reinsurance,Financial,0.9496318697929382,0.0,0.0,38.32,16.4,0.0,0.9375,16
+HIG_4Q22.txt,HIG,2022,Q4,"Reinsurance costs rose ~20%, or 28% on a risk-adjusted basis.",reinsurance,Financial,0.9587270021438599,0.0,0.0,69.79,12.0,0.0,1.0,10
+HIG_4Q22.txt,HIG,2022,Q4,"Model Summary (pg. 2)
+($ in mn, except per share data)
+Capital deployment
+Assumed Repurchase Price Per Share
+Shares Repurchased (in mn)
+Dollar Amount Repurchased (in $ mn)
+Dividends Per Share
+Shareholder dividends (in $ mn)
+Total capital returned
+Total capital returned as % normalized earnings
+Other statistics
+Effective Tax Rate
+Catastrophe losses (P/T)
+Prior year reserve development (fav)/unfav (P/T)
+Shareholders' Equity and Returns on Capital
+Common stockholders' equity ex AOCI
+Total stockholders' equity ex AOCI
+Book value per diluted share ex AOCI
+Core Earnings ROE
+Underwriting Margins - P&C
+Loss ratio
+Expense ratio
+Policyholder dividends
+Total P&C Combined ratio
+Underlying Combined Ratio
+Catastrophe loss CR pts
+Prior year reserve development CR pts
+Underlying P&C Combined Ratio
+Source:",catastrophe,Financial,0.0,0.0,0.9278665781021118,-11.26,28.97,0.0,0.6694915254237288,118
+HIG_4Q24.txt,HIG,2024,Q4,"Following this
+quarter's results, we look forward to the earnings call to gain some color on the reported
+underlying loss ratios given the outsized unfavorable PYD they took in some lines, specifically
+general liability.",loss ratios,Financial,0.920355498790741,0.0,0.0,20.05,19.48,0.0,0.8823529411764706,34
+HIG_4Q24.txt,HIG,2024,Q4,"While
+underlying loss ratios have improved substantially across the board, we do wonder whether this
+is a bit too aggressive given the outsized unfavorable PYD taken in general liability.
+",loss ratios,Financial,0.9322635531425476,0.0,0.0,25.12,18.5,0.0,0.9655172413793104,29
+HIG_4Q24.txt,HIG,2024,Q4,"Reported catastrophe losses also came in much better than
+expected at $80 million vs. our estimate of $220 million and the Street at $185 million.",catastrophe,Financial,0.856368899345398,0.0,0.0,58.79,11.4,0.0,0.92,25
+HIG_4Q24.txt,HIG,2024,Q4,"HIG - Summary Financial Information
+1Q24
+2Q24
+3024
+4024
+Actual
+Actual
+Actual
+Actual
+BARCe
+Summary Financial Information
+Operating income:
+Property & Casualty
+Group Benefits
+107
+Hartford Funds
+Corporate
+(25)
+(32)
+Operating income
+586
+561
+178
+41
+43
+709
+750
+Net Investment Income
+589
+1Q25E
+2Q25E
+2025E
+2026E
+2027E
+Street
+Diff
+BARCe
+Street
+Diff
+BARCe
+Street
+Diff
+BARCe
+Street
+Diff
+BARCe
+Street
+Diff
+577
+714
+154
+139
+47
+51
+(26)
+(39)
+752
+865
+722
+690
+4.7%
+674
+645
+4.6%
+2,715
+2,672
+1.6%
+2,933
+2,840
+3.3%
+3,058
+3,013
+1.5%
+109
+120
+(9.0%)
+165
+47
+46
+2.0%
+(37)
+152
+8.4%
+604
+194
+580
+4.2%
+640
+586
+587
+13.8%
+49
+48
+2.8%
+190
+2.0%
+203
+196
+9.2%
+668
+3.4%
+99
+159
+(37.8%)
+(38)
+(153)
+(155)
+(155)
+84]
+798
+5.4%
+851
+810
+5.1%
+3.359
+3.280
+2.4%
+3,621
+3,479
+4.1%
+3,671
+3,663
+0.2%
+597
+654
+Net Income
+Operating EPS
+BVPS
+BVPS xAOCI
+$62.2
+Operating ROE on BVPS xAOCI
+15.2%
+748
+733
+$2.34
+$2.50
+$2.53
+$52.1
+$53.3
+$63.8
+708
+739
+700
+5.6%
+741
+710
+4.5%
+2,992
+2,863
+4.5%
+3,146
+2,995
+5.0%
+3.313
+3,264
+1.5%
+761
+848
+$2.94
+$2.89
+86]
+763
+12.8%
+870
+794
+$2.81
+2.9%
+$2.95
+$2.88
+9.6%
+3,426
+3,128
+2.6%
+$11.71
+$11.64
+9.5%
+3,621
+3,306
+9.5%
+0.6%
+$13.18
+$12.81
+3,669
+3,731
+(1.7%)
+2.9%
+$13.98
+$13.77
+1.5%
+$58.5
+$57.2
+$59.1
+$58.9
+0.2%
+$61.0
+$60.6
+0.7%
+$64.8
+$64.6
+0.3%
+$73.3
+$72.7
+0.7%
+$82.3
+$79.3
+3.8%
+$65.4
+$67.2
+$69.2
+$66.1
+4.7%
+$71.2
+$67.8
+5.0%
+$75.2
+$71.1
+5.8%
+$84.2
+$78.7
+7.0%
+$93.8
+$88.2
+6.3%
+15.9%
+15.7%
+17.7%
+16.9%
+$ millions except per share data
+Source: Barclays Research, Bloomberg
+16.8%
+0.1pp
+16.8%
+17.2%
+(0.4pp)
+16.4%
+16.8%
+(0.3pp)
+16.5%
+17.1%
+(0.6pp)
+15.7%
+16.5%
+(0.8pp)
+31 January 2025
+2
+Barclays | The Hartford Financial Services Group, Inc.
+FIGURE 2. HIG - Summary Financial Data
+1Q24
+2Q24
+3Q24
+4Q24
+Actual Actual
+Actual
+Actual
+1Q25E
+BARCe
+Street
+Diff
+2Q25E
+BARCe
+Street
+2025E
+Diff
+BARCe
+Street
+2026E
+Diff
+BARCe
+Street
+2027E
+Diff
+BARCe
+Street
+Summary Financial Information
+Operating income:
+Property & Casualty
+586
+561
+577
+714
+Group Benefits
+107
+178
+Hartford Funds
+41
+Corporate
+Operating income
+154
+139
+109
+722
+690
+120
+4.7%
+(9.0%)
+674
+645
+4.6%
+165
+152
+2,715
+8.4%
+604
+2,672
+580
+4.2%
+640
+1.6%
+2,933
+2,840
+Diff
+3.3%
+3,058
+586
+3,013
+1.5%
+9.2%
+668
+43
+47
+51
+47
+46
+2.0%
+49
+48
+2.8%
+194
+190
+2.0%
+203
+(25)
+(32)
+709
+750
+(26)
+(39)
+752
+865
+(37)
+841
+798
+5.4%
+(38)
+851
+810
+(153)
+5.1%
+3,359
+3,280
+2.4%
+196
+3.4%
+(155)
+3,621
+3,479
+587
+13.8%
+99
+159
+(37.8%)
+(155)
+4.1%
+3,671
+3,663
+0.2%
+Net Investment Income
+589
+597
+654
+708
+739
+700
+5.6%
+741
+710
+4.5%
+2,992
+2,863
+4.5%
+3,146
+2,995
+5.0%
+Net Income
+Operating EPS
+748
+733
+761
+848
+861
+$2.94
+$2.89
+$2.34
+$2.50
+$2.53
+763
+$2.81
+12.8%
+2.9%
+$2.95
+$2.88
+870
+794
+9.6%
+3,426
+3,128
+2.6%
+$11.71
+$11.64
+0.6%
+9.5%
+3,621
+3,306
+9.5%
+$13.18
+$12.81
+2.9%
+3,313
+3.264
+1.5%
+(1.7%)
+3,669
+3,731
+$13.98
+$13.77
+BVPS
+BVPS xAOCI
+$52.1
+$53.3
+$58.5
+$57.2
+$59.1
+$58.9
+$62.2
+$63.8
+$65.4
+$67.2
+$69.2
+0.2%
+$61.0
+$66.1
+4.7%
+$71.2
+$60.6
+0.7%
+$64.8
+$67.8
+5.0%
+$75.2
+$64.6
+0.3%
+$73.3
+$71.1
+5.8%
+$84.2
+$72.7
+0.7%
+$78.7
+7.0%
+Operating ROE on BVPS xAOCI
+15.2%
+15.9%
+15.7%
+17.7%
+16.9%
+16.8%
+0.1pp
+16.8%
+17.2%
+(0.4pp)
+16.4%
+16.8%
+(0.3pp)
+16.5%
+17.1%
+(0.6pp)
+$ in millions except for share data
+Source: Barclays Research, Bloomberg
+FIGURE 3. HIG - P&C Underwriting
+P&C Underwriting
+Net premiums written
+% Growth YoY
+Net premiums earned
+3,861
+% Growth YoY
+Loss Ratio
+Exense Ratio
+Combined Ratio
+1Q24
+2Q24
+3Q24
+4Q24
+Actual
+Actual
+Actual
+Actual
+BARCe
+4,206
+4,453
+4,245
+4,045
+4,545
+9.1%
+11.9%
+9.6%
+7.3%
+8.1%
+3,970
+4,134
+4,209
+4,225
+10.2%
+8.9%
+10.7%
+9.6%
+9.4%
+62.3%
+63.3%
+64.4%
+61.9%
+61.5%
+1Q25E
+Street
+Diff
+4,526
+0.4%
+4,803
+7.6%
+0.5pp
+7.9%
+4,308
+(1.9%)
+4,349
+11.6%
+(2.2pp)
+62.4%
+(0.9pp)
+2Q25E
+BARCe
+Street
+Diff
+0.5%
+9.5%
+4,779
+7.3%
+0.5pp
+4,390
+10.6%
+(0.9%)
+17,582
+(1.0pp)
+63.1%
+64.1%
+(1.0pp)
+2025E
+BARCe
+Street
+Diff
+18,289
+18,257
+0.2%
+7.9%
+7.7%
+0.2pp
+7.2%
+(0.6%)
+18,904
+(0.7pp)
+17,697
+8.7%
+9.4%
+63.2%
+63.6%
+(0.4pp)
+30.6%
+29.9%
+0.7pp
+30.6%
+29.9%
+2026E
+BARCe
+Street
+19,604
+19,435
+6.5%
+18,882
+7.5%
+6.7%
+Diff
+0.9%
+0.7pp
+0.1%
+20,250
+0.8pp
+63.3%
+63.6%
+(0.3pp)
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+89.8%
+Catastrophes ($mn)
+161
+Catastrophes (pts)
+4.2%
+Reserve development ($m)
+Reserve development (pts)
+(1.5%)
+30.2%
+30.1%
+29.9%
+30.0%
+30.5%
+92.5%
+93.4%
+94.2%
+91.9%
+92.0%
+59.6%
+59.1%
+59.6%
+57.6%
+58.4%
+89.2%
+89.5%
+87.6%
+88.9%
+280
+7.1%
+(56)
+(115)
+(2.9%)
+247
+6.0%
+(50)
+(1.2%)
+30.5%
+0.0pp
+92.5%
+(0.5pp)
+93.7%
+58.5%
+(0.1pp)
+89.0%
+(0.1pp)
+80
+162
+1.9%
+3.8%
+101
+(32)
+2.4%
+(0.8%)
+190
+(14.7%)
+4.4%
+(0.6pp)
+5.4%
+(21)
+54.5%
+(33
+30.6%
+29.9%
+0.6pp
+94.0%
+(0.3pp)
+58.5%
+58.1%
+89.1%
+88.0%
+1.0pp
+0.4pp
+233
+262
+(11.2%)
+6.0%
+(0.6pp)
+4.4%
+(19)
+69.3%
+33
+(0.4%)
+(0.3pp)
+0.2%
+93.8%
+93.5%
+0.3pp
+94.0%
+58.6%
+58.7%
+(0.1pp)
+89.2%
+88.6%
+0.6pp
+780
+871
+(10.3%)
+4.9%
+(0.5pp)
+52
+(36.1%)
+0.3%
+(0.1pp)
+93.5%
+0.4pp
+58.7%
+58.7%
+89.3%
+88.6%
+838
+929
+4.4%
+4.9%
+0.7pp
+0.0pp
+0.7pp
+(9.8%)
+(0.5pp)
+35
+64
+(45.4%)
+62
+$ millions except per share data
+Source: Barclays Research, Bloomberg
+(0.5%)
+(0.3pp)
+(0.8%)
+0.2%
+0.3%
+(0.2pp)
+0.3%
+1.5%
+$82.3
+$93.8
+$79.3
+3.8%
+$88.2
+6.3%
+15.7%
+16.5%
+(0.8pp
+2027E
+BARCe
+Street
+Diff
+20,988
+20,424
+2.8%
+7.1%
+5.1%
+2.0pp
+19,839
+7.1%
+5.1%
+2.1%
+2.1pp
+63.6%
+64.2%
+(0.5pp)
+30.7%
+30.6%
+0.1pp
+94.3%
+94.7%
+(0.4pp)
+58.9%
+59.5%
+(0.5pp)
+89.6%
+90.0%
+(0.4pp)
+896
+936
+(4.2%)
+4.4%
+4.7%
+(0.3pp)
+98
+(37.4%)
+0.5%
+(0.2pp)
+31 January 2025
+3
+Barclays | The Hartford Financial Services Group, Inc.
+FIGURE 4. HIG - Segment Details
+Segment Details
+Net premiums written:
+Commercial Lines
+Personal Lines
+Personal Lines - Auo
+Personal Lines - Home
+244
+NPW growth:
+Commercial Lines
+Personal Lines
+Personal Lines - Auo
+Personal Lines - Home
+Commercial Lines:
+",catastrophe,Financial,0.0,0.0,0.0,96.79,4.05,7.5,0.486228813559322,944
+HIG_4Q24.txt,HIG,2024,Q4,"Loss Ratio
+Expense Ratio
+Combined Ratio
+Combined Ratio ex Cats & PYD
+88.1%
+87.1%
+Catastrophes
+Personal Lines:
+",catastrophe,Financial,0.0,0.0,0.9320962429046631,54.9,8.2,0.0,0.7647058823529411,17
+HIG_4Q24.txt,HIG,2024,Q4,"Loss Ratio
+Expense Ratio
+Combined Ratio
+Combined Ratio ex Cats & PYD
+96.1%
+Catastrophes
+1Q24
+2Q24
+3Q24
+4Q24
+",catastrophe,Financial,0.0,0.0,0.9288933277130127,71.31,5.75,0.0,0.7777777777777778,18
+HIG_4Q24.txt,HIG,2024,Q4,"The
+primary adjustments were related to our loss ratios assumptions in the Personal Lines segment
+to reflect strong underlying margins while the company sees the impact of increased pricing
+flow through to higher earnings, in addition to immaterial changes.",loss ratios,Financial,0.8961002826690674,0.0,0.0,14.97,23.81,0.0,0.8461538461538461,39
+KNSL_1Q22.txt,KNSL,2022,Q1,"Within the loss
+ratio attritional losses were higher (62.0% vs. 61.0%E), but lower
+catastrophes (de minimis vs. 2.0%E) and higher reserve releases (PYD of -
+4.7% vs. - 3.0%E) were a larger offset.",catastrophe,Financial,0.6993384957313538,0.0,0.0,72.02,6.99,8.1,0.8484848484848485,33
+KNSL_1Q22.txt,KNSL,2022,Q1,"7
+Investment Thesis, Valuation and Risks
+8
+Index of Tables
+Table 1: 1Q22 Earnings: Actual versus Expected
+5
+Table 2: Historical Operating Performance
+6
+Index of Figures
+Figure 1: Historical AY Loss Ratio Trends
+6
+7
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+7
+3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.9458847045898438,-16.5,35.43,0.0,0.7142857142857143,70
+KNSL_1Q22.txt,KNSL,2022,Q1,"Catastrophe losses
+2.0%
+Unfavorable (favorable) PYD
+-3.0%
+60.0%
+57.4%
+62.0%
+105 bps
+0.0%
+-197 bps
+-4.7%
+-167 bps
+-259 bps
+Expense ratio
+21.2%
+Combined ratio
+81.2%
+79.0%
+21.6%
+39 bps
+-221 bps
+AY combined ratio ex. cats
+82.2%
+83.6%
+143 bps
+Summary Income Statement
+Underwriting income
+33.2
+37.5
+13.1%
+Net investment income
+8.8
+9.1
+3.5%
+Taxes and other
+(8.3)
+(8.9)
+7.5%
+Operating income
+33.7
+37.7
+11.9%
+Operating EPS
+$1.45
+$1.63
+12.4%
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.0,0.8137234449386597,73.85,6.5,8.1,0.8461538461538461,78
+KNSL_1Q22.txt,KNSL,2022,Q1,"Catastrophe losses
+0.0%
+Unfavorable (favorable) PYD
+",catastrophe,Financial,0.0,0.0,0.4122231602668762,9.21,21.2,0.0,1.0,6
+KNSL_1Q22.txt,KNSL,2022,Q1,"J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+28 April 2022
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+12.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+L
+1Q18 2Q18",catastrophe,Financial,0.0,0.0,0.8927823305130005,58.48,10.61,13.0,0.7924528301886793,53
+KNSL_1Q22.txt,KNSL,2022,Q1,"This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia)
+Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued
+by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_1Q23.txt,KNSL,2023,Q1,"Eventual Turn in Pricing Cycle is a Risk
+The P&C industry is well into the current hard market and we expect overall price hikes
+to moderate as re/insurers re-position themselves for growth (property and catastrophe
+coverage likely to be the exception in the near term).",catastrophe,Financial,0.8595208525657654,0.0,0.0,25.8,26.0,0.0,0.8666666666666667,45
+KNSL_1Q23.txt,KNSL,2023,Q1,"Table 1: 1Q23 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+1Q23E
+Actual
+1Q23
+Underwriting Results
+Net premiums written ($)
+273.0
+299.0
+9.5%
+Net premiums earned ($)
+242.0
+237.2
+-2.0%
+Loss ratio
+58.8%
+AY loss ratio
+61.0%
+Catastrophe losses
+0.8%
+Unfavorable (favorable) PYD
+-3.0%
+-3.8%
+-81 bps
+58.6%
+61.8%
+0.7%
+Expense ratio
+20.2%
+Combined ratio
+79.0%
+19.6%
+-57 bps
+78.3%
+-75 bps
+AY combined ratio ex. cats
+81.2%
+81.4%
+Summary Income Statement
+Underwriting income
+50.8
+Net investment income
+18.6
+Taxes and other
+(15.5)
+(15.5)
+($0.00)
+Operating income
+54.0
+56.8
+$0.12
+51.6
+$0.03
+20.7
+$0.09
+Average diluted shares
+23.2
+23.3
+($0.01)
+Operating EPS
+$2.32
+$2.44
+$0.11
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.8088557124137878,0.0,65.18,7.16,8.8,0.8173913043478261,115
+KNSL_1Q23.txt,KNSL,2023,Q1,"Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+Table 2: 1Q23 Earnings: Actual versus JPM Estimates and Consensus
+$ in millions, %, and bps
+Actual
+JPM
+%
+Consensus
+%
+Net premiums written
+299.0
+273.0
+Net premiums earned
+237.2
+242.0
+9.5%
+-2.0%
+267.0
+234.9
+12.0%
+1.0%
+Loss ratio
+58.6%
+Expense ratio
+19.6%
+Combined ratio
+78.3%
+58.8%
+20.2%
+79.0%
+-17 bps
+57.7%
+-57 bps
+-75 bps
+20.1%
+78.5%
+92 bps
+-50 bps
+-23 bps
+Operating EPS
+$2.44
+$2.32
+4.9%
+$2.22
+10.0%
+Source: Company reports, J.P. Morgan estimates, and Bloomberg Finance L.P.
+Table 3: Historical and Operating Performance
+$ in millions and %
+2017
+2018
+2019
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+Premium Trends
+Gross written premiums
+% ceded
+Net written premiums
+189.5
+% growth y/y
+Net earned premiums
+% growth y/y
+Underwriting Results
+AY loss ratio
+Catastrophe losses
+5.0%
+Unfavorable (favorable) PYD
+Loss ratio
+Expense ratio
+Combined ratio
+AY combined ratio ex. cats
+Investment Results
+Net investment income
+10.6
+% growth y/y
+Duration
+Gross yield ex. cash (YTD)
+Cash and invested assets
+% growth y/y
+16.8%
+223.2
+15.1%
+13.3%
+176.1
+31.6%
+60.2%
+60.9%
+62.2%
+61.5%
+-6.4%
+58.9%
+25.1%
+84.0%
+85.3%
+41.2%
+3.9
+2.4%
+561.1
+275.5
+14.5%
+235.6
+24.4%
+212.7
+20.8%
+2.6%
+-3.3%
+60.2%
+25.1%
+24.8%
+85.3%
+86.0%
+15.7
+48.4%
+3.9
+3.0%
+643.1
+14.6%
+41.2%
+43.1%
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.0,0.0,68.16,7.72,10.4,0.7112068965517241,232
+KNSL_1Q23.txt,KNSL,2023,Q1,"Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+10.0%
+8.0%
+6.0%
+6.0%
+4.0%
+4.0%
+2.0%
+0.0%
+2.0%
+2Q18
+4Q18
+2Q19
+4Q19
+2Q20
+4Q20
+",catastrophe,Financial,0.0,0.0,0.864717423915863,64.54,13.66,0.0,0.6326530612244898,49
+KNSL_1Q23.txt,KNSL,2023,Q1,"This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-
+X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued by the Securities
+Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,14.97,22.78,0.0,0.7948717948717948,39
+KNSL_1Q24.txt,KNSL,2024,Q1,Catastrophe losses were in-line (0.2% vs. 0.2%E).,catastrophe,Financial,0.0,0.9187472462654114,0.0,64.37,8.51,0.0,1.0,7
+KNSL_1Q24.txt,KNSL,2024,Q1,"We had been assuming AY loss ratios in 2024 and
+subsequent years that are flat with 57.4% in 2023, which we think is reasonably
+conservative given the positive pricing spread Kinsale continues to generate
+J.P Morgan
+North America Equity Research
+25 April 2024
+Neutral
+KNSL, KNSL US
+Price (25 Apr 24):$453.09
+Price Target (Dec-24):$420.00
+Insurance - Life & Nonlife
+Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+Jimmy S. Bhullar, CFA
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+J.P. Morgan Securities LLC
+Quarterly Forecasts (FYE Dec)
+",loss ratios,Financial,0.0,0.0,0.9120143055915833,62.54,9.6,10.3,0.9259259259259259,81
+KNSL_1Q24.txt,KNSL,2024,Q1,"Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+25 April 2024
+J.P.Morgan
+and the increasing share of property business (which has lower loss ratios) in its book.
+",loss ratios,Financial,0.0,0.0,0.719994843006134,52.87,9.33,11.2,1.0,30
+KNSL_1Q24.txt,KNSL,2024,Q1,"(3) Premium retention: KNSL has updated its
+reinsurance program because of its changing business mix and is retaining less premium
+than previously.",reinsurance,Financial,0.7516381144523621,0.0,0.0,23.77,19.71,0.0,0.9545454545454546,22
+KNSL_1Q24.txt,KNSL,2024,Q1,"Despite more stable conditions in 2024 (i.e. less of a positive delta than in
+2023), the property market remains compelling and KNSL intends to grow the relative
+size of this business (~30% of premiums in 2023) while controlling its exposure to
+property catastrophe risk.",catastrophe,Financial,0.908845841884613,0.0,0.0,49.15,16.07,0.0,0.8409090909090909,44
+KNSL_1Q24.txt,KNSL,2024,Q1,"Table 1: 1Q24 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+1Q24E
+Actual
+1Q24
+Actual v.
+Expected
+Underwriting Results
+Net premiums written ($)
+358.8
+351.1
+-2.2%
+Net premiums earned ($)
+324.8
+309,5
+-4.7%
+Loss ratio
+AY loss ratio
+Catastrophe losses
+0.2%
+Unfavorable (favorable) PYD
+-2.5%
+-2.7%
+-16 bps
+57.0%
+59.3%
+58.8%
+181 bps
+61.3%
+199 bps
+0.2%
+-2 bps
+Expense ratio
+Combined ratio
+20.6%
+77.6%
+79.5% 191 bps
+20.7%
+10 bps
+AY combined ratio ex. cats
+79.9%
+82.0% 209 bps
+Summary Income Statement
+Underwriting income
+74.5
+65.1
+Net premiums earned
+Attritional losses
+Catastrophe losses
+(0.7)
+(0.6)
+$0.00
+(Unfavorable) development
+8.3
+8.4
+$0.01
+Fee income
+7.7
+8.1
+$0.02
+Other expenses
+(68.5)
+(65.8)
+$0.12
+324.8
+309.5
+($0.65)
+(197.2)
+(194.7)
+($0.40)
+$0.11
+Net investment income
+33.6
+32.9
+($0.03)
+Taxes and other
+(22.7)
+(16.4)
+$0.27
+Operating income
+85.3
+81.6
+($0.16)
+",catastrophe,Financial,0.0,0.0,0.6880089640617371,64.57,6.57,9.0,0.762589928057554,139
+KNSL_1Q24.txt,KNSL,2024,Q1,"Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+25 April 2024
+J.P.Morgan
+Table 3: Historical Operating Performance
+$ in millions and %
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+2Q23
+3Q23
+4Q23
+2023
+1Q24
+Premium Trends
+Gross written premiums
+168.9
+% ceded
+Net written premiums
+% growth y/y
+Net earned premiums
+123.0
+% growth y/y
+Underwriting Results
+AY loss ratio
+62.8%
+Catastrophe losses
+0.1%
+Unfavorable (favorable) PYD
+-5.7%
+",catastrophe,Financial,0.0,0.47532618045806885,0.0,52.87,10.29,11.5,0.88,75
+KNSL_1Q24.txt,KNSL,2024,Q1,"J.P.Morgan
+Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+25 April 2024
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+6.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2Q18
+4Q18
+4.0%
+2.0%
+2Q19
+4Q19
+2Q20
+4Q20
+2Q21
+4Q21
+2Q22
+4Q22
+2Q23
+-2.0%
+Cat losses
+Favorable (unfavorable) PYD
+4Q23
+0.0%
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Cat losses
+Favorable (unfavorable) PYD
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.0,0.7779030799865723,66.03,9.65,12.3,0.7346938775510204,98
+KNSL_1Q24.txt,KNSL,2024,Q1,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_2Q22.txt,KNSL,2022,Q2,"Catastrophe losses (none vs. 1.0%E) and
+reserve releases (-5.0% vs. - 3.5%E) were more favorable than our
+assumptions.",catastrophe,Financial,0.8606497645378113,0.0,0.0,65.69,11.69,9.7,0.9444444444444444,18
+KNSL_2Q22.txt,KNSL,2022,Q2,"Actual versus Expected
+5
+Table 2: Historical Operating Performance
+6
+Table 3: KNSL's Historical New Business Metrics
+8
+Index of Figures
+Figure 1: Historical AY Loss Ratio Trends
+6
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+7
+7
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+Figure 4: Year-on-Year % Change in Written Premiums per Policy.
+",catastrophe,Financial,0.0,0.0,0.8295753002166748,-10.75,29.54,0.0,0.7017543859649122,57
+KNSL_2Q22.txt,KNSL,2022,Q2,"Table 1: 2Q22 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+2Q22E
+Actual
+2Q22
+Actual v.
+Expected
+Underwriting Results
+Net premiums written ($)
+221.6
+242.3
+9.4%
+Net premiums earned ($)
+190.8
+190.2
+-0.3%
+Loss ratio
+Unfavorable (favorable) PYD
+-3.5%
+58.5%
+56.3% -221 bps
+AY loss ratio
+61.0%
+61.3%
+28 bps
+Catastrophe losses
+1.0%
+0.0%
+-99 bps
+-5.0%
+-150 bps
+Expense ratio
+21.5%
+Combined ratio
+80.0%
+76.8% -322 bps
+20.5%
+-101 bps
+AY combined ratio ex. cats
+82.5%
+81.8%
+-72 bps
+Summary Income Statement
+Underwriting income
+38.2
+44.1
+$0.26
+Net investment income
+9.5
+10.6
+$0.05
+Taxes and other
+(9.3)
+(10.3)
+($0.04)
+Operating income
+38.4
+44.4
+$0.26
+Average diluted shares
+23.1
+23.1
+$0.00
+Operating EPS
+$1.66
+Source: Company reports and J.P. Morgan estimates.
+$1.92
+$0.26
+5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.8691990375518799,64.07,7.52,9.4,0.7972027972027972,143
+KNSL_2Q22.txt,KNSL,2022,Q2,"Catastrophe losses
+0.0%
+Unfavorable (favorable) PYD
+",catastrophe,Financial,0.0,0.0,0.4122231602668762,9.21,21.2,0.0,1.0,6
+KNSL_2Q22.txt,KNSL,2022,Q2,"J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+28 July 2022
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+12.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2Q18",catastrophe,Financial,0.0,0.0,0.8904683589935303,46.47,12.23,14.6,0.7843137254901961,51
+KNSL_2Q22.txt,KNSL,2022,Q2,"This material is issued and distributed in
+Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia Berhad and
+holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_2Q23.txt,KNSL,2023,Q2,"The loss ratio would have been 57.2% (vs.
+58.9%E), driven by lower attritional losses, lower catastrophes, and higher
+favorable development.",catastrophe,Financial,0.915143609046936,0.0,0.0,44.41,12.0,0.0,0.95,20
+KNSL_2Q23.txt,KNSL,2023,Q2,"The property insurance market is particularly compelling,
+and KNSL intends to grow the relative size of this business (25% of premiums in 1Q23,
+20% of premiums in 2022) while controlling its exposure to property catastrophe risk.
+",catastrophe,Financial,0.8939924240112305,0.0,0.0,26.48,23.29,0.0,0.8333333333333334,36
+KNSL_2Q23.txt,KNSL,2023,Q2,"Eventual Turn in Pricing Cycle is a Risk
+The P&C industry is well into the current hard market and we expect overall price hikes
+to eventually moderate as re/insurers re-position themselves for growth (property and
+catastrophe coverage likely to be the exception in the near term).",catastrophe,Financial,0.8889744877815247,0.0,0.0,16.33,27.1,0.0,0.8695652173913043,46
+KNSL_2Q23.txt,KNSL,2023,Q2,"Table 1: 2Q23 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+2Q23E
+Actual
+2Q23
+Underwriting Results
+Net premiums written ($)
+324.8
+365.0
+12.4%
+Net premiums earned ($)
+268.8
+257.0
+-4.4%
+Loss ratio
+58.9%
+AY loss ratio
+61.0%
+Catastrophe losses
+0.9%
+Unfavorable (favorable) PYD
+-3.0%
+-3.9",catastrophe,Financial,0.0,0.9047350287437439,0.0,55.61,9.28,10.1,0.875,48
+KNSL_2Q23.txt,KNSL,2023,Q2,"%
+-95 bps
+55.7%
+59.1%
+0.5%
+-35 bps
+Expense ratio
+20.2%
+21.0%
+81 bps
+Combined ratio
+79.1%
+76.7%
+AY combined ratio ex. cats
+81.2%
+80.1%
+-110 bps
+Actual v.
+Expected
+-321 bps
+-191 bps
+-240 bps
+Summary Income Statement
+Underwriting income
+56.2
+Net premiums earned
+268.8
+257.0
+($0.50)
+Attritional losses
+(164.0)
+(156.0)
+$0.34
+Catastrophe losses
+(2.4)
+(1.5)
+$0.04
+(Unfavorable) development
+8.1
+10.4
+Commissions
+(32.3)
+(27.1)
+",catastrophe,Financial,0.0,0.8757491111755371,0.0,74.05,8.57,8.6,0.8615384615384616,65
+KNSL_2Q23.txt,KNSL,2023,Q2,"Net earned premiums
+283.0
+% growth y/y
+33.0%
+Underwriting Results
+AY loss ratio
+Catastrophe losses
+1.1%
+Unfavorable (favorable) PYD
+-3.3%
+Loss ratio
+59.9%
+Expense ratio
+Combined ratio
+84.7%
+AY combined ratio ex, cats
+87,0%
+",catastrophe,Financial,0.0,0.5278995633125305,0.0,58.24,7.94,8.0,0.8529411764705882,34
+KNSL_2Q23.txt,KNSL,2023,Q2,"Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+10.0%
+8.0%
+6.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2Q18
+4Q18
+2Q19
+-2.0%
+4Q19
+2Q20
+4Q20
+2Q21
+4Q21
+4.0%
+2.0%
+2Q22
+4Q22
+2Q23
+0.0%
+Cat losses
+Favorable (unfavorable) PYD
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Cat losses
+Favorable (unfavorable) PYD
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.0,0.7117385268211365,63.9,10.37,12.7,0.6790123456790124,81
+KNSL_2Q23.txt,KNSL,2023,Q2,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_2Q24.txt,KNSL,2024,Q2,"Although short tail/
+property business will naturally bring down KNSL's overall loss ratio
+(property is priced to lower loss ratios than casualty), this should have been in
+the 1Q24 result already and thus we attribute the 2Q24 result to natural
+variability in property business, in this case favorable.",loss ratios,Financial,0.0,0.5660253167152405,0.0,22.76,24.2,0.0,0.8333333333333334,48
+KNSL_2Q24.txt,KNSL,2024,Q2,"Underwriting income was better than our model (+$0.21 per share
+after taxes), with lower attritional claims (+$0.30), higher favorable
+development (+$0.03), and slightly higher earned premiums (+$0.01) more
+than offsetting higher catastrophe losses (-$0.08) and expenses (-$0.05).",catastrophe,Financial,0.9387823343276978,0.0,0.0,48.26,11.13,9.7,0.8918918918918919,37
+KNSL_2Q24.txt,KNSL,2024,Q2,"Despite more
+stable conditions in 2024 (i.e. less of a positive delta than in 2023), the property market
+remains compelling and KNSL intends to grow the relative size of this business (~30%
+of premiums in 2023) while controlling its exposure to property catastrophe risk.",catastrophe,Financial,0.908845841884613,0.0,0.0,49.15,16.07,0.0,0.8409090909090909,44
+KNSL_2Q24.txt,KNSL,2024,Q2,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_3Q22.txt,KNSL,2022,Q3,"J.P.Morgan
+Kinsale
+3Q22: Ian Losses Elevated, But Mostly Offset By
+Strong Core Margins and Investment Income
+Hurricane Ian losses hurt KNSL's underwriting results but were easily absorbed by
+favorable core underwriting margins and higher net investment income.",hurricane,Climate,0.0,0.5292237997055054,0.0,8.54,21.29,0.0,0.918918918918919,37
+KNSL_3Q22.txt,KNSL,2022,Q3,"Notwithstanding elevated
+catastrophe losses this quarter, KNSL's past results have consistently exceeded
+our expectations, and we think there could be further upside in our estimates
+from a lower combined ratio, higher investment income, and premium growth.
+·",catastrophe,Financial,0.8798699378967285,0.0,0.0,9.56,24.4,0.0,0.9459459459459459,37
+KNSL_3Q22.txt,KNSL,2022,Q3,"However, we think that that losses from Hurricane Ian (and its implication for
+reinsurance pricing) could be another catalyst to extend the hard market.",reinsurance,Financial,0.9282205104827881,0.0,0.0,38.66,16.27,0.0,0.9583333333333334,24
+KNSL_3Q22.txt,KNSL,2022,Q3,"However, we think that that losses from Hurricane Ian (and its implication for
+reinsurance pricing) could be another catalyst to extend the hard market.",hurricane,Climate,0.9282205104827881,0.0,0.0,38.66,16.27,0.0,0.9583333333333334,24
+KNSL_3Q22.txt,KNSL,2022,Q3,"KNSL
+reported an average policy size (a proxy for pricing trends) of $14,700 in 3Q22,
+up 13% from $13,000 in 3Q21.
+· Other points of interest from the quarter: (1) Although not disclosed by
+KNSL, the magnitude of catastrophe losses in 3Q22 seems to suggest a close to
+full retention loss from Ian (KNSL has a $25 million per event retention).",catastrophe,Financial,0.9155611991882324,0.0,0.0,57.95,16.67,0.0,0.8524590163934426,61
+KNSL_3Q22.txt,KNSL,2022,Q3,"Given
+KNSL's push into property lines and its faster growth in Florida in recent years,
+management's approach to writing catastrophe-exposed property could be an
+area of focus with investors.",catastrophe,Financial,0.0,0.0,0.7871956825256348,33.58,17.12,0.0,0.9310344827586207,29
+KNSL_3Q22.txt,KNSL,2022,Q3,"1=Top)
+Factors
+%Rank
+6M
+1Y
+3Y
+5Y
+Value
+99
+98
+94
+100
+98
+Growth
+5
+5
+6
+7
+1
+Momentum
+5
+5
+80
+2
+11
+Quality
+11
+6
+9
+15
+14
+Low Vol
+73
+80
+44
+64
+84
+ESGQ
+80
+78
+75
+82
+3Q22 Results
+EPS: $1.64A vs. $1.63E
+NPW growth: +38.2% vs +33.0%E
+Comb. ratio: 83.6% vs. 82.0%E
+Positives
+Premium growth
+Investment income
+Core underwriting margins
+Negatives
+Elevated catastrophe losses
+Sources for: Style Exposure - J.P. Morgan Quantitative and Derivatives Strategy; all other tables are company data and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.0,0.8035423755645752,61.46,13.43,13.0,0.8695652173913043,92
+KNSL_3Q22.txt,KNSL,2022,Q3,"8
+Investment Thesis, Valuation and Risks
+9
+Index of Tables
+Table 1: 3Q22 Earnings: Actual versus Expected
+5
+Table 2: Historical Operating Performance
+6
+Table 3: KNSL's Historical New Business Metrics
+8
+Index of Figures
+Figure 1: Historical AY Loss Ratio Trends
+6
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+7
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+7
+Figure 4: Year-on-Year % Change in Written Premiums per Policy.
+",catastrophe,Financial,0.0,0.0,0.8333899974822998,-16.5,34.86,0.0,0.676056338028169,71
+KNSL_3Q22.txt,KNSL,2022,Q3,"Eventual Turn in Pricing Cycle Is a Risk
+The P&C industry is well into the current hard market and we expect overall price
+hikes to moderate over time as re/insurers re-position themselves for growth
+(property and catastrophe coverage likely to be the exception to this rule in the near
+term).",catastrophe,Financial,0.8878397941589355,0.0,0.0,20.73,27.2,0.0,0.88,50
+KNSL_3Q22.txt,KNSL,2022,Q3,"Table 1: 3Q22 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+3Q22E
+Actual
+3Q22
+Actual v.
+Expected
+Underwriting Results
+Net premiums written ($)
+226.9
+235.9
+3.9%
+Net premiums earned ($)
+206.8
+209.3
+1.2%
+Loss ratio
+AY loss ratio
+60.0%
+Catastrophe losses
+5.0%
+12.5%
+749 bps
+Unfavorable (favorable) PYD
+-3.5%
+61.5%
+64.4%
+291 bps
+57.2%
+-282 bps
+-5.3%
+-175 bps
+Expense ratio
+Combined ratio
+20.5%
+82.0%
+19.2%
+83.6%
+160 bps
+-132 bps
+AY combined ratio ex. cats
+80.5%
+76.4% -414 bps
+Summary Income Statement
+Underwriting income
+37.2
+34.3
+($0.12)
+Net investment income
+10.9
+13.9
+$0.13
+Taxes and other
+(10.2)
+(10.2)
+($0.00)
+Operating income
+37.9
+37.9
+$0.00
+Average diluted shares
+23.3
+23.1
+$0.01
+Operating EPS
+$1.63
+$1.64
+$0.01
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.5799779891967773,0.0,64.17,7.14,9.3,0.7698412698412699,126
+KNSL_3Q22.txt,KNSL,2022,Q3,"Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 October 2022
+J.P.Morgan
+Table 2: Historical Operating Performance
+$ in millions and %
+2016
+2017
+2018
+2019
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+1Q22
+2Q22
+3Q22
+Premium Trends
+Gross written premiums
+188.5
+223.2
+11.3%
+% ceded
+Net written premiums
+% growth y/y
+Net earned premiums
+133.8
+% growth y/y
+Underwriting Results
+AY loss ratio
+63.0%
+60.2%
+60.9%
+Catastrophe losses
+0.0%
+Unfavorable (favorable) PYD
+",catastrophe,Financial,0.0,0.5734913945198059,0.0,52.97,10.34,11.8,0.8783783783783784,74
+KNSL_3Q22.txt,KNSL,2022,Q3,"J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 October 2022
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+12.0%
+14.0%
+12.0%
+10.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2Q18
+4Q18
+2Q19
+4Q19
+2Q20
+4Q20
+",catastrophe,Financial,0.0,0.0,0.8676720261573792,56.96,10.63,13.4,0.7627118644067796,59
+KNSL_3Q22.txt,KNSL,2022,Q3,"This material is issued and distributed in
+Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia Berhad and
+holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_3Q23.txt,KNSL,2023,Q3,"· Updated reinsurance program impacted retention ratios, unclear from
+disclosure what drove the deceleration in gross premium growth.",reinsurance,Financial,0.0,0.9611418843269348,0.0,11.92,23.27,0.0,1.0,18
+KNSL_3Q23.txt,KNSL,2023,Q3,"KNSL's combined ratio in 3Q23 was
+74.9%, significantly better than our 81.2% estimate, with most of the positive
+variance attributable to lower catastrophes (0.4% vs. 4.6%E) and to a lesser
+extent, higher favorable development (-3.2% vs. - 2.9%E).",catastrophe,Financial,0.9467319250106812,0.0,0.0,53.58,11.29,10.7,0.9473684210526315,38
+KNSL_3Q23.txt,KNSL,2023,Q3,"We expect continued margin improvement for KNSL - although
+potentially at a slower pace than previously - given the positive spread between
+pricing and loss trends in the casualty book and the growing share of property
+business, which tends to have lower loss ratios.
+",loss ratios,Financial,0.9573822021484375,0.0,0.0,20.39,23.47,0.0,0.8863636363636364,44
+KNSL_3Q23.txt,KNSL,2023,Q3,"The property insurance market is especially compelling, and
+KNSL intends to grow the relative size of this business (20% of premiums in 2022)
+while controlling its exposure to property catastrophe risk.",catastrophe,Financial,0.8927158713340759,0.0,0.0,31.55,22.72,0.0,0.9032258064516129,31
+KNSL_3Q23.txt,KNSL,2023,Q3,"Actual versus Expected
+$ in millions, %, and bps
+JPM
+3Q23E
+Actual
+3Q23
+Underwriting Results
+Net premiums written ($)
+337.8
+294.3
+-12.9%
+Net premiums earned ($)
+296.0
+281.5
+-4.9%
+Loss ratio
+59.4%
+AY loss ratio
+57.7%
+Catastrophe losses
+4.6%
+Unfavorable (favorable) PYD
+-2.9%
+-3.2%
+-27 bps
+53.9%
+56.7%
+0.4%
+Expense ratio
+21.8%
+Combined ratio
+81.2%
+74.9%
+20.9%
+-87 bps
+AY combined ratio ex. cats
+79.5%
+77.6%
+-186 bps
+Actual v.
+Expected
+-545 bps
+-98 bps
+-420 bps
+-633 bps
+Summary Income Statement
+Underwriting income
+58.5
+72.4
+$0.60
+Net premiums earned
+296.0
+281.5
+Attritional losses
+(174.8)
+(163.5)
+$0.48
+Catastrophe losses
+(13.9)
+(1.2)
+(Unfavorable) development
+8.8
+9.1
+Commissions
+(32.1)
+(29.6)
+Other expenses
+(25.4)
+(23.9)
+$0.07
+Net investment income
+26.5
+Taxes and other
+(18.4)
+27.1
+$0.03
+(22.3)
+($0.17)
+Operating income
+66.5
+77.2
+$0.46
+Average diluted shares
+23.4
+23.3
+$0.02
+Operating EPS
+$2.84
+$3.31
+$0.47
+($0.62)
+$0.55
+$0.02
+$0.11
+Source: Company reports and J.P. Morgan estimates.",catastrophe,Financial,0.0,0.6833056807518005,0.0,65.18,7.07,9.2,0.7763157894736842,152
+KNSL_3Q23.txt,KNSL,2023,Q3,"Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+26 October 2023
+J.P.Morgan
+Table 2: 3Q23 Earnings: Actual versus JPM Estimates and Consensus
+$ in millions, %, and bps
+Actual
+JPM
+%
+Consensus
+%
+Net premiums written
+294.3
+337.8
+Net premiums earned
+281.5
+296.0
+Loss ratio
+53.9%
+Expense ratio
+20.9%
+Combined ratio
+Operating EPS
+$3.31
+74.9%
+-12.9%
+-4.9%
+59.4%
+-545 bps
+21.8%
+-87 bps
+20.9%
+81.2%
+-633 bps
+$2.84
+16.6%
+314.6
+291.2
+-6.5%
+-3.3%
+60.1% -617 bps
+3 bps
+80.7%
+-581 bps
+$2.84
+16.6%
+Source: Company reports, J.P. Morgan estimates, and Bloomberg Finance L.P.
+Table 3: Historical Operating Performance
+$ in millions and %
+1Q20
+2Q20
+3Q20
+4Q20
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+202
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+2Q23
+3Q23
+Premium Trends
+Gross written premiums
+124.0
+% ceded
+Net written premiums
+108.1
+% growth y/y
+Net earned premiums
+89.8
+% growth y/y
+Underwriting Results
+AY loss ratio
+Catastrophe losses
+0.1%
+Unfavorable (favorable) PYD
+-3.4%
+",catastrophe,Financial,0.0,0.7230831980705261,0.0,63.56,6.88,9.8,0.7468354430379747,158
+KNSL_3Q23.txt,KNSL,2023,Q3,"Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+10.0%
+8.0%
+6.0%
+6.0%
+4.0%
+2.0%
+0.0%
+2Q18
+4Q18
+2Q19
+-2.0%
+4Q19
+2Q20
+4Q20
+2Q21
+4Q21
+4.0%
+2.0%
+2Q22
+4Q22
+2Q23
+0.0%
+Cat losses
+Favorable (unfavorable) PYD
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+",catastrophe,Financial,0.0,0.0,0.714440643787384,74.79,9.54,11.2,0.7101449275362319,69
+KNSL_3Q23.txt,KNSL,2023,Q3,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_3Q24.txt,KNSL,2024,Q3,"Underwriting income was better than our model (+$0.19 per share after taxes), with lower
+attritional claims (+$0.33), higher favorable development (+$0.03), higher fee income
+(+$0.02), and lower expenses (+$0.19) more than offsetting a shortfall in earned
+premiums (-$0.30) and higher catastrophe losses (-$0.08).",catastrophe,Financial,0.9441870450973511,0.0,0.0,56.82,9.88,9.2,0.8604651162790697,43
+KNSL_3Q24.txt,KNSL,2024,Q3,"Despite more
+stable conditions in 2024 (i.e. less of a positive delta than in 2023), the property market
+remains compelling and KNSL intends to grow the relative size of this business (~30%
+of premiums in 2023) while controlling its exposure to property catastrophe risk.",catastrophe,Financial,0.908845841884613,0.0,0.0,49.15,16.07,0.0,0.8409090909090909,44
+KNSL_3Q24.txt,KNSL,2024,Q3,"Also, to the extent that the gap between nominal pricing and loss trends continue to
+narrow, there is less scope for KNSL to report improving attritional loss ratios.
+",loss ratios,Financial,0.931179940700531,0.0,0.0,43.06,16.91,0.0,0.8571428571428571,28
+KNSL_3Q24.txt,KNSL,2024,Q3,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_4Q21.txt,KNSL,2021,Q4,"Within the loss ratio, both attritional losses (57.1% vs. 61.0%E) and
+catastrophe claims (-0.1% vs. +2.3%E) were responsible for the favorable
+variance.",catastrophe,Financial,0.0,0.0,0.42126408219337463,64.07,10.19,9.7,0.9090909090909091,22
+KNSL_4Q21.txt,KNSL,2021,Q4,"6
+Index of Figures
+Figure 1: Historical AY Loss Ratio Trends
+6
+7
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+7
+3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+",catastrophe,Financial,0.0,0.0,0.9503739476203918,15.31,24.76,0.0,0.7446808510638298,47
+KNSL_4Q21.txt,KNSL,2021,Q4,"Table 1: 4Q21 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+4Q21E
+Actual
+4Q21
+Actual v.
+Expected
+Underwriting Results
+Net premiums written ($)
+175.1
+177.5
+1.4%
+Net premiums earned ($)
+164.4
+165.3
+0.5%
+Loss ratio
+AY loss ratio
+61.0%
+57.1%
+-387 bps
+Catastrophe losses
+2.3%
+-0.1%
+-234 bps
+Unfavorable (favorable) PYD
+-4.0%
+-4.0%
+2 bps
+59.3%
+53.1%
+-619 bps
+Expense ratio
+21.5%
+Combined ratio
+80.8%
+21.4%
+-7 bps
+74.5%
+-627 bps
+AY combined ratio ex. cats
+82.5%
+78.6%
+-395 bps
+Summary Income Statement
+Underwriting income
+31.7
+42.2
+33.2%
+Net investment income
+8.6
+8.6
+-0.2%
+Taxes
+(7.6)
+55.2%
+Operating income
+32.7
+39.0
+19.3%
+(11.8)
+Operating EPS
+$1.39
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.7688291072845459,0.0,64.78,6.57,9.0,0.7672413793103449,116
+KNSL_4Q21.txt,KNSL,2021,Q4,"Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+17 February 2022
+J.P.Morgan
+Table 2: Historical Operating Performance
+$ in millions and %
+2016
+2017
+2018
+2019
+1Q20
+2Q20
+3Q20
+4Q20
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+Premium Trends
+Gross written premiums
+188.5
+223.2
+275.5
+14.5%
+% ceded
+Net written premiums
+167.3
+% growth y/y
+99.1%
+Netearned premiums
+133.8
+176.1
+80.0%
+31.6%
+% growth y/y
+Underwriting Results
+AY loss ratio
+63.0%
+60.2%
+60.9%
+62.2%
+63.1%
+63.5%
+Catastrophe losses
+0.0%
+Unfavorable (favorable) PYD
+",catastrophe,Financial,0.0,0.0,0.5029229521751404,62.64,9.12,10.7,0.9036144578313253,83
+KNSL_4Q21.txt,KNSL,2021,Q4,"J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+17 February 2022
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+12.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+-2.0%
+1Q18 2Q18",catastrophe,Financial,0.0,0.0,0.8909634351730347,50.02,10.61,13.4,0.7924528301886793,53
+KNSL_4Q21.txt,KNSL,2021,Q4,"This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia)
+Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued
+by the Securities Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_4Q22.txt,KNSL,2022,Q4,"Reserve releases were a touch lower (-3.3% vs. - 3.5%E) but
+were more than offset by lower catastrophe losses (0.2% vs. 2.3%E).",catastrophe,Financial,0.0,0.8440752625465393,0.0,77.74,8.01,0.0,0.8636363636363636,22
+KNSL_4Q22.txt,KNSL,2022,Q4,"Eventual Turn in Pricing Cycle is a Risk
+The P&C industry is well into the current hard market and we expect overall price hikes
+to moderate as re/insurers re-position themselves for growth (property and catastrophe
+coverage likely to be the exception in the near term).",catastrophe,Financial,0.8595208525657654,0.0,0.0,25.8,26.0,0.0,0.8666666666666667,45
+KNSL_4Q22.txt,KNSL,2022,Q4,"Table 1: 4Q22 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+4Q22E
+Actual
+4Q22
+Underwriting Results
+Net premiums written ($)
+238.0
+Net premiums earned ($)
+222.0
+242.1
+1.7%
+216.1
+-2.7%
+Loss ratio
+57.8%
+AY loss ratio
+59.0%
+Catastrophe losses
+2.3%
+Unfavorable (favorable) PYD
+-3.5%
+-3.3%
+52.5%
+55.6%
+0.2%
+Expense ratio
+20.5%
+19.9%
+-58 bps
+Combined ratio
+78.3%
+72.5%
+AY combined ratio ex. cats
+79.5%
+75.5%
+-396 bps
+Summary Income Statement
+Underwriting income
+48.3
+Net investment income
+14.3
+17.7
+$0.15
+Taxes and other
+(13.7)
+(16.9)
+($0.14)
+Operating income
+48.9
+59.5
+$0.48
+60.3
+$0.49
+Average diluted shares
+23.3
+23.2
+$0.01
+Operating EPS
+$2.10
+$2.60
+$0.50
+Source: Company reports and J.P. Morgan estimates.
+",catastrophe,Financial,0.0,0.7735865712165833,0.0,64.57,7.49,9.2,0.831858407079646,113
+KNSL_4Q22.txt,KNSL,2022,Q4,"Table 3: Historical and Operating Performance
+$ in millions and %
+2016
+2017
+2018
+2019
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+Premium Trends
+Gross written premiums
+% ceded
+Net written premiums
+167.3
+% growth y/y
+Net earned premiums
+% growth y/y
+Underwriting Results
+AY loss ratio
+Catastrophe losses
+0.0%
+Unfavorable (favorable) PYD
+Loss ratio
+Expense ratio
+Combined ratio
+74.4%
+AY combined ratio ex. cats
+Investment Results
+Net investment income
+7.5
+% growth y/y
+Duration
+Gross yield ex. cash (YTD)
+Cash and invested assets
+480.3
+% growth y/y
+188.5
+223.2
+275.5
+11.3%
+99.1%
+133.8
+80.0%
+63.0%
+",catastrophe,Financial,0.0,0.0,0.485150545835495,59.7,9.8,11.0,0.74,100
+KNSL_4Q22.txt,KNSL,2022,Q4,"Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+14.0%
+16.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+10.0%
+8.0%
+6.0%
+6.0%
+4.0%
+4.0%
+2.0%
+0.0%
+2.0%
+2Q18
+4Q18
+2Q19
+4Q19
+2Q20
+4Q20
+",catastrophe,Financial,0.0,0.0,0.8654227256774902,64.54,13.66,0.0,0.6326530612244898,49
+KNSL_4Q22.txt,KNSL,2022,Q4,"This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-
+X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued by the Securities
+Commission in Malaysia.",capital markets,Financial,0.0,0.0,0.9509682655334473,14.97,22.78,0.0,0.7948717948717948,39

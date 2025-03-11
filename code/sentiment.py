@@ -8,28 +8,31 @@ import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image
 from PyPDF2 import PdfReader
-from transformers import pipeline
+from transformers import pipeline, BertTokenizer
 from textstat import textstat
 from config import keywords_financial, keywords_climate, keywords_risk, sentiment_flag
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 nlp = spacy.load("en_core_web_sm")
 finbert = None
-vader = SentimentIntensityAnalyzer()
+# vader = SentimentIntensityAnalyzer()
 
 TRANSCRIPT_DATA = f"data/transcripts"
 SELL_SIDE_DATA = f"data/sell_side_txt"
-OUTPUT_FOLDER = f"data/{sentiment_flag}_output"
+OUTPUT_FOLDER = f"data/{sentiment_flag}_output_gpt"
 ANALYSIS_FOLDER = "analysis/sentiment"
 
-NUM_PDFS = 15
+NUM_PDFS = 100
 MAX_TOKENS = 512
 TOTAL_BATCHES = 10
+
+tokenizer = BertTokenizer.from_pretrained("yiyanghkust/finbert-tone")
 
 def load_finbert():
     global finbert
     if finbert is None:
-        finbert = pipeline("sentiment-analysis", model="yiyanghkust/finbert-tone", return_all_scores=True)
+        # finbert = pipeline("sentiment-analysis", model="yiyanghkust/finbert-tone", return_all_scores=True)
+        finbert = pipeline("text-classification", model="ProsusAI/finbert")
         logging.info("FinBERT loaded.")
 
 def extract_text_from_txt(file_path):
@@ -58,34 +61,43 @@ def extract_date_from_filename(filename):
         return None, None, None
 
 def extract_ticker_year_quarter(filename):
-    """ Extracts Ticker, Year, and Quarter from the filename like 'PGR_APR22.txt' """
+    """ Extracts Ticker, Year, and Quarter from filenames like 'PGR_APR22.txt' and 'AIG_1Q23.txt'. """
     try:
         parts = filename.split("_")
         if len(parts) < 2:
             return None, None, None  # Invalid format
 
         ticker = parts[0]  # Extract ticker
-        month_str = parts[1][:3].upper()  # Extract first 3 letters (e.g., 'JAN', 'FEB')
-        year_str = "20" + parts[1][3:5]  # Extract last 2 digits (e.g., '22' → '2022')
+        identifier = parts[1].split(".")[0].upper()  # Remove file extension and get identifier
 
-        # ✅ Validate and convert the year
-        if not year_str.isdigit():
-            raise ValueError(f"Invalid year format in {filename}: {year_str}")
-        year = int(year_str)
+        # ✅ Check if format is "MMMYY" (e.g., "APR22")
+        if len(identifier) == 5 and identifier[:3].isalpha() and identifier[3:5].isdigit():
+            month_str = identifier[:3]  # Extract three-letter month
+            year_str = "20" + identifier[3:5]  # Extract last 2 digits of the year
+            year = int(year_str)
 
-        # ✅ Map month abbreviation to quarter
-        month_to_quarter = {
-            "JAN": "Q1", "FEB": "Q1", "MAR": "Q1",
-            "APR": "Q2", "MAY": "Q2", "JUN": "Q2",
-            "JUL": "Q3", "AUG": "Q3", "SEP": "Q3",
-            "OCT": "Q4", "NOV": "Q4", "DEC": "Q4"
-        }
+            # ✅ Convert month to quarter
+            month_to_quarter = {
+                "JAN": "Q1", "FEB": "Q1", "MAR": "Q1",
+                "APR": "Q2", "MAY": "Q2", "JUN": "Q2",
+                "JUL": "Q3", "AUG": "Q3", "SEP": "Q3",
+                "OCT": "Q4", "NOV": "Q4", "DEC": "Q4"
+            }
+            quarter = month_to_quarter.get(month_str, None)
+            if quarter is None:
+                raise ValueError(f"Invalid month format in {filename}: {month_str}")
 
-        quarter = month_to_quarter.get(month_str, None)
-        if quarter is None:
-            raise ValueError(f"Invalid month format in {filename}: {month_str}")
+        # ✅ Check if format is "XQYY" (e.g., "1Q22")
+        elif len(identifier) == 4 and identifier[0].isdigit() and identifier[1] == "Q" and identifier[2:].isdigit():
+            quarter = f"Q{identifier[0]}"  # Extract quarter
+            year_str = "20" + identifier[2:]  # Extract last 2 digits of the year
+            year = int(year_str)
+
+        else:
+            raise ValueError(f"Unknown format in {filename}: {identifier}")
 
         return ticker, year, quarter
+
     except Exception as e:
         logging.error(f"Filename error in {filename}: {e}")
         return None, None, None
@@ -122,15 +134,33 @@ def analyze_sentiment_vader(sentence):
     scores = vader.polarity_scores(sentence)
     return scores["pos"], scores["neg"], scores["neu"]
 
+# def analyze_sentiment_finbert(sentence):
+#     try:
+#         finbert_result = finbert(sentence)
+#         if isinstance(finbert_result, list) and len(finbert_result) > 0 and isinstance(finbert_result[0], list):
+#             finbert_result = finbert_result[0]
+
+#         sentiment_dict = {score["label"].lower(): score["score"] for score in finbert_result}
+#         return sentiment_dict.get("positive", 0), sentiment_dict.get("negative", 0), sentiment_dict.get("neutral", 0)
+#     except Exception as e:
+#         return 0, 0, 0
+    
 def analyze_sentiment_finbert(sentence):
     try:
-        finbert_result = finbert(sentence)
-        if isinstance(finbert_result, list) and len(finbert_result) > 0 and isinstance(finbert_result[0], list):
-            finbert_result = finbert_result[0]
+        tokens = tokenizer.tokenize(sentence)
 
+        if len(tokens) > 512:
+            logging.warning(f"⚠️ Sentence too long ({len(tokens)} tokens). Truncating...")
+            tokens = tokens[:512]  # ✅ Keep only first 512 tokens
+            sentence = tokenizer.convert_tokens_to_string(tokens)  # ✅ Convert back to text
+        
+        finbert_result = finbert(sentence)
         sentiment_dict = {score["label"].lower(): score["score"] for score in finbert_result}
+        
         return sentiment_dict.get("positive", 0), sentiment_dict.get("negative", 0), sentiment_dict.get("neutral", 0)
+
     except Exception as e:
+        logging.error(f"❌ FinBERT Error: {e}")
         return 0, 0, 0
 
 def analyze_file(file_path, file_index, total_files):
@@ -177,7 +207,7 @@ def analyze_file(file_path, file_index, total_files):
     results = []
     for sentence, keyword, category in filtered_sentences_info:
         finbert_pos, finbert_neg, finbert_neu = analyze_sentiment_finbert(sentence)
-        vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
+        # vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
         readability = calculate_readability(sentence)
 
         results.append({
@@ -191,9 +221,9 @@ def analyze_file(file_path, file_index, total_files):
             "finbert_positive": finbert_pos,
             "finbert_negative": finbert_neg,
             "finbert_neutral": finbert_neu,
-            "vader_positive": vader_pos,
-            "vader_negative": vader_neg,
-            "vader_neutral": vader_neu,
+            # "vader_positive": vader_pos,
+            # "vader_negative": vader_neg,
+            # "vader_neutral": vader_neu,
             "flesch_reading_ease": readability["flesch_reading_ease"],
             "gunning_fog_index": readability["gunning_fog_index"],
             "smog_index": readability["smog_index"],
@@ -282,24 +312,24 @@ def merge_batches():
     merged_df = pd.concat(df_list, ignore_index=True)
 
     # ✅ Save the merged sentiment results
-    final_output_file = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
+    final_output_file = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
     merged_df.to_csv(final_output_file, index=False)
     logging.info(f"✅ Merged sentiment results saved to {final_output_file}")
 
 def analyze_sentiment_trends(df):
     sentiment_trends = df.groupby(["Year", "Quarter"]).agg(
         avg_finbert=("finbert_positive", "mean"),
-        avg_vader=("vader_positive", "mean")
+        # avg_vader=("vader_positive", "mean")
     ).reset_index()
-    sentiment_trends.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_sentiment_trends.csv"), index=False)
+    sentiment_trends.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_sentiment_trends_gpt.csv"), index=False)
 
 def analyze_keyword_sentiment(df):
     keyword_analysis = df.groupby("keyword").agg(
         count=("keyword", "count"),
         avg_finbert=("finbert_positive", "mean"),
-        avg_vader=("vader_positive", "mean")
+        # avg_vader=("vader_positive", "mean")
     ).reset_index()
-    keyword_analysis.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_keyword_sentiment.csv"), index=False)
+    keyword_analysis.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_keyword_sentiment_gpt.csv"), index=False)
 
 def extract_month_year_from_filename(filename):
     """ Extracts month and year from a filename like 'PGR_JAN25.pdf' """
@@ -334,6 +364,11 @@ def process_pgr_files():
         logging.warning("⚠️ No PGR files found in sell-side folder.")
         return
 
+    # ✅ Define keyword-category mappings
+    keyword_category_map = {kw: "Financial" for kw in keywords_financial}
+    keyword_category_map.update({kw: "Climate" for kw in keywords_climate})
+    keyword_category_map.update({kw: "Risk" for kw in keywords_risk})
+
     all_results = []
 
     for file in pgr_files:
@@ -341,17 +376,31 @@ def process_pgr_files():
         text = extract_text_from_txt(file_path)
 
         ticker, year, quarter = extract_ticker_year_quarter(file)
+        
         if ticker is None or year is None or quarter is None:
             logging.warning(f"⚠️ Skipping {file} (Invalid filename format)")
             continue
 
         try:
-            # Extract sentiment for each sentence
+            # ✅ Extract sentences
             sentences = [sent.text for sent in nlp(text).sents]
             
-            for sentence in sentences:
+            # ✅ Filter sentences containing relevant keywords
+            filtered_sentences_info = [
+                (sent, kw, keyword_category_map[kw])
+                for sent in sentences
+                for kw in keyword_category_map.keys()
+                if kw in sent.lower()
+            ]
+
+            if not filtered_sentences_info:
+                logging.warning(f"⚠️ No relevant sentences found in {file}")
+                continue
+
+            # ✅ Run analysis on filtered sentences
+            for sentence, keyword, category in filtered_sentences_info:
                 finbert_pos, finbert_neg, finbert_neu = analyze_sentiment_finbert(sentence)
-                vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
+                # vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
                 readability = calculate_readability(sentence)
 
                 all_results.append({
@@ -360,14 +409,14 @@ def process_pgr_files():
                     "Year": year,
                     "Quarter": quarter,
                     "sentence": sentence,
-                    "keyword": None,  # PGR data may not have keywords
-                    "category": "PGR",  # Label as "PGR" for identification
+                    "keyword": keyword,
+                    "category": category,
                     "finbert_positive": finbert_pos,
                     "finbert_negative": finbert_neg,
                     "finbert_neutral": finbert_neu,
-                    "vader_positive": vader_pos,
-                    "vader_negative": vader_neg,
-                    "vader_neutral": vader_neu,
+                    # "vader_positive": vader_pos,
+                    # "vader_negative": vader_neg,
+                    # "vader_neutral": vader_neu,
                     "flesch_reading_ease": readability["flesch_reading_ease"],
                     "gunning_fog_index": readability["gunning_fog_index"],
                     "smog_index": readability["smog_index"],
@@ -379,12 +428,12 @@ def process_pgr_files():
             logging.error(f"❌ Error processing PGR file {file}: {e}\n{traceback.format_exc()}")
 
     # ✅ Save PGR results in the same format as `process_batch()`
-    pgr_output_file = os.path.join(OUTPUT_FOLDER, "pgr_sentiment_results.csv")
+    pgr_output_file = os.path.join(OUTPUT_FOLDER, "pgr_sentiment_results_gpt.csv")
     pd.DataFrame(all_results).to_csv(pgr_output_file, index=False)
     logging.info(f"✅ PGR Sentiment results saved to {pgr_output_file}")
 
 def perform_analysis():
-    merged_csv_path = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")  
+    merged_csv_path = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")  
 
     if not os.path.exists(merged_csv_path):
         logging.error(f"File not found: {merged_csv_path}")
@@ -395,9 +444,10 @@ def perform_analysis():
     analyze_sentiment_trends(merged_df)
     analyze_keyword_sentiment(merged_df)
 
-def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output_path=f"output/{sentiment_flag}_sentiment_analysis.xlsx"):
+def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output_path=f"output/{sentiment_flag}_sentiment_analysis_gpt.xlsx"):
     
     file_path = os.path.join(data_folder, f"{sentiment_flag}_sentiment_results_merged.csv")
+
     sentiment_df = pd.read_csv(file_path)
     
     sentiment_df.columns = sentiment_df.columns.str.upper()
@@ -405,17 +455,18 @@ def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output
     
     sentiment_agg = sentiment_df.groupby(["TICKER", "YEAR", "CATEGORY"], as_index=False).agg(
         AVG_FINBERT=("FINBERT_NEGATIVE", "mean"),
-        AVG_VADER=("VADER_NEGATIVE", "mean")
+        # AVG_VADER=("VADER_NEGATIVE", "mean")
     )
     
     overall_sentiment = sentiment_df.groupby(["TICKER", "YEAR"], as_index=False).agg(
         AVG_FINBERT=("FINBERT_NEGATIVE", "mean"),
-        AVG_VADER=("VADER_NEGATIVE", "mean")
+        # AVG_VADER=("VADER_NEGATIVE", "mean")
     )
     
     grouped_data = {}
     keyword_types = sentiment_df["CATEGORY"].unique()
-    sentiment_models = ["FINBERT", "VADER"]
+    # sentiment_models = ["FINBERT", "VADER"]
+    sentiment_models = ["FINBERT"]
     
     for keyword in keyword_types:
         for model in sentiment_models:
@@ -426,11 +477,54 @@ def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output
             grouped_data[f"{keyword}_{model}"] = df_pivot
     
     grouped_data["Overall_FINBERT"] = overall_sentiment.pivot(index="TICKER", columns="YEAR", values="AVG_FINBERT").fillna(0)
-    grouped_data["Overall_VADER"] = overall_sentiment.pivot(index="TICKER", columns="YEAR", values="AVG_VADER").fillna(0)
+    # grouped_data["Overall_VADER"] = overall_sentiment.pivot(index="TICKER", columns="YEAR", values="AVG_VADER").fillna(0)
 
     with pd.ExcelWriter(output_path, engine="xlsxwriter") as writer:
         for sheet_name, df in grouped_data.items():
             df.to_excel(writer, sheet_name=sheet_name)
+
+def compute_quarterly_negative_sentiment(input_folder=f"data/{sentiment_flag}_output_gpt", output_folder="analysis/sentiment"):
+    """
+    Computes the average quarterly negative sentiment for both 'climate' and 'all' sentiment categories.
+    Works for all sentiment flags and accounts for PGR's different formatting.
+    """
+    input_file = os.path.join(input_folder, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
+    climate_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_climate_sentiment_gpt.csv")
+    all_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_all_sentiment_gpt.csv")
+    
+    if not os.path.exists(input_file):
+        logging.error(f"File not found: {input_file}")
+        return  
+    
+    # Load the CSV file
+    df = pd.read_csv(input_file)
+    df.columns = df.columns.str.upper()
+    
+    # Ensure correct data types
+    df["YEAR"] = df["YEAR"].astype(int)
+    df["QUARTER"] = df["QUARTER"].astype(str)
+    
+    # Compute sentiment for climate category
+    df_climate = df[df["CATEGORY"] == "Climate"]
+    sentiment_quarterly_climate = df_climate.groupby(["TICKER", "YEAR", "QUARTER"], as_index=False).agg(
+        AVG_FINBERT_NEGATIVE=("FINBERT_NEGATIVE", "mean"),
+        # AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
+    )
+    
+    # Compute sentiment for all categories
+    sentiment_quarterly_all = df.groupby(["TICKER", "YEAR", "QUARTER"], as_index=False).agg(
+        AVG_FINBERT_NEGATIVE=("FINBERT_NEGATIVE", "mean"),
+        # AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
+    )
+    
+    # Save results
+    os.makedirs(output_folder, exist_ok=True)
+    sentiment_quarterly_climate.to_csv(climate_output_file, index=False)
+    sentiment_quarterly_all.to_csv(all_output_file, index=False)
+    logging.info(f"✅ Quarterly climate sentiment saved to {climate_output_file}")
+    logging.info(f"✅ Quarterly all sentiment saved to {all_output_file}")
+    
+    return sentiment_quarterly_climate, sentiment_quarterly_all
 
 if __name__ == "__main__":
     load_finbert()
@@ -439,3 +533,4 @@ if __name__ == "__main__":
     merge_batches()
     perform_analysis()
     generate_sentiment_excel()
+    compute_quarterly_negative_sentiment()
