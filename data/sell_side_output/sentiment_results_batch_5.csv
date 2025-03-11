@@ -1,0 +1,64 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,vader_positive,vader_negative,vader_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+KNSL_4Q23.txt,KNSL,2023,4Q,"The lower net earned premium growth is from the flow-
+through of lower gross premium growth in 4Q23 as well as a lower assumed
+retention ratio because of KNSL's greater use of reinsurance.",reinsurance,Financial,5.858546501258388e-05,0.9999158382415771,2.5614506739657372e-05,0.225,0.223,0.552,54.9,16.84,0.0,0.7878787878787878,33
+KNSL_4Q23.txt,KNSL,2023,4Q,"With respect to margins,
+we are assuming a flat attritional loss ratio (57.4% in 2024, same as 2023 and
+2022), a roughly 1.5% catastrophe load, and a favorable but declining impact
+from prior year development (-2.5% in 2024 and -2.1% in 2025 compared to
+-3.3% in 2023).",catastrophe,Financial,0.9980059266090393,3.925812961824704e-06,0.0019901185296475887,0.085,0.09,0.826,80.48,8.23,8.8,0.8297872340425532,47
+KNSL_4Q23.txt,KNSL,2023,4Q,"Prior to 4Q23
+2025
+Gross premiums written
+% growth
+% growth (CAGR equivalent)
+% retention ratio
+Net premiums written
+1,554.4
+1,865.2
+2,126.4
+% growth
+22.9%
+20.0%
+14.0%
+Net premiums earned
+1,403.7
+1,709.5
+% growth
+30.9%
+21.8%
+Attritional loss ratio
+Catastrophe losses
+1.5%
+(Favorable) PYD
+",catastrophe,Financial,0.017960473895072937,7.304442988242954e-05,0.981966495513916,0.193,0.232,0.575,64.88,8.75,9.7,0.7272727272727273,44
+KNSL_4Q23.txt,KNSL,2023,4Q,"This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.",capital markets,Financial,0.0024413862265646458,0.00014080500113777816,0.9974178075790405,0.115,0.0,0.885,15.99,22.57,0.0,0.7894736842105263,38
+KNSL_4Q24.txt,KNSL,2024,4Q,"Our updated model
+incorporates (1) $25 million of LA wildfire losses in 1Q25, as disclosed by
+management (prior total catastrophe loss assumption for 1Q25 was $2 million),
+(2) slightly lower net investment income, partly because of KNSL's plan to
+increase its allocation to equities (dividend yields are < fixed income yields),
+and (3) the flow through of lower premium growth in 4Q24 into future periods.
+",catastrophe,Financial,5.598284042207524e-05,0.9998960494995117,4.801415707333945e-05,0.065,0.176,0.759,-1.95,32.48,0.0,0.9230769230769231,65
+KNSL_4Q24.txt,KNSL,2024,4Q,"Our updated model
+incorporates (1) $25 million of LA wildfire losses in 1Q25, as disclosed by
+management (prior total catastrophe loss assumption for 1Q25 was $2 million),
+(2) slightly lower net investment income, partly because of KNSL's plan to
+increase its allocation to equities (dividend yields are < fixed income yields),
+and (3) the flow through of lower premium growth in 4Q24 into future periods.
+",wildfire,Climate,5.598284042207524e-05,0.9998960494995117,4.801415707333945e-05,0.065,0.176,0.759,-1.95,32.48,0.0,0.9230769230769231,65
+KNSL_4Q24.txt,KNSL,2024,4Q,"Other than the LA wildfire, our underwriting margin assumptions for 2025 and
+subsequent periods are largely unchanged.",wildfire,Climate,0.0004093860916327685,0.0017339971382170916,0.9978565573692322,0.0,0.0,1.0,37.3,16.21,0.0,1.0,17
+KNSL_4Q24.txt,KNSL,2024,4Q,"Underwriting income was better than our model (+$0.30 per share after taxes),
+with lower attritional claims (+$0.27), lower catastrophe losses (+$0.08), higher fee
+income (+$0.02), and higher reserve releases (+$0.01) more than offsetting higher
+expenses (-$0.05) and a modest shortfall in earned premiums (-$0.03).",catastrophe,Financial,1.0,4.1753271950994986e-09,6.131957164257074e-09,0.095,0.215,0.69,56.62,8.88,8.8,0.8636363636363636,44
+KNSL_4Q24.txt,KNSL,2024,4Q,"Compared to our model, the favorable variance was driven by lower attritional
+losses (52.7% vs. 54.8%E), higher reserve releases (-2.6% vs. - 2.5%E), and lower
+catastrophe claims (2.1% vs. 2.8%E), partly offset by a higher expense ratio (21.1% vs.
+20.7%E).",catastrophe,Financial,0.9999744892120361,9.871129122984712e-07,2.450341526127886e-05,0.065,0.242,0.693,61.53,8.02,8.8,0.85,40
+KNSL_4Q24.txt,KNSL,2024,4Q,"Also, to the extent that the gap between nominal pricing and loss trends
+continues to narrow, there is less scope for attritional loss ratios to improve.
+",loss ratios,Financial,0.9998558759689331,0.00013799483713228256,6.0974903135502245e-06,0.095,0.151,0.754,53.55,15.02,0.0,0.8461538461538461,26

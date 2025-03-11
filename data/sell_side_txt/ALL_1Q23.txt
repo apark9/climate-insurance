@@ -1,0 +1,1554 @@
+BARCLAYS
+Equity Research
+Financial Services
+5 May 2023
+Allstate Corp.
+1Q23 Review: Remediation Plans
+Ramping Up
+ALL is taking more urgent actions to improve auto profitability
+and capital adequacy by dropping its 3Q target for buyback
+completion, pausing advertising spend, and pushing harder in
+California in its rate filing process.
+| CORE
+ALL
+EQUAL WEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 122.00
+Unchanged
+Price (04-May-23)
+USD 114.02
+Potential Upside/Downside
++7.0%
+Incremental views on ALL post 1Q earnings.
+The $649mn remaining under ALL's buyback program will not be completed by 3Q23. ALL's
+10Q dropped this timeline reference and we confirmed our understanding with IR. We
+previously expected that ALL would have taken a breather in 4Q23 from buybacks, but we are
+now modeling a more leveled amount of buybacks a quarter this year, building off the amount
+ALL completed in 1Q23 of ~$150mn.
+California rate requests ramping up. ALL is now going to make an incremental auto filing
+request for Allstate brand >6.9% in California. This is after Allstate brand received a second 6.9%
+approval in CA, though that achievement was behind its indicated rate need of 17.3%. Likewise
+its second 6.9% rate approval does not solve more quarters of bad loss data in the state that
+continues to escalate. ALL is in active dialogue with the California Department of Insurance,
+which appears to be a touch more open to take into account loss experience and had
+encouraged ALL to request a higher rate request than the limit under Proposition 103.
+Market Cap (USD mn)
+29970
+Shares Outstanding (mn)
+262.85
+Free Float (%)
+98.08
+52 Wk Avg Daily Volume (mn)
+1.8
+Dividend Yield (%)
+3.12
+Return on Equity TTM (%)
+-7.34
+Current BVPS (USD)
+58.75
+Source: Bloomberg
+Price Performance
+Exchange-NYSE
+52 Week range
+USD 142.15-103.20
+Previously ALL took a bifurcated approach in California where its National General (NatGen)
+company had success in the state achieving a 19.5% rate approval while at the time the Allstate
+brand stuck to the maximum 6.9% allowance under Prop 103. We understand the motivation to
+push for 19.5% in CA for NatGen was more operational, catching up for integrating Encompass
+and NatGen.
+150 -
+140
+130
+120
+110
+100
+Jul-2022
+Oct-2022
+Jan-2023
+Apr-2023
+Source: IDC
+Link to Barclays Live for interactive charting
+Taking seasonality into account, we do not think ALL's AYLR for auto improved
+sequentially. Between 2017-2019, ALL's underlying loss ratio was 2.5-4.5pts better in 1Q vs 4Q.
+Therefore, ALL's reported 82.1% AYLR for auto that had a seasonality benefit is likely not an
+improvement from 82.5%, which is the more clean 4Q22 auto underlying loss ratio, removing
+the effects of prior quarter re-estimates. During 2022, ALL made several re-estimates to its prior
+quarter auto underlying loss ratio, obscuring what the true metric in the corresponding
+reporting period should look like. In Figure 2, we outline ALL's auto underlying loss ratio
+adjusted for these inter-quarter estimates to better depict its quarterly trend.
+U.S. Insurance/Non-Life
+Tracy Benguigui
++1 212 526 1561
+tracy.benguigui@barclays.com
+BCI, US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should consider this
+report as only a single factor in making their investment decision.
+Please see analyst certifications and important disclosures beginning on page 10 .
+Completed: 05-May-23, 13:48 GMT Released: 05-May-23, 13:53 GMT
+Restricted - External
+Barclays | Allstate Corp.
+FIGURE 1. Seasonality obscures sequential comparisons of ALL's AYLR for auto
+Underlying Auto Loss Ratio: Recorded vs. Adj. for inter-quarter re-estimates
+85%
+84%
+83%
+81.7%
+82%
+81%
+80%
+79.3%
+79%
+78%
+77%
+76%
+75%
+1Q22
+2Q22
+Recorded
+Source: Barclays Research, Co. Reports
+Disclosures: Some new, some retired:
+What is new for "Allstate brand":
+82.5%
+82.1%
+81.6%
+3Q22
+4Q22
+Adj. for inter-quarter re-estimates
+1Q23
+. Auto underlying loss ratio ratio, previously we only saw auto AYLR for Protection
+· Annualized average earned premium per PIF
+· Average underlying loss (incurred pure premium) per PIF
+. There is a bit of math involved, but we can take these new disclosures and come up with a
+10.7% underlying loss trend for Allstate brand auto, predominantly due to severity, though
+we do not have enough data to repeat this exercise for prior periods to make comparisons.
+This is a new figure we will be tracking.
+What is new for Auto Protection:
+· Protection auto underlying loss hurt its AYLR by 6.5 pts, behind 5.7 pts of earned rate. This
+6.5% underlying loss is for Protection so NatGen is included. It is also below Allstate Brand's
+10.7% underlying loss trend since ALL applies a loss ratio (~80%) to loss trend. Therefore, its
+loss ratio truncates the amount of pricing needed to achieve rate adequacy.
+What is retired - we would have liked ALL to keep sharing:
+· Loss trend by coverages. Lack of disclosures for finer cuts like auto physical damage
+severity, bodily injury severity, and frequency.
+Florida: ALL did not see a flurry of FL auto claims before reform had passed, unlike PGR. Just
+because the timing of lawsuits came in earlier does not mean ALL would not have eventually
+seen these claims and it feels like it had been accounting for in its ultimate reserve
+assumptions.
+5 May 2023
+2
+Barclays | Allstate Corp.
+ALL: Quarterly and Annual EPS (USD)
+2022
+2023
+2024
+Change y/y
+FY Dec
+Actual
+Q1
+2.59A
+Q2
+-0.75A
+Q3
+-1.53A
+Q4
+Year
+P/E
+-1.33A
+-0.88A
+N/A
+Old
+-1.27E
+0.18E
+1.07E
+1.20E
+1.40E
+2.13E
+1.98E
+2.90E
+2.86E
+2.84E
+New
+-1.30A
+-1.35E
+0.05E
+0.38E
+2.95E
+2.91E
+39.2
+Cons
+3.23E
+3.86E
+Old
+3.25E
+1.47E
+1.16E
+2.21E
+4.23E
+11.08E
+10.69E
+New
+3.62E
+3.93E
+10.7
+Consensus numbers are from Bloomberg received on 04-May-2023; 12:50 GMT
+Source: Barclays Research
+Cons
+2023
+3.61E
+N/A
+107%
+178%
+65%
+4.47E
+322%
+33%
+13.03E
+431%
+267%
+2024
+378%
+2220%
+5 May 2023
+3
+Barclays | Allstate Corp.
+U.S. Insurance/Non-Life
+Allstate Corp. (ALL)
+Income statement ($mn)
+Net premiums earned
+45,904
+Net investment income (NII)
+2,403
+Underwriting income
+-2,911
+Operating income
+-239
+Net income
+-1,394
+Effective tax rate (%)
+26.7
+Combined ratio (%)
+106.6
+Combined ratio (ex cats & py development)
+95.1
+(%)
+Per share data ($)
+EPS (adj)
+-0.88
+EPS (reported)
+-5.12
+DPS
+3.40
+BVPS
+57.45
+BVPS (ex AOCI)
+67.22
+Diluted shares (mn)
+272
+Balance sheet and capital return ($mn)
+Total investments
+61,829
+Common shareholders' equity (ex AOCI)
+17,773
+Share buybacks
+2,496
+Dividends paid
+922
+Balance sheet and capital return metrics
+Debt leverage (%)
+31.0
+Financial leverage (%)
+39.7
+Total capital return as a % of op. earnings
+-1,430.2
+Valuation metrics
+P/BV (ex AOCI) (x)
+1.70
+P/E (adj) (x)
+N/A
+3.0
+Dividend yield (%)
+ROE (%)
+Note: FY End Dec
+2022A
+2022A
+2022A
+2022A
+2022A
+-1.2
+4.4
+Source: Company data, Bloomberg, Barclays Research
+2023E
+50,458
+53,769
+2,469
+-1,694
+770
+547
+21.0
+103.5
+92.5
+2023E
+2.91
+2.07
+3.56
+57.94
+63.75
+265
+2023E
+67,998
+16,839
+603
+936
+2023E
+31.2
+40.1
+200.0
+2023E
+39.2
+3.1
+2024E
+2,633
+595
+2,780
+4,154
+N/A
+2,554
+21.0
+21.0
+-7.7%
+98.8
+90.0
+2024E
+10.69
+9.82
+15.49
+N/A
+3.74
+3.96
+5.2%
+62.51
+72.66
+8.1%
+68.42
+260
+2024E
+69,781
+17,630
+800
+800
+-31.6%
+963
+2024E
+30.3
+38.8
+35.9
+63.4
+2024E
+1.79
+1.67
+1.65
+10.7
+7.0
+19.0
+3.3
+16.1
+2025E
+CAGR
+57,131
+7.6%
+2,923
+6.7%
+1,994
+N/A
+3,928
+N/A
+96.3
+0.0
+2025E
+16.38
+N/A
+78.69
+5.4%
+254
+2025E
+77,401
+7.8%
+19,764
+3.6%
+994
+2.5%
+2025E
+28.0
+43.2
+2025E
+1.45
+3.5
+3.2
+22.2
+-3.3%
+-100.0%
+CAGR
+-2.3%
+CAGR
+Average
+30.1
+38.6
+-280.9
+Average
+10.4
+POSITIVE
+EQUAL WEIGHT
+Price (04-May-2023)
+USD 114.02
+Price Target
+USD 122.00
+Why EQUAL WEIGHT?
+ALL's fundamentals are strong and
+we look forward to seeing progress
+on its transformative growth plan.
+However, pricing correction actions
+may stall ALL's progress in
+actualizing stronger PIF growth.
+Upside case
+USD 130.00
+Loss cost trends abate, returning to
+2019 baseline levels. Successful
+execution of Allstate's
+transformational growth plans via
+efficiency gains that is translated to
+strong PIF growth, particularly in
+auto. Our upside case of $130
+assumes ~1.9x our '24 BVPS ex AOCI
+estimate.
+Downside case
+USD 110.00
+Steeper acceleration of loss cost
+trends, particularly on the severity
+side. Prolonged period of achieving
+approvals from regulators with
+respect to requested rate increases.
+Our downside case of $110 assumes
+~10x our '24 EPS estimates.
+Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+142.15
+130.00
+Target
+122.00
+Current
+114.02
+110.00
+103.20
+Low
+Downside
+5 May 2023
+4
+Barclays | Allstate Corp.
+PF capital if ALL does not earn a statutory profit
+this year
+We are evaluating upcoming debt redemptions that ALL had previously announced it would
+complete this year that would reduce its holding company's liquidity. We are assuming ALL
+resumes taking dividends out of the operating companies in 2Q23. In this downside scenario
+considering nil statutory earnings during the balance of the year, statutory surplus would
+decrease to $14bn at YE22 from $15bn at 1Q23. Likewise, holding company liquidity would
+decrease to $2.5bn in 4Q23 from $4.2bn in 1Q23.
+FIGURE 2. Scenario: Subsidiary dividends equal quarterly fixed cost servicing, no statutory earnings
+Scenario: Subsidiary dividends equal quarterly fixed cost servicing, No Statutory Earnings
+P&C Stautory Capital ($ In Mil)
+Opening Balance
+Statutory loss & unrealized equity losses
+Dividends Paid
+ALIC Extraordinary Dividend to AIC
+Ending Balance
+15,000
+RBC
+1Q23
+15,000
+2Q23E
+15,000
+(325)
+14,675
+1Q23
+202%
+2Q23E
+198%
+Holding Co. Assets
+Opening Balance
+4,160
+Preferred Redemption
+Dividend Received
+Fixed Charges
+Buybacks
+Ending Balance
+4,160
+ALL Statutory Capital & Hold Co Assets
+19,160
+(1,075)
+325
+(325)
+(270)
+2,815
+17,490
+3Q23E
+14,675
+-
+(325)
+14,350
+14,025
+3Q23E
+194%
+2,815
+325
+(325)
+(270)
+2,545
+16,895
+4Q23E
+14,350
+(325)
+4Q23E
+189%
+2,545
+325
+(325)
+2,545
+16,570
+Undeployed Dividend Capacity*
+895
+570
+245
+*Rebases every year, unused allowances do not carryover
+1Q23 RBC is Barclays estimated.
+Source: Barclays Research, Company Disclosures
+5 May 2023
+5
+Barclays | Allstate Corp.
+1Q23 Variance
+FIGURE 3. 1Q23 Variance
+Summary
+(In $mn, except per share)
+Consolidated revenues
+$13,786
+Net Investment Income
+$575
+Net income applicable to common
+($346)
+Net income applicable to common
+per dil common share
+Adusted net income
+Adusted net income per diluted
+common share
+Book value per common share
+$58.65
+Weighted avg common shares -
+diluted
+Share repurchases
+P-L Combined Ratio
+Recorded
+108.6%
+Underlying
+93.3%
+P-L insurance premiums earned
+$11,635
+Cat losses
+1Q23A
+Q/Q
+4Q22
+% Change
+Y/Y
+1Q22
+% Change
+Barclays Est.
+1Q23E
+% Var.
+$13,853
+($1.31)
+($342)
+$13,648
+$557
+(303)
+($1.15)
+(351)
+1.0%
+$12,336
+3.2%
+14.2%
+13.9%
+-2.6%
+$594
+634
+$2.25
+11.8%
+-3.2%
+154.6%
+158.2%
+730
+-146.8%
+$606
+(406)
+($1.53)
+-0.5%
+-5.2%
+-14.7%
+-14.1%
+(333)
+2.7%
+($1.30)
+($1.33)
+-2.3%
+$2.59
+-150.2%
+($1.27)
+2.6%
+$58.12
+0.9%
+$75.46
+-22.3%
+$53.56
+9.5%
+$264
+$153
+264.4
+-0.3%
+$354
+-56.8%
+281.8
+-6.5%
+$794
+-80.7%
+265.9
+-0.9%
+$270
+-43.3%
+$1,691
+779
+117.1%
+Source: Barclays Research, Company Reports
+109.1%
+99.2%
+$11,380
+(50 bps)
+97.3%
+(590 bps)
+2.2%
+90.9%
+$10,498
+462
+1127 bps
+109.6%
+240 bps
+94.3%
+10.8%
+$11,535
+0.9%
+266.0%
+1,690
+(96 bps)
+(97 bps)
+0.1%
+5 May 2023
+6
+Barclays | Allstate Corp.
+FIGURE 4. 1Q23 Variance Con't
+Segment Details
+(In $mn, except per share)
+Property-Liability Results
+Premiums written
+$11,783
+Underwriting income
+(1,001)
+Recorded Combined Ratio
+Auto
+Home
+Underlying Combined Ratio
+Auto
+Home
+Allstate Health and Benefits
+Premiums and contract charges
+$463
+Adjusted Net Income (Loss)
+48
+Allstate Protection Services
+Revenues
+Adjusted Net Income (Loss)
+52
+1Q23A
+108.6%
+104.4%
+119.0%
+92.6%
+93.3%
+102.6%
+67.6%
+671
+Source: Barclays Research, Company Reports
+Q/Q
+4Q22
+% Change
+$11,480
+(1,035)
+109.1%
+112.6%
+99.2%
+(590 bps)
+109.2%
+69.5%
+2.6%
+3.3%
+(50 bps)
+(820 bps)
+2640 bps
+83.9%
+(660 bps)
+(190 bps)
+$436
+6.2%
+50
+-4.0%
+643
+4.4%
+39
+33.3%
+Valuation
+Y/Y
+1Q22
+% Change
+$10,761
+280
+97.3%
+102.1%
+230 bps
+90.9%
+98.8%
+68.0%
+9.5%
+-457.5%
+1127 bps
+3510 bps
+240 bps
+380 bps
+(40 bps)
+$468
+-1.1%
+49
+-2.0%
+627
+7.0%
+71
+-26.8%
+Barclays Est.
+1Q23E
+% Var.
+$11,577
+(1,102)
+109.6%
+106.1%
+121.1%
+94.3%
+103.8%
+70.0%
+1.8%
+-9.2%
+(96 bps)
+(174 bps)
+(210 bps)
+(97 bps)
+(120 bps)
+(240 bps)
+$487
+-5.0%
+$69
+-30.5%
+705
+-4.8%
+$43
+20.4%
+Our Equal Weight rating and $122 price target are based on a 50/50 weighted average of 11.5x
+our 2024 EPS estimates of $10.69 (down from $11.08) and 1.78x our YE24 book value per share
+ex AOCI estimates of $68.42 (up from $65.86). Multiples unchanged.
+5 May 2023
+7
+Barclays | Allstate Corp.
+Model Summary
+FIGURE 5. Model Summary
+($ In Mil, except per share)
+2020
+2021
+2022
+2023E
+P&C insurance premiums
+$37,073
+A&H premiums and contract charges
+$1,094
+Other revenue
+$1,065
+Net investment income
+$1,590
+Realized capital gains (losses)
+$1,087
+$42,218
+$1,821
+$2,172
+$3,293
+$1,084
+($1,072)
+$45,904
+$1,832
+$2,344
+$2,388
+$2,403
+$50,458
+$1,841
+$2,469
+$14
+2024E
+$53,769
+$1,859
+$2,503
+$2,633
+2025E
+$57,131
+$1,878
+$2,640
+$2,923
+$0
+$0
+Total revenues
+$41,909
+P&C insurance claims and expenses
+22,001
+Shelter in Place payback expense
+948
+$50,588
+29,318
+$51,411
+37,266
+29
+-
+-
+$57,169
+40,160
+$60,764
+40,408
+-
+A&H policy benefits
+516
+1,015
+Interest credited to contractholder funds
+33
+1,042
+1,050
+34
+-
+1,060
+$64,571
+41,470
+-
+1,070
+-
+-
+Operating costs/expenses & amortization of DAC
+10,971
+Pension and other post retirement remeasurement (gains)
+losses
+(51)
+13,512
+14,080
+(644)
+116
+14,515
+15,362
+(53)
+-
+Restructuring and related charges
+253
+170
+51
+27
+-
+Amortization of purchased intangibles
+118
+376
+353
+299
+226
+Interest expense
+318
+330
+333
+343
+339
+Total costs and expenses
+35,107
+Consolidated Adjusted net income
+4,510
+44,140
+4,033
+53,241
+(239)
+770
+56,342
+57,395
+2,780
+Effective tax rate
+20.2%
+Per share earnings data
+Adjusted net income per diluted common share
+$14.29
+Share information
+Average diluted shares outstanding
+315.5
+Source: Barclays Research, Company Reports
+20.0%
+$13.48
+299.2
+26.7%
+21.0%
+($0.88)
+272.2
+$2.91
+264.9
+21.0%
+$10.69
+260.2
+16,357
+-
+-
+226
+339
+59,462
+4,154
+21.0%
+$16.38
+253.6
+5 May 2023
+8
+Barclays | Allstate Corp.
+FIGURE 6. Model Summary Con't
+($ In Mil, except per share)
+Net premiums written (y/y % growth)
+Net premiums earned (y/y% change)
+2020
+2021
+0.9%
+15.7%
+2.8%
+13.9%
+Underwriting ratios
+Claims and claims expense ratio
+Expense ratio
+Combined ratio
+Underlying loss ratio
+Pre-tax cat. losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op. earnings
+Investment income
+Net investment income
+Total Investments
+Source: Barclays Research, Company Reports
+60.8%
+26.8%
+87.6%
+52.7%
+2,811
+7.9%
+60
+79.4%
+28,247
+$90.5
+19.2%
+$98
+17.4
+1,700
+$2.16
+$673
+$2,373
+53%
+$2,322
+$94,237
+71.4%
+24.5%
+23.0%
+21.1%
+95.9%
+62.5%
+3,339
+8.3%
+267
+86.4%
+23,209
+$80.4
+16.9%
+$124
+26.3
+3,260
+$3.24
+$955
+$4,215
+105%
+$3,293
+$64,701
+2022
+10.7%
+8.7%
+83.7%
+82.5%
+106.6%
+72.6%
+3,112
+7.1%
+1,725
+95.1%
+15,518
+$57.5
+-1.2%
+$124
+20.1
+2,496
+$3.40
+$922
+$3,418
+(1430%)
+$2,403
+$61,829
+$67,998
+2023E
+7.0%
+9.9%
+103.5%
+71.8%
+4,918
+10.2%
+172
+92.5%
+15,266
+$57.9
+4.4%
+$120
+5.0
+603
+$3.56
+$936
+$1,539
+200%
+$2,406
+$2,549
+2024E
+5.9%
+6.6%
+78.2%
+20.7%
+98.8%
+69.7%
+4,142
+8.1%
+143
+90.0%
+16,057
+$62.5
+16.1%
+$121
+6.6
+800
+$3.74
+$963
+$1,763
+63%
+$69,781
+2025E
+5.9%
+6.3%
+75.8%
+20.5%
+96.3%
+67.5%
+4,309
+8.0%
+134
+0.0%
+18,191
+$72.7
+22.2%
+$123
+6.5
+800
+$3.96
+$994
+$1,794
+43%
+$2,829
+$77,401
+5 May 2023
+9
+Barclays | Allstate Corp.
+Analyst(s) Certification(s):
+I, Tracy Benguigui, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
+securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+Important Disclosures:
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All
+authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the
+local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to
+https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New
+York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues,
+a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the
+firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment
+or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis,
+quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of
+Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to
+https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to:
+https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+Allstate Corp. (ALL, 04-May-2023, USD 114.02), Equal Weight/Positive, CD/CE/E/J/K/L/M
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant trading market, which may not be the last
+available closing price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the
+previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+CH: Barclays Bank PLC and/or its group companies makes, or will make, a market in the securities (as defined under paragraph 16.2 (k) of the HK SFC
+Code of Conduct) in respect of this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the
+next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US
+regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with
+South Korean regulations.
+FE: Barclays Bank PLC and/or its group companies has financial interests in relation to this issuer and such interests aggregate to an amount equal to
+or more than 1% of this issuer's market capitalization, as calculated in accordance with HK regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an
+affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+5 May 2023
+10
+Barclays | Allstate Corp.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or
+an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for
+remuneration, other than normal course investment advisory or trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing investor engagement services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit
+holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright C (2023) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its proprietary information and data that may
+be included in this report. Any Sustainalytics' information and data included herein may not be copied or redistributed, is intended for informational
+purposes only, does not constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics' information and data is
+subject to conditions available at https://www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively "Bloomberg") and the Bloomberg Indices are
+trademarks of Bloomberg. Bloomberg or Bloomberg's licensors own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or
+endorse this material, or guarantee the accuracy or completeness of any information herein, or make any warranty, express or implied, as to the results
+to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg shall have no liability or responsibility for injury or damages arising
+in connection therewith.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below)
+relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see
+definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the
+entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment
+horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to
+comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in
+an advisory capacity in a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Below is the list of companies that constitute the "industry coverage universe":
+U.S. Insurance/Non-Life
+AIG, Inc. (AIG)
+Chubb Limited (CB)
+Palomar Holdings, Inc. (PLMR)
+Allstate Corp. (ALL)
+James River Group Holdings (JRVR)
+Progressive Corp. (PGR)
+Arch Capital Group Ltd. (ACGL)
+Lemonade Inc (LMND)
+Root Inc. (ROOT)
+5 May 2023
+11
+Skyward Specialty Insurance Group, Inc. (SKWD) The Hartford Financial Services Group, Inc. (HIG)
+Barclays | Allstate Corp.
+Ryan Specialty Holdings (RYAN)
+The Travelers Companies, Inc. (TRV)
+Distribution of Ratings:
+Barclays Equity Research has 1746 companies under coverage.
+49% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 47% of companies
+with this rating are investment banking clients of the Firm; 68% of the issuers with this rating have received financial services from the Firm.
+34% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 41% of
+companies with this rating are investment banking clients of the Firm; 64% of the issuers with this rating have received financial services from the Firm.
+15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 26% of
+companies with this rating are investment banking clients of the Firm; 51% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays' Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Capital Canada Inc. (BCCI, Canada)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, India Branch (Barclays Bank, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+5 May 2023
+12
+Barclays | Allstate Corp.
+Allstate Corp. (ALL / ALL)
+Stock Rating: EQUAL WEIGHT
+Industry View: POSITIVE
+USD 114.02 (04-May-2023)
+Rating and Price Target Chart - USD (as of 04-May-2023)
+Currency=USD
+150
+140
+130
+120
+110
+100
+90
+80
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Jul-2022
+Jan-2023
+Closing Price
+Target Price
+Rating Change
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Date Closing Price*
+Rating
+Adjusted Price
+Target
+122.00
+11-Apr-2023
+116.11
+03-Feb-2023
+131.89
+19-Jan-2023
+132.43
+09-Jan-2023
+141.37
+144.00
+07-Nov-2022
+128.82
+128.00
+20-Oct-2022
+135.15
+112.00
+13-Oct-2022
+131.13
+127.00
+05-Aug-2022
+113.92
+120.00
+21-Jul-2022
+122.34
+123.00
+09-May-2022
+130.56
+132.00
+27-Apr-2022
+128.98
+137.00
+11-Apr-2022
+141.93
+141.00
+05-Jan-2022
+121.13
+119.00
+10-Nov-2021
+114.11
+Equal Weight
+123.00
+06-Aug-2021
+130.82
+147.00
+28-Jun-2021
+129.75
+07-May-2021
+132.26
+31-Mar-2021
+114.90
+135.00
+27-Jan-2021
+110.51
+125.00
+12-Jan-2021
+109.78
+16-Nov-2020
+98.06
+Overweight
+107.00
+125.00
+126.00
+144.00
+141.00
+115.00
+5 May 2023
+13
+Barclays | Allstate Corp.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by Allstate Corp ..
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by Allstate Corp ..
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from Allstate Corp. within
+the next 3 months.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by Allstate Corp. and/or in any related
+derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from Allstate Corp. within the past 12 months.
+L: Allstate Corp. is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: Allstate Corp. is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or
+an affiliate.
+Valuation Methodology: Our $122 price target is based on a 50/50 weighted average of our blended 11.5x our 2024 EPS and 1.78x our 2024 book value
+per share ex AOCI.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Steeper acceleration of loss cost trends,
+particularly on the severity side, which would pressure the company's margins. A prolonged period of low interest rates will likely pressure net
+investment income. Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business. Despite
+the acquisition being relatively small, integration of National General could be challenging and lead to execution risk in combining business units
+under one operational model.
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates
+(collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or more Barclays affiliated legal entities listed
+below or by an independent and non-affiliated third-party entity (as may be communicated to you by such third-party entity in its communications
+with you). It is provided for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states
+on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt
+research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors
+is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic
+organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment
+decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt
+issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays
+institutional debt research reports should contact debtresearch@barclays.com. Unless clients have agreed to receive "institutional debt research
+reports" as required by US FINRA Rule 2242, they will not receive any such reports that may be co-authored by non-debt research analysts. Eligible
+clients may get access to such cross asset reports by contacting debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this
+report as its clients and accepts no liability for use by them of the contents which may not be suitable for their personal use. Prices shown are
+indicative and Barclays is not offering to buy or sell or soliciting offers to buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers,
+directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue,
+loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this
+publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research
+believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Appearances by Third-Party Speakers: Any views or
+opinions expressed by third-party speakers during this event are solely those of the speaker and do not represent the views or opinions of Barclays.
+Barclays is not responsible for, and makes no warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or
+video presentations by any third-party speakers at the event ("Third-Party Content"). Any such Third-Party Content has not been adopted or endorsed
+by Barclays and does not represent the views or opinions of Barclays. Third-Party Content is provided for information purposes only and has not been
+independently verified by Barclays for its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no
+obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have
+not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general
+recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject
+companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial
+circumstances or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this publication. The securities and
+other investments discussed herein may not be suitable for all investors and may not be available for purchase in all jurisdictions. The United States
+imposed sanctions on certain Chinese companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing securities issued by those companies. Investors
+5 May 2023
+14
+Barclays | Allstate Corp.
+must independently evaluate the merits and risks of the investments discussed herein, including any sanctions restrictions that may apply, consult any
+independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income
+from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should not be used as a submission or
+contribution of input data for the purposes of determining a financial benchmark.
+This publication is not investment company sales literature as defined by Section 270.24(b) of the US Investment Company Act of 1940, nor is it
+intended to constitute an offer, promotion or recommendation of, and should not be viewed as marketing (including, without limitation, for the
+purposes of the UK Alternative Investment Fund Managers Regulations 2013 (SI 2013/1773) or AIFMD (Directive 2011/61)) or pre-marketing (including,
+without limitation, for the purposes of Directive (EU) 2019/1160) of the securities, products or issuers that are the subject of this report.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have not been adopted or endorsed by any third
+party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is
+directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of
+"investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high
+net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c)
+other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity
+to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this
+communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area ("EEA"): This material is being distributed to any "Authorised User" located in a Restricted EEA Country by Barclays Bank
+Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria, Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta,
+Portugal, Romania, Slovakia and Slovenia. For any other "Authorised User" located in a country of the European Economic Area, this material is being
+distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the Central Bank of Ireland whose registered office is at 1
+Molesworth Street, Dublin 2, Ireland. Barclays Bank PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to Barclays and authorised to use the
+Research Services. The Restricted EEA Countries will be amended if required.
+Finland: Notwithstanding Finland's status as a Restricted EEA Country, Research Services may also be provided by Barclays Bank PLC where permitted
+by the terms of its cross-border license.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital
+Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in
+connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do
+so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local
+regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a
+Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa, S.A. de C.V. This material is distributed in the
+Cayman Islands and in the Bahamas by Barclays Capital Inc., which it is not licensed or registered to conduct and does not conduct business in, from or
+within those jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a
+joint-stock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays
+Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho
+(kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated
+by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities
+(India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is
+registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585;
+Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-
+NSDL-299-2008; Investment Adviser: INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308.The registered office
+of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai - 400 018, India. Telephone No: +91 22 67196363. Fax number: +91
+22 67196399. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of
+BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn
+No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays
+Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth
+Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not
+authorised to distribute any reports produced by Barclays' Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of
+Singapore. For matters in connection with this material, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose
+registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+5 May 2023
+15
+Barclays | Allstate Corp.
+This communication is directed at persons who are a "Wholesale Client" as defined by the Australian Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain exemptions to Barclays Bank PLC (BBPLC) under
+paragraph 911A(2)(l) of the Corporations Act 2001 from the requirement to hold an Australian financial services licence (AFSL) in respect of financial
+services provided to Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of the United Kingdom
+(PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and the PRA under United Kingdom laws. The United Kingdom
+has laws which differ from Australian laws. To the extent that this communication involves the provision of financial services by BBPLC to Australian
+Wholesale Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited (ACN 636 976 059,
+"Barrenjoey"), the holder of Australian Financial Services Licence (AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you
+by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays Bank PLC is not registered, filed with or
+approved by any New Zealand regulatory authority. This material is not provided under or in accordance with the Financial Markets Conduct Act of
+2013 ("FMCA"), and is not a disclosure document or "financial advice" under the FMCA. This material is distributed to you by either: (i) Barclays Bank
+PLC directly or (ii) Barrenjoey Markets Pty Limited ("Barrenjoey"), a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC. This material may only be distributed to "wholesale investors" that meet the "investment business",
+"investment activity", "large", or "government agency" criteria specified in Schedule 1 of the FMCA.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing
+and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only.
+Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014
+as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel
+Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. Barclays
+Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal
+place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates.
+Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related
+financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the
+UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside
+the UAE in Dubai (Licence No .: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No .: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material does not constitute or form part
+of any offer to issue or sell, or any solicitation of any offer to subscribe for or purchase, any securities or investment products in the UAE (including the
+Dubai International Financial Centre) and accordingly should not be construed as such. Furthermore, this information is being made available on the
+basis that the recipient acknowledges and understands that the entities and securities to which it may relate have not been approved, licensed by or
+registered with the UAE Central Bank, the Dubai Financial Services Authority or any other relevant licensing authority or governmental agency in the
+UAE. The content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial Services Authority. Barclays Bank PLC in
+the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC
+Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar
+Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are
+only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority.
+Russia: This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain
+information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation
+and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of
+any copy of this material in your possession.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax
+advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used,
+and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the
+transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax
+advisor.
+Copyright Barclays Bank PLC (2023). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the
+prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP.
+Additional information regarding this publication will be furnished upon request.
+5 May 2023
+16

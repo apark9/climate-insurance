@@ -1,0 +1,519 @@
+CORE
+BARCLAYS
+Equity Research | Instant Insights
+4 November 2021
+Completed: 05-Nov-21, 01:29 GM
+Released: 05-Nov-21, 01:29 GM
+Tracy Benguigui
++1 212 526 1561
+Alex Rakow
++1 212 526 9436
+tracy.benguigui@barclays.com
+alexander.rakow@barclays.com
+AIG, Inc.
+3Q21 First Look
+Stock Rating/Industry View: Equal Weight/Positive
+Price Target: USD 59.00
+Price (04-Nov-2021): USD 60.39
+Potential Upside/Downside: - 2%
+Tickers: AIG
+Our Takeaway
+BCI, US
+BCI, US
+A
+Operating EPS of $0.97 was below our $0.99 estimate and above the $0.89 Street estimate. Relative to our
+estimates, robust NA and Intl commercial premium growth and slightly better underlying underwriting margin
+expansion in GI were offset by lower than expected adjusted pre-tax income in L&R and largely anticipated
+strong NII on elevated levels of alts investment income from PE.
+After adjusting significant variances Operating EPS would have been $1.22. On the revenue side,
+better than expected after-tax alternative returns of $483mn contributed $0.45 to EPS and worse than
+expected FV change on fixed maturity securities detracted $14mn, -$0.01 from EPS. On the expense side, add
+backs included cat losses of $646mn, +$0.60 to EPS and the annual actuarial assumption update charge of
+$166mn, +$0.15 to EPS; reinstatement premiums of $10mn, -$0.01 to EPS and favorable PYD of $50mn,
+-$0.05 from EPS. We will learn more on the earnings call of its above trend-COVID 19 losses within L&R.
+Highlights:
+Prior year reserve development: In total, AIG recorded $50mn favorable. Looking through the moving parts,
+we are paying attention to the $343mn unfavorable development within NA commercial and
+unfavorable $210mn within International commercial lines, mostly attributable to Global Financial Lines
+per accident years 2016 through 2018. Keep in mind, for NA that figure is net of favorable PYD from workers'
+compensation. We are watching these accident years that predated some of AIG's remediation efforts and are
+post its ADC (2015 and prior). With Mark Lyons going back in the Global Chief Actuary role next year we would
+like to know if we should anticipate any changes to reserving practices.
+Underwriting: Compared to the prior quarter, GI's underlying CR (90.5%) improved ~60 bps sequentially
+(91.1% in 2Q21) and was better than our 3Q estimate (91.3%). AIG appears to be tracking to achieve an
+underlying CR in General Insurance (GI) under 90% by YE22. While margin expansion is noteworthy, it is less
+than other 3Q prints we have seen. Within GI, AIG recorded $628mn of net cats in 3Q21 (vs. our estimate of
+$768mn).
+While we usually pay more attention to commercial lines performance, we note that AIG has shown nice
+underlying margin expansion within NA personal (AYLR ex cat of 57.5% in 3Q21, an improvement from 60.9%
+in 2Q21 and 60.8% in 3Q20).
+Strong Commercial Growth: NA Commercial and Intl Commercial NPW were up considerably +18% y/y and
++15% y/y, respectively.
+Capital deployment: AIG repurchased ~$1.1bn in 3Q21, above our estimate of $1bn. Debt redemptions
+totaled 1.5bn (4.875% Notes due 2022) in 3Q21. AIG aims to repurchase $2bn of shares and redeem $2.5bn of
+debt before YE21. Parent company liquidity fell to $5.3bn in 3Q21 from $7.2bn at 2Q21.
+AIG and Blackstone announced on November 2nd the closing of Blackstone's acquisition of a 9.9% equity stake
+for $2.2bn in AIG's L&R business. Blackstone will also manage an initial $50bn of L&R existing investment
+portfolio (expected to increase incrementally to ~$92.5bn over the next six years).
+3Q21 Key Metrics
+download image
+Source: Barclays Research and Company Data.
+AIG 3Q21 Earnings Call
+Lookout
+. Changing of the Guard: Gaining a better understanding of the rationale behind the transition of current
+CFO Mark Lyons to Global Chief Actuary and Head of Portfolio Management, AIG, and potentially hearing
+from his successor as CFO, AIG, Shane Fitzsimons. The transition becomes effective January 1, 2022. We will
+like to better understand how Mark Lyon's role will compliment or overlap David McElroy, Head of GI.
+· L&R separation: Size of IPO driven by market conditions, likely a 1Q event. Now that AIG expects to fully
+consume its foreign tax credits in 2022 the company is no longer limited to a minority offering size.
+·· L&R management team taking shape: Effective October 25th, Elias Habayeb was named CFO,
+L&R. Previous role was CFO, GI and Deputy CFO, AIG.
+· Capital Management: We don't anticipate any changes to capital deployment priorities: debt repayment,
+share repurchases, and utilizing underwriting capacity to grow in hard market. M&A seems to rank lower.
+· LME: $2.5bn of debt redemptions is the first cut in 2H21. A debt-driven special dividend from L&R will be
+the second cut. Part two: approaching ultimate targets of 25% leverage for AIG, Inc. and 25-30% at L&R can
+be self-funded through IPO raise, hold co liquidity consumption would be make whole provisions/tenders.
+Conference Call Details
+3Q21 earnings call on Friday, November 5th at 8:30AM EST. The webcast can be viewed on
+https://www.aig.com/investor-relations.
+Restricted - External
+Analyst(s) Certification(s):
+I, Tracy Benguigui, hereby certify (1) that the views expressed in this research report accurately reflect my
+personal views about any or all of the subject securities or issuers referred to in this research report and (2)
+no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or
+views expressed in this research report.
+Important Disclosures:
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies covered in its
+research reports. As a result, investors should be aware that the firm may have a conflict of interest that
+could affect the objectivity of this report. Investors should consider this report as only a single factor in
+making their investment decision.
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively
+and each individually, "Barclays"). All authors contributing to this research report are Research Analysts
+unless otherwise indicated. The publication date at the top of the report reflects the local time where the
+report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding
+those companies please refer to https://publicresearch.barclays.com or alternatively send a written request
+to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New York, NY 10019 or call +1-212-526-
+1072.
+The analysts responsible for preparing this research report have received compensation based upon various
+factors including the firm's total revenues, a portion of which is generated by investment banking activities,
+the profitability and revenues of the Markets business and the potential interest of the firm's investing clients
+in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays
+policy prohibits them from accepting payment or reimbursement by any covered company of their travel
+expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental
+analysis, equity-linked analysis, quantitative analysis, and trade ideas. Recommendations contained in one
+type of Barclays Research may differ from those contained in other types of Barclays Research, whether as a
+result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please
+refer to https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict
+Management Policy Statement, please refer to: https://publicresearch.barcap.com/S/CM.htm.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For
+tax purposes, distributions to MLP unit holders may be treated as a return of principal. Investors should
+consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright C (2021) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its
+proprietary information and data that may be included in this report. Any Sustainalytics' information and data
+included herein may not be copied or redistributed, is intended for informational purposes only, does not
+constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics'
+information and data is subject to conditions available at https://www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively
+"Bloomberg") and the Bloomberg Indices are trademarks of Bloomberg. Bloomberg or Bloomberg's licensors
+own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or endorse this material, or
+guarantee the accuracy or completeness of any information herein, or make any warranty, express or
+implied, as to the results to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg
+shall have no liability or responsibility for injury or damages arising in connection therewith.
+Mentioned Stocks (Ticker, Date, Price)
+AIG, Inc. (AIG, 04-Nov-2021, USD 60.39), Equal Weight/Positive, A/CD/CE/E/J/K/L/M/N
+Valuation Methodology: Our Equal Weight rating and $59 price target are based on a 50/50 weighted
+average of 11x our 2022 EPS estimate of $5.25 and 0.8x YE22 estimated book value per share (ex-AOCI) of
+$74.6. Our target multiples for AIG are below the P/C insurance group given we expect lower ROEs,
+especially for GI standalone.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target:
+Potential calls on capital to complete a separation. Expansion of underwriting risk appetite too fast too soon
+and/or over exuberance at hardening pricing that falter AIG's resolve to walk away from business that does
+not meet risk return hurdles. Unexpected adverse reserve development which would not only impair earnings
+or capital but undermine the creditability of its underwriting remediation actions to date. Ultimately we think
+a smaller capital base post separation may temper AIG's ability to compete at the upper end of the market
+where we see less trading partners.
+Ratings and Price Target History:
+AIG, Inc.
+Currency=USD
+AIG
+Source: IDC, Barclays Research
+Publication Date
+12-Oct-2021
+57.40
+09-Aug-2021
+51.85
+53.00
+12-Jul-2021
+47.44
+50.00
+10-May-2021
+51.92
+53.00
+17-Mar-2021
+47.67
+12-Jan-2021
+41.00
+16-Nov-2020
+38.49
+22-Jan-2020
+52.26
+02-Oct-2019
+53.47
+07-Aug-2019
+54.41
+21-May-2019
+52.50
+09-Jan-2019
+41.16
+12-Nov-2018
+42.47
+Closing Price
+Rating
+Equal Weight
+67.00
+Coverage Dropped
+39.00
+Adjusted Price Target
+59.00
+47.00
+18-Feb-2021
+42.11
+43.00
+41.00
+65.00
+60.00
+50.00
+62.00
+On 04-Nov-2018, prior to any intra-day change that may have been published, the rating for this security
+was Overweight, and the adjusted price target was 71.00.
+Source: Bloomberg, Barclays Research
+Historical stock prices and price targets may have been adjusted for stock splits and dividends.
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant
+trading market, which may not be the last available price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed
+offer of securities of the issuer in the previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this
+issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment
+banking services from this issuer within the next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this
+issuer, as calculated in accordance with US regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of
+equity securities of this issuer, as calculated in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of
+equity securities of this issuer, as calculated in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this
+issuer, as calculated in accordance with South Korean regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her
+household) has a long position in the common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her
+household) has a long position in the common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial
+services to Barclays Bank PLC and/or an affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this
+issuer and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation
+(including compensation for brokerage services, if applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC
+and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related
+services) of Barclays Bank PLC and/or an affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities
+related services) of Barclays Bank PLC and/or an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months,
+provided services to the subject company for remuneration, other than normal course investment advisory or
+trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking
+services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or
+Underweight (see definitions below) relative to other companies covered by the analyst or a team of analysts
+that are deemed to be in the same industry ("the industry coverage universe"). To see a list of companies
+that comprise a particular industry coverage universe, please go to https://publicresearch.barclays.com.
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage
+universe as Positive, Neutral or Negative (see definitions below). A rating system using terms such as buy,
+hold and sell is not the equivalent of our rating system. Investors should carefully read the entire research
+report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry
+coverage universe over a 12-month investment horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the
+industry coverage universe over a 12-month investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry
+coverage universe over a 12-month investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events
+that made coverage impracticable or to comply with applicable regulations and/or firm policies in certain
+circumstances including where the Investment Bank of Barclays Bank PLC is acting in an advisory capacity in
+a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor
+deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Distribution of Ratings:
+Barclays Equity Research has 1787 companies under coverage.
+50% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is
+classified as a Buy rating; 51% of companies with this rating are investment banking clients of the Firm; 72%
+of the issuers with this rating have received financial services from the Firm.
+33% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is
+classified as a Hold rating; 45% of companies with this rating are investment banking clients of the Firm;
+69% of the issuers with this rating have received financial services from the Firm.
+13% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is
+classified as a Sell rating; 36% of companies with this rating are investment banking clients of the Firm; 63%
+of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's
+expectation of where the stock will trade in the next 12 months. Upside/downside scenarios, where provided,
+represent potential upside/potential downside to each analyst's price target over the same 12-month period.
+Top Picks:
+Barclays Equity Research's "Top Picks" represent the single best alpha-generating investment idea within
+each industry (as defined by the relevant "industry coverage universe"), taken from among the Overweight-
+rated stocks within that industry. While analysts may highlight other Overweight-rated stocks in their
+published research in addition to their Top Pick, there can only be one "Top Pick" for each industry. To view
+the current list of Top Picks, go to the Top Picks page on Barclays Live
+(https://live.barcap.com/go/keyword/TopPicks).
+To see a list of companies that comprise a particular industry coverage universe, please go to
+https://publicresearch.barclays.com.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain
+investment recommendations in the form of trade ideas, thematic screens, scorecards or portfolio
+recommendations that have been produced by analysts within Equity Research. Any such investment
+recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future
+research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that
+contain recommendations that differ from and/or conflict with those published by Barclays' Equity Research
+Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same
+securities/instruments recommended in this research report during the preceding 12 months. To view all
+investment recommendations published by Barclays Equity Research in the preceding 12 months please refer
+to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Capital Canada Inc. (BCCI, Canada)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, India Branch (Barclays Bank, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays
+Bank PLC and/or one or more of its affiliates (collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or
+more Barclays affiliated legal entities listed below or by an independent and non-affiliated third-party entity
+(as may be communicated to you by such third-party entity in its communications with you). It is provided
+for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims
+all warranties of merchantability or fitness for a particular purpose or use with respect to any data included in
+this publication. To the extent that this publication states on the front page that it is intended for institutional
+investors and is not subject to all of the independence and disclosure standards applicable to debt research
+reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report"
+and distribution to retail investors is strictly prohibited. Barclays also distributes such institutional debt
+research reports to various issuers, media, regulatory and academic organisations for their own internal
+informational news gathering, regulatory or academic purposes and not for the purpose of making
+investment decisions regarding any debt securities. Media organisations are prohibited from re-publishing any
+opinion or recommendation concerning a debt issuer or debt security contained in any Barclays institutional
+debt research report. Any such recipients that do not want to continue receiving Barclays institutional debt
+research reports should contact debtresearch@barclays.com. Clients that are subscribed to receive equity
+research reports, will not receive certain cross asset research reports co-authored by equity and FICC
+research analysts that are distributed as "institutional debt research reports" unless they have agreed to
+accept such reports. Eligible clients may get access to such cross asset reports by contacting
+debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and
+accepts no liability for use by them of the contents which may not be suitable for their personal use. Prices
+shown are indicative and Barclays is not offering to buy or sell or soliciting offers to buy or sell any financial
+instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any
+affiliate, nor any of their respective officers, directors, partners, or employees have any liability for (a) any
+special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue, loss of anticipated
+savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages,
+arising from any use of this publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained
+from sources that Barclays Research believes to be reliable, but Barclays does not represent or warrant that
+it is accurate or complete. Barclays is not responsible for, and makes no warranties whatsoever as to, the
+information or opinions contained in any written, electronic, audio or video presentations of third parties that
+are accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site ('Third-
+Party Content'). Any such Third-Party Content has not been adopted or endorsed by Barclays, does not
+represent the views or opinions of Barclays, and is not incorporated by reference into this publication. Third-
+Party Content is provided for information purposes only and Barclays has not independently verified its
+accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to
+change, and Barclays Research has no obligation to update its opinions or the information in this publication.
+Unless otherwise disclosed herein, the analysts who authored this report have not received any compensation
+from the subject companies in the past 12 months. If this publication contains recommendations, they are
+general recommendations that were prepared independently of any other interests, including those of
+Barclays and/or its affiliates, and/or the subject companies. This publication does not contain personal
+investment recommendations or investment advice or take into account the individual financial circumstances
+or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this
+publication. The securities and other investments discussed herein may not be suitable for all investors and
+may not be available for purchase in all jurisdictions. The United States imposed sanctions on certain Chinese
+companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing
+securities issued by those companies. Investors must independently evaluate the merits and risks of the
+investments discussed herein, including any sanctions restrictions that may apply, consult any independent
+advisors they believe necessary, and exercise independent judgment with regard to any investment decision.
+The value of and income from any investment may fluctuate from day to day as a result of changes in
+relevant economic markets (including changes in market liquidity). The information herein is not intended to
+predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should
+not be used as a submission or contribution of input data for the purposes of determining a financial
+benchmark.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have
+not been adopted or endorsed by any third party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised
+person (Barclays Bank PLC) or (2) to, and is directed at (a) persons in the United Kingdom having
+professional experience in matters relating to investments and who fall within the definition of "investment
+professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order
+2005 (the "Order"); or (b) high net worth companies, unincorporated associations and partnerships and
+trustees of high value trusts as described in Article 49(2) of the Order; or (c) other persons to whom it may
+otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or
+investment activity to which this communication relates is only available to and will only be engaged in with
+Relevant Persons. Any other persons who receive this communication should not rely on or act upon it.
+Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial
+Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area ("EEA"): This material is being distributed to any "Authorised User" located in a
+Restricted EEA Country by Barclays Bank Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria,
+Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta, Portugal, Romania, Slovakia
+and Slovenia. For any other "Authorised User" located in a country of the European Economic Area, this
+material is being distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the
+Central Bank of Ireland whose registered office is at 1 Molesworth Street, Dublin 2, Ireland. Barclays Bank
+PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to
+Barclays and authorised to use the Research Services. The Restricted EEA Countries will be amended if
+required.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its
+wholly owned subsidiary Barclays Capital Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S.
+registered broker/dealer, is distributing this material in the United States and, in connection therewith
+accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security
+discussed herein should do so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745
+Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in
+their home jurisdiction unless local regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a
+Dealer Member of IIROC (www.iiroc.ca), and a Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa,
+S.A. de C.V. This material is distributed in the Cayman Islands and in the Bahamas by Barclays Capital Inc.,
+which it is not licensed or registered to conduct and does not conduct business in, from or within those
+jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan
+Limited. Barclays Securities Japan Limited is a joint-stock company incorporated in Japan with registered
+office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays Bank PLC and a
+registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered
+Number: Kanto Zaimukyokucho (kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong
+Kong as an authorised institution regulated by the Hong Kong Monetary Authority. Registered Office: 41/F,
+Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are
+distributed in India by Barclays Securities (India) Private Limited (BSIPL). BSIPL is a company incorporated
+under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is registered and regulated by
+the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager
+INP000002585; Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the
+National Securities & Depositories Limited (NSDL): DP ID: IN-DP-NSDL-299-2008; Investment Adviser:
+INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308.The registered
+office of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai - 400 018,
+India. Telephone No: +91 22 67196363. Fax number: +91 22 67196399. Any other reports produced by
+Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of BSIPL
+in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of
+The Banking Regulation Act, 1949 (Regn No BOM43) and registered with SEBI as Merchant Banker (Regn No
+INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays Investments and Loans
+(India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and
+Barclays Wealth Trustees (India) Private Limited, registered with Registrar of Companies (CIN
+U93000MH2008PTC188438), are associates of BSIPL in India that are not authorised to distribute any reports
+produced by Barclays' Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in
+Singapore by the Monetary Authority of Singapore. For matters in connection with this material, recipients in
+Singapore may contact the Singapore branch of Barclays Bank PLC, whose registered address is 10 Marina
+Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+This communication is directed at persons who are a "Wholesale Client" as defined by the Australian
+Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain
+exemptions to Barclays Bank PLC (BBPLC) under paragraph 911A(2)(I) of the Corporations Act 2001 from the
+requirement to hold an Australian financial services licence (AFSL) in respect of financial services provided to
+Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of
+the United Kingdom (PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and
+the PRA under United Kingdom laws. The United Kingdom has laws which differ from Australian laws. To the
+extent that this communication involves the provision of financial services by BBPLC to Australian Wholesale
+Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC
+does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey
+Markets Pty Limited (ACN 636 976 059, "Barrenjoey"), the holder of Australian Financial Services Licence
+(AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays
+Bank PLC is not registered, filed with or approved by any New Zealand regulatory authority. This material is
+not provided under or in accordance with the Financial Markets Conduct Act of 2013 ("FMCA"), and is not a
+disclosure document or "financial advice" under the FMCA. This material is distributed to you by either: (i)
+Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited ("Barrenjoey"), a non-affiliated third party
+distributor, where clearly identified to you by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material may only be distributed to "wholesale investors" that meet the "investment business",
+"investment activity", "large", or "government agency" criteria specified in Schedule 1 of the FMCA.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of
+Investment Advisory, Investment Marketing and Portfolio Management Law, 1995 ("Advisory Law"). This
+document is being made to eligible clients (as defined under the Advisory Law) only. Barclays Israeli branch
+previously held an investment marketing license with the Israel Securities Authority but it cancelled such
+license on 30/11/2014 as it solely provides its services to eligible clients pursuant to available exemptions
+under the Advisory Law, therefore a license with the Israel Securities Authority is not required. Accordingly,
+Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre)
+and Qatar by Barclays Bank PLC. Barclays Bank PLC in the Dubai International Financial Centre (Registered
+No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal place of business in the
+Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United
+Arab Emirates. Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall
+within the scope of its existing DFSA licence. Related financial products or services are only available to
+Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the UAE is
+regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a
+commercial bank incorporated outside the UAE in Dubai (Licence No .: 13/1844/2008, Registered Office:
+Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi (Licence No .:
+13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material
+does not constitute or form part of any offer to issue or sell, or any solicitation of any offer to subscribe for or
+purchase, any securities or investment products in the UAE (including the Dubai International Financial
+Centre) and accordingly should not be construed as such. Furthermore, this information is being made
+available on the basis that the recipient acknowledges and understands that the entities and securities to
+which it may relate have not been approved, licensed by or registered with the UAE Central Bank, the Dubai
+Financial Services Authority or any other relevant licensing authority or governmental agency in the UAE. The
+content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial
+Services Authority. Barclays Bank PLC in the Qatar Financial Centre (Registered No. 00018) is authorised by
+the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC Branch may only undertake
+the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in
+Qatar: Qatar Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891,
+Doha, Qatar. Related financial products or services are only available to Business Customers as defined by the
+Qatar Financial Centre Regulatory Authority.
+Russia: This material is not intended for investors who are not Qualified Investors according to the laws of
+the Russian Federation as it might contain information about or description of the features of financial
+instruments not admitted for public offering and/or circulation in the Russian Federation and thus not eligible
+for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian
+Federation, please dispose of any copy of this material in your possession.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing
+contained herein should be construed to be tax advice. Please be advised that any discussion of U.S. tax
+matters contained herein (including any attachments) (i) is not intended or written to be used, and cannot be
+used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the
+promotion or marketing of the transactions or other matters addressed herein. Accordingly, you should seek
+advice based on your particular circumstances from an independent tax advisor.
+Copyright Barclays Bank PLC (2021). All rights reserved. No part of this publication may be reproduced or
+redistributed in any manner without the prior written permission of Barclays. Barclays Bank PLC is registered
+in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP. Additional information
+regarding this publication will be furnished upon request.

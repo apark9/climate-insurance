@@ -1,0 +1,2849 @@
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Equity Research
+Earnings Revised - July 20, 2023
+Commercial Lines Insurance
+The Travelers Companies, Inc. (TRV)
+TRV: It's Raining Rate; Conference Call Round-Up
+Our Call
+TRV shares traded up modestly as the stronger-than-expected BI margin benefited from
+1.5 points of favorable property results plus the company saw adverse development in BI.
+The stock from here: TRV traded up on the day given the better-than-expected BI
+margins and re-acceleration of BI RPC including both RRC and exposure. While the
+improvement in rate was good there were a few other issues weighing on the stock, in our
+view: (1) the BI RPC benefited from property accounting for 21% of domestic premiums
+in the quarter (vs 13% in Q1), (2) there was ~$350M of unfavorable development in BI ex.
+WC releases and (3) personal auto is still not at written price adequacy.
+Estimate and price target changes: Our 2023 EPS estimate goes to $12.30 (from
+$13.50), 2024 EPS goes to $18.15 (from $18.35) and our 2025 EPS goes to $20.50
+(from $21.00) to reflect weaker personal auto results, higher interest expense, a higher
+cat load and lower repurchases in 2H 2023. Our price target is unchanged at $185 based
+off 10.2x 2024E EPS and 1.66x 2024E book value.
+Read thrus: (1) Continued firming in commercial pricing aided by seasonally higher
+property renewals, (2) exposure re-accelerated, which should bode well for the brokers,
+(3) personal auto severity remains stickier than expected with loss costs in the low double
+digits, and (4) TRV added to its reinsurance program and pointed to repurchases being
+lower in the second half given the outsized cat losses to start the year, which we could
+potentially see from others.
+BI margin benefited from favorable non-cat losses. BI saw an underlying combined ratio
+of 89.4%, a 3 point improvement Y/Y, with a 2.5 point benefit from favorable property
+losses, implying 50bps of core improvement. The 50 bps was driven by earned rate
+exceeding los trend. BI saw $101M of PYD, including $350M of strengthening ex comp
+driven by other liability lines led by umbrella. Even with the reserve strengthening, TRV
+said they did not change their 5.5-6.0% loss trend assumption.
+Personal auto still struggling: TRV did not reach its target of written price adequacy
+by mid-year given loss costs is stickier than expected, with severity remaining in the low
+double digits. They expect the auto RPC to continue to rise from here, but they did not
+provide a timeline on when they expect to reach price adequacy. The higher severity is
+being a higher mix of accidents that involve BI coverages, which is offsetting some PD
+easing, particularly from wholesale prices.
+WELLS
+FARGO
+Equity Analyst(s)
+Elyse Greenspan, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Elyse.Greenspan@wellsfargo.com | 212-214-8031
+Hristian Getsov
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Hristian.Getsov@wellsfargo.com | 561-843-4188
+Wes Carmichael, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Wesley.Carmichael@wellsfargo.com | 212-214-5322
+Matthew Byrnes, CFA
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Matthew.Byrnes@wellsfargo.com | 212-214-8903
+Rating
+Ticker
+Price Target/Prior:
+$185.00/NC
+Upside/(Downside) to Target
+8.5%
+Price (07/19/2023)
+$170.56
+52 Week Range
+$149.65 - 194.51
+Shares Outstanding
+230,976,565
+Market Cap (MM)
+$39,395
+Enterprise Value (MM)
+$45,912
+Average Daily Volume
+1,599,973
+Average Daily Value (MM)
+$273
+Dividend (NTM)
+$3.93
+Dividend Yield
+2.3%
+Net Debt (MM) - last reported
+$6,517
+ROIC - Current year est.
+13%
+3 Yr EPS CAGR from current
+18%
+year (unless otherwise noted)
+Equal Weight
+TRV
+$
+2022A 2023E
+2023E 2024E
+Prior
+2024E
+Curr.
+Prior
+EPS
+Curr.
+Q1 (Mar)
+4.22 A
+4.11 A
+NC
+4.54 E
+4.79E
+Q2 (Jun)
+2.56 A
+0.05 A
+1.31E
+3.47 E
+3.37E
+Q3 (Sep)
+2.20 A
+3.13 E
+3.02E
+4.14 E
+4.13E
+Q4 (Dec)
+3.40 A
+4.99 E
+5.08E
+6.02 E
+6.09E
+FY
+12.43 A 12.30 E 13.50E 18.15 E 18.35E
+P/E
+9.4x
+13.7x
+13.9x
+ROIC - Current year est .: Represents return on equity (ROE) 3 Yr EPS
+CAGR from current year (unless otherwise noted): Using 2019-2022
+for CAGR calculationEPS: Operating EPS
+Source: Company Data, Wells Fargo Securities estimates, and Refinitiv.
+NA = Not Available, Volatility = Historical trading volatility
+All estimates/forecasts are as of 7/20/2023 unless otherwise stated. 7/20/2023 16:41:43EDT. Please see page 12 for rating definitions, important disclosures and required analyst certifications.
+Wells Fargo Securities, LLC does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could
+affect the objectivity of the report and investors should consider this report as only a single factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Takeaways for the Non-Life Insurance Group
+The main takes that stand out from TRV to us, and the laterals for the rest of the group are below.
+Net-net, the biggest takes are that TRV continues to see pretty poor personal auto results (although
+the margin did improve sequentially), commercial lines continue to see strong rate including sequential
+accelerations in both rate and exposure, and investment income continues to be a strong tailwind for
+earnings as they raised their NII guide. TRV also saw a sizable reserve increase for other liability lines
+within BI, and we expect there to be a focus on reserve movement we see from other insurers this
+quarter. Highlights of the laterals that we see for the group follow below:
+· Commercial lines pricing momentum continues. TRV said that its renewal rates in BI were +7.2%
+in Q2, accelerating sequentially from +4.7% in Q1 showed a continued firm market. We suspect
+the higher property renewal (21% of total domestic BI premiums in the quarter vs 14.6% in Q1) in
+the Q2 had some impact on the higher rate but TRV said every line in BI saw a sequential increase
+vs the Q1 showing broad-based strength. The strong pricing and strong new business growth in
+commercial in addition to TRV saying loss costs have not significantly changed is a positive for
+the commercial peers, and the seasonally higher property renewal in the Q2 should boost rates
+and exposures for the group.
+· Exposure growth accelerates sequentially. Exposure growth saw a sequential uptick in BI in Q2
+as TRV saw exposure growth of 5.6% vs the 4.7% in Q1. When looking at the RPC, the higher RRC
+and exposure growth led to an RPC of 12.8%, which was a record-high for TRV. The re-acceleration
+of exposure growth should be a good sign for all insurance brokers. Further, TRV is more of a
+small-middle market insurer (RPC was up a point in Select and more than two points in Middle
+Market), it is the best take for AJG and BRO, but does point to a potentially good quarter for
+the brokerage group in general.
+· Personal auto continues to see elevated margins. TRV printed a 103.5% personal auto underlying
+combined ratio, remaining above the company target of mid-90s to perhaps a range above the
+upper-end of the mid-90s. RPC was 16.1% in the quarter, accelerating from 14.0% in the prior
+quarter but TRV noted they are still not at written price adequacy, which they previously guided
+to, given severity has remained stickier than their expectations with loss trends in the low double
+digits. These results highlight personal auto carriers are still higher severity than they originally
+expected, pushing out the timeline on when carriers can return to target margins.
+· Adds to its reinsurance coverage. TRV increased their coverage under the NE property treaty
+by fully placing the $850M layer above the attachment point of $2.5B (vs last year they placed a
+$750M layer above a $2.25B attachment point). They also added a new hurricane cat excess of
+loss reinsurance program in their personal insurance property book that provided 50% coverage
+for the $1.0B layer above the attachment point of $1.75B. They said the margin impact of this
+new program was de-minimis and the overall impact from higher reinsurance program across all
+programs should little or no impact on expected margins given the rate they are taking (which is
+offsetting the higher costs). We expect other insurers to potentially add to their programs for
+the back half of this year given cats are on a record-pace to begin the year.
+· Point to repurchases being lower in the second half. With the higher cat losses to start the year
+and going into wind season, TRV pointed to repurchases being lower in the second half vs the
+first half. We could see other companies pullback on repurchases in the back half to preserve
+capital, especially depending on the updated reinsurance programs at mid-year renewals where
+retentions are higher.
+. After-tax fixed Income NII revised up. The company raised its fixed income net investment guide
+to $570M for Q3 (from $555M) and $595M in Q4 (from $570M). We believe this could perhaps
+point to modestly higher investment income at other players, although we do not expect much
+to provide specific NII guidance as most carriers don't provide specific guidance (CB guides one
+quarter ahead).
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+What the Companies Are Saying-TRV
+Outlook. When asked about their loss cost assumptions of 5.5% to 6.0%, TRV pointed to loss costs
+not being significantly different even after adding to their umbrella reserves within Business Insurance.
+They did not give a specific margin guide but did agree with the statement that if their loss costs are
+fairly unchanged and RPC is accelerating, they should be able to improve their margins. TRV pointed
+to reinsurance costs being higher at mid-year renewals and highlighted a new program they added
+that will provide protection for hurricane losses for their personal insurance property boo. The new
+program provides 50% coverage above a $1.75B attachment point up to $1.0B coverage and covers
+all US coastal states from Texas to Maine, excluding Florida. The overall higher reinsurance costs and
+the new reinsurance treaty should have little to no impact on margins as they are passing on the higher
+costs through rate.
+Pricing. Within personal lines, TRV guided to RPC in auto accelerating from here for the remainder
+of the year (16.1% in Q2) and home RPC remaining at the high-teens for the remainder of the year
+(19.2% in Q2). They did not provide a timeline for when auto would reach written price adequacy within
+personal auto given it depends on how quickly rates get approved, how fast inflation comes down, and
+how loss experience trends from here.
+Guidance. The exhibit below highlights TRV's commentary and expectations for 2023.
+· Fixed income investment guide raised. The only precise guidance that Travelers provides is
+around its quarterly view for fixed income plus short-term investment income, on an after-tax
+basis. TRV is now looking for fixed income and short-term investment income to be $570 million
+after-tax in Q3 and $595 million in Q4. This is up from the previously guided $555M for Q3 and
+$575M for Q4.
+. Personal lines RPC guide. Within personal auto, TRV said they are not at written price adequacy
+as of mid-year as previously guided to given severity has remained stickier in the low double digits.
+They expect RPC to climb from the 16.0% in Q2 for the remainder of the year while they expect
+home to remain in the high-teens (was 19.2% in Q2).
+. Lower repurchases in the back half. Given the outsized cats they have seen to start the year,
+TRV pointed to repurchases being lower in the back half of this year when compared to the first
+half of the year when they bought back $862 million. TRV has $6.2B left under its repurchase
+authorization as of 6/30.
+Investments. TRV raised their fixed income and expects after-tax investment income of $570M in Q3
+(up from $555M prior) and $595 million in Q4 (up from the prior $575 million). The non-fixed income
+portfolio delivered positive returns (4.0% in the quarter), which was higher than the 2.8% in Q1 but
+below the 10.2% return in the prior year quarter. As of 6/30, real estate and real estate partnerships
+accounted for 31% of their non-fixed portfolio (vs 33% in the prior quarter) but remains a miniscule
+portion of the entire portfolio at 2.2% of their total invested portfolio.
+Liquidity and Capital. TRV has $2.0 billion of capital at the holding company (up from just under $1.5
+billion at the end of 2022 and the $1.6B at end of Q1) with all of their capital ratios at or better than
+target levels. They issued $750M of 30-year senior notes (5.45% annualized coupon) in May (priced
+5/22) to fund business growth bringing their debt to capital ratio to 23.3%, which is still within their
+target range of 15-25%.
+Equity Research | 3
+Equity Research
+Commercial Lines Insurance
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Exhibit 1 - 2023 Guidance Tracker
+2023 Guidance Tracker
+Underlying Margin Outlook
+Expense Ratio Outlook
+No outlook commentary for 2023
+Renewal Premium Growth
+Investment Income
+Capital Management
+Provided With Q3 2022 Earnings
+Provided With Q4 2022 Earnings
+2023 Outlook
+Provided With Q1 2023 Earnings
+Provided With Q2 2023 Earnings
+Business Insurance: Pointed to loss trends being unchanged
+from 5.5% to 6.0% with pricing remaining less than one point
+ahead
+Bond & Specialty: No outlook commentary
+Business Insurance: Did not give specific guide but said
+earned pricing exceeded loss trend in all three segments
+Bond & Specialty: No outlook commentary
+Personal Lines: Severity is in the double-digits for both auto
+Personal Lines: Frequency continues to return towards pre-
+and home with auto frequency returning to pre-pandemic
+pandemic levels and expect to reach written adequacy by now levels in Q4 2022. Bodily injury severity came in above their
+and mid-2023
+Business Insurance: No outlook commentary
+Bond & Specialty: No outlook commentary
+Personal Lines: Expect to reach or at least be close to rate
+adequacy in the majority of states by mid-year. TRV noted the year, did not provide an updated timeline on reaching rate
+loss environment is incrementally more challenging
+adequacy
+Business Insurance: No outlook commentary
+Bond & Specialty: No outlook commentary
+Personal Lines: Did not reach written price adequacy by mid-
+Business Insurance: No outlook commentary
+Bond & Specialty: No outlook commentary
+expectations in the Q4. TRV expects to reach written rate
+adequacy by mid-2023.
+Expect FY2023 Expense Ratio to be 28.5% - 29.0% (versus
+FY22 ratio of 28.5%)
+No change to previous guide
+Business Insurance: RRC in workers' comp was more
+negative than expected and property pricing improved from a
+price per unit of risk standpoint as terms and conditions
+improved along with pricing
+Bond & Specialty: Written premium contracted modestly in
+their international business due to tougher Y/Y compares and
+a significant decline in M&A activity
+Business Insurance: TRV saw continued acceleration of
+pricing in property given hardening reinsurance market and
+capacity constraint.
+Bond & Specialty: No outlook commentary
+Personal Lines: Expect auto RPC to modestly rise from
+these levels (13.9% in Q1) and remain there for the remainder (16.0% in Q2) in the remainder of the year. Expect home RPC
+of the year. Expect home RPC to remain at these elevated
+levels for the remainder of the year (20.2% in Q1).
+to remain in the high-teens for the remainder of the year
+(19.2% in Q2).
+No change to previous guide
+Business Insurance: TRV said that RPC was not just
+property and saw broad-based rate across all lines as all lines
+were up sequentially vs the Q1
+Bond & Specialty: No outlook commentary
+Personal Lines: Expect auto RPC to rise from these levels
+Personal Lines: Expectations for personal auto RPC is to be
+in the mid-teens throughout 2023
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 to $570 million in Q4 (with an average of
+$540 million per quarter). Mentioned new money yields
+through mid-October are 200bps higher than current
+embedded rates.
+Alternatives: No outlook commentary
+No outlook commentary for 2023
+Personal Lines: Expect RPC to rise from these levels
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$515 million in Q1 2023 to $560 million in Q4 (with an average
+of $535 million per quarter)
+Fixed Book: Expect after-tax fixed NII to be from a range of
+$530 million in Q2 2023 to $570 million in Q4
+Alternatives: No outlook commentary
+Alternatives: No outlook commentary
+They do not expect to continue to be able to return nearly
+100% in terms of operating earnings between buybacks and
+dividends and the higher reinsurance retention does not
+impact their view of capital adequacy.
+They said the new $5.0B repurchase authorization is open-
+ended with no targeted time horizon
+Fixed Book: Expect after-tax fixed NII to be $570M in Q3 and
+$595M in Q4.
+Alternatives: No outlook commentary
+They expect repurchases to lower in the second half vs the
+first half (first half saw $862M of repurchases)
+Source: Company reports and Wells Fargo Securities, LLC
+4 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Highlights of Our Estimate Changes
+Overview of our estimate changes. The exhibit below highlights the changes we made to our earnings
+model following Q2 2023 earnings.
+· 2023 EPS goes down to $12.30 (from $13.50) to the higher cats/PYD in the Q1 results, a higher
+interest expense, and a higher share count given lower repurchases in the second half of this year,
+partially offset by a lower tax rate in the Q1 results and better underlying margins in Business
+Insurance.
+. 2024 EPS goes down to $18.15 (from $18.35) to reflect a higher cat load, a higher share count
+(as a result of lower repurchases in 2023), and higher interest expense partially offset by modestly
+higher Nll and better underlying margins in Business Insurance.
+. 2025 EPS is revised down to $20.50 (from $21.00) to mainly reflect a higher cat load, a higher
+share count (as a result of lower repurchases in 2023), higher interest expense, and a modestly
+higher assumed expense ratio.
+Exhibit 2 - TRV Summary of Estimate Changes
+($ in millions, except as noted)
+Prior Estimates
+Delta (Absolute)
+2023E
+2024E
+Gross premiums written
+% growth (YoY)
+13.0%
+Net premiums written
+40,097
+42,133
+44,279
+% growth (YoY)
+Increase in unearned premiums
+Net premiums earned
+% growth (YoY)
+11.3%
+Net investment income (pre-tax)
+2,953
+Fee income
+450
+489
+Other income
+Total revenue
+Losses and loss adjustment expenses
+26,274
+Amortization of deferred acquisition costs
+6,204
+General and administrative expenses
+5,328
+Interest expense
+376
+Total expenses
+Pretax operating income
+% growth (YoY)
+Income tax expense/(benefit)
+308
+After-tax core income
+2,855
+% growth (YoY)
+(4.8%)
+Company income tax rate (%)
+9.7%
+Weighted average number of diluted shares
+230.8
+Participating share-based awards
+16.0
+Adjusted Operating EPS
+Profitability Metrics
+Loss and loss adjustment expense ratio
+Underwriting expense ratio
+28.6%
+28.6%
+Combined ratio
+98.1%
+Cat points on the combined ratio
+7.5%
+PYD points on the combined ratio
+(0.7%)
+Current accident year combined ratio
+91.3%
+Underlying loss ratio
+62.7%
+Segment Underwriting Income:
+Business Insurance
+$736
+Bond & Specialty Insurance
+Personal Insurance
+($1,195)
+Book value per share
+ROE
+2023E
+42,781
+13.2%
+(2,503)
+(1,407)
+37,594
+348
+41,345
+38,182
+40,050
+42,055
+3,163
+(11.1%)
+$12.30
+69.4%
+66.3%
+66.3%
+28.5%
+$733
+$647
+$676
+12.7%
+17.1%
+2024E
+45,161
+47,680
+5.6%
+5.6%
+5.1%
+5.1%
+40,726
+8.3%
+5.1%
+3,750
+3,412
+348
+44,975
+27,194
+28,590
+6,745
+7,094
+5,718
+5,979
+393
+393
+4,925
+5,355
+55.7%
+8.7%
+843
+914
+4,082
+43.0%
+17.1%
+223.8
+215.7
+230.8
+19.0
+$18.15
+94.9%
+94.9%
+97.2%
+5.3%
+5.3%
+6.6%
+(0.3%)
+89.9%
+61.3%
+$1,022
+$1,085
+($75)
+($76)
+$100.52
+$111.39
+$124.64
+2025E
+(1,480)
+42,799
+513
+348
+47,410
+4,441
+8.8%
+19.0
+19.0
+$20.50
+(0.2%)
+(0.7%)
+(0.3%)
+89.8%
+61.3%
+62.8%
+17.4%
+2023E
+42,030
+44,372
+46,852
+5.6%
+11.0%
+5.6%
+39,550
+41,558
+43,672
+11.7%
+5.1%
+5.1%
+(2,111)
+(1,395)
+(1,467)
+37,439
+40,162
+10.9%
+2,943
+468
+332
+41,182
+25,883
+6,179
+6,652
+7,005
+5,277
+5,629
+5,842
+3,492
+(1.9%)
+357
+3,134
+4.5%
+10.2%
+17.1%
+$13.50
+$18.35
+68.7%
+66.3%
+28.5%
+91.3%
+$802
+$100.01
+$111.07
+$124.83
+(1.3%)
+(0.3%)
+14.0%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+2024E
+7.3%
+5.1%
+3,390
+3,725
+500
+525
+345
+44,398
+26,824
+352
+352
+352
+37,691
+39,457
+41,355
+4,941
+41.5%
+849
+4,092
+30.6%
+17,2%
+221.9
+19.0
+94.8%
+94.6%
+5.0%
+90.1%
+61.6%
+$950
+$1,173
+$673
+$643
+($872)
+$1
+17.4%
+2025E
+42,205
+345
+46,800
+28,156
+5,445
+10.2%
+936
+4,509
+10.2%
+17.2%
+213.8
+19.0
+$21.00
+66.3%
+28.5%
+28.4%
+5.1%
+(0.2%)
+89.7%
+61.3%
+$680
+17.8%
+751
+2.0%
+547
+1.5%
+0.0%
+(392)
+(12)
+155
+0.5%
+9
+21
+789
+(0.0%)
+576
+607
+564
+1.1%
+16
+3
+163
+577
+392
+370
+25
+93
+50
+89
+138
+24
+41
+593
+492
+700
+(329)
+(16)
+14.2%
+(9.2%)
+(50)
+(6)
+(279)
+(10)
+(9.3%)
+(0.5%)
+(0.0)
+1.9
+1.9
+(3.0)
+0.0
+0.0
+12.4%
+(1.4%)
+(0.1%)
+(0.1%)
+($1.19)
+($0.20)
+0.8%
+(0.0%)
+0.1%
+0.9%
+0.1%
+0.2%
+0.9%
+0.2%
+0.1%
+0.0%
+0.0%
+0.0%
+(0.1%)
+(0.3%)
+0.1%
+0.1%
+(0.2%)
+($66)
+$72
+($87)
+$60
+$4
+($4)
+($323)
+($90)
+($76)
+$14
+$0.51
+$0.32
+($0.18)
+(0.4%)
+2023 Outlook Guidance
+2025E
+828
+(0.0%)
+0.0%
+(13)
+594
+0.0%
+25
+Expecting $570-$595MM from Q3 to Q4 2023 for Fixed NII
+(17)
+(11)
+(12)
+3
+610
+434
+88
+41
+(90)
+(1.5%)
+(22)
+(68)
+($0.50)
+0.1%
+Expecting expense ratio of 28.5-29% for 2023
+(0.0%)
+0.1%
+(0.0%)
+Equity Research | 5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Pricing Highlights-Commercial Lines
+Business Insurance Rating Environment-TRV Rates Up to Record-Level, Exposure and RRC Both
+Up
+. In Q2, the Business Insurance renewal rate change was +7.2%, a strong acceleration from the
++4.7% in the prior quarter. Exposure growth was up 5.6%, up from the 4.9% in Q1 and remaining
+at strong levels. The 12.8% of RPC in Q2 was a record-high for TRV and was well above the 9.7% in
+Q1 and the 10.2% in the prior year quarter. The exhibits below show the trends in TRV's quarterly
+domestic Business Insurance (BI) renewal rate change since 2020.
+Exhibit 3 - Pricing and Exposure Growth Seen By Travelers
+14.0%
+12.0%
+10.2%
+9.9%
+10.0%
+8.0%
+8.3%
+8.0%
+7.1%
+8.1%
+8.2%
+5.9%
+6.0%
+6.1%
+5.1%
+4.0%
+11.1%
+10.8%
+7.8%
+6.8%
+10.0%
+9.0%
+6.1%
+5.1%
+9.4%
+5.4%
+5.0%
+3.3%
+4.0%
+3.9%
+4.40%
+5.0%
+4.8%
+4.9%
+2.0%
+0.0%
+(1.0%)
+0.1%
+(0.1%)
+(2.0%)
+(0.8%)
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+3.9%
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+-RPC
+-RRC
+-+Exposure / Other
+Source: Company data and Wells Fargo Securities, LLC
+Q2 2022
+Q3 2022
+Equity Research
+12.8%
+10.1%
+9.7%
+7.2%
+5.6%
+4.9%
+5.6%
+4.5%
+4.7%
+Q4 2022
+Q1 2023
+Q2 2023
+6 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Pricing Highlights-Personal Lines
+Personal Lines-TRV Continues to See Rate Acceleration, Margins Remain Elevated
+· Within Personal Auto, TRV saw renewal premium change continue to accelerate sequentially at
+16.1%, which was up from the 14.0% last quarter; however, their auto underlying margin remained
+above 100% for the fifth straight quarter (103.5% in Q2) and was up 1.7 points Y/Y highlighting
+the need for additional rate (and the lag in these rates earning through) and was modestly higher
+vs the 103.4% in the Q1, which is a seasonally favorable quarter. TRV said they are not at written
+price adequacy, missing their previous guide of being close to or at written price adequacy, which
+is not surprising given the monthly results we have seen from PGR in the Q2. They expect RPC
+to continue to rise from these levels for the remainder of the year but did not give a timeline on
+reaching price adequacy. They said severity has proven stickier than previously expected, currently
+in the low double digits.
+· Homeowners' RPC decelerated modestly sequentially to 19.2% from the record-high 19.9% in
+Q1 but remains at strong levels. They expect the RPC in home to remain in the high-teens for the
+remainder of the year.
+· Auto PIFs decline sequentially, while home modestly up. Travelers' new business in auto
+decreased 7% Y/Y to $297 million, after decreasing 4% Y/Y last quarter and marked the third
+straight quarter with Y/Y declines as TRV continues to pull new business away from states where
+they are not getting enough rate and abiding by stricter underwriting standards. This is also
+reflected in the PIF numbers, as auto PIFs declined 0.7% sequentially, which was the second
+straight sequential decline after Q1 saw the biggest sequential drop since Q1 2014. Home new
+business was up 2% Y/Y at $321 million and up from the flat Y/Y growth in the prior quarter. From
+a PIF standpoint, home saw a 0.5% sequential increase, which was a slowdown from the 1.4%
+sequential increase last quarter.
+Exhibit 4 - Personal Auto Statistics - RPC, PIF, and New Business Y/Y Change
+18%
+16%
+14%
+12%
+10%
+8%
+6%
+5.5% 4.8%
+4%
+2%
+3.8%
+3.0%
+2.3%
+1.6%
+1.6%
+L
+0.8%
+0.5%
+0.4%
+0.5%
+4.1%
+2.1%
+9.6%
+7.3%
+16.1%
+14.0%
+12.9%
+25%
+20%
+15%
+10%
+5%
+0%
+(0%)
+0%
+(2%)
+(7%)
+(5%)
+(10%)
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q1 2023
+Q4 2022
+Q2 2023
+Auto Renewal Premium Change
+Auto PIF YoY Change
+-
+-Auto New Business YoY Change (right-axis)
+Source: Company Reports and Wells Fargo Securities, LLC
+Exhibit 5 - Homeowners' Statistics - RPC, PIF, and New Business Y/Y Change
+25.0%
+50%
+20.0%
+19.9%
+19.2%
+15.0%
+13.2%
+10.0%
+12.0%
+13.8% 14.2%
+8.1%
+8.1%
+6.6%
+5.2%
+5.0%
+0.0%
+6.8%
+7.3%
+7.4%
+7.5%
+7.5%
+8.0%
+8.7%
+8.6%
+2%
+1%
+(10%)
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+Q2 2020
+Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+40%
+30%
+20%
+10%
+0%
+Home Renewal Premium Change
+Home PIF YoY Change
+-Home New Business YoY Change
+Source: Company Reports and Wells Fargo Securities, LLC
+Equity Research | 7
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Underlying Margin Tables
+Exhibit 6 - Consolidated Underlying Margin Trends
+Underling Margin Trends
+Reported Combined Ratio
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+93.7%
+2.8%
+(0,7%)
+(1,8%)
+4,1%
+98.4%
+5.3%
+101.5%
+3.4%
+92.4%
+1.2%
+(0.8%)
+95.5%
+103.7%
+Catastrophe Losses, net of reinsurance
+Prior Year Reserve Development
+4.6%
+12.3%
+(0,4%)
+(0,0%)
+(Unfavorable)/Favorable
+Underlying Combined Ratio
+91.6%
+94.9%
+94.1%
+92.1%
+91.3%
+Underlying (improvement)/deterioration
+Underlying Loss Ratio
+YoY Change
+(0.8%)
+1.3%
+1.1%
+0.9%
+(0.3%)
+(3.5%)
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+63.0%
+1.3%
+61,3%
+(0.7%)
+Underlying Expense Ratio
+29.7%
+30.2%
+29.5%
+29.1%
+YoY Change
+(0.9%)
+(0.5%)
+(0.2%)
+(0.4%)
+0.3%
+0.8%
+(0.2%)
+Source: Company reports and Wells Fargo Securities, LLC
+Q2 2020
+Q3 2020
+94.9%
+86.7%
+5.3%
+(1,9%)
+(2,4%)
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+96.6%
+0.4%
+11.3%
+6.3%
+(4,3%)
+(2,4%)
+95.3%
+98.6%
+6.4%
+0.8%
+(1,2%)
+88.0%
+0.4%
+Q1 2022
+Q2 2022
+91.3%
+98.3%
+9.0%
+2.0%
+(1,9%)
+(3,5%)
+91.4%
+60.4%
+(4.3%)
+30.0%
+31.0%
+29.3%
+29.4%
+91.5%
+(2.5%)
+62.2%
+59.3%
+(2.3%)
+(3.6%)
+88.7%
+(3.3%)
+0.3%
+89.5%
+91.4%
+(1.8%)
+(0.1%)
+59.7%
+61.7%
+(1.6%)
+1.2%
+29.9%
+29.7%
+(0.0%)
+(1.3%)
+91.4%
+(0.1%)
+62.0%
+(0.2%)
+29.4%
+0.1%
+88.7%
+0.0%
+60,2%
+0.9%
+28.5%
+(0.9%)
+91.2%
+92.8%
+1.7%
+1.5%
+62,2%
+2.5%
+2.1%
+2.4%
+29.0%
+29.0%
+28.1%
+27.9%
+(0.9%)
+(0.7%)
+(1.3%)
+Exhibit 7 - Consolidated Underlying Combined Ratio Y/Y (Improvement)/Deterioration
+Actuals
+1.7%
+1.5%
+2.7%
+1.1%
+0.7%
+0.0%
+(0.1%)
+(0.1%)
+(0.7%)
+(1.8%)
+63.8%
+Equity Research
+Q3 2022
+98.2%
+5.9%
+(0,2%)
+(2,1%)
+Q4 2022
+94.5%
+5.2%
+Q1 2023
+Q2 2023
+95.4%
+106.5%
+6.0%
+(1,2%)
+16.1%
+(0,7%)
+92.5%
+1.1%
+64.4%
+63.5%
+91.4%
+2.7%
+90.5%
+91.1%
+(0.7%)
+(1.7%)
+61.8%
+62.5%
+3.3%
+(0.4%)
+(1.3%)
+28.7%
+28.6%
+(0.6%)
+(0.3%)
+(0.4%)
+Forecast
+0.2%
+(0.9%)
+(1.7%)
+(2.5%)
+2019
+2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+Q2 2023
+Source: Company Reports and Wells Fargo Securities, LLC Estimates
+Exhibit 8 - Underlying Combined Ratio Trends by Segment
+Underlying Combined Ratio Trends
+Q1 2019
+Q2 2019 Q3 2019 Q4 2019 Q1 2020
+Q2 2020 Q3 2020
+Q4 2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Business Insurance
+95.0%
+(0.5%)
+97.4%
+0.9%
+95.9%
+0.5%
+96.4%
+1.0%
+97.3%
+2.3%
+97.0%
+(0.4%)
+94.0%
+(1.8%)
+93.6%
+(2.8%)
+81.3%
+85.7%
+3.2%
+93.7%
+93.4%
+(3.6%)
+(3.6%)
+Underlying (improvement) deterioration
+Bond & Specialty
+81.1%
+81.0%
+0.4%
+83.6%
+5.3%
+88.1%
+7.1%
+89.0%
+85.0%
+4.6%
+84.2%
+(1.5%)
+Underlying (improvement) deterioration
+0.5%
+5.5%
+3.7%
+84.0%
+(5.1%)
+Personal Insurance
+Underlying (improvement) deterioration
+89.1%
+(1.4%)
+94.6%
+2.0%
+1.1%
+94.0%
+88.4%
+0.5%
+84.0%
+(10.7%)
+(5.3%)
+88.7%
+83.1%
+1.4%
+7.0%
+85.4%
+91.0%
+95.2%
+6.5%
+(5.3%)
+Personal Insurance Breakdown:
+Automobile
+92.1%
+(4.2%)
+(1.7%)
+93.8%
+92.7%
+0.1%
+2.7%
+99.6%
+90.9%
+86.1%
+81.5%
+87.4%
+(1.2%)
+(7.7%)
+86.6%
+(4.3%)
+5.9%
+15.5%
+Underlying (improvement) deterioration
+(11.2%)
+(12.2%)
+Homeowners & Other
+82.6%
+92.9%
+93.5%
+73.6%
+75.7%
+82.0%
+96.8%
+78.5%
+84.1%
+89.9%
+93.3%
+Underlying (improvement) deterioration
+2.4%
+7.7%
+5.0%
+1.1%
+(6.9%)
+(10.9%)
+3.3%
+5.0%
+8.4%
+7.9%
+(3.5%)
+Source: Company data and Wells Fargo Securities, LLC
+Exhibit 9 - Underlying Combined Ratio Y/Y Change - BI and Personal Auto
+90.2%
+(3.8%)
+83.4%
+(5.6%)
+89.9%
+(3.8%)
+83.4%
+(4.7%)
+83.3%
+82.2%
+82.2%
+(1.7%)
+88.7%
+92.8%
+5.6%
+7.4%
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+91.7%
+92.4%
+(0.9%)
+(2.0%)
+(2.0%)
+(1.2%)
+96.0%
+5.0%
+Q3 2023E
+Q4 2023E
+89.9%
+89.5%
+(0.3%)
+(0.3%)
+82.2%
+82.2%
+(1.2%)
+(1.1%)
+99.3%
+4.2%
+92,0%
+97.0%
+103.8%
+16.4%
+73.4%
+(5.1%)
+98.8%
+12.2%
+86.9%
+90.3%
+2.8%
+0.3%
+1.6%
+101.8%
+9.8%
+96.2%
+7.5%
+Q1 2023
+Q2 2023
+89.6%
+89.6%
+(2.2%)
+(2.2%)
+82.2%
+82.1%
+0.0%
+(0.1%)
+92.9%
+0.1%
+(1.9%)
+94.1%
+103.8%
+110.5%
+6.8%
+6.7%
+94.9%
+82.2%
+8.8%
+15.5%
+5.9%
+16.4%
+12.2%
+9.8%
+6.8%
+6.7%
+4.6%
+0.50.7%
+103.4%
+103.4%
+4.6%
+4.6%
+82.7%
+85.2%
+(4.2%)
+(5.0%
+Forecast
+1.7%
+1.7%
+(0.7%)
+(0.9%)
+(0.3%)
+(0.3%)
+(3.6%)
+(4.3%)
+(2.0%)
+(3.6%)
+(2.2%)
+(3.8%)
+(3.8%)
+(9.6%)
+2019
+2020
+Q1 2021
+Q2 2021
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Q1 2023
+(2.9%)
+2.2%
+(0.1%)
+(3.0%)
+Q2 2023
+BI Underlying Combined Ratio Y/Y Change
+Personal Auto Underlying Combined Ratio Y/Y Change
+Source: Company Reports and Wells Fargo Securities, LLC
+Q3 2023E
+Q4 2023E
+8 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Valuation
+Current valuation. The TRV shares are now trading at 1.81x Q2 2023 book value, which is above its 5-
+year (1.47x) average, and its 10-year (1.41x) average multiple but below the peak level of 2.05x. The
+P/B multiple continues to be elevated as reported book value has higher unrealized losses on TRV's
+investment portfolio vs historical averages; when excluding unrealized losses (net), shares are currently
+trading at 1.42x Q2 adjusted book of $121.71, which is modestly above the 1.37x 5-year average ex
+AOCI. On a price-to-earnings basis, the shares are trading at 9.6x our 2024 EPS estimate versus the 5-
+year average of 11.7x, 10-year average of 11.6x and the 5-year and 10-year peak of 14.2x.
+Exhibit 10 - TRV Historical P/BV
+2.30x
+2.10x
+1.90x
+5-Year Trend
+· Average - 1.47x
+· Peak - 2.05x
+·
+Low - 0.82x
+10-Year Trend
+· Average - 1.41x
+· Peak - 2.05x
+· Low - 0.82x
+1.70x
+1.50x
+1.30x
+1.10x
+0.90x
+0.70x
+0.50x
+Jul '13
+Jul '14
+Jul '15
+Jul '16
+Jul '17
+Price / Current Book Value
+Jul '18
+10-Year Average
+-
+- 10-Year Standard Deviation
+Jul '19
+Jul '20
+Current - 1.81x (1.42x ex AOCI)
+Jul '21
+Jul '22
+Jul '23
+Source: Company reports, Factset, and Wells Fargo Securities, LLC estimates
+Exhibit 11 - TRV Historical Price-To-Earnings Multiples
+15.0x
+5-Year Trend
+·
+Average - 11.8x
+Peak - 13.9x
+.
+. Low - 7.3x
+10-Year Trend
+· Average - 11.6x
+·
+Peak - 14.2x
+Low - 7.3x
+.
+12.5x
+10.0x
+7.5x
+5.0x
+Jul '13
+Jul '14
+Jul '15
+Jul '16
+Jul '17
+C
+Price / NTM Earnings
+Source: FactSet and Wells Fargo Securities, LLC
+Jul '18
+10-Year Average
+--
+- 10-Year Standard Deviation
+Jul '19
+Jul '20
+2024 Forward - 9.6x
+Jul '21
+Jul '22
+Jul '23
+Equity Research | 9
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Exhibit 12 - TRV Consolidated Earnings Model
+($ in millions, except as noted
+Summary
+Business Insurance
+Bond & Specialty Insurance
+Personal Insurance
+Other
+Adjusted Pre-Tax Operating Income
+Tax Rate
+Taxes
+Adjusted After-Tax Operating Income
+Adjusted Operating EPS
+YoY Change in Adjusted After-Tax Operating Income
+YoY Change in Adjusted Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Fixed Maturities
+Fixed Maturities Pre-Tax Annualized Yield
+Alternatives
+Alternatives Pre-Tax Annualized Yield
+Short-Term Securities
+Invesment Expenses
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses
+Points on Combined Ratio
+Reserve Development
+Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+2022
+Q1 2023
+Q2 2023
+Q3 2023E
+Q4 2023E
+2023E
+Q1 2024E
+Q2 2024E
+Q3 2024E
+Q4 2024E
+2024E
+Q1 2025E
+Q2 2025E
+2,889
+833
+939
+(369)
+4,292
+17.8%
+(765)
+3,527
+$13.94
+32.7%
+33.0%
+7.8%
+6.3%
+811
+239
+252
+(95'
+1,207
+13.9%
+(168)
+1,039
+$4.22
+42.5%
+54,7%
+10.4%
+8.5%
+313
+285
+(250)
+(97)
+751
+16.9%
+(127)
+624
+$2.56
+(29.8%)
+(25,7%)
+10.9%
+9.2%
+560
+304
+(147)
+(96)
+621
+15.3%
+(95)
+526
+$2.20
+(20.2%)
+(15.4%)
+10.5%
+10.0%
+884
+275
+(85)
+(94)
+980
+17.3%
+(170)
+810
+$3.40
+(38.6%)
+(34.6%)
+10.5%
+9.8%
+3,068
+1,103
+(230)
+(382)
+3,559
+15.7%
+(560)
+2,999
+$12.43
+(17.1%)
+(10,9%)
+10.6%
+9.4%
+713
+248
+58
+(97)
+922
+(5.2%)
+48
+970
+$4.11
+(23.6%)
+(2,8%)
+11.5%
+10.5%
+185
+289
+(685)
+(102)
+-13
+215.4%
+28
+15
+$0.05
+(101.7%)
+(98.0%)
+14.4%
+10.8%
+847
+284
+(165)
+(107)
+860
+15.6%
+(135)
+725
+$3.13
+38.4%
+42.4%
+$3.02
+3.8%
+12.8%
+11.4%
+1,070
+257
+173
+(107)
+1,394
+17.9%
+(249)
+1,145
+$4.99
+42.2%
+46.7%
+$5.02
+(0.7%)
+13.2%
+12.5%
+3,115
+1,078
+(618)
+(412)
+3,163
+9.7%
+(308)
+2,855
+$12.30
+(11.1%)
+(1,0%)
+$13.73
+(10.4%)
+13.0%
+11.3%
+950
+253
+160
+(107)
+1,256
+17.4%
+(219)
+1,037
+$4.54
+36.2%
+10.5%
+$4.68
+(2.9%)
+5.5%
+11.0%
+825
+243
+(30)
+(107)
+931
+15.6%
+(145)
+785
+$3.47
+(7,258.3%)
+6,719,3%
+$3.22
+7.9%
+5.6%
+10.2%
+918
+279
+19
+(107)
+1,110
+16.5%
+(183)
+927
+$4.14
+29.1%
+32.2%
+$3.66
+13.2%
+5.6%
+6.7%
+1,085
+264
+387
+(107)
+1,629
+18.2%
+(296)
+1,333
+$6.02
+16.8%
+20.8%
+$5.80
+3.9%
+5.6%
+5.8%
+3,778
+1,039
+537
+(429)
+4,925
+17.1%
+(843)
+4,082
+$18.15
+55.7%
+47.6%
+$16.95
+7.1%
+5.6%
+8.3%
+1,024
+266
+244
+(107)
+1,426
+17.5%
+(250)
+1,177
+$5.35
+13.6%
+17.9%
+$5.32
+0.5%
+915
+262
+(42)
+(107)
+1,028
+15.6%
+(161)
+867
+$3.98
+10.5%
+14.7%
+$3.60
+10.8%
+5.5%
+5.6%
+5.1%
+5.1%
+1,989
+2.6%
+1,077
+18.8%
+5
+(40)
+3,031
+3.7%
+505
+2.7%
+142
+9.8%
+2
+(12)
+637
+3.0%
+512
+2.9%
+197
+13.6%
+9
+(11)
+707
+3.3%
+534
+3.1%
+46
+3.2%
+23
+(10)
+593
+2.7%
+562
+3.2%
+34
+2.3%
+39
+(10)
+625
+2.8%
+2,113
+3.0%
+419
+7.3%
+73
+(43)
+2,562
+2.9%
+575
+3.2%
+53
+3.6%
+47
+(12)
+663
+3.0%
+591
+3.2%
+78
+5.3%
+55
+(12)
+712
+3.2%
+615
+3.3%
+117
+8.0%
+56
+(12)
+776
+3.5%
+638
+3.4%
+120
+8.0%
+57
+(13)
+802
+3.6%
+2,418
+3.3%
+368
+6.3%
+215
+(49)
+2,953
+3.3%
+660
+681
+3.6%
+3.6%
+122
+125
+8.0%
+8.0%
+50
+50
+(13)
+(13)
+819
+842
+3.6%
+3.7%
+701
+3.7%
+127
+8.0%
+50
+(14)
+865
+3.8%
+721
+3.8%
+130
+8.0%
+50
+(14)
+886
+3.9%
+2,762
+3.7%
+503
+8.2%
+200
+(54)
+3,412
+3.8%
+739
+758
+3.9%
+4.0%
+132
+135
+8.0%
+8.0%
+50
+50
+(14)
+(15)
+907
+928
+3.9%
+4.0%
+65.1%
+29.4%
+94.5%
+(0.6%)
+1,847
+6.0%
+(538)
+(1.7%)
+60.9%
+90.3%
+0.0%
+(0.5%)
+$119.77
+11.8%
+241.2
+250.9
+876
+2.156
+3,032
+86.0%
+62.3%
+29.0%
+91.3%
+(5.4%)
+160
+2.0%
+(153)
+(1.9%)
+62.2%
+91.2%
+2.5%
+1.7%
+$106.40
+14.9%
+240.0
+243.7
+214
+559
+773
+74.4%
+69.3%
+29.0%
+98.3%
+3.0%
+746
+9.0%
+(291)
+(3.5%)
+63.8%
+92.8%
+2.1%
+1.4%
+$96.39
+10.1%
+237.3
+241.1
+225
+500
+725
+116.2%
+70.1%
+28.1%
+98.2%
+(0.4%)
+512
+5.9%
+(20)
+(0.2%)
+64.4%
+92.5%
+2.4%
+1.1%
+$84.94
+9.7%
+234.4
+237.9
+221
+501
+722
+137.3%
+66.6%
+27.9%
+94.5%
+6.5%
+459
+5.2%
+(185)
+(2.1%)
+63.5%
+91.4%
+3.3%
+2.7%
+$92.90
+15.3%
+232.1
+236.3
+221
+501
+722
+89.1%
+67.2%
+28.5%
+95.8%
+1.3%
+1,877
+5.6%
+(649)
+(1.9%)
+63.6%
+92.1%
+2.7%
+1.9%
+$92.90
+11.7%
+232.1
+239.7
+881
+2.061
+2,942
+98.1%
+66.7%
+28.7%
+95.4%
+4.1%
+535
+6.0%
+(105)
+(1.2%)
+61.8%
+90.5%
+(0.4%)
+(0.7%)
+$99.80
+17.1%
+231.0
+234.4
+218
+462
+680
+70.1%
+77.9%
+28.6%
+106.5%
+8.2%
+1,481
+16.1%
+(60)
+(0.7%)
+62.5%
+91.1%
+(1.3%)
+(1.7%)
+$95.46
+0.2%
+228.9
+229.7
+233
+400
+633
+4,220.0%
+69.2%
+28,6%
+97.8%
+(0.4%)
+500
+5.2%
+(12)
+(0.1%)
+64.1%
+92.7%
+(0.3%)
+0.2%
+$97.05
+13.0%
+227.2
+230.2
+229
+300
+529
+72.9%
+64.1%
+28,5%
+92.6%
+(1.9%)
+300
+3.0%
+(93)
+(0.9%)
+62.0%
+90.5%
+(1.5%)
+(0.9%)
+$100.52
+20.2%
+225.5
+228.8
+227
+300
+527
+46.1%
+69.4%
+28,6%
+98.1%
+2.3%
+2,816
+7.5%
+(270)
+(0.7%)
+62.7%
+91.3%
+(0.9%)
+(0.8%)
+$100.52
+12.7%
+225.5
+230.8
+907
+1.462
+2,369
+83.0%
+65.6%
+28,5%
+94.1%
+(1.3%)
+450
+4.6%
+(36)
+(0.4%)
+61.4%
+89.9%
+(0.4%)
+(0.6%)
+$103.26
+17.8%
+223.0
+227.0
+69.1%
+28,6%
+97.7%
+(8.8%)
+800
+7.9%
+(41)
+(0.4%)
+61.6%
+90.3%
+(0.8%)
+(0.8%)
+$104.88
+13.4%
+220.6
+224.8
+226
+230
+4.50
+150
+676
+680
+65.1%
+86.6%
+67.6%
+28,7%
+96.3%
+(1.5%)
+550
+5.4%
+3
+0.0%
+62.2%
+90.9%
+(1.8%)
+(1.8%)
+$107.18
+15,6%
+218.2
+222.7
+227
+450
+677
+73.1%
+63.0%
+28.5%
+91.5%
+(1.1%)
+350
+3.3%
+(40)
+(0.4%)
+60.0%
+88.6%
+(1.9%)
+(1.9%)
+$111.39
+22.0%
+215.8
+220.6
+225
+4.50
+675
+50.6%
+66.3%
+28,6%
+94.9%
+(3.2%)
+2,150
+5.3%
+(115)
+(0.3%)
+61.3%
+89.9%
+(1.3%)
+(1.4%)
+$111.39
+17.1%
+215.8
+223.8
+907
+1.800
+2,707
+66.3%
+65.0%
+28.6%
+93.5%
+(0.6%)
+475
+4.6%
+(21)
+(0.2%)
+60.6%
+89.2%
+(0.8%)
+(0.8%)
+$114.95
+18.9%
+213.5
+218.6
+69.2%
+28.5%
+97.7%
+(0.1%)
+825
+7.7%
+(31)
+(0.3%)
+61.7%
+90.2%
+0.1%
+(0.0%)
+$117.08
+13.7%
+211.3
+216.6
+222
+226
+4.50
+450
+672
+676
+57.1%
+78.0%
+29,201
+3,667
+(876)
+(2,156)
+(1,309)
+360
+28,887
+20.2%
+28,887
+1,020
+(214)
+(559)
+(3,795)
+192
+25,531
+22.2%
+25,531
+550
+(225)
+(500)
+(2,553)
+71
+22,874
+24.2%
+22,874
+454
+(221)
+(501)
+(2,753)
+53
+19,906
+26.8%
+19,906
+819
+(221)
+(501)
+1,463
+94
+21,560
+25.3%
+28,887
+2,843
+(881)
+(2,061)
+(7,638)
+410
+21,560
+25.3%
+Source: Company Reports, Factset and Wells Fargo Securiites, LLC estimates
+10 | Equity Research
+21,560
+975
+(218)
+(462)
+1,059
+138
+23,052
+24.0%
+23,052
+(14)
+(233)
+(400)
+623)
+73
+21,855
+25.0%
+21,855
+725
+(229)
+(300)
+0
+Q
+22,051
+24.8%
+22,051
+1,145
+(227)
+(300)
+0
+00
+22,669
+24.3%
+21,560
+2,831
+(907)
+(1,462)
+436
+211
+22,669
+24.3%
+22,669
+1,037
+(226)
+(450)
+0
+0
+23,031
+24.0%
+23,031
+785
+(230)
+(450)
+0
+Q
+23,136
+24.0%
+23,136
+927
+(227)
+(450)
+0
+Q
+23,385
+23.8%
+23,385
+1,333
+(225)
+(450)
+0
+0
+24,043
+23.3%
+22,669
+4,082
+(907)
+(1,800)
+0
+Q
+24,043
+23.3%
+24,043
+1,177
+(222)
+(450)
+0
+0
+24,548
+22.9%
+24,548
+867
+(226)
+(450)
+0
+Q
+24,739
+22.8%
+Q3 2025E
+1,010
+297
+2
+(107)
+1,202
+16.4%
+(198)
+1,004
+$4.66
+8.3%
+12.5%
+$4.25
+9.5%
+5.6%
+5.1%
+775
+4.0%
+138
+8.0%
+50
+15)
+948
+4.1%
+67.8%
+28.5%
+96.3%
+0.0%
+575
+5.3%
+(2)
+(0.0%)
+62.5%
+91.0%
+0.2%
+0.1%
+$119.90
+15.7%
+209.1
+214.7
+224
+4.50
+674
+67.1%
+24,739
+1,004
+(224)
+(450)
+0
+0
+25,069
+22.5%
+Q4 2025E
+1,143
+279
+384
+(107)
+1,699
+18.0%
+(305)
+1,393
+$6.53
+4.3%
+8.4%
+$7.06
+(7.6%)
+5.6%
+5.1%
+792
+4.1%
+140
+8.0%
+50
+15)
+967
+4.2%
+63.5%
+28.5%
+92.0%
+0.5%
+375
+3.4%
+23)
+(0.2%)
+60.3%
+88.8%
+0.2%
+0.2%
+$124.64
+21.4%
+206.9
+212.8
+222
+4.50
+672
+48.2%
+25,069
+1,393
+(222)
+(450)
+Q
+25,790
+22.0%
+2025E
+4,092
+1,104
+587
+(429)
+5,355
+17.1%
+(914)
+4,441
+$20.50
+8.7%
+12.9%
+$19.71
+4.0%
+5.6%
+5.1%
+3,064
+4.0%
+545
+8.2%
+200
+(59)
+3,750
+4.1%
+66.3%
+28.5%
+94.9%
+(0.0%)
+2,250
+5.3%
+(78)
+(0.2%)
+61.3%
+89.8%
+(0.1%)
+(0.1%)
+$124.64
+17.4%
+206.9
+215.7
+894
+1.800
+2,694
+60.7%
+24,043
+4,441
+(894)
+(1,800)
+0
+Q
+25,790
+22.0%
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Investment Thesis, Valuation and Risks
+The Travelers Companies, Inc. (TRV)
+Investment Thesis
+We believe that TRV will continue to benefit from the hard commercial market as pricing should continue to have legs given inflation and
+higher weather volatility. Although we are positive on the commercial lines space as a whole, we are more cautious on TRV relative to peers
+due to its smaller account exposure, higher workers' comp focus as both are getting less rate than other lines/account sizes, and personal
+lines exposure, particularly auto, which is well above target margins of mid-90s. We still believe that risk remains around social inflation,
+lower reserve releases, but we believe that these risks are adequately reflected in shares with the risk/reward now more neutral and rate
+the shares Equal Weight as a result.
+Target Price Valuation for TRV: $185.00 from NC
+Our price target of $185 is based on around a ~1.7x multiple of our projected 2024 book value estimate of around $111 and just over 10x
+our 2024 EPS estimate of $18.15.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+and a rise in D&O claims, while risks to the upside include stronger premium growth and reported / underlying margins coming in better
+than expected.
+Equity Research | 11
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Required Disclosures
+I, Elyse Greenspan, certify that:
+1) All views expressed in this research report accurately reflect my personal views about any and all of the subject securities or issuers discussed; and
+2) No part of my compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by me in this research report.
+Wells Fargo Securities, LLC does not compensate its research analysts based on specific investment banking transactions. Wells Fargo Securities, LLC's research
+analysts receive compensation that is based upon and impacted by the overall profitability and revenue of the firm, which includes, but is not limited to investment
+banking revenue.
+Additional Information Available Upon Request
+HOLD:$115.00
+09/11/2020
+200
+HOLD:$120.00
+10/20/2020
+The Travelers Companies, Inc. Rating History as of 07-19-2023
+HOLD:$145.00
+01/04/2021
+powered by: BlueMatrix
+HOLD:$150.00
+01/21/2021
+HOLD:$155.00
+07/20/2021
+04/20/2021
+HOLD:$159.00
+HOLD:$161.00
+10/19/2021
+HOLD:$172.00
+01/20/2022
+HOLD:$180.00
+04/12/2022
+180
+160
+140
+120
+100
+Oct 20
+HOLD:$181.00
+01/24/2023
+Jan 21
+Apr 21
+Jul 21
+Oct 21
+HOLD:$182.00
+04/05/2023
+HOLD:$183.00
+04/19/2023
+HOLD:$185.00
+07/17/2023
+Jan 22
+Apr 22
+Jul 22
+Oct 22
+Jan 23
+Apr 23
+Jul 23
+Closing Price
+Price Target
+Initiation (I); Drop Coverage (D); Overweight (BUY); Equal Weight (HOLD); Underweight (SELL); Suspended (SR); Not Rated (NR); No Estimate (NE)
+Wells Fargo Securities, LLC, or its affiliates received compensation for investment banking services from The Travelers Companies, Inc. in the past 12 months.
+Wells Fargo Securities, LLC, maintains a market in the common stock of The Travelers Companies, Inc ..
+The Travelers Companies, Inc. currently is, or during the 12-month period preceding the date of distribution of the research report was, a client of Wells Fargo
+Securities, LLC. Wells Fargo Securities, LLC, provided non-investment banking securities-related services to The Travelers Companies, Inc ..
+Wells Fargo Securities, LLC, or its affiliates, managed or co-managed a public (or 144a) offering of securities for The Travelers Companies, Inc. within the past 12
+months.
+Wells Fargo Securities, LLC, or any of its affiliates, intends to seek or expects to receive compensation for investment banking services from The Travelers
+Companies, Inc. in the next three months.
+Wells Fargo Securities, LLC, received compensation for products or services other than investment banking services from The Travelers Companies, Inc. in the past
+12 months.
+The Travelers Companies, Inc. currently is, or during the 12 month period preceding the date of distribution of the research report was, a client of Wells Fargo
+Securities, LLC. Wells Fargo Securities, LLC, provided investment banking services to The Travelers Companies, Inc ..
+Wells Fargo Securities, LLC, or its affiliates has a significant financial interest in The Travelers Companies, Inc ..
+STOCK RATING
+OW=Overweight: Total return on stock expected to be 10%+ over the next 12 months. BUY
+EW=Equal Weight: Total return on stock expected to be -10% to +10% over the next 12 months. HOLD
+12 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+UW=Underweight: Total return on stock expected to lag the Overweight- and Equal Weight-rated stocks within the analyst's coverage universe over the next 12
+months. SELL
+Important Disclosure for U.S. Clients
+This report was prepared by Wells Fargo Securities Global Research Department ("WFS Research") personnel associated with Wells Fargo Securities, LLC ("Wells
+Fargo Securities").
+WFS Research may, from time to time, provide clients with short-term trading views in its research reports regarding subject companies on which Wells Fargo
+Securities currently has equity research coverage. A short-term trading view offers a view on how the market price of a subject company's common equity may
+trend in absolute terms during the 30 days following the date of the short-term trading view. A short-term trading view on a subject company's common equity
+does not impact our fundamental investment rating or price target for that company, which reflect our view of how the subject company's common equity may
+perform over a one-year period. A short-term trading view may reach a different conclusion than the firm's fundamental investment rating and price target for
+a subject company and, therefore, short-term trading views could result in short-term price movements that are contrary to our fundamental investment rating
+and price target. Short-term trading views are not ratings and the firm does not intend, nor undertakes any obligation, to maintain, update or close out short-term
+trading views. Short-term trading views may not be suitable for all investors and have not been tailored to individual investor circumstances and objectives, and
+investors should make their own independent decisions regarding any short-term trading views discussed in WFS Research reports.
+Important Disclosure for International Clients
+United Kingdom - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of
+investors. For recipients in the United Kingdom, this report is distributed by Wells Fargo Securities International Limited ("WFSIL"). WFSIL is a UK incorporated
+investment firm authorised and regulated by the Financial Conduct Authority. For the purposes of Section 21 of the UK Financial Services and Markets Act 2000
+(the "Act"), the content of this report has been approved by WFSIL, an authorised person under the Act. WFSIL does not deal with retail clients as defined in the
+Directive 2014/65/EU ("MiFID2"). The FCA rules made under the Financial Services and Markets Act 2000 for the protection of retail clients will therefore not apply,
+nor will the Financial Services Compensation Scheme be available. This report is not intended for, and should not be relied upon by, retail clients. For the purposes of
+the U.K. Financial Conduct Authority's rules, this report constitutes impartial investment research.
+EEA - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of investors. For
+recipients in the EEA, this report is distributed by WFSIL or Wells Fargo Securities Europe S.A. ("WFSE"). WFSE is a French incorporated investment firm authorized
+and regulated by the Autorité de contrôle prudentiel et de résolution and the Autorité des marchés financiers. WFSE does not deal with retail clients as defined in
+the Directive 2014/65/EU ("MiFID2"). This report is not intended for, and should not be relied upon by, retail clients.
+Australia - Wells Fargo Securities, LLC and Wells Fargo Securities International Limited are exempt from the requirements to hold an Australian financial services
+license in respect of the financial services they provide to wholesale clients in Australia. Wells Fargo Securities, LLC is regulated under the laws of the United
+States and Wells Fargo Securities International Limited is regulated under laws of the United Kingdom. All such laws differ from Australian laws. Any offer or
+documentation provided to Australian recipients by Wells Fargo Securities, LLC or Wells Fargo Securities International Limited in the course of providing the
+financial services will be prepared in accordance with the laws of the United States or United Kingdom and not Australian laws.
+Canada - This report is distributed in Canada by Wells Fargo Securities Canada, Ltd., a registered investment dealer in Canada and member of the Investment
+Industry Regulatory Organization of Canada (IIROC) and Canadian Investor Protection Fund (CIPF). Wells Fargo Securities, LLC's research analysts may participate in
+company events such as site visits but are generally prohibited from accepting payment or reimbursement by the subject companies for associated expenses unless
+pre-authorized by members of Research Management.
+China - Strictly Private and Confidential. For the sole use of the recipient only. Not to be copied or redistributed within the People's Republic of China.
+Brazil - This report was not created for distribution to investors resident in Brazil or to the Brazilian public in general. Wells Fargo Securities, LLC is a broker-dealer
+registered in United States of America with and regulated by the U.S. Securities and Exchange Commission. Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliarios, the CVM). The offer of Wells Fargo Securities, LLC's products, including this report and any securities mentioned in this report, is intended only for
+residents in the countries in which Wells Fargo Securities, LLC is authorized to operate.
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+This report is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments named or described in the report.
+This report, including any ratings it contains, does not constitute a personal recommendation or take into account the particular investment objectives, financial
+situations, or needs of individual clients. Clients should seek professional advice, including tax advice, to determine whether any advice or recommendation in the
+attached research report is suitable for their particular circumstances. The information in this report is provided as of the date of the report and has been obtained
+or derived from sources believed by Wells Fargo Securities Global Research Department ("WFS Research"), to be reliable, but WFS Research does not represent
+that this information is accurate or complete. Any opinions or estimates contained in this report represent the judgment of WFS Research, at the time that the
+report was published, and are subject to change without notice. Certain text, images, graphics, screenshots and audio or video clips included in this report are
+protected by copyright law and owned by third parties (collectively, "Third Party Content"). Third Party Content is made available to clients by Wells Fargo under
+license or otherwise in accordance with applicable law. Any use or publication of Third Party Content included in this report for purposes other than fair use requires
+permission from the copyright owner. Any external website links included in this publication are not maintained, controlled or operated by Wells Fargo Securities.
+Wells Fargo Securities does not provide the products and services on these websites and the views expressed on these websites do not necessarily represent
+Equity Research | 13
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+those of Wells Fargo Securities. Please review the applicable privacy and security policies and terms and conditions for the website you are visiting. All Wells Fargo
+Securities research reports published by WFS Research are disseminated and available to all clients simultaneously through electronic publication to our internal
+client websites. Clients may also receive our research via third party vendors. Not all research content is redistributed to our clients or available to third-party
+aggregators, nor is WFS Research responsible for the redistribution of our research by third party aggregators. Equity Strategists focus on investment themes
+across the equity markets and sectors. Any discussion within an Equity Strategy report of specific securities is not intended to provide a fundamental analysis of
+any individual company described therein. The information provided in Equity Strategy reports is subject to change without notice, and investors should not expect
+continuing information or additional reports relating to any security described therein. Wells Fargo Securities' Signature Picks is a product of the Equity Strategy
+team and represents a portfolio of stocks selected from the Equity Research Department's universe of Overweight rated stocks. Stocks with this designation are
+selected by the Signature Picks Committee based on factors such as volatility, risks, market cap and liquidity and may not represent the fundamental analysts'
+top-rated stock in their respective coverage universe. For research or other data available on a particular security, please contact your sales representative or go to
+http://research.wellsfargosecurities.com. Copyright @ 2023 Wells Fargo Securities, LLC
+SECURITIES: NOT FDIC-INSURED - MAY LOSE VALUE - NO BANK GUARANTEE
+14 | Equity Research

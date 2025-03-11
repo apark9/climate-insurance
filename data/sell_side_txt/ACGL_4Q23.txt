@@ -1,0 +1,1933 @@
+J.P.Morgan
+Arch Capital
+MI & Reinsurance Tailwinds to Drive Strong Results
+ACGL's results exceeded expectations, as upside in the MI and reinsurance
+businesses offset downside in insurance. We are Neutral on the stock due to
+valuation but consider Arch a premier franchise and feel that ACGL is the best
+name for investors seeking to take advantage of the hard reinsurance market.
+· EPS upside; raising estimates. ACGL reported 4Q23 operating EPS of $2.49,
+well above our $1.97 estimate and consensus of $2.00. Results benefited from
+lower attritional losses, which more than offset slightly higher expenses.
+Compared to our model, the upside was driven partly by more favorable prior-
+year development (+$0.03 variance), but this was more than offset by higher
+cat losses (-$0.07 variance). Investment income was $0.06 better as well, and
+should continue to increase at a strong pace. We are raising our 2024 EPS
+forecast from $7.36 to $7.76 to reflect better reinsurance and MI margins.
+· Business trends were strong overall. Reinsurance results were lifted by
+strong margins (CR 80.1% vs. our 82.9% estimate) and healthy premium
+growth (ex. one-time deals last year). As in recent quarters, MI results were
+lifted by robust margins (CR -3.3% vs. 32.0%E), helped by sizable releases of
+post-COVID reserves (-39.0% on CR vs. - 12.0%E). Insurance margins were
+strong in an absolute sense, but fell short of our estimate (CR 93.2% vs.
+91.4%E; CR ex. cats and PYD 89.9% vs. 89.7%E) due to higher than expected
+cat losses and an uptick in the expense ratio. Premiums exceeded expectation
+as well (NWP +7.5% vs. +1.5%E) as upside in the reinsurance and insurance
+businesses offset a shortfall in MI. As assumed, ACGL did not repurchase stock
+in 4Q. Management sounded very positive on the operating environment in the
+property cat reinsurance and MI markets, but less so on casualty pricing.
+. Our model projects ACGL to report robust results in the near term, but
+our long-term outlook is mixed. In our view, Arch will report strong margins
+and top-line growth in re/insurance, and healthy margins but poor premium
+growth in MI. In the MI business, reserve releases related to COVID
+delinquencies should moderate, but we anticipate ongoing favorable
+development given the strong labor market and the rise in house prices. Higher
+interest rates are a headwind for growth, but should help premium persistency
+and margins in the MI division. In reinsurance, margins should benefit from
+firm pricing. Still, we remain skeptical of a sustained hard market in the
+reinsurance business. Our model assumes no share repurchases over the next
+few quarters given ACGL's current stock price and management's intent to
+deploy capital into the business amid the favorable pricing backdrop.
+JPMorgan
+. We reiterate our Neutral rating. In our view, ACGL is a top-tier franchise,
+but in commoditized markets. While the company is well-positioned to benefit
+from hard reinsurance pricing, our long-term outlook for the reinsurance
+market is cautious. Also, we feel that ACGL's valuation is not attractive given
+its long-term ROE and EPS growth potential.
+North America Equity Research
+14 February 2024
+Neutral
+ACGL, ACGL US
+Price (14 Feb 24):$84.87
+Price Target (Dec-24):$88.00
+Prior (Dec-24):$80.00
+Insurance - Life & Nonlife
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+Bloomberg JPMA BHULLAR <GO>
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+J.P. Morgan Securities LLC
+Key Changes (FYE Dec)
+Adj. EPS - 24E ($)
+Adj. EPS - 25E ($)
+7.60
+Prev
+Cur
+7.36
+7.76
+8.04
+Quarterly Forecasts (FYE Dec)
+Adj. EPS ($)
+2025E
+Q1
+Q2
+Q3
+Q4
+2.49
+FY
+2023A
+1.73
+1.92
+2.31
+8.45
+2024E
+2.06
+1.91
+1.62
+2.17
+7.76
+8.04
+Style Exposure
+Quant
+Current
+Hist %Rank (1=Top)
+Factors
+6M
+Value
+100
+Growth
+67
+1
+%Rank
+Momentum
+67
+1
+100
+1
+1
+1Y
+3Y
+100
+100
+34
+1
+34
+34
+1
+1
+1
+34
+5Y
+34
+34
+34
+1
+1
+Quality
+1
+Low Vol
+1
+ESGQ
+12
+12
+13
+91
+98
+4Q23 EPS: $2.49A vs. $1.97E
+Positives: MI and reinsurance margins;
+insurance and reinsurance written
+premiums
+Negatives: insurance margins; MI written
+premiums
+Bloomberg: JPMA Bhullar <GO>
+Sources for: Style Exposure - J.P. Morgan Quantitative and Derivatives Strategy; all other tables are company data and J.P. Morgan estimates.
+See page 13 for analyst certification and important disclosures.
+J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that
+the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single
+factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+Price Performance
+100
+90
+$
+80
+70
+60
+Apr 23
+Jul 23
+Oct 23
+- ACGL Price ($)
+- S&P500 (rebased)
+Abs
+Rel
+YTD
+14.3%
+9.5%
+4.7%
+-12.0%
+7.1%
+1m
+9.2%
+3m
+-0.7%
+28.0%
+Company Data
+Shares O/S (mn)
+373
+52-week range ($)
+90.65-62.10
+Market cap ($ mn)
+31,681.97
+Exchange rate
+1.00
+Free float(%)
+97.0%
+3M - Avg daily vol (mn)
+3M - Avg daily val ($ mn)
+139.2
+Key Metrics (FYE Dec)
+$ in millions
+Financial Estimates
+NEP (Premium)
+12,440
+14,698
+16,432
+Underwriting income
+2,612
+Net investment income
+1,023
+Operating income
+3,635
+Adj. PBT
+3,569
+Adj. net income
+3,201
+Adj. EPS
+8.45
+7.76
+BBG EPS
+7.96
+7.72
+DPS
+0.00
+0.00
+Investments
+16,792
+BVPS
+46.94
+NAVPS
+46.94
+Margins and Growth
+Adj. EPS growth
+Ratios
+Adj. tax rate
+24.5%
+8.0%
+15.0%
+Loss ratio
+Combined ratio
+(50.2%
+(57.8%)
+(58.5%)
+Invest inc. % of Investments
+(21.4%)
+Regulatory solvency ratio
+Leverage (Debt/Debt+Equity)
+ROE
+21.6%
+15.6%
+14.1%
+Valuation
+Dividend yield
+0.0%
+Adj. P/E
+10.0
+10.9
+10.6
+P/ BV
+1.8
+FY23A
+73.4%
+FY24E
+FY25E
+2,008
+2,146
+1,313
+1,535
+3,322
+3,681
+3,680
+4,065
+2,952
+54.90
+62.78
+54.90
+(8.2%)
+(29.3%)
+0.0%
+1.5
+1.4
+Jan 24
+12m
+1.74
+25
+Volatility (90 Day)
+Index
+S&P 500
+BBG BUY|HOLD|SELL
+12|5|1
+3,033
+8.04
+8.26
+0.00
+62.78
+3.6%
+(30.1%)
+0.0%
+J.P.Morgan
+Summary Investment Thesis and Valuation
+We reiterate our Neutral rating. Arch is a leading re/insurance
+franchise with a track record of higher and less volatile
+underwriting margins than most peers. Still, we are Neutral
+because of our cautious long-term outlook for the P&C
+reinsurance market and the stock's valuation. In our view, near-
+term results in the MI business will be marked by weak premium
+growth and moderating margins as attritional loss ratios
+normalize higher, partially offset by continued reserve release
+from post-COVID accident years. Over time, we expect MI
+returns to be held back by the commoditized nature of the
+product, black box pricing, and higher capital requirements. In
+P&C reinsurance, hard pricing and tighter terms/conditions
+should boost underwriting results in the near term, but our long-
+term outlook is negative as we remain skeptical of a sustained
+hard market.
+Performance Drivers
+Market
+6%
+Country
+0%
+Macro
+16%
+Style
+7%
+Idiosyn.
+70%
+Factors
+Market: MSCI EM Latam
+0.04
+Country: Bermuda
+0.32
+6M Corr
+1Y Corr
+0.25
+0.05
+Macro:
+HSI Volatility Index
+-0.27
+-0.29
+Markit EM Composite PMI SA
+-0.46
+-0.24
+Emerging Central Bank Rate
+0.32
+0.21
+Quant Styles:
+19,638
+22,053
+Quality
+0.46
+0.33
+LowVol
+0.42
+0.28
+Momentum
+0.40
+0.24
+Source: J.P. Morgan Quantitative and Derivatives Strategy for Performance Drivers; company data, Bloomberg Finance L.P. and J.P. Morgan estimates for all other tables. Note: Price history may not be
+complete or exact.
+2
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+Table Of Contents
+Investment Thesis.
+4
+P&C Reinsurance: Near-Term Outlook Upbeat; L-T Cautious.
+4
+MI: Margins to Revert to More Normal Levels, Growth Weak
+4
+4Q23 Details.
+5
+Mortgage Insurance: Results Lifted by Reserve Releases
+6
+Insurance: Weaker Margins Offset Robust Premiums.
+8
+Reinsurance: Robust Margins Lifted Results
+9
+Raising EPS Estimates
+10
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+J.P.Morgan
+North America Equity Research
+14 February 2024
+Investment Thesis
+Please see Page 5 for a detailed review
+of 4Q23 results. ACGL will hold its
+earnings conference call at 11:00 AM
+Eastern on February 15, 2024.
+Conference call participants need to
+register at this link: https://
+register.vevent.com/register/
+Bla77bb69939154a5f80bec221534ac007
+The call replay can be accessed at:
+ir.archcapgroup.com.
+We consider ACGL the best stock for those seeking to invest on the hard
+reinsurance pricing theme, but are Neutral due to valuation. In our view, ACGL is
+an industry-leading reinsurance franchise with a unique culture and approach to
+underwriting that should generate above-average, and less volatile, margins over time.
+Arch is also a leading mortgage insurer, a business that we believe is structurally better
+than P&C reinsurance. We expect ACGL's reinsurance results to remain strong into
+2024 given the market's discipline on pricing and terms/conditions. In primary P&C,
+ACGL has gained share and expanded margins, especially in E&S. In the MI business,
+margins should moderate from their abnormally high levels recently, but stay strong
+overall, while premium growth is likely to be weak. Despite optimism on near-term
+results, our long-term outlook is less upbeat and we anticipate a turn in pricing if
+reinsurers' margins sustain at recent levels over the next 1-2 years. The reinsurance
+market suffers from structural issues such as low barriers to entry, lack of differentiation
+among carriers, and limited pricing power, and we expect sustained robust results to
+drive softening of terms/conditions. Still, our overall view of ACGL is positive and we
+could get more bullish if the stock pulls back.
+P&C Reinsurance: Near-Term Outlook Upbeat; L-T Cautious
+Arch's near-term reinsurance margins should benefit from hard pricing and
+tighter terms, but our long-term outlook is cautious. The company has historically
+generated better and less volatile margins than most reinsurers, which we attribute to its
+focus on specialty business (where pricing tends to be less competitive), conservative
+underwriting, ability to shift mix based on changing conditions, and judicious
+management of catastrophe risk. In particular, ACGL prices business using the risk-free
+rate (leading to more conservative underwriting) and uses a long-term compensation
+plan for underwriters based on margins over a multi-year period. Furthermore, the
+creation of 3rd party capital vehicles such as Premia Re generates fee income for the
+company. Overall, we consider Arch a top-tier reinsurer and expect firm pricing to boost
+results through 2024. Still, our long-term outlook for reinsurance is cautious given its
+commoditized nature, the ease of entry of new capital, and a broad set of capital
+providers (including some, such as pension funds, with lower return thresholds). We are
+skeptical of prolonged hard pricing and believe that 1-2 years of strong margins will
+erode pricing discipline. Any signs of softening of terms/conditions or capacity entering
+the market would likely hurt sentiment on reinsurance stocks, which have become
+consensus longs since late 2022.
+MI: Margins to Revert to More Normal Levels, Growth Weak
+ACGL expanded in mortgage insurance through acquisitions (CMG in 2014 and United
+Guaranty in 2016) when market conditions were favorable, marked by appreciating
+home prices, stringent lending standards at mortgage issuers, and disciplined pricing by
+mortgage insurers. Arch's MI business has generated healthy margins since then and,
+despite the temporary setback from COVID-related delinquencies in 2020, results have
+been strong. We expect MI margins, which have been unsustainably strong, to revert
+lower to more normal levels as COVID-related reserve releases taper off. However,
+ACGL's more conservative loss picks post-COVID could lead to near-term upside. The
+strong labor market and elevated home prices are also supportive of margins. Higher
+interest rates are a headwind for new sales, but should boost persistency.
+4
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+4Q23 Details
+This evening, ACGL reported fourth quarter 2023 operating EPS of $2.49, significantly
+above our $1.97 estimate and consensus of $2.00 as lower attritional losses more than
+offset slightly higher expenses. Compared to our model, the EPS upside was driven
+partly by more favorable prior-year development (+$0.03 variance), while cat losses
+were higher than assumed (-$0.07 variance). Also, investment income was $0.06 better
+than assumed. By division, upside in the MI and reinsurance businesses offset downside
+in insurance.
+Table 1: 4Q23 Operating Earnings: Actual versus Expected
+$ in millions, except per share amounts
+4Q23E
+4Q23A
+Upside / (downside)
+to EPS
+Comments
+Underwriting Income by Division:
+Mortgage
+187
+286
+$0.26
+Insurance
+121
+99
+Reinsurance
+274
+330
+$0.15
+Underwriting income
+582
+715
+$0.35
+-$0.06
+margins benefited from reserve release (CR -3.3% vs. 32.0%E)
+margins worse than assumed (CR 93.2% vs. 91.4%E); premium growth healthy
+margins drove upside (80.1% vs. 82.9%E); premium growth modest
+Net investment income
+288
+Other income (losses) / COLI
+4
+23
+$0.05
+313
+$0.06
+Earnings from affiliates
+25
+69
+$0.12
+pre-tax investment yield of 4.11% in 4Q23 versus 3.68% in 3Q23 and 2.80% in 4Q22
+Other expenses / corporate
+40
+Interest expense
+34
+34
+$0.00
+55
+-$0.04
+Pretax operating income
+1,031
+$0.54
+825
+Income tax expense
+66
+Preferred dividends
+10
+Operating income
+749
+76
+-$0.03
+10
+$0.00
+945
+$0.52
+tax benefit due to the establishment of a Bermuda deferred tax asset
+Weighted average dilutive shares
+379.9
+379.8
+$0.00
+no share buybacks as expected
+Operating EPS
+$1.97
+$2.49
+$0.52
+no major unusual items
+Source: Company reports and J.P. Morgan estimates.
+Business trends were strong overall. Reinsurance results were lifted by strong margins
+(CR 80.1% versus our 82.9% estimate) and healthy premium growth (adjusted for one-
+time deals last year). As in recent quarters, MI results were lifted by robust margins (CR
+-3.3% vs. 32.0%E), helped by sizable releases of non-COVID reserves (-39.0% on CR
+vs. - 12.0%E). Insurance margins were strong in an absolute sense, but fell short of our
+estimate (CR 93.2% vs. 91.4%E; CR ex. cats and PYD 89.9% vs. 89.7%E) due to higher
+than expected cat losses and an uptick in the expense ratio. Premium growth was better
+than anticipated as well (NWP +7.5% vs. +1.5%E) as upside in the reinsurance and
+insurance businesses offset a shortfall in MI. As assumed, Arch did not repurchase stock
+in the fourth quarter.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+Table 2: 4Q23 Key Financial Metrics
+$ in millions
+4Q23E
+4Q23A
+Net premiums written
+% change (y-o-y)
+1.5%
+7.5%
+3,079
+3,261
+Net investment income
+% change (y-o-y)
+59.2%
+72.9%
+48.9%
+288
+313
+Loss ratio ex cats and PYD
+54.2%
+Catastrophe losses
+PYD (favorable) / unfavorable
+-3.7%
+-4.1%
+Loss ratio
+53.8%
+49.0%
+3.3%
+4.1%
+Expense ratio
+28.5%
+30.0%
+Combined ratio
+82.3%
+78.9%
+Combined ratio ex cats & PYD
+82.7%
+78.9%
+Share buybacks ($ mil.)
+Source: Company reports and J.P. Morgan estimates.
+Mortgage Insurance: Results Lifted by Reserve Releases
+In our view, mortgage insurance (MI) will be marked by weak premium growth,
+high persistency, and strong (but normalizing) margins. Higher interest rates should
+suppress mortgage insurance volumes, while reserve releases from cures of COVID-
+related delinquencies should moderate. Still, division results have been significantly
+better than assumed in recent quarter and that was the case in 4Q23. The MI division
+reported underwriting income of $286 million in 4Q23, well above our $187 million
+estimate, driven by upside in margins (CR -3.3% vs. 32.0%E). Earned premiums were
+weak, but higher than anticipated (-5.9% from 4Q22 vs. - 8.6%E). The upside in margins
+was due to greater than assumed favorable reserve releases (-39.0% vs. - 12.0%E) as
+well as a lower attritional loss ratio (18.3% vs. 24.0%E). Consistent with commentary
+after 3Q23 results, management attributed the reserve releases to better than expected
+cure rates and more favorable assumptions (lower average per claim reserve and lower
+ultimate loss per notice of default) for business issued in accident years 2020-2022.
+Meanwhile, attritional losses benefited from lower estimated claim rates, partially offset
+by a modest uptick in new delinquencies. Similar to the recent trend, top-line growth in
+the MI market remains sluggish, with net written premiums declining for 9 consecutive
+quarters. We expect factors that are boosting margins in the business (higher rates, lower
+inventory of houses, etc.) to continue to suppress top-line growth in the MI division.
+In 2020 and early 2021, MI margins were hurt by artificially high delinquencies caused
+by homeowners availing themselves of government forbearance programs. However,
+6
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+after an initial spike in 2Q20, the number of delinquent loans has steadily declined. With
+the expiry of the forbearance programs, a significant portion of previously delinquent
+loans has cured, particularly loans by borrowers who were taking advantage of the
+mortgage payment holiday but were not in financial distress. Meanwhile, higher house
+prices have provided a cushion to homeowners under stress who are struggling to pay
+their mortgages, limiting losses for MI carriers. The percent of loans in default in the
+U.S. primary MI business inched up slightly from 1.65% at 9/30/23 to 1.74% at
+12/31/23, but remains low overall.
+Table 3: Mortgage Insurance Key Metrics
+$ in millions
+4Q21
+2021
+Net written premiums
+Premium Growth (y/y)
+Losses and LAE ex. cats and PYD
+Catastrophe losses
+PYD (favorable) / unfavorable
+Loss ratio
+Acquisition expense ratio
+Operating expense ratio
+Expense ratio
+Combined ratio
+Combined ratio ex cats & PYD
+289
+1,261
+-12.8%
+14.8%
+18.2%
+17.6%
+0.0%
+0.0%
+-24.2%
+-9.4%
+4.4%
+7.6%
+16,7%
+21.1%
+11.6%
+35.8%
+Underwriting Income (Loss)
+269
+953
+Source: Company reports and J.P. Morgan estimates.
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+2Q23
+3Q23
+4Q23E
+4Q23A
+-1.5%
+288
+-14,0%
+294
+-12.5%
+276
+-8.2%
+275
+1,133
+-10.2%
+-5.1%
+261
+-9.4%
+265
+-9.8%
+-1.9%
+271
+264
+-4.0%
+255
+-7.1%
+-13.7%
+-36.5%
+-40.7%
+4.4%
+-18.9%
+0,0%
+18.8%
+0.0%
+-21.9%
+21.0%
+0.0%
+-45.1%
+-24.1%
+25.2%
+0.0%
+-72.1%
+-46.9%
+20.7%
+0.0%
+-48.6%
+-28.0%
+25,3%
+0.0%
+-24.6%
+0.7%
+24.3%
+21.6%
+0,0%
+0.0%
+-28.7%
+-4.4%
+-33.5%
+-11.9%
+24.0%
+0.0%
+-12.0%
+12.0%
+-20.7%
+18.3%
+0.0%
+-39.0%
+15.1%
+22.7%
+3.6%
+18.4%
+17.0%
+22.1%
+20.4%
+3.4%
+2.4%
+4.4%
+16.5%
+15.4%
+18.8%
+19.8%
+3.5%
+16.8%
+20.3%
+2.4%
+16.9%
+19.3%
+2.4%
+17.0%
+19.4%
+16.7%
+0.7%
+16.0%
+3.0%
+17.0%
+20.0%
+17.5%
+0.4%
+17.1%
+27.1%
+3.2%
+40.9%
+39.7%
+-1.5%
+39.2%
+-5.2%
+-27.1%
+39.9%
+45.0%
+-7.7%
+41.0%
+19.9%
+44.5%
+15.0%
+4.8%
+38.3%
+43.7%
+32.0%
+-3.3%
+44.0%
+35.7%
+285
+298
+299
+374
+1,257
+243
+253
+282
+187
+286
+In our view, MI margins will continue to benefit from reserve releases, but to a
+lesser extent than in recent quarters. Higher reported delinquencies at the onset of
+COVID led Arch and its MI peers to establish corresponding reserves despite the
+healthy labor market and appreciation in house prices. A meaningful portion of these
+delinquencies was due to homeowners taking advantage of the government's
+forbearance protection programs (to preserve liquidity), not actual financial hardship.
+Under U.S. GAAP accounting, Arch had to establish reserves based on reported
+delinquencies despite the high likelihood that the delinquencies would eventually cure
+(unlike other P&C lines an IBNR component is disallowed under U.S. GAAP for
+primary MI business). With most of these delinquent loans curing following the
+expiration of forbearance programs (initially set for 12/31/20, but then extended through
+9/30/21 and, in some cases, year-end 2021 or beyond), ACGL has been releasing these
+previously incurred reserves. Currently, more than 80% of MI reserves are from
+accident years after COVID, suggesting less of a benefit from the release of reserves
+related to COVID delinquencies. Despite an expected decline, we project MI margins to
+remain healthy given the strong labor and housing markets, cures on previously
+delinquent loans, and the equity cushion accumulated by homeowners due to the
+appreciation in house prices. Higher interest rates are a positive for margins as well, as
+they are resulting in homeowners' staying in their existing houses (where they have
+more equity) longer then typical and are thereby improving persistency in the MI book.
+On a cautious note, top-line growth is likely to be weak as higher interest rates reduce
+mortgage originations. While a weaker economy could deflate home prices and lead to
+higher mortgage defaults, a material uptick in losses seems unlikely in the near term.
+Barring a recession, we expect core margins to stay healthy, though declining reserve
+releases will drive margins and earnings lower even if economic trends stay favorable.
+7
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+Table 4: Insurance Key Metrics
+$ in millions
+4Q21
+Net written premiums
+Premium Growth (y/y)
+Losses and LAE ex. cats and PYD
+Catastrophe losses
+PYD (favorable) / unfavorable
+Loss ratio
+Acquisition expense ratio
+Operating expense ratio
+Expense ratio
+Combined ratio
+93.0%
+Combined ratio ex cats & PYD
+1,036
+23.7%
+57.5%
+2.0%
+5.6%
+-0.3%
+59.2%
+18.8%
+14.9%
+33.7%
+91.3%
+Underwriting Income (Loss)
+71
+North America Equity Research
+14 February 2024
+J.P.Morgan
+ACGL has become a leading competitor in the MI market through acquisitions and
+could expand further via M&A, although deals seem unlikely in the near term.
+ACGL entered the mortgage re/insurance business in 2011 but was only marginally
+involved in the market at the onset, competing as a primary insurer through credit
+unions and as a reinsurer through the GSE credit risk transfer program. The company's
+2014 acquisition of CMG Mortgage Insurance from Cuna Mutual gave it a bigger
+foothold as it received a ratings upgrade for its MI business (from BBB+ to A- at S&P)
+and gained distribution in the bank channel. Following the deal, Arch became a top 10
+competitor in the domestic private MI market. Arch's market position strengthened
+further following its 2017 acquisition of United Guaranty (UGC) from AIG, which
+catapulted it to a top-3 spot (as part of the deal AIG retained 50% of mortgage insurance
+blocks originated by UGC pre 2017). Arch has also expanded in foreign MI markets
+through M&A, including its acquisition of Westpac's mortgage insurance business in
+Australia (closed in August 2021).
+Insurance: Weaker Margins Offset Robust Premiums
+The insurance business reported lower than assumed underwriting margins, but
+robust premium growth, contrary to the trend in the previous quarter. The division
+generated underwriting income of $99 million in 4Q23, short of our $121 million
+estimate, due to lower than expected margins (CR 93.2% vs. 91.4%E). Margins were
+suppressed by higher than anticipated cat losses (3.8% on CR versus 2.0%E), but missed
+our assumption on a core basis as well (CR ex. cats and PYD 89.9% vs. 89.7%E).
+Meanwhile, premium growth was strong on both a net written (+19.1% vs. +12.5%E)
+and earned basis (+16.5% vs. +12.6%E). Management attributed the strong premium
+growth to new accounts, increased volumes from existing accounts, and price increases.
+Favorable pricing conditions and the rise in reinsurance costs prompted the company to
+retain more business than in the past.
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+2Q23
+3Q23
+4Q23E
+4Q23A
+4,148
+31.2%
+1,207
+21.3%
+1,228
+27.5%
+1,369
+1,217
+18.6%
+17.4%
+5,021
+21.0%
+1,437
+19.1%
+1,454
+18.4%
+1,522
+11.2%
+1,369
+12,5%
+1,449
+19.1%
+59.5%
+-0.4%
+64.6%
+55.5%
+3.1%
+-0.1%
+58.5%
+56.0%
+56.0%
+1.5%
+13.4%
+-0.4%
+-0.1%
+57.1%
+69.3%
+58.7%
+56.2%
+2.8%
+-0.3%
+56.0%
+5.3%
+-0.2%
+61.0%
+54.8%
+1.6%
+2.6%
+-0.5%
+55.9%
+55.2%
+55.7%
+2.6%
+-0.5%
+57.3%
+57.5%
+-0.8%
+55.7%
+2.0%
+-0.3%
+-0.5%
+57.4%
+55.1%
+3.8%
+58.4%
+16.7%
+15.4%
+32.1%
+19.1%
+19.4%
+16.2%
+14.6%
+35.3%
+34.0%
+19.6%
+19.6%
+13,9%
+33.5%
+13.8%
+33.5%
+19.4%
+14.6%
+34.0%
+19.5%
+15.5%
+35.0%
+19.9%
+14.7%
+14.3%
+34.6%
+19.1%
+33.4%
+19.5%
+14.5%
+19.1%
+15.7%
+34.0%
+34.8%
+96.8%
+91.6%
+93.8%
+90.8%
+91.1%
+90.0%
+89.5%
+102.8%
+92.1%
+89.6%
+95.1%
+90.0%
+90.9%
+91.9%
+89.8%
+89.8%
+90.9%
+89.1%
+91.4%
+93.2%
+89.7%
+89.9%
+117
+63
+98
+(34)
+98
+225
+114
+108
+129
+121
+99
+Source: Company reports and J.P. Morgan estimates.
+Arch's primary P&C business is benefiting from favorable pricing, but we expect
+margin improvement in the business to be less than implied by price hikes. After
+shrinking its "cycle managed" business (now called as wholesale/large capacity) from
+2012 to 2017, ACGL is seeing strong growth in this part of its primary book, driven by
+price hikes in the broader market, particularly in E&S. Results in less opportunistic parts
+of ACGL's book (specialty small/middle market and franchise) have been healthy as
+8
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+Table 5: Reinsurance Key Metrics
+$ in millions
+4Q21
+Net written premiums
+709
+Premium Growth (y/y)
+Losses and LAE ex. cats and PYD
+Catastrophe losses
+PYD (favorable) / unfavorable
+Loss ratio
+Acquisition expense ratio
+Operating expense ratio
+Expense ratio
+Combined ratio
+83.1%
+Combined ratio ex cats & PYD
+44.5%
+54.9%
+57.9%
+6.7%
+-6.4%
+55.2%
+20.0%
+18.9%
+7.9%
+27.9%
+82.8%
+Underwriting Income (Loss)
+133
+Source: Company reports and J.P. Morgan estimates.
+North America Equity Research
+14 February 2024
+J.P.Morgan
+well. High inflation and rising reinsurance costs are driving an uptick in insurance
+pricing, especially in property and cat-exposed lines. Despite the increase in prices, we
+do not anticipate a material improvement in primary commercial lines margins at Arch
+and peers due to headwinds from higher inflation and reinsurance costs. Management
+teams at insurance underwriters as well as many investors are optimistic about
+improving non-cat margins at commercial insurers, but we feel that assessing results
+on a non-cat basis is not as relevant given the significant increase in reinsurance
+retentions at primary companies. On an overall combined ratio basis, results for most
+primary insurers were weak in 2023 given elevated cat losses. In contrast, reinsurers' cat
+losses have not increased to the same extent. We feel that consensus EPS forecasts for
+commercial lines insurers do not adequately reflect the shift in cat loads from reinsurers
+to primary carriers following the uptick in retention levels with 1/1/2023 reinsurance
+renewals.
+Reinsurance: Robust Margins Lifted Results
+The reinsurance business reported strong margins and premium growth, consistent
+with the trends in recent quarters. The business reported underwriting income of
+$330 million in 4Q23, considerably above our $274 million assumption, helped by
+upside in margins. The combined ratio was 80.1% in 4Q23 versus our 82.9%
+assumption as lower attritional losses (48.5% vs. 57.9%E) offset slightly less favorable
+reserve development (-1.3% vs. - 5.3%E) and an uptick in the acquisition expense ratio
+(22.5% vs. 21.0%E). ACGL attributed the uptick in the acquisition expense ratio to
+business mix, not a change in market dynamics. Gross written premiums were weaker
+than expected (+9.7% vs. +15.0%E), but were healthy nonetheless. Net written premium
+were flat, but this was more due to a few non-recurring transactions in 4Q22, absent
+which they would have increased 25.6%. Management sounded upbeat on Arch's
+positioning amid capacity constraints in the property cat market. The increase in
+reinsurance attachment points in early 2023 shifted the risk of cat losses from reinsurers
+to primary carriers and management indicated that terms remained fairly consistent with
+1/1/24 renewals. Conversely, contrary to its initial expectation, management has not
+seen a marked improvement in pricing and terms in the casualty market.
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+2Q23
+3Q23
+4Q23E
+4Q23A
+3,254
+32.4%
+1,139
+14.0%
+1,163
+25.7%
+1,079
+73.6%
+1,543
+117.6%
+4,924
+51.3%
+1,726
+51.5%
+1,709
+47.0%
+1,562
+44.8%
+1,447
+-6.3%
+1,557
+0.9%
+15.4%
+-5.6%
+67.8%
+52.6%
+55.3%
+6.7%
+-2.8%
+56.5%
+7.1%
+-4.5%
+-4.9%
+57.9%
+58.4%
+57.4%
+39.1%
+92.6%
+0.0%
+-4.5%
+52.9%
+56.2%
+12.9%
+-4.3%
+64.9%
+56.6%
+4.4%
+-3.4%
+-1.8%
+57.6%
+50.8%
+49.9%
+9,3%
+6.3%
+55.3%
+-2.8%
+56.4%
+57.9%
+5.0%
+-5.3%
+-1.3%
+57.7%
+52.3%
+48.5%
+5.1%
+7.5%
+26.4%
+30.1%
+21.4%
+20.4%
+8.7%
+7.1%
+27.5%
+20.8%
+6.3%
+27.1%
+19.9%
+5.6%
+6.8%
+25.5%
+20.5%
+27.3%
+21.1%
+5.6%
+26.7%
+21.6%
+5.1%
+26.7%
+19.7%
+4.0%
+23.7%
+21.0%
+22.5%
+4.2%
+5.2%
+25.2%
+27.8%
+94.2%
+84.3%
+86.6%
+82.7%
+85.5%
+119.7%
+82.9%
+85.5%
+78.5%
+92.2%
+83.0%
+83.5%
+84.3%
+82.0%
+83.3%
+77.5%
+80.0%
+73.5%
+82.9%
+83.1%
+80.1%
+76.3%
+170
+109
+139
+(197)
+263
+314
+213
+245
+310
+274
+330
+We are skeptical of sustained hard reinsurance pricing, but market trends are
+holding up better than our initial expectations and we believe that Arch is better
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+J.P.Morgan
+North America Equity Research
+14 February 2024
+positioned than peers in the current environment. ACGL's reinsurance segment was
+initially established to take advantage of the hard market for casualty coverage in the
+early 2000s. Over the years, however, management has shifted Arch Re's business mix
+away from casualty risks towards other specialty lines such as surety, accident and
+health, agriculture, and trade credit, which are generally less competitive and have more
+attractive risk-reward. The hard pricing environment has boosted results in recent years
+and is causing management to increase its exposure to property coverages. This, in turn,
+should drive continued strong premiums and margins in the near term. Still, we expect
+the pace of price hikes to moderate longer term and remain skeptical of a sustained hard
+reinsurance market. Factors that contributed to a multi-year soft market prior to 2018
+(glut of capital, greater fluidity/speed of capital, more providers of capacity, broker
+consolidation) are still prevalent, and should preclude prolonged hard pricing. On a
+positive note, ACGL's reinsurance results could benefit from the release of COVID-
+related reserves, a portion of which remain in IBNR. Similarly, loss reserves for Ian
+could ultimately prove to be too conservative (most reinsurers booked higher Ian-related
+losses than primary carriers).
+Raising EPS Estimates
+We are increasing our 2024 EPS forecast from $7.36 to $7.76. Our revised model
+reflects higher than previously assumed margins in the reinsurance and MI businesses.
+We consider catastrophe losses (which would affect reinsurance and insurance margins)
+and housing market conditions (which affect MI margins and premium growth) the key
+sources of potential variance in reported results and our projections.
+10
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+Arch Capital (Neutral; Price Target: $88.00)
+Investment Thesis
+We consider Arch a premier re/insurance franchise, but bullish investor sentiment and
+valuation keep us from being more positive on the stock. Arch is a leading reinsurance
+business that we project to report superior and less volatile underwriting margins over time
+because of its unique culture and approach to the market. Also, Arch is a top competitor in
+mortgage insurance (MI), which we consider structurally better business than P&C
+reinsurance. In the near term, we expect MI results to be marked by weak premium growth
+and compressing, albeit still healthy, margins as loss ratios normalize. In reinsurance, firm
+pricing should boost both premium growth and margins in the immediate future. However,
+our long-term view of the reinsurance business is cautious. The reinsurance business suffers
+from structural issuer such as low barriers to entry, lack of differentiation by carrier, and
+limited pricing power. As such, we expect sustained high margins to erode price discipline
+and attract additional capacity into the market. Lastly, investor sentiment on ACGL is
+bullish and the stock's valuation is not compelling relative to the company's long-term ROE
+and EPS growth potential.
+Valuation
+We are raising our December 2024 price target from $80 to $88 to reflect our higher EPS
+and book value forecasts. Our price target assumes a 1.5x multiple on our 12/31/24E BV ex.
+AOCI forecast, a 1.6x multiple on our 12/31/24E BV forecast, and an 11.0x multiple on our
+2025 EPS estimate, and we corroborate this approach with a sum-of-the-parts analysis that
+values ACGL's re/insurance business separately from mortgage insurance. Our target
+multiples for ACGL reflect its current business mix, which has become less skewed to
+mortgage insurance. ACGL trades at 1.9x BV and 10.8x 2024E EPS compared to 1.2x and
+6.2x for the reinsurance sector, 1.1x and 7.9x for MI peers, and 1.9x and 12.4x for the broader
+P&C group.
+Risks to Rating and Price Target
+In our opinion, ACGL could outperform and exceed our price target if:
+· Re/insurance pricing stays firm for an extended period. A prolonged hard market
+could drive upside to our EPS estimates and lift sentiment on the stock.
+· Management sustains insurance underwriting margins close to the recent level. In
+our view, investor sentiment could improve if ACGL is able to sustain insurance
+combined ratios in the low to mid 90s, a significant improvement from ~100%
+previously, even as the tailwind from the current hard market recedes.
+We feel that the stock could underperform the group and fail to reach our target if:
+· Additional capacity enters the reinsurance market. This, in turn, could result in a
+reversal in pricing trends and potentially drive a reduction in EPS estimates as well as
+hurt sentiment on the sector.
+· The housing market deteriorates. Given Arch's meaningful exposure to mortgage
+insurance and the more systematic nature of mortgage insurance risk, rising
+unemployment, higher mortgage defaults, and decreasing home values would pressure
+the company's results and hurt sentiment on the stock.
+· The pace of reserve development moderates. Favorable reserve development has
+been a notable contributor to ACGL's results in recent years. A slowdown in the pace
+of development could pressure margins and returns.
+11
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+Arch Capital: Summary of Financials
+Income Statement - Annual
+FY23A
+FY24E
+FY25E
+Income Statement - Quarterly
+Earned premiums
+Policy charges and fee income
+Net investment income
+Insurance and annuity benefits
+Interest credited
+Interest expense
+(133)
+Acquisition & operating expenses
+(2,312)
+Amortization of acquisition costs (net)
+1
+Other expenses
+Total expenses
+.
+Total operating income
+3,201
+2,952
+3,033
+Weighted average diluted shares
+379
+380
+377
+EPS - operating
+8.45
+7.76
+8.04
+-
+Other income
+1
+I
+Total revenues
+(139)
+(145)
+(2,756)
+3,680
+Pretax income
+3,569
+Income taxes
+873
+Total net income
+4,403
+(294)
+(610)
+3,346
+3,415
+Balance Sheet and Capital Data
+FY23A
+FY24E
+Shareholders' equity
+Shareholders' equity ex. AOCI
+Shares outstanding
+373
+371
+Book value per share
+46.94
+Book value per share (ex. AOCI)
+48.75
+Capital for share repurchases
+Capital for dividends
+Dividends
+0.00
+0.00
+54.90
+62.78
+56.73
+64.64
+- Earned premiums
+- Policy charges and fee income
+- Net investment income
+- Other income
+- Total revenues
+- Insurance and annuity benefits
+- Interest credited
+Interest expense
+(34)
+(3,108) Acquisition & operating expenses
+(655)
+- Amortization of acquisition costs (net)
+.
+·Other expenses
+1
+- Total expenses
+4,065
+Pretax income
+968
+(77)
+Income taxes
+(73)
+(63)
+(81)
+Total net income
+881
+829
+715
+921
+Weighted average diluted shares
+380
+382
+EPS - operating
+1.62
+2.17
+FY25E
+Ratio Analysis
+FY23A
+- EPS growth - operating
+73.4%
+- Book value per share (ex. AOCI) growth
+31.5%
+Return on equity (ROE)
+21.6%
+Return on equity (ex. AOCI)
+363
+Dividend payout ratio
+0.0%
+0.0%
+0.0%
+1
+- Total revenue growth
+- Total expense growth
+0.00 Tax rate
+1Q24E
+2Q24E
+.
+782
+1
+1
+(35)
+(35)
+(35)
+(685)
+912
+788
+1,012
+FY24E
+(8.2%)
+3.6%
+16.4%
+13.9%
+15.6%
+14.1%
+-
+3Q24E
+1
+.
+(702)
+(713)
+617
+823
+Total operating income
+730
+381
+379
+2.06
+1.91
+FY25E
+4Q24E
+FY26E
+.
+24.5%
+8.0%
+15.0%
+ʻ
+-
+Source: Company reports and J.P. Morgan estimates.
+Note: $ in millions (except per-share data).Fiscal year ends Dec
+12
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+Analyst Certification: The Research Analyst(s) denoted by an "AC" on the cover of this report certifies (or, where multiple Research Analysts
+are primarily responsible for this report, the Research Analyst denoted by an "AC" on the cover or within the document individually certifies,
+with respect to each security or issuer that the Research Analyst covers in this research) that: (1) all of the views expressed in this report
+accurately reflect the Research Analyst's personal views about any and all of the subject securities or issuers; and (2) no part of any of the
+Research Analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the
+Research Analyst(s) in this report. For all Korea-based Research Analysts listed on the front cover, if applicable, they also certify, as per KOFIA
+requirements, that the Research Analyst's analysis was made in good faith and that the views reflect the Research Analyst's own opinion,
+without undue influence or intervention.
+All authors named within this report are Research Analysts who produce independent research unless otherwise specified. In Europe, Sector
+Specialists (Sales and Trading) may be shown on this report as contacts but are not authors of the report or part of the Research Department.
+Important Disclosures
+. Market Maker: J.P. Morgan Securities LLC makes a market in the securities of Arch Capital.
+· Market Maker/ Liquidity Provider: J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to Arch
+Capital.
+. Client: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: Arch Capital.
+. Client/Non-Investment Banking, Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies)
+as clients, and the services provided were non-investment-banking, securities-related: Arch Capital.
+. Client/Non-Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the
+services provided were non-securities-related: Arch Capital.
+. Non-Investment Banking Compensation Received: J.P. Morgan has received compensation in the past 12 months for products or services
+other than investment banking from Arch Capital.
+. Debt Position: J.P. Morgan may hold a position in the debt securities of Arch Capital, if any.
+Company-Specific Disclosures: Important disclosures, including price charts and credit opinion history tables, are available for compendium
+reports and all J.P. Morgan-covered companies, and certain non-covered companies, by visiting https://www.jpmm.com/research/disclosures,
+calling 1-800-477-0406, or e-mailing research.disclosure.inquiries@jpmorgan.com with your request.
+Arch Capital (ACGL, ACGL US) Price Chart
+Date
+140
+N $46
+N $52
+N $57
+N $67
+28-Apr-21
+N
+40.49
+N $86
+120
+N $44
+N $51
+N $54
+N $62
+N $82
+100
+N $40
+N $48
+N $53
+N $58
+N $75
+Price($)
+80
+60
+40
+20
+May
+21
+21
+Sep
+Jan
+May
+22
+22
+22
+Sep
+Jan
+23
+May
+23
+23
+Sep
+Source: Bloomberg Finance L.P. and J.P. Morgan; price data adjusted for stock splits and dividends.
+Initiated coverage Dec 15, 2003. All share prices are as of market close on the previous business day.
+N $80
+Jan
+24
+01-Jul-21
+01-Apr-22
+06-Jul-22
+N
+44.44
+27-Jul-22
+26-Oct-22
+04-Jan-23
+31-Mar-23
+26-Apr-23
+06-Jul-23
+26-Jul-23
+30-Oct-23
+08-Jan-24
+N
+Rating
+N
+38.94
+28-Oct-21
+N
+42.33
+N
+48.20
+N
+48.42
+N
+46.51
+N
+44.24
+N
+49.22
+N
+62.46
+N
+67.86
+N
+72.59
+N
+N
+N
+81.36
+Price ($)
+73.62
+75
+81.36
+76.81
+Price Target
+($)
+40
+44
+46
+09-Feb-22
+48
+51
+27-Apr-22
+52
+53
+54
+57
+58
+62
+67
+82
+86
+80
+The chart(s) show J.P. Morgan's continuing coverage of the stocks; the current analysts may or may not have covered it over the entire period.
+J.P. Morgan ratings or designations: OW = Overweight, N= Neutral, UW = Underweight, NR = Not Rated
+Explanation of Equity Research Ratings, Designations and Analyst(s) Coverage Universe:
+J.P. Morgan uses the following rating system: Overweight (over the duration of the price target indicated in this report, we expect this stock will
+outperform the average total return of the stocks in the Research Analyst's, or the Research Analyst's team's, coverage universe); Neutral (over
+the duration of the price target indicated in this report, we expect this stock will perform in line with the average total return of the stocks in the
+Research Analyst's, or the Research Analyst's team's, coverage universe); and Underweight (over the duration of the price target indicated in
+13
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+this report, we expect this stock will underperform the average total return of the stocks in the Research Analyst's, or the Research Analyst's
+team's, coverage universe. NR is Not Rated. In this case, J.P. Morgan has removed the rating and, if applicable, the price target, for this stock
+because of either a lack of a sufficient fundamental basis or for legal, regulatory or policy reasons. The previous rating and, if applicable, the
+price target, no longer should be relied upon. An NR designation is not a recommendation or a rating. In our Asia (ex-Australia and ex-India)
+and U.K. small- and mid-cap Equity Research, each stock's expected total return is compared to the expected total return of a benchmark
+country market index, not to those Research Analysts' coverage universe. If it does not appear in the Important Disclosures section of this report,
+the certifying Research Analyst's coverage universe can be found on J.P. Morgan's Research website, https://www.jpmorganmarkets.com.
+Coverage Universe: Bhullar, Jimmy S: AFLAC, Inc. (AFL), Allstate (ALL), American International Group (AIG), Aon (AON), Arch Capital
+(ACGL), Brighthouse Financial (BHF), Chubb Ltd (CB), Corebridge Financial (CRBG), Equitable Holdings Inc (EQH), Globe Life Inc (GL),
+Hartford Financial Services (HIG), Lincoln National (LNC), Marsh & McLennan (MMC), MetLife, Inc. (MET), Principal Financial Group
+(PFG), Progressive (PGR), Prudential Financial (PRU), Reinsurance Group of America (RGA), RenaissanceRe (RNR), Ryan Specialty Group
+(RYAN), Travelers Cos (TRV), Unum Group (UNM), Voya Financial, Inc. (VOYA)
+J.P. Morgan Equity Research Ratings Distribution, as of January 01, 2024
+J.P. Morgan Global Equity Research Coverage*
+IB clients **
+JPMS Equity Research Coverage*
+IB clients **
+Overweight
+(buy)
+47%
+48%
+46%
+68%
+Neutral
+(hold)
+39%
+13%
+32%
+43%
+42%
+63%
+(sell)
+Underweight
+12%
+46%
+*Please note that the percentages may not add to 100% because of rounding.
+** Percentage of subject companies within each of the "buy," "hold" and "sell" categories for which J.P. Morgan has provided
+investment banking services within the previous 12 months.
+For purposes of FINRA ratings distribution rules only, our Overweight rating falls into a buy rating category; our Neutral rating falls
+into a hold rating category; and our Underweight rating falls into a sell rating category. Please note that stocks with an NR designation
+are not included in the table above. This information is current as of the end of the most recent calendar quarter.
+Equity Valuation and Risks: For valuation methodology and risks associated with covered companies or price targets for covered companies,
+please see the most recent company-specific research report at http://www.jpmorganmarkets.com, contact the primary analyst or your J.P.
+Morgan representative, or email research.disclosure.inquiries@jpmorgan.com. For material information about the proprietary models used,
+please see the Summary of Financials in company-specific research reports and the Company Tearsheets, which are available to download on
+the company pages of our client website, http://www.jpmorganmarkets.com. This report also sets out within it the material underlying
+assumptions used.
+A history of J.P. Morgan investment recommendations disseminated during the preceding 12 months can be accessed on the Research &
+Commentary page of http://www.jpmorganmarkets.com where you can also search by analyst name, sector or financial instrument.
+Analysts' Compensation: The research analysts responsible for the preparation of this report receive compensation based upon various factors,
+including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues.
+Other Disclosures
+J.P. Morgan is a marketing name for investment banking businesses of JPMorgan Chase & Co. and its subsidiaries and affiliates worldwide.
+UK MIFID FICC research unbundling exemption: UK clients should refer to UK MIFID Research Unbundling exemption for details of J.P.
+Morgan's implementation of the FICC research exemption and guidance on relevant FICC research categorisation.
+All research material made available to clients are simultaneously available on our client website, J.P. Morgan Markets, unless specifically
+permitted by relevant laws. Not all research content is redistributed, e-mailed or made available to third-party aggregators. For all research
+material available on a particular stock, please contact your sales representative.
+Any long form nomenclature for references to China; Hong Kong; Taiwan; and Macau within this research material are Mainland China; Hong
+Kong SAR (China); Taiwan (China); and Macau SAR (China).
+J.P. Morgan Research may, from time to time, write on issuers or securities targeted by economic or financial sanctions imposed or administered
+by the governmental authorities of the U.S., EU, UK or other relevant jurisdictions (Sanctioned Securities). Nothing in this report is intended to
+be read or construed as encouraging, facilitating, promoting or otherwise approving investment or dealing in such Sanctioned Securities. Clients
+should be aware of their own legal and compliance obligations when making investment decisions.
+Any digital or crypto assets discussed in this research report are subject to a rapidly changing regulatory landscape. For relevant regulatory
+advisories on crypto assets, including bitcoin and ether, please see https://www.jpmorgan.com/disclosures/cryptoasset-disclosure.
+14
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+The author(s) of this research report may not be licensed to carry on regulated activities in your jurisdiction and, if not licensed, do not hold
+themselves out as being able to do so.
+Exchange-Traded Funds (ETFs): J.P. Morgan Securities LLC ("JPMS") acts as authorized participant for substantially all U.S .- listed ETFs. To
+the extent that any ETFs are mentioned in this report, JPMS may earn commissions and transaction-based compensation in connection with the
+distribution of those ETF shares and may earn fees for performing other trade-related services, such as securities lending to short sellers of the
+ETF shares. JPMS may also perform services for the ETFs themselves, including acting as a broker or dealer to the ETFs. In addition, affiliates
+of JPMS may perform services for the ETFs, including trust, custodial, administration, lending, index calculation and/or maintenance and other
+services.
+Options and Futures related research: If the information contained herein regards options- or futures-related research, such information is
+available only to persons who have received the proper options or futures risk disclosure documents. Please contact your J.P. Morgan
+Representative or visit https://www.theocc.com/components/docs/riskstoc.pdf for a copy of the Option Clearing Corporation's Characteristics
+and Risks of Standardized Options or http://www.finra.org/sites/default/files/Security Futures Risk Disclosure Statement_2018.pdf for a copy
+of the Security Futures Risk Disclosure Statement.
+Changes to Interbank Offered Rates (IBORs) and other benchmark rates: Certain interest rate benchmarks are, or may in the future
+become, subject to ongoing international, national and other regulatory guidance, reform and proposals for reform. For more information, please
+consult: https://www.jpmorgan.com/global/disclosures/interbank offered rates
+Private Bank Clients: Where you are receiving research as a client of the private banking businesses offered by JPMorgan Chase & Co. and its
+subsidiaries ("J.P. Morgan Private Bank"), research is provided to you by J.P. Morgan Private Bank and not by any other division of J.P. Morgan,
+including, but not limited to, the J.P. Morgan Corporate and Investment Bank and its Global Research division.
+Legal entity responsible for the production and distribution of research: The legal entity identified below the name of the Reg AC Research
+Analyst who authored this material is the legal entity responsible for the production of this research. Where multiple Reg AC Research Analysts
+authored this material with different legal entities identified below their names, these legal entities are jointly responsible for the production of
+this research. Research Analysts from various J.P. Morgan affiliates may have contributed to the production of this material but may not be
+licensed to carry out regulated activities in your jurisdiction (and do not hold themselves out as being able to do so). Unless otherwise stated
+below, this material has been distributed by the legal entity responsible for production. If you have any queries, please contact the relevant
+Research Analyst in your jurisdiction or the entity in your jurisdiction that has distributed this research material.
+Legal Entities Disclosures and Country-/Region-Specific Disclosures:
+Argentina: JPMorgan Chase Bank N.A Sucursal Buenos Aires is regulated by Banco Central de la República Argentina ("BCRA"- Central
+Bank of Argentina) and Comisión Nacional de Valores ("CNV"- Argentinian Securities Commission - ALYC y AN Integral Nº51). Australia:
+J.P. Morgan Securities Australia Limited ("JPMSAL") (ABN 61 003 245 234/AFS Licence No: 238066) is regulated by the Australian
+Securities and Investments Commission and is a Market Participant of ASX Limited, a Clearing and Settlement Participant of ASX Clear Pty
+Limited and a Clearing Participant of ASX Clear (Futures) Pty Limited. This material is issued and distributed in Australia by or on behalf of
+JPMSAL only to "wholesale clients" (as defined in section 761G of the Corporations Act 2001). A list of all financial products covered can be
+found by visiting https://www.jpmm.com/research/disclosures. J.P. Morgan seeks to cover companies of relevance to the domestic and
+international investor base across all Global Industry Classification Standard (GICS) sectors, as well as across a range of market capitalisation
+sizes. If applicable, in the course of conducting public side due diligence on the subject company(ies), the Research Analyst team may at times
+perform such diligence through corporate engagements such as site visits, discussions with company representatives, management presentations,
+etc. Research issued by JPMSAL has been prepared in accordance with J.P. Morgan Australia's Research Independence Policy which can be
+found at the following link: J.P. Morgan Australia - Research Independence Policy. Brazil: Banco J.P. Morgan S.A. is regulated by the
+Comissão de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman J.P. Morgan: 0800-7700847 / 0800-7700810 (For
+Hearing Impaired) / ouvidoria.jp.morgan@jpmorgan.com. Canada: J.P. Morgan Securities Canada Inc. is a registered investment dealer,
+regulated by the Canadian Investment Regulatory Organization and the Ontario Securities Commission and is the participating member on
+Canadian exchanges. This material is distributed in Canada by or on behalf of J.P.Morgan Securities Canada Inc. Chile: Inversiones J.P. Morgan
+Limitada is an unregulated entity incorporated in Chile. China: J.P. Morgan Securities (China) Company Limited has been approved by CSRC
+to conduct the securities investment consultancy business. Dubai International Financial Centre (DIFC): JPMorgan Chase Bank, N.A., Dubai
+Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered address is Dubai International Financial Centre - The
+Gate, West Wing, Level 3 and 9 PO Box 506551, Dubai, UAE. This material has been distributed by JP Morgan Chase Bank, N.A., Dubai
+Branch to persons regarded as professional clients or market counterparties as defined under the DFSA rules. European Economic Area
+(EEA): Unless specified to the contrary, research is distributed in the EEA by J.P. Morgan SE ("JPM SE"), which is authorised as a credit
+institution by the Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin) and jointly supervised by the
+BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB). JPM SE is a company headquartered in
+Frankfurt with registered address at TaunusTurm, Taunustor 1, Frankfurt am Main, 60310, Germany. The material has been distributed in the
+EEA to persons regarded as professional investors (or equivalent) pursuant to Art. 4 para. 1 no. 10 and Annex II of MiFID II and its respective
+implementation in their home jurisdictions ("EEA professional investors"). This material must not be acted on or relied on by persons who are
+not EEA professional investors. Any investment or investment activity to which this material relates is only available to EEA relevant persons
+and will be engaged in only with EEA relevant persons. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is
+regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong, and J.P. Morgan Broking (Hong
+Kong) Limited (CE number AAB027) is regulated by the Securities and Futures Commission in Hong Kong. JP Morgan Chase Bank, N.A.,
+15
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+Hong Kong Branch (CE Number AAL996) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission, is
+organized under the laws of the United States with limited liability. Where the distribution of this material is a regulated activity in Hong Kong,
+the material is distributed in Hong Kong by or through J.P. Morgan Securities (Asia Pacific) Limited and/or J.P. Morgan Broking (Hong Kong)
+Limited. India: J.P. Morgan India Private Limited (Corporate Identity Number - U67120MH1992FTC068724), having its registered office at
+J.P. Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz - East, Mumbai - 400098, is registered with the Securities and Exchange Board of India
+(SEBI) as a 'Research Analyst' having registration number INH000001873. J.P. Morgan India Private Limited is also registered with SEBI as a
+member of the National Stock Exchange of India Limited and the Bombay Stock Exchange Limited (SEBI Registration Number -
+INZ000239730) and as a Merchant Banker (SEBI Registration Number - MB/INM000002970). Telephone: 91-22-6157 3000, Facsimile: 91-22-
+6157 3990 and Website: http://www.jpmipl.com. JPMorgan Chase Bank, N.A. - Mumbai Branch is licensed by the Reserve Bank of India (RBI)
+(Licence No. 53/ Licence No. BY.4/94; SEBI - IN/CUS/014/ CDSL : IN-DP-CDSL-444-2008/ IN-DP-NSDL-285-2008/ INBI00000984/
+INE231311239) as a Scheduled Commercial Bank in India, which is its primary license allowing it to carry on Banking business in India and
+other activities, which a Bank branch in India are permitted to undertake. For non-local research material, this material is not distributed in India
+by J.P. Morgan India Private Limited. Compliance Officer: Spurthi Gadamsetty; spurthi.gadamsetty@jpmchase.com; +912261573225.
+Grievance Officer: Ramprasadh K, jpmipl.research.feedback@jpmorgan.com; +912261573000.
+Investment in securities market are subject to market risks. Read all the related documents carefully before investing. Registration
+granted by SEBI and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of
+returns to investors.
+Indonesia: PT J.P. Morgan Sekuritas Indonesia is a member of the Indonesia Stock Exchange and is registered and supervised by the Otoritas
+Jasa Keuangan (OJK). Korea: J.P. Morgan Securities (Far East) Limited, Seoul Branch, is a member of the Korea Exchange (KRX). JPMorgan
+Chase Bank, N.A., Seoul Branch, is licensed as a branch office of foreign bank (JPMorgan Chase Bank, N.A.) in Korea. Both entities are
+regulated by the Financial Services Commission (FSC) and the Financial Supervisory Service (FSS). For non-macro research material, the
+material is distributed in Korea by or through J.P. Morgan Securities (Far East) Limited, Seoul Branch. Japan: JPMorgan Securities Japan Co.,
+Ltd. and JPMorgan Chase Bank, N.A., Tokyo Branch are regulated by the Financial Services Agency in Japan. Malaysia: This material is issued
+and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia
+Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia. Mexico: J.P. Morgan Casa de Bolsa,
+S.A. de C.V. and J.P. Morgan Grupo Financiero are members of the Mexican Stock Exchange and are authorized to act as a broker dealer by the
+National Banking and Securities Exchange Commission. New Zealand: This material is issued and distributed by JPMSAL in New Zealand
+only to "wholesale clients" (as defined in the Financial Markets Conduct Act 2013). JPMSAL is registered as a Financial Service Provider under
+the Financial Service providers (Registration and Dispute Resolution) Act of 2008. Philippines: J.P. Morgan Securities Philippines Inc. is a
+Trading Participant of the Philippine Stock Exchange and a member of the Securities Clearing Corporation of the Philippines and the Securities
+Investor Protection Fund. It is regulated by the Securities and Exchange Commission. Singapore: This material is issued and distributed in
+Singapore by or through J.P. Morgan Securities Singapore Private Limited (JPMSS) [MCI (P) 030/08/2023 and Co. Reg. No .: 199405335R],
+which is a member of the Singapore Exchange Securities Trading Limited, and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB
+Singapore), both of which are regulated by the Monetary Authority of Singapore. This material is issued and distributed in Singapore only to
+accredited investors, expert investors and institutional investors, as defined in Section 4A of the Securities and Futures Act, Cap. 289 (SFA).
+This material is not intended to be issued or distributed to any retail investors or any other investors that do not fall into the classes of
+"accredited investors," "expert investors" or "institutional investors," as defined under Section 4A of the SFA. Recipients of this material in
+Singapore are to contact JPMSS or JPMCB Singapore in respect of any matters arising from, or in connection with, the material. South Africa:
+J.P. Morgan Equities South Africa Proprietary Limited and JPMorgan Chase Bank, N.A., Johannesburg Branch are members of the
+Johannesburg Securities Exchange and are regulated by the Financial Services Conduct Authority (FSCA). Taiwan: J.P. Morgan Securities
+(Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau.
+Material relating to equity securities is issued and distributed in Taiwan by J.P. Morgan Securities (Taiwan) Limited, subject to the license scope
+and the applicable laws and the regulations in Taiwan. According to Paragraph 2, Article 7-1 of Operational Regulations Governing Securities
+Firms Recommending Trades in Securities to Customers (as amended or supplemented) and/or other applicable laws or regulations, please note
+that the recipient of this material is not permitted to engage in any activities in connection with the material that may give rise to conflicts of
+interests, unless otherwise disclosed in the "Important Disclosures" in this material. Thailand: This material is issued and distributed in
+Thailand by JPMorgan Securities (Thailand) Ltd., which is a member of the Stock Exchange of Thailand and is regulated by the Ministry of
+Finance and the Securities and Exchange Commission, and its registered address is 3rd Floor, 20 North Sathorn Road, Silom, Bangrak, Bangkok
+10500. UK: Unless specified to the contrary, research is distributed in the UK by J.P. Morgan Securities plc ("JPMS plc") which is a member of
+the London Stock Exchange and is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the
+Prudential Regulation Authority. JPMS plc is registered in England & Wales No. 2711006, Registered Office 25 Bank Street, London, E14 5JP.
+This material is directed in the UK only to: (a) persons having professional experience in matters relating to investments falling within article
+19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) (Order) 2005 ("the FPO"); (b) persons outlined in article 49 of the
+FPO (high net worth companies, unincorporated associations or partnerships, the trustees of high value trusts, etc.); or (c) any persons to whom
+this communication may otherwise lawfully be made; all such persons being referred to as "UK relevant persons". This material must not be
+acted on or relied on by persons who are not UK relevant persons. Any investment or investment activity to which this material relates is only
+available to UK relevant persons and will be engaged in only with UK relevant persons. Research issued by JPMS plc has been prepared in
+accordance with JPMS ple's policy for prevention and avoidance of conflicts of interest related to the production of Research which can be
+found at the following link: J.P. Morgan EMEA - Research Independence Policy. U.S .: J.P. Morgan Securities LLC ("JPMS") is a member of
+the NYSE, FINRA, SIPC, and the NFA. JPMorgan Chase Bank, N.A. is a member of the FDIC. Material published by non-U.S. affiliates is
+distributed in the U.S. by JPMS who accepts responsibility for its content.
+16
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Jimmy S. Bhullar, CFA AC
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+North America Equity Research
+14 February 2024
+J.P.Morgan
+General: Additional information is available upon request. The information in this material has been obtained from sources believed to be
+reliable. While all reasonable care has been taken to ensure that the facts stated in this material are accurate and that the forecasts, opinions and
+expectations contained herein are fair and reasonable, JPMorgan Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) make
+no representations or warranties whatsoever to the completeness or accuracy of the material provided, except with respect to any disclosures
+relative to J.P. Morgan and the Research Analyst's involvement with the issuer that is the subject of the material. Accordingly, no reliance should
+be placed on the accuracy, fairness or completeness of the information contained in this material. There may be certain discrepancies with data
+and/or limited content in this material as a result of calculations, adjustments, translations to different languages, and/or local regulatory
+restrictions, as applicable. These discrepancies should not impact the overall investment analysis, views and/or recommendations of the subject
+company(ies) that may be discussed in the material. J.P. Morgan accepts no liability whatsoever for any loss arising from any use of this material
+or its contents, and neither J.P. Morgan nor any of its respective directors, officers or employees, shall be in any way responsible for the contents
+hereof, apart from the liabilities and responsibilities that may be imposed on them by the relevant regulatory authority in the jurisdiction in
+question, or the regulatory regime thereunder. Opinions, forecasts or projections contained in this material represent J.P. Morgan's current
+opinions or judgment as of the date of the material only and are therefore subject to change without notice. Periodic updates may be provided on
+companies/industries based on company-specific developments or announcements, market conditions or any other publicly available
+information. There can be no assurance that future results or events will be consistent with any such opinions, forecasts or projections, which
+represent only one possible outcome. Furthermore, such opinions, forecasts or projections are subject to certain risks, uncertainties and
+assumptions that have not been verified, and future actual results or events could differ materially. The value of, or income from, any
+investments referred to in this material may fluctuate and/or be affected by changes in exchange rates. All pricing is indicative as of the close of
+market for the securities discussed, unless otherwise stated. Past performance is not indicative of future results. Accordingly, investors may
+receive back less than originally invested. This material is not intended as an offer or solicitation for the purchase or sale of any financial
+instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not
+intended as recommendations of particular securities, financial instruments or strategies to particular clients. This material may include views on
+structured securities, options, futures and other derivatives. These are complex instruments, may involve a high degree of risk and may be
+appropriate investments only for sophisticated investors who are capable of understanding and assuming the risks involved. The recipients of
+this material must make their own independent decisions regarding any securities or financial instruments mentioned herein and should seek
+advice from such independent financial, legal, tax or other adviser as they deem necessary. J.P. Morgan may trade as a principal on the basis of
+the Research Analysts' views and research, and it may also engage in transactions for its own account or for its clients' accounts in a manner
+inconsistent with the views taken in this material, and J.P. Morgan is under no obligation to ensure that such other communication is brought to
+the attention of any recipient of this material. Others within J.P. Morgan, including Strategists, Sales staff and other Research Analysts, may take
+views that are inconsistent with those taken in this material. Employees of J.P. Morgan not involved in the preparation of this material may have
+investments in the securities (or derivatives of such securities) mentioned in this material and may trade them in ways different from those
+discussed in this material. This material is not an advertisement for or marketing of any issuer, its products or services, or its securities in any
+jurisdiction.
+Confidentiality and Security Notice: This transmission may contain information that is privileged, confidential, legally privileged, and/or
+exempt from disclosure under applicable law. If you are not the intended recipient, you are hereby notified that any disclosure, copying,
+distribution, or use of the information contained herein (including any reliance thereon) is STRICTLY PROHIBITED. Although this
+transmission and any attachments are believed to be free of any virus or other defect that might affect any computer system into which it is
+received and opened, it is the responsibility of the recipient to ensure that it is virus free and no responsibility is accepted by JPMorgan Chase &
+Co., its subsidiaries and affiliates, as applicable, for any loss or damage arising in any way from its use. If you received this transmission in
+error, please immediately contact the sender and destroy the material in its entirety, whether in electronic or hard copy format. This message is
+subject to electronic monitoring: https://www.jpmorgan.com/disclosures/email
+MSCI: Certain information herein ("Information") is reproduced by permission of MSCI Inc., its affiliates and information providers ("MSCI")
+@2024. No reproduction or dissemination of the Information is permitted without an appropriate license. MSCI MAKES NO EXPRESS OR
+IMPLIED WARRANTIES (INCLUDING MERCHANTABILITY OR FITNESS) AS TO THE INFORMATION AND DISCLAIMS ALL
+LIABILITY TO THE EXTENT PERMITTED BY LAW. No Information constitutes investment advice, except for any applicable Information
+from MSCI ESG Research. Subject also to msci.com/disclaimer
+"Other Disclosures" last revised February 03, 2024.
+Copyright 2024 JPMorgan Chase & Co. All rights reserved. This material or any portion hereof may not be reprinted, sold or
+redistributed without the written consent of J.P. Morgan. It is strictly prohibited to use or share without prior written consent from J.P.
+Morgan any research material received from J.P. Morgan or an authorized third-party ("J.P. Morgan Data") in any third-party
+artificial intelligence ("AI") systems or models when such J.P. Morgan Data is accessible by a third-party. It is permissible to use J.P.
+Morgan Data for internal business purposes only in an AI system or model that protects the confidentiality of J.P. Morgan Data so as to
+prevent any and all access to or use of such J.P. Morgan Data by any third-party.
+Completed 14 Feb 2024 09:26 PM EST
+Disseminated 14 Feb 2024 09:30 PM EST
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.

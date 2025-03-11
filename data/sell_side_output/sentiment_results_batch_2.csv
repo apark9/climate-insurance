@@ -1,0 +1,913 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,vader_positive,vader_negative,vader_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+AIG_2Q22.txt,AIG,2022,2Q,"PCG Portfolio Update in Response to Catastrophe Developments, Inflation and Higher
+Reinsurance Costs: AIG's high net worth property homeowners product to be offered on a non-
+admitted basis in catastrophe prone states including CA.",catastrophe,Financial,1.6420601241406985e-05,6.770945037715137e-05,0.9999158382415771,0.08,0.214,0.706,20.05,24.19,0.0,0.9411764705882353,34
+AIG_2Q22.txt,AIG,2022,2Q,"PCG Portfolio Update in Response to Catastrophe Developments, Inflation and Higher
+Reinsurance Costs: AIG's high net worth property homeowners product to be offered on a non-
+admitted basis in catastrophe prone states including CA.",reinsurance,Financial,1.6420601241406985e-05,6.770945037715137e-05,0.9999158382415771,0.08,0.214,0.706,20.05,24.19,0.0,0.9411764705882353,34
+AIG_2Q22.txt,AIG,2022,2Q,"2Q Highlights
+AIG earned a combined ratio < 90% for the first time since 2007, though we recognize lower
+catastrophe losses and higher than typical favorable PYD played a piece.",catastrophe,Financial,0.07050048559904099,0.8502206206321716,0.079278863966465,0.149,0.253,0.598,50.5,17.12,0.0,0.9666666666666667,30
+AIG_2Q22.txt,AIG,2022,2Q,"The beat primarily reflects better-than-expected GI underwriting gains - mostly
+from higher favorable PYD and lower catastrophe losses, better than expected buybacks,
+somewhat offset by lower L&R earnings vs our estimates.
+",catastrophe,Financial,0.9999998807907104,1.0099981295752514e-08,1.0061184241294541e-07,0.269,0.251,0.48,15.65,20.0,0.0,0.967741935483871,31
+AIG_2Q22.txt,AIG,2022,2Q,"Cat losses: $120mn (net of reinsurance) vs. our $297mn estimate.
+",reinsurance,Financial,7.616957645950606e-06,0.9870467185974121,0.012945672497153282,0.0,0.231,0.769,74.86,10.0,0.0,1.0,10
+AIG_2Q23.txt,AIG,2023,2Q,"Although mid-year 25-
+35% property catastrophe reinsurance pricing could dampen
+underlying combined ratio expansion.",catastrophe,Financial,0.0020239902660250664,0.9979493021965027,2.6718795197666623e-05,0.0,0.253,0.747,14.97,19.89,0.0,1.0,14
+AIG_2Q23.txt,AIG,2023,2Q,"Although mid-year 25-
+35% property catastrophe reinsurance pricing could dampen
+underlying combined ratio expansion.",reinsurance,Financial,0.0020239902660250664,0.9979493021965027,2.6718795197666623e-05,0.0,0.253,0.747,14.97,19.89,0.0,1.0,14
+AIG_2Q23.txt,AIG,2023,2Q,"(1) net PMLs for all perils worldwide to decline by 45% at the
+1 in 250 return period; (2) worldwide hurricane by 60% at the 1 in 250 return period and by 70%
+at the 1 in 100 return period; (3) North America hurricane by 70% at the 1 in 100 return period;
+(4) Japan earthquake by 50% at the 1 in 250 return period; (5) all perils in EMEA by 85% at the 1
+in 250 return period and 75% at the 1 in 100 return period.",hurricane,Climate,0.0028156049083918333,0.9819980263710022,0.01518639363348484,0.0,0.0,1.0,-0.93,36.11,0.0,0.42045454545454547,88
+AIG_2Q23.txt,AIG,2023,2Q,"(1) net PMLs for all perils worldwide to decline by 45% at the
+1 in 250 return period; (2) worldwide hurricane by 60% at the 1 in 250 return period and by 70%
+at the 1 in 100 return period; (3) North America hurricane by 70% at the 1 in 100 return period;
+(4) Japan earthquake by 50% at the 1 in 250 return period; (5) all perils in EMEA by 85% at the 1
+in 250 return period and 75% at the 1 in 100 return period.",earthquake,Climate,0.0028156049083918333,0.9819980263710022,0.01518639363348484,0.0,0.0,1.0,-0.93,36.11,0.0,0.42045454545454547,88
+AIG_2Q23.txt,AIG,2023,2Q,"NA Commercial increased 18% y/y (+13% ex Validus)
+Catch up PCG prop cat treaty & 2Q reinsurance renewals: While AIG's XOL property
+catastrophe treaty renews in January, 20% of its overall core reinsurance purchasing occurs in
+2Q. Management successfully placed all its policies and mentioned that the market was more
+orderly compared to 1/1.",catastrophe,Financial,0.9999934434890747,7.92525085557827e-08,6.4919781834760215e-06,0.089,0.074,0.838,44.58,16.64,0.0,0.9259259259259259,54
+AIG_2Q23.txt,AIG,2023,2Q,"NA Commercial increased 18% y/y (+13% ex Validus)
+Catch up PCG prop cat treaty & 2Q reinsurance renewals: While AIG's XOL property
+catastrophe treaty renews in January, 20% of its overall core reinsurance purchasing occurs in
+2Q. Management successfully placed all its policies and mentioned that the market was more
+orderly compared to 1/1.",reinsurance,Financial,0.9999934434890747,7.92525085557827e-08,6.4919781834760215e-06,0.089,0.074,0.838,44.58,16.64,0.0,0.9259259259259259,54
+AIG_2Q23.txt,AIG,2023,2Q,"AIG
+purchased additional retrocessional protection for Validus Re and a low XOL reinsurance
+placement for a PCG ahead of wind season.",reinsurance,Financial,0.0006271006423048675,0.00014941867266315967,0.9992234706878662,0.0,0.104,0.896,50.16,16.02,0.0,0.9047619047619048,21
+AIG_2Q23.txt,AIG,2023,2Q,"Recall, at 1/1 renewal, AIG dissaggregated NA
+commercial and PCG shared limits, resulting in a net reduction in PCG catastrophe reinsurance
+coverage, therefore this incremental purchase feels like a catch up.
+",catastrophe,Financial,0.004121560137718916,0.47283491492271423,0.5230435132980347,0.139,0.125,0.737,23.09,24.01,0.0,0.9032258064516129,31
+AIG_2Q23.txt,AIG,2023,2Q,"Recall, at 1/1 renewal, AIG dissaggregated NA
+commercial and PCG shared limits, resulting in a net reduction in PCG catastrophe reinsurance
+coverage, therefore this incremental purchase feels like a catch up.
+",reinsurance,Financial,0.004121560137718916,0.47283491492271423,0.5230435132980347,0.139,0.125,0.737,23.09,24.01,0.0,0.9032258064516129,31
+AIG_2Q23.txt,AIG,2023,2Q,"NA Commercial Pricing Acceleration
+NA commercial rate increases of 8% (vs 7% last quarter) and exposure growth of 2% (vs 2% last
+quarter) sums up to 10% pricing increases (vs 9% last quarter), which is well ahead of loss cost
+trends of 6.5% (unchanged).",rate increases,Financial,1.0,3.7499683913644333e-10,2.763509865388869e-09,0.098,0.048,0.854,35.28,21.24,0.0,0.75,44
+AIG_2Q23.txt,AIG,2023,2Q,"NA Commercial increased 18% y/y (+13% ex Validus)
+due to growth in retail property (>50% y/y), Validus (32% y/y), and Lexington (18% y/y) thanks to
+growth in property (+38% due to retention, strong rate increases, and a >30% y/y increase in
+submissions) and casualty (+41% due to strong retention and >90% increase in submissions).
+",rate increases,Financial,0.9999998807907104,1.9445500765158386e-09,8.849799826293747e-08,0.311,0.049,0.64,25.13,26.79,0.0,0.6851851851851852,54
+AIG_2Q23.txt,AIG,2023,2Q,"Cat losses: $250mn (net of reinsurance) vs. our $306mn estimate.
+",reinsurance,Financial,1.306982449023053e-05,0.952601432800293,0.047385524958372116,0.0,0.231,0.769,74.86,10.0,0.0,1.0,10
+AIG_3Q22.txt,AIG,2022,3Q,"3Q22 Earnings: Financial Lines
+Reserves Statutory Review
+We explore two topics that caught our attention in the 3Q
+print: Potentially growing property catastrophe risk after a
+conscious effort to reduce exposure and Financial Lines Loss
+picks (included in this note is a schedule P analysis).
+",catastrophe,Financial,0.00017183690215460956,0.2872941493988037,0.7125340104103088,0.035,0.181,0.784,17.34,25.11,0.0,0.9111111111111111,45
+AIG_3Q22.txt,AIG,2022,3Q,"56
+52
+48 -
+44
+Jan-2022
+Apr-2022
+Jul-2022
+Oct-2022
+Source: IDC
+Link to Barclays Live for interactive charting
+Appetite to grow property catastrophe underwriting.",catastrophe,Financial,0.003932775463908911,5.2342376875458285e-05,0.9960148334503174,0.0,0.167,0.833,48.13,16.16,0.0,0.9583333333333334,24
+AIG_3Q22.txt,AIG,2022,3Q,"Reinsurance availability can be a significant factor for the deployment of capital on the primary
+side.",reinsurance,Financial,4.602583067025989e-05,8.33217563922517e-05,0.9998706579208374,0.114,0.0,0.886,29.86,18.9,0.0,0.9375,16
+AIG_3Q22.txt,AIG,2022,3Q,"We point out that while AIG manages its property catastrophe risk relative to capital by legal
+entity, S&P takes an enterprise view of capital.",catastrophe,Financial,1.85125927032459e-07,3.5061093512922525e-06,0.9999963045120239,0.052,0.224,0.724,38.66,17.93,0.0,1.0,24
+AIG_3Q22.txt,AIG,2022,3Q,"We think that AIG's catastrophe risk charge to
+S&P capital had benefited from a larger balance sheet that included life operations.",catastrophe,Financial,0.9999985694885254,1.6746828634950361e-07,1.3404638821157278e-06,0.0,0.265,0.735,41.7,16.02,0.0,0.9523809523809523,21
+AIG_3Q22.txt,AIG,2022,3Q,"We would like to better understand the economics and efficiency of its
+reinsurance program (i.e. Syndicate 2019).",reinsurance,Financial,0.0006942618638277054,3.2592984098300803e-06,0.9993025064468384,0.361,0.0,0.639,37.3,16.21,0.0,1.0,17
+AIG_3Q22.txt,AIG,2022,3Q,"The beat primarily reflects better-than-expected GI underwriting gains
+including lower catastrophe losses and better underlying combined ratio, somewhat offset by
+lower NII due to lower alternative performance vs our estimates.
+",catastrophe,Financial,0.9999998807907104,1.719743281114461e-08,1.4323015307127207e-07,0.126,0.326,0.548,-1.28,24.0,0.0,0.9333333333333333,30
+AIG_3Q22.txt,AIG,2022,3Q,"Cat losses: $600mn (net of reinsurance) vs. our $830mn estimate.
+",reinsurance,Financial,1.6189052985282615e-05,0.9278280138969421,0.07215586304664612,0.0,0.231,0.769,74.86,10.0,0.0,1.0,10
+AIG_3Q22.txt,AIG,2022,3Q,"Our Equal Weight rating and $178 price target are based on a 50/50 weighted average of ~13.5x our '23E EPS and 1.4x '23E
+BVPS ex AOCI.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Natural catastrophe exposure has potential to
+create earnings volatility.",catastrophe,Financial,1.3873755051463377e-05,0.9425169229507446,0.057469189167022705,0.083,0.118,0.799,67.45,10.63,10.7,0.8979591836734694,49
+AIG_3Q23.txt,AIG,2023,3Q,"BARCLAYS
+Equity Research
+U.S. Insurance/Non-Life
+6 November 2023
+AIG, Inc.
+3Q23 Earnings Review: Business Mix
+Optimization
+AIG can afford to shrink business lines where it is not seeing the
+risk reward like financial lines (down 11%) and 2 large Lexington
+programs ($115mn of NPW) that were catastrophe
+focused.",catastrophe,Financial,0.025638500228524208,0.00020434605539776385,0.9741570949554443,0.229,0.076,0.694,55.24,11.4,11.9,0.9791666666666666,48
+AIG_3Q23.txt,AIG,2023,3Q,"AIG had embraced a more pragmatic reinsurance strategy in 2021 given
+its accomplished remediation efforts and in hindsight over-indexing to the market.",reinsurance,Financial,0.48414936661720276,0.05494581535458565,0.46090489625930786,0.127,0.0,0.873,32.22,19.71,0.0,0.9545454545454546,22
+AIG_3Q23.txt,AIG,2023,3Q,"While at the
+time, over-indexing reinsurance purchases may have compressed margin opportunities, that
+move likely provided added protection for its casualty reserves.
+",reinsurance,Financial,0.9421306848526001,0.04940326139330864,0.008466044440865517,0.1,0.131,0.769,23.77,21.53,0.0,1.0,22
+AIG_3Q23.txt,AIG,2023,3Q,"Wk Avg Daily Volume (mn)
+4.2
+Dividend Yield (%)
+2.26
+Return on Equity TTM (%)
+9.72
+Current BVPS (USD)
+56.06
+Source: Bloomberg
+Price Performance
+52 Week range
+Exchange-NYSE
+USD 64.94-45.66
+Despite business mix optimization, AIG's pricing power decelerated q/q. Specifically, NA
+commercial rate increases of 5.4% (vs 8% last quarter), or 6% rate increases ex workers
+compensation and exposure growth of 3% (vs 2% last quarter) sums up to 9% pricing increases
+(vs 10% last quarter.)
+",rate increases,Financial,0.9179680943489075,0.038196861743927,0.04383508861064911,0.033,0.028,0.939,62.04,9.13,10.1,0.868421052631579,76
+AIG_3Q23.txt,AIG,2023,3Q,"Likewise, Validus portion of catastrophe losses was $70mn (included in the total $462mn.)
+",catastrophe,Financial,3.936100620194338e-05,0.01942521333694458,0.9805354475975037,0.0,0.392,0.608,58.28,11.35,0.0,1.0,13
+AIG_3Q23.txt,AIG,2023,3Q,"Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+78.00
+Target
+68.00
+64.94 Current
+63.74
+55.00
+45.66
+Low
+Downside
+6 November 2023
+3
+Barclays | AIG, Inc.
+NA Commercial Pricing Deceleration
+NA commercial rate increases of 5.4% (vs 8% last quarter), or 6% rate increases ex workers
+compensation and exposure growth of 3% (vs 2% last quarter) sums up to 9% pricing increases
+(vs 10% last quarter.)",rate increases,Financial,0.9913854598999023,8.251875260611996e-05,0.008532033301889896,0.036,0.056,0.908,59.5,8.1,11.2,0.8194444444444444,72
+AIG_3Q23.txt,AIG,2023,3Q,"Cat losses: $427mn (net of reinsurance) vs. our $548mn estimate.
+",reinsurance,Financial,1.0384564120613504e-05,0.9829214215278625,0.017068173736333847,0.0,0.231,0.769,74.86,10.0,0.0,1.0,10
+AIG_3Q23.txt,AIG,2023,3Q,"The beat was driven by better GI underwriting income
+including better catastrophe losses, PYD releases and underlying margins vs. estimates.
+",catastrophe,Financial,1.0,1.3225947004258387e-09,1.7703449373129843e-08,0.201,0.246,0.554,17.34,20.0,0.0,0.95,20
+AIG_3Q24.txt,AIG,2024,3Q,"BARCLAYS
+Equity Research
+North America Insurance/Non-Life
+5 November 2024
+AIG, Inc.
+3Q24 EPS Beats on Cats and PYD,
+Growth & Underlying Trends Mixed
+We view the results as modestly favorable as AIG's reserve
+development from recent accident years and catastrophe
+experience held up better than expected.",catastrophe,Financial,0.9999995231628418,1.6854193063409184e-07,3.503027130591363e-07,0.156,0.136,0.708,31.72,17.0,0.0,0.9565217391304348,46
+AIG_3Q24.txt,AIG,2024,3Q,"CORE
+Earnings Review
+AIG
+OVERWEIGHT
+Unchanged
+North America Insurance/
+Non-Life
+NEUTRAL
+Unchanged
+Price Target
+USD 90.00
+Unchanged
+Price (04-Nov-24)
+USD 76.33
+Potential Upside/Downside
++17.9%
+Summary: AIG reported operating EPS of $1.23 which beat our estimate of $1.03 and consensus
+of $1.10 driven in large part by less catastrophe losses and more favorable prior year
+development than we expected.",catastrophe,Financial,0.9999997615814209,9.774905329607009e-09,1.8474612772934051e-07,0.051,0.145,0.804,54.59,10.91,10.9,0.8620689655172413,58
+AIG_3Q24.txt,AIG,2024,3Q,"Within General Insurance the combined ratio excluding PYD
+and cats came in at 88.3% which missed our estimate of 87.2% and the street estimate of 87.6%
+due to higher than expected expenses in NA Personal Lines and International Commercial as
+well as a miss on underlying loss ratios across International.",loss ratios,Financial,1.5640371486824733e-07,0.9999997615814209,7.354955045002498e-08,0.039,0.115,0.846,50.33,12.2,13.0,0.86,50
+AIG_3Q24.txt,AIG,2024,3Q,"We view the results as modestly favorable as AIG's reserve
+development from recent accident years and catastrophe experience held up better than
+expected; a benefit of the work management has done to reduce earnings volatility.",catastrophe,Financial,1.0,2.7673918712167733e-09,5.979200468075874e-10,0.198,0.165,0.637,19.03,24.29,0.0,0.9428571428571428,35
+AIG_3Q24.txt,AIG,2024,3Q,"International Commercial reported underwriting income of
+$320mn beat our estimate of $210mn driven by better than expected catastrophes as well as
+favorable reserve development.",catastrophe,Financial,0.9999994039535522,4.7661387725383975e-07,9.43958724519689e-08,0.278,0.0,0.722,4.82,24.6,0.0,0.9166666666666666,24
+AIG_3Q24.txt,AIG,2024,3Q,"International Personal Lines reported underwriting income of $80mn which beat our estimate
+of $14mn driven by lower catastrophes and general operating expenses.
+",catastrophe,Financial,1.0,3.2996705812138316e-08,5.613881626231887e-08,0.0,0.095,0.905,6.84,23.35,0.0,0.9545454545454546,22
+AIG_3Q24.txt,AIG,2024,3Q,"AIG Quicktake - P&C Underwriting
+Total P&C
+Net premiums written
+% Growth YoY
+Net premiums earned
+6,422
+% Growth YoY
+Loss Ratio
+59.6%
+Exense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+55.4%
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+6.9%
+Reserve development ($m)
+(210)
+Reserve development (pts)
+3Q23
+Actual
+6,462
+0.9%
+0.2%
+30.9%
+90.5%
+86.3%
+462
+(2.8%)
+4Q23
+Actual
+5,755
+2.6%
+5,913
+(6.0%)
+56.5%
+32.6%
+89.1%
+55.3%
+87.9%
+122
+2.1%
+(37)
+(0.9%)
+(0.5%)
+Source: Company Filings, Barclays Research, Bloomberg Consensus
+FIGURE 3.",catastrophe,Financial,0.0002113246009685099,1.6466903616674244e-05,0.9997722506523132,0.059,0.052,0.89,71.51,6.21,9.1,0.7816091954022989,87
+AIG_3Q24.txt,AIG,2024,3Q,"The
+primary adjustments were related to lower growth than we anticipated in International,
+modestly higher loss ratios ex cats and PYD, and higher expenses in Personal Lines persisting for
+some time.",loss ratios,Financial,8.439857992925681e-06,0.9999605417251587,3.1032766855787486e-05,0.074,0.128,0.798,23.09,24.01,0.0,0.9032258064516129,31
+AIG_3Q24.txt,AIG,2024,3Q,"AIG Projection vs Street - P&C Underwriting
+Total P&C
+Net premiums written
+% Growth YoY
+2.6%
+Net premiums earned
+% Growth YoY
+Loss Ratio
+56.5%
+Exense Ratio
+32.6%
+Combined Ratio
+Loss Ratio ex cats & PYD
+55.3%
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+122
+Catastrophes (pts)
+2.1%
+Reserve development (Sm)
+(5)
+Reserve development (pts)
+(0.9%)
+4Q23
+1Q24
+2Q24
+3Q24
+Actual
+Actual
+Actual
+Actual
+BARCe
+5,755
+4,512
+6,933
+6,380
+6,141
+(35.2%)
+(8.0%)
+(1.3%)
+5,913
+5,786
+5,749
+5,947
+(6.0%)
+(11.5%)
+(7.6%)
+(7.4%)
+58.0%
+61.0%
+31.7%
+31.5%
+89.1%
+89.7%
+92.5%
+60.7%
+60.3%
+60.3%
+31.9%
+31.7%
+92.7%
+92.0%
+56.6%
+56.1%
+87.9%
+88.3%
+87.6%
+56.4%
+55.4%
+55.9%
+88.4%
+87.1%
+106
+1.8%
+(10)
+(0.5%)
+(0.8%)
+330
+417
+342
+5.7%
+7.0%
+5.8%
+5.1%
+39
+(177)
+(2.7%)
+(0.9%)
+4Q24E
+Street
+Diff
+6.7%
+6,098
+6.0%
+0.7%
+5,875
+5,998
+0.8pp
+4.1%
+(2.0%)
+",catastrophe,Financial,1.7147096514236182e-05,5.006434548704419e-06,0.9999778270721436,0.038,0.034,0.928,88.02,5.33,8.2,0.8134328358208955,134
+AIG_4Q20.txt,AIG,2020,4Q,"AIG had also been busy talking to their
+reinsurance partners as it has updated its treaties to reflect its re-underwriting
+efforts and over-indexing to the market.",reinsurance,Financial,0.0019148444989696145,0.00012598778994288296,0.9979591369628906,0.0,0.0,1.0,45.09,16.55,0.0,0.8846153846153846,26
+AIG_4Q20.txt,AIG,2020,4Q,Tempering our view is compounded rate increases and remediation since then.,rate increases,Financial,5.009000233258121e-06,0.9993736147880554,0.0006213977467268705,0.0,0.0,1.0,34.93,18.95,0.0,1.0,11
+AIG_4Q20.txt,AIG,2020,4Q,"The combined ratio for the General Insurance business of 102.8% was above our
+expectations due to higher catastrophes (including COVID); however, the underlying
+combined ratio was better than our expectations benefiting from both the AY loss ratio and
+acquisition ratio side reflecting mix shift and rate momentum.
+",catastrophe,Financial,1.0,5.779876577349796e-09,1.4839371509367538e-08,0.058,0.046,0.896,30.7,17.06,0.0,0.7872340425531915,47
+AIG_4Q20.txt,AIG,2020,4Q,"The driver for the higher ratio was higher
+catastrophes.",catastrophe,Financial,0.9199355244636536,0.005668944679200649,0.0743955597281456,0.0,0.0,1.0,53.88,8.04,0.0,0.8888888888888888,9
+AIG_4Q20.txt,AIG,2020,4Q,"The underlying combined ratio improved 4 points relative to the
+prior year period and reflected improved business mix along with rate increases.
+·",rate increases,Financial,1.0,2.3802881443657498e-08,2.543235488872142e-08,0.246,0.0,0.754,32.22,17.89,0.0,0.9565217391304348,23
+AIG_4Q20.txt,AIG,2020,4Q,"Results were worse than expected due to higher catastrophes in
+particular Covid-19 impact on the travel business and change in business mix.
+.",catastrophe,Financial,1.1200449989701156e-07,0.9999996423721313,2.3188735553958395e-07,0.0,0.129,0.871,49.15,14.25,0.0,0.9130434782608695,23
+AIG_4Q20.txt,AIG,2020,4Q,"Both ratios this quarter were favorable to our
+expectations helped likely by improved business mix with rate increases.
+·",rate increases,Financial,1.0,1.8860926154218305e-09,5.472558406438566e-09,0.279,0.0,0.721,44.75,13.87,0.0,1.0,19
+AIG_4Q20.txt,AIG,2020,4Q,"Rates for NA commercial lines grew 21% year-over-year a strong continuation from the
+20% increase in the 3Q. This was driven by rate increases in lines such as excess casualty
+which had 45% increase (up from over 30% in 3Q) and financial lines up over 25% (similar
+rate increase to 3Q) led by a 35% increase in D&O. Retail property and Lexington wholesale
+property saw increases of 30% and Lexington casualty had a 25% increase.
+",rate increases,Financial,0.9999998807907104,4.3548231687395855e-09,8.723537092691913e-08,0.173,0.079,0.748,54.56,14.27,14.6,0.6666666666666666,75
+AIG_4Q20.txt,AIG,2020,4Q,"International commercial lines experienced rate increases of 14% year-over-year in the 4Q
+consistent with the robust 14% increase in the 3Q. Rate increases in commercial property
+were 15% (up from 12% in the 3Q), financial lines up over 20% (similar to the 3Q) driven by
+D&O, global energy experienced a 30% increase, and Talbot received over 15% increases.
+",rate increases,Financial,0.9999998807907104,4.200816583477263e-09,8.70922249873729e-08,0.138,0.073,0.789,42.04,17.81,0.0,0.7586206896551724,58
+AIG_4Q20.txt,AIG,2020,4Q,"Forward Looking Management Comments
+· AYCR (ex cat) <90% exit '22: Drivers include rate above trend, portfolio repositioning,
+greater retention of business (i.e. less reinsurance), and expense ratio savings from AIG
+200.
+· GI Premiums Mix: International proportion should outweigh domestic business
+although North America commercial growth should lessen the skewness somewhat.
+·",reinsurance,Financial,0.99985671043396,1.114415681513492e-06,0.00014219504373613745,0.096,0.0,0.904,37.6,14.68,14.1,0.9245283018867925,53
+AIG_4Q20.txt,AIG,2020,4Q,"Earned Premiums: Greater recognition of earned premium in '21 from rate increases.
+· Reinsurance renewal update: Reduction in property catastrophe reinsurance limit
+(unspecified amount) in response to re-underwriting actions that had lowered gross
+PMLs.",catastrophe,Financial,0.8561060428619385,0.013754035346210003,0.13013987243175507,0.062,0.222,0.716,20.89,19.93,0.0,0.9411764705882353,34
+AIG_4Q20.txt,AIG,2020,4Q,"Earned Premiums: Greater recognition of earned premium in '21 from rate increases.
+· Reinsurance renewal update: Reduction in property catastrophe reinsurance limit
+(unspecified amount) in response to re-underwriting actions that had lowered gross
+PMLs.",rate increases,Financial,0.8561060428619385,0.013754035346210003,0.13013987243175507,0.062,0.222,0.716,20.89,19.93,0.0,0.9411764705882353,34
+AIG_4Q20.txt,AIG,2020,4Q,"Earned Premiums: Greater recognition of earned premium in '21 from rate increases.
+· Reinsurance renewal update: Reduction in property catastrophe reinsurance limit
+(unspecified amount) in response to re-underwriting actions that had lowered gross
+PMLs.",reinsurance,Financial,0.8561060428619385,0.013754035346210003,0.13013987243175507,0.062,0.222,0.716,20.89,19.93,0.0,0.9411764705882353,34
+AIG_4Q20.txt,AIG,2020,4Q,"Also, last year's treaty was placed before AIG executed its 75% ceding
+arrangement with Syndicate 2019 for $1bn of PCG business, thereby lowering the need
+to replicate the same reinsurance structure.",reinsurance,Financial,0.03595229238271713,0.03911270201206207,0.924934983253479,0.0,0.062,0.938,40.01,18.85,0.0,0.967741935483871,31
+AIG_4Q20.txt,AIG,2020,4Q,"We are not updating our expectations for our catastrophe ratio given these
+moving parts.
+· L&R spread compression: 8 to 16 bps annually
+· COVID-19 Life Mortality Sensitivity Analysis: $65-$75mn per 100,000 deaths
+· Buybacks: AIG will return at least $500mn in 1H21.",catastrophe,Financial,0.2491218000650406,0.014976548962295055,0.7359015941619873,0.087,0.097,0.816,42.72,16.0,0.0,0.9302325581395349,43
+AIG_4Q21.txt,AIG,2021,4Q,Cat Reinsurance Renewal:,reinsurance,Financial,1.2461883670766838e-05,2.0616240362869576e-05,0.9999668598175049,0.0,0.0,1.0,9.21,27.87,0.0,1.0,3
+AIG_4Q21.txt,AIG,2021,4Q,"We also suspect there was less reinsurance capacity for aggregate cover at 1/1 renewals.
+",reinsurance,Financial,0.0004444953228812665,0.0018106660572811961,0.9977449178695679,0.0,0.145,0.855,40.35,14.17,0.0,1.0,14
+AIG_4Q21.txt,AIG,2021,4Q,'22 reinsurance update).,reinsurance,Financial,6.7264695644553285e-06,6.7440046223055106e-06,0.9999865293502808,0.0,0.0,1.0,34.59,14.53,0.0,1.0,3
+AIG_4Q21.txt,AIG,2021,4Q,"Net PMLs are down y/y but these figures do not reflect January 1 reinsurance
+updates ...",reinsurance,Financial,0.00015267045819200575,0.004265786148607731,0.9955815672874451,0.0,0.0,1.0,64.71,8.67,0.0,1.0,16
+AIG_4Q21.txt,AIG,2021,4Q,"U.S.
+Hurricane (1-in-100) - net after tax to $920mn from $1.035bn, U.S. Earthquake (1-in-250) net
+after tax to $873mn from $980mn.",hurricane,Climate,0.08995254337787628,0.017725635319948196,0.892321765422821,0.0,0.0,1.0,86.71,6.0,0.0,0.7142857142857143,21
+AIG_4Q21.txt,AIG,2021,4Q,"U.S.
+Hurricane (1-in-100) - net after tax to $920mn from $1.035bn, U.S. Earthquake (1-in-250) net
+after tax to $873mn from $980mn.",earthquake,Climate,0.08995254337787628,0.017725635319948196,0.892321765422821,0.0,0.0,1.0,86.71,6.0,0.0,0.7142857142857143,21
+AIG_4Q21.txt,AIG,2021,4Q,"Japanese Typhoon (1-100) net after tax to $453mn from
+$445mn and Earthquake (1-in-250) net after tax to $388mn from $481mn.",earthquake,Climate,0.21766002476215363,0.0009445294854231179,0.781395435333252,0.0,0.0,1.0,76.56,10.0,0.0,0.75,20
+AIG_4Q21.txt,AIG,2021,4Q,"Reinsurance updates: more per occurrence protection less aggregate protection.
+",reinsurance,Financial,7.205121801234782e-05,2.493179272278212e-05,0.9999030828475952,0.0,0.0,1.0,11.58,21.38,0.0,1.0,9
+AIG_4Q21.txt,AIG,2021,4Q,"We also suspect there was less
+reinsurance capacity for aggregate cover at 1/1 renewals.",reinsurance,Financial,0.0004444953228812665,0.0018106660572811961,0.9977449178695679,0.0,0.145,0.855,40.35,14.17,0.0,1.0,14
+AIG_4Q21.txt,AIG,2021,4Q,"AIG characterized total aggregate
+reinsurance spend to be modestly down.
+",reinsurance,Financial,7.554496551165357e-05,0.8324049711227417,0.16751940548419952,0.0,0.0,1.0,27.49,20.0,0.0,1.0,10
+AIG_4Q21.txt,AIG,2021,4Q,"o 2022 worldwide aggregate property catastrophe program protection decreased to
+$1.1bn from $2.05bn.",catastrophe,Financial,0.00016282415890600532,0.9995383024215698,0.000298934755846858,0.0,0.286,0.714,47.96,14.91,0.0,1.0,13
+AIG_4Q21.txt,AIG,2021,4Q,"We are modeling underlying combined ratios of 89.5% in 2022E and 89.0% in
+2023E.
+Catastrophe Management
+Higher Cat Load New Normal
+AIG has pegged a 2022 cat load above its AAL to reflect inflationary pressures.",catastrophe,Financial,0.046442076563835144,0.7904658913612366,0.16309204697608948,0.0,0.173,0.827,71.0,9.23,9.5,0.9714285714285714,35
+AIG_4Q21.txt,AIG,2021,4Q,"A higher cat load is not reflected in AIG's combined ratio targets that exclude
+catastrophe losses and PYD.",catastrophe,Financial,4.451802305993624e-05,0.0012967418879270554,0.9986587762832642,0.0,0.391,0.609,53.21,11.64,0.0,1.0,18
+AIG_4Q21.txt,AIG,2021,4Q,"We expect elevated non-modeled events to be the new normal
+and had raised our catastrophe estimates across our P&C coverage when we published our '22
+Outlook, see: Non-Life Insurance: UPDATE: 2022",catastrophe,Financial,0.992181658744812,2.7819560273201205e-05,0.007790574338287115,0.0,0.128,0.872,40.01,18.85,0.0,0.9354838709677419,31
+AIG_4Q21.txt,AIG,2021,4Q,"PCG Portfolio Update in Response to Catastrophe Developments
+AIG's high net worth property homeowners product to be offered exclusively on an non-
+admitted basis in certain states including CA.",catastrophe,Financial,2.538637318139081e-06,2.2070315026212484e-05,0.9999754428863525,0.155,0.126,0.718,25.12,22.63,0.0,0.9310344827586207,29
+AIG_4Q22.txt,AIG,2022,4Q,"Strong reinsurance cat rate
+increases, up 30-100%, at Validus Re.
+",reinsurance,Financial,1.0,2.288488287760515e-09,8.57520987551652e-09,0.268,0.0,0.732,78.25,12.0,0.0,1.0,10
+AIG_4Q22.txt,AIG,2022,4Q,"64
+60
+56
+52
+48 -
+44
+Apr-2022
+Jul-2022
+Oct-2022
+Jan-2023
+Source: IDC
+Link to Barclays Live for interactive charting
+U.S. Insurance/Non-Life
+Tracy Benguigui
++1 212 526 1561
+tracy.benguigui@barclays.com
+BCI, US
+1/1 Reinsurance updates: more per occurrence protection less aggregate protection.
+",reinsurance,Financial,7.991696475073695e-05,8.558215085940901e-06,0.9999115467071533,0.0,0.0,1.0,49.52,11.32,12.5,1.0,41
+AIG_4Q22.txt,AIG,2022,4Q,"Strong reinsurance cat rate increases, up 30-100%, at Validus Re.",rate increases,Financial,1.0,2.288488287760515e-09,8.57520987551652e-09,0.268,0.0,0.732,78.25,12.0,0.0,1.0,10
+AIG_4Q22.txt,AIG,2022,4Q,"Strong reinsurance cat rate increases, up 30-100%, at Validus Re.",reinsurance,Financial,1.0,2.288488287760515e-09,8.57520987551652e-09,0.268,0.0,0.732,78.25,12.0,0.0,1.0,10
+AIG_4Q22.txt,AIG,2022,4Q,"As loss trend is not static, we would have to
+evaluate the pace of rate increases relative to any changes in loss trends to be more
+constructive on improvements in NA Commercial Lines AYLR.
+",rate increases,Financial,0.8074448704719543,0.154525026679039,0.03803005442023277,0.067,0.121,0.812,53.89,20.66,0.0,0.8823529411764706,34
+AIG_4Q22.txt,AIG,2022,4Q,"Barclays Research, Company Data.
+1/1 Reinsurance Update
+Overall reinsurance costs increased <10% on an absolute and risk adjusted basis versus 2022.
+",reinsurance,Financial,0.03810819983482361,0.00029453120077960193,0.9615973830223083,0.091,0.091,0.819,35.44,9.91,0.0,1.0,21
+AIG_4Q22.txt,AIG,2022,4Q,"AIG stands out relative to its peer group in terms of lower property catastrophe attachment
+points.",catastrophe,Financial,0.00010946266411338001,2.6573718059808016e-05,0.9998639822006226,0.101,0.303,0.596,55.24,16.4,0.0,1.0,16
+AIG_4Q22.txt,AIG,2022,4Q,"AIG is happy with its reinsurance placements, therefore its ceded reinsurance strategy
+does not limit the company to grow in businesses where it sees attractive risk adjusted returns.
+",reinsurance,Financial,0.9961130619049072,1.3290007700561546e-05,0.0038735871203243732,0.196,0.062,0.742,34.6,18.34,0.0,0.9285714285714286,28
+AIG_4Q22.txt,AIG,2022,4Q,"We point out that while AIG manages its property catastrophe risk relative to capital by legal
+entity, S&P takes an enterprise view of capital.",catastrophe,Financial,1.85125927032459e-07,3.5061093512922525e-06,0.9999963045120239,0.052,0.224,0.724,38.66,17.93,0.0,1.0,24
+AIG_4Q22.txt,AIG,2022,4Q,"We think that AIG's catastrophe risk charge to
+S&P capital had benefited from a larger balance sheet that included life operations.",catastrophe,Financial,0.9999985694885254,1.6746828634950361e-07,1.3404638821157278e-06,0.0,0.265,0.735,41.7,16.02,0.0,0.9523809523809523,21
+AIG_4Q22.txt,AIG,2022,4Q,"We share noteworthy changes:
+16 February 2023
+5
+Barclays | AIG, Inc.
+Reinsurance updates: more per occurrence protection less aggregate protection.",reinsurance,Financial,7.967745659698267e-06,2.008066985581536e-06,0.9999899864196777,0.109,0.0,0.891,44.41,14.0,0.0,1.0,21
+AIG_4Q22.txt,AIG,2022,4Q,"There was less reinsurance capacity/appetite for aggregate cover at 1/1
+renewals.",reinsurance,Financial,0.00020155809761490673,0.0008860217058099806,0.9989123344421387,0.0,0.0,1.0,43.39,15.31,0.0,1.0,11
+AIG_4Q22.txt,AIG,2022,4Q,"2023 worldwide aggregate property catastrophe program protection decreased to $500mn
+from $1.1bn in 2022.",catastrophe,Financial,0.0005733711295761168,0.9895714521408081,0.009855188429355621,0.0,0.253,0.747,47.45,14.23,0.0,1.0,14
+AIG_4Q22.txt,AIG,2022,4Q,"This year, limits are not
+shared and AIG reduced the total limit of PCG catastrophe program.",catastrophe,Financial,0.0008080899715423584,0.005688562989234924,0.9935033917427063,0.0,0.315,0.685,72.16,8.9,0.0,1.0,16
+AIG_4Q22.txt,AIG,2022,4Q,"We would like to better understand the economics and efficiency of its upcoming
+MGA formation with Stone Point where PCG will be supported by third-party capital providers,
+following the heals of its reinsurance program with Syndicate 2019.
+",reinsurance,Financial,4.8011268518166617e-05,1.6282310753013007e-06,0.9999502897262573,0.236,0.0,0.764,25.46,22.37,0.0,0.8918918918918919,37
+AIG_4Q22.txt,AIG,2022,4Q,"16 February 2023
+7
+Barclays | AIG, Inc.
+Cat losses: $239mn (net of reinsurance) vs. our $260mn estimate.
+",reinsurance,Financial,0.00011920286488020793,0.7687044739723206,0.23117637634277344,0.0,0.153,0.847,74.15,6.99,8.8,1.0,18
+AIG_4Q24.txt,AIG,2024,4Q,"BARCLAYS
+Equity Research
+North America Insurance/Non-Life
+12 February 2025
+AIG, Inc.
+4Q24: EPS Beats on Better
+Underwriting, 2025 ROE Guide is a
+Positive
+EPS beats our estimate on underlying loss ratios.",loss ratios,Financial,1.0,4.386509822040807e-09,1.3310150315248848e-08,0.182,0.064,0.754,38.82,13.94,0.0,0.9032258064516129,31
+AIG_4Q24.txt,AIG,2024,4Q,"Guide of
+10% plus Core ROE in 2025 despite $500mn expected impact
+from wildfires.
+",wildfire,Climate,0.2493429034948349,0.0019056086894124746,0.7487514615058899,0.0,0.0,1.0,74.19,8.46,0.0,1.0,14
+AIG_4Q24.txt,AIG,2024,4Q,"Adj Operating EPS of $1.30 beat our estimate of $1.24 and consensus $1.23, primarily driven by
+lower cat losses and better than expected underlying loss ratios in North American Commercial
+Lines and Global Personal Lines.",loss ratios,Financial,1.0,3.868308340315707e-08,1.2383703840157523e-08,0.071,0.175,0.754,45.62,12.66,11.7,0.9142857142857143,35
+AIG_4Q24.txt,AIG,2024,4Q,"AIG also provided an estimate of ~$500mn
+pretax before reinstatement premiums for catastrophe losses in 1Q25 related to the California
+wildfires which came in a bit higher than we anticipated, but still at a manageable level relative
+to BVPS.",catastrophe,Financial,0.8216661214828491,0.0009675925248302519,0.17736628651618958,0.0,0.115,0.885,14.97,25.86,0.0,0.9230769230769231,39
+AIG_4Q24.txt,AIG,2024,4Q,"AIG also provided an estimate of ~$500mn
+pretax before reinstatement premiums for catastrophe losses in 1Q25 related to the California
+wildfires which came in a bit higher than we anticipated, but still at a manageable level relative
+to BVPS.",wildfire,Climate,0.8216661214828491,0.0009675925248302519,0.17736628651618958,0.0,0.115,0.885,14.97,25.86,0.0,0.9230769230769231,39
+AIG_4Q24.txt,AIG,2024,4Q,"Further, AIG guided to a Core ROE of 10% plus in 2025 despite the impact of wildfires in
+1Q. This comes in materially better than we expected and our current ROE estimate for 2025
+including the wildfire impact is 9.6%.",wildfire,Climate,1.0,1.00616359688388e-09,1.227622448141119e-09,0.071,0.0,0.929,59.64,12.0,0.0,0.825,40
+AIG_4Q24.txt,AIG,2024,4Q,CA Wildfire: $500 Million Net Loss.,wildfire,Climate,9.019893695949577e-06,0.9999669790267944,2.395344927208498e-05,0.0,0.315,0.685,90.77,2.4,0.0,1.0,6
+AIG_4Q24.txt,AIG,2024,4Q,"The loss occurrence may come close to the attachment point in Despite the
+heavier cat load in 1Q25, AIG maintains their guidance of 10%+ core ROE inclusive of the impact
+of the wildfires.
+",wildfire,Climate,6.208681588759646e-05,0.0001433233846910298,0.9997945427894592,0.062,0.065,0.873,54.9,16.84,0.0,0.8181818181818182,33
+AIG_4Q24.txt,AIG,2024,4Q,Reinsurance:,reinsurance,Financial,0.0011352673172950745,0.0017482814146205783,0.9971164464950562,0.0,0.0,1.0,-47.99,40.4,0.0,1.0,1
+AIG_4Q24.txt,AIG,2024,4Q,"The company launched a reinsurance Lloyd's syndicate via a multi-year strategic
+partnership with Blackstone.",reinsurance,Financial,6.193311946844915e-06,1.2817204151360784e-06,0.9999924898147583,0.12,0.0,0.88,31.89,14.17,0.0,0.9285714285714286,14
+AIG_4Q24.txt,AIG,2024,4Q,"It began underwriting on Jan-1 and will serve as a key component
+of the company's reinsurance strategy, including improvements to terms and conditions of
+many of its reinsurance treaties placed at Jan-1.
+",reinsurance,Financial,0.9999892711639404,2.9659144473725974e-08,1.0728823326644488e-05,0.071,0.0,0.929,39.0,22.8,0.0,0.875,32
+AIG_4Q24.txt,AIG,2024,4Q,"Barclays Research, Bloomberg Consensus, Company Data
+FIGURE 2. AIG - 4Q24 Total P&C Underwriting
+Total P&C
+Net premiums written
+5,755
+% Growth YoY
+Net premiums earned
+5,913
+% Growth YoY
+Loss Ratio
+Exense Ratio
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+Catastrophes ($mn)
+Catastrophes (pts)
+2.1%
+Reserve development ($m)
+Reserve development (pts)
+(0.9%)
+",catastrophe,Financial,0.0005231148097664118,8.111155693768524e-06,0.9994687438011169,0.084,0.074,0.841,44.03,11.05,13.0,0.6833333333333333,60
+AIG_4Q24.txt,AIG,2024,4Q,"Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+96.00
+Target
+90.00
+80.83
+Current
+75.09
+68.05
+66.00
+Low
+Downside
+Model Update
+We updated our estimates to reflect the company's $500mn 1Q25E cat loss projection from the
+CA wildfires, as well as other modest favorable adjustments to underwriting based on the
+company's guidance for +10% Operating ROE inclusive of the wildfire losses.",wildfire,Climate,0.5171022415161133,0.00015665774117223918,0.4827411472797394,0.07,0.122,0.808,46.27,12.66,13.4,0.8484848484848485,66
+AIG_4Q24.txt,AIG,2024,4Q,"Net premiums earned
+5,786
+% Growth YoY
+Loss Ratio
+Exense Ratio
+31.7%
+Combined Ratio
+Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+88.3%
+87.6%
+Catastrophes ($mn)
+106
+Catastrophes (pts)
+1.8%
+Reserve development ($m)
+Reserve development (pts)
+(0.5%)
+1Q24
+2Q24
+3Q24
+4Q24
+Actual
+Actual
+Actual
+Actual
+BARCe
+4,512
+6,933
+6,380
+(8.0%)
+(1.3%)
+5.6%
+6,077
+4,618
+5,749
+5,947
+5,975
+(27.9%)
+6.7%
+(0.7%)
+2.8%
+(20.2%)
+1.7%
+58.0%
+61.0%
+60.7%
+58.7%
+67.2%
+31.5%
+31.9%
+32.2%
+31.2%
+89.7%
+92.5%
+92.7%
+90.9%
+98.4%
+56.6%
+56.1%
+56.4%
+53.9%
+63.7%
+56.4%
+88.4%
+86.0%
+94.9%
+330
+417
+304
+237
+5.7%
+7.0%
+5.0%
+4.1%
+(10)
+39
+(177)
+17
+(0.8%)
+(2.7%)
+(0.2%)
+(0.5%)
+1Q25E
+Street
+Diff
+4,617
+0.0%
+2.3%
+0.0pp
+2.3%
+5,840
+5,886
+(0.8%)
+5,910
+(21.9pp)
+59.4%
+31.4%
+(0.2pp)
+90.5%
+7.8pp
+7.9pp
+7.3pp
+7.1pp
+87.8%
+216
+9.7%
+3.7%
+(32)
+(41)
+(0.7%)
+",catastrophe,Financial,3.2650495995767415e-05,1.0792898137879092e-05,0.999956488609314,0.019,0.034,0.947,94.96,5.29,7.9,0.8507462686567164,134
+ALL_1Q22.txt,ALL,2022,1Q,"Post pandemic ALL decreased rates later than others (by low single
+digits), therefore these lower rates have not been fully cycled out yet delaying the effect of
+earning in rate increases (delayed recognition through 3Q23).",rate increases,Financial,0.009738815017044544,0.12884637713432312,0.8614147901535034,0.0,0.115,0.885,35.95,18.57,0.0,0.9714285714285714,35
+ALL_1Q22.txt,ALL,2022,1Q,"Likewise, ALL plans to top off the
+rate increases it has been taking so far going forward.
+",rate increases,Financial,0.001373010571114719,0.0003333931090310216,0.9982936978340149,0.101,0.0,0.899,71.14,9.15,0.0,1.0,17
+ALL_1Q22.txt,ALL,2022,1Q,"Prolonged period of achieving
+approvals from regulators with respect
+to requested rate increases.",rate increases,Financial,3.812869908870198e-05,0.9993422627449036,0.0006195409805513918,0.205,0.0,0.795,24.44,17.51,0.0,1.0,13
+ALL_1Q22.txt,ALL,2022,1Q,"According to Mario, peers have
+cycled out most of the prior rate decreases from the start of the pandemic allowing others to
+earn in the rate increases earlier.",rate increases,Financial,0.017066732048988342,0.003046538447961211,0.9798866510391235,0.0,0.0,1.0,51.52,19.77,0.0,0.7857142857142857,28
+ALL_1Q22.txt,ALL,2022,1Q,"Statutory Auto Loss Ratios: ALL vs. PGR vs. Industry
+FIGURE 3.",loss ratios,Financial,4.040633029944729e-06,9.062624485522974e-06,0.9999868869781494,0.0,0.187,0.813,65.89,9.47,0.0,0.9090909090909091,11
+ALL_1Q22.txt,ALL,2022,1Q,"Source: Barclays Research, S&P Capital IQ Pro
+9 May 2022
+5
+Barclays | Allstate Corp.
+GAAP Auto Loss Ratios: ALL vs. PGR
+From a GAAP perspective, the gap between PGR and ALL started to narrow in 2Q21.",loss ratios,Financial,4.572558464133181e-05,4.220879782224074e-05,0.9999120235443115,0.0,0.067,0.933,76.22,5.91,7.8,0.8918918918918919,37
+ALL_1Q22.txt,ALL,2022,1Q,"Note, we looked at total auto loss ratios, there may be nuances with PYD and
+cats.
+",loss ratios,Financial,3.0024781153770164e-05,0.14560222625732422,0.854367733001709,0.0,0.133,0.867,80.62,6.4,0.0,1.0,16
+ALL_1Q22.txt,ALL,2022,1Q,"Not adjusted for PYD or catastrophes.
+",catastrophe,Financial,0.00015546780196018517,0.00023579111439175904,0.9996086955070496,0.0,0.0,1.0,56.93,15.73,0.0,1.0,6
+ALL_1Q22.txt,ALL,2022,1Q,"2022/2023 Nationwide Excess Catastrophe Reinsurance: Fully placed, providing $6.61bn
+coverage in excess of a $500mn retention and various co-insurance by layers.",catastrophe,Financial,2.905656629081932e-06,3.3186091741299606e-07,0.9999967813491821,0.0,0.188,0.812,26.98,19.44,0.0,1.0,21
+ALL_1Q22.txt,ALL,2022,1Q,"2022/2023 Nationwide Excess Catastrophe Reinsurance: Fully placed, providing $6.61bn
+coverage in excess of a $500mn retention and various co-insurance by layers.",reinsurance,Financial,2.905656629081932e-06,3.3186091741299606e-07,0.9999967813491821,0.0,0.188,0.812,26.98,19.44,0.0,1.0,21
+ALL_1Q22.txt,ALL,2022,1Q,"losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op.",catastrophe,Financial,1.363236879114993e-05,1.204181216962752e-06,0.9999852180480957,0.193,0.1,0.707,-21.24,31.48,0.0,0.819672131147541,61
+ALL_1Q22.txt,ALL,2022,1Q,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182155736198183e-06,0.9992392063140869,0.0007516797631978989,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+ALL_1Q23.txt,ALL,2023,1Q,"BARCLAYS
+Equity Research
+Financial Services
+5 May 2023
+Allstate Corp.
+1Q23 Review: Remediation Plans
+Ramping Up
+ALL is taking more urgent actions to improve auto profitability
+and capital adequacy by dropping its 3Q target for buyback
+completion, pausing advertising spend, and pushing harder in
+California in its rate filing process.
+",capital adequacy,Financial,0.05365302786231041,0.676173746585846,0.27017322182655334,0.134,0.0,0.866,29.18,16.4,0.0,0.94,50
+ALL_1Q23.txt,ALL,2023,1Q,"Prolonged period of achieving
+approvals from regulators with
+respect to requested rate increases.
+",rate increases,Financial,3.812869908870198e-05,0.9993422627449036,0.0006195409805513918,0.205,0.0,0.795,24.44,17.51,0.0,1.0,13
+ALL_1Q23.txt,ALL,2023,1Q,"losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op.",catastrophe,Financial,1.363236879114993e-05,1.204181216962752e-06,0.9999852180480957,0.193,0.1,0.707,-21.24,31.48,0.0,0.819672131147541,61
+ALL_1Q23.txt,ALL,2023,1Q,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182155736198183e-06,0.9992392063140869,0.0007516797631978989,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+ALL_2Q21.txt,ALL,2021,2Q,"ALL can selectively target rate increases with less
+force since it is focusing on maintaining rather than improving margins (Figure 2 &
+Figure 3).",rate increases,Financial,0.36878687143325806,0.0003172987198922783,0.6308958530426025,0.118,0.0,0.882,39.67,17.9,0.0,1.0,24
+ALL_2Q21.txt,ALL,2021,2Q,"ALL can selectively target rate increases with less force since it is
+focusing on maintaining rather than improving margins.",rate increases,Financial,0.4597002863883972,0.0006489954539574683,0.5396507978439331,0.135,0.0,0.865,43.73,18.13,0.0,1.0,19
+ALL_2Q21.txt,ALL,2021,2Q,"losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op.",catastrophe,Financial,1.363236879114993e-05,1.204181216962752e-06,0.9999852180480957,0.193,0.1,0.707,-21.24,31.48,0.0,0.819672131147541,61
+ALL_2Q21.txt,ALL,2021,2Q,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners
+insurance business.",catastrophe,Financial,9.182155736198183e-06,0.9992392063140869,0.0007516797631978989,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+ALL_2Q22.txt,ALL,2022,2Q,"BARCLAYS
+Equity Research
+Financial Services
+5 August 2022
+Allstate Corp.
+2Q22 Review: Rising Loss Trends
+ALL is committed to accelerating rate increases, not only to
+remediate, but to offset future loss cost increases by
+undertaking underwriting restrictions in underperforming states
+and reducing advertising spend.",rate increases,Financial,0.9542968273162842,0.00020724177011288702,0.0454959012567997,0.034,0.1,0.867,15.31,19.71,0.0,0.9545454545454546,44
+ALL_2Q22.txt,ALL,2022,2Q,"As such, ALL anticipates future cost trends will pressure the
+combined ratio, increasing the urgency of prospective rate increases exceeding expected loss
+cost trend.
+",rate increases,Financial,0.07811129093170166,0.9164411425590515,0.0054475837387144566,0.0,0.17,0.83,30.2,19.6,0.0,0.9166666666666666,24
+ALL_2Q22.txt,ALL,2022,2Q,"Prolonged period of achieving
+approvals from regulators with respect
+to requested rate increases.",rate increases,Financial,3.812869908870198e-05,0.9993422627449036,0.0006195409805513918,0.205,0.0,0.795,24.44,17.51,0.0,1.0,13
+ALL_2Q22.txt,ALL,2022,2Q,"Next 12 months
+Upside
+144.46
+135.00
+Current
+113.92
+106.11
+Target
+120.00
+100.00
+Low
+Downside
+5 August 2022
+3
+Barclays | Allstate Corp.
+Pricing Trend vs. Severity Trend by State
+States ALL achieved >10% rate increases include: FL, TX, UT, LA, GA, MO, IL, WI, and IN.",rate increases,Financial,0.012164740823209286,2.0795991076738574e-05,0.9878144264221191,0.068,0.087,0.845,89.24,4.78,6.4,0.9782608695652174,46
+ALL_2Q22.txt,ALL,2022,2Q,"ALL
+called out NY, as that state represents 9% of premiums, while it achieved <5% rate increases in
+the state, it needs more.",rate increases,Financial,0.011185791343450546,0.0006559950415976346,0.9881581664085388,0.0,0.0,1.0,73.51,14.42,0.0,0.9565217391304348,23
+ALL_2Q22.txt,ALL,2022,2Q,"For instance, NY severity trends are >15% yet ALL has not
+has a lot of traction pushing rate increases, with <5% from Q1 2022 through Q2 2022.",rate increases,Financial,0.0003637259069364518,0.19747354090213776,0.8021626472473145,0.0,0.0,1.0,69.45,13.76,0.0,0.9629629629629629,27
+ALL_2Q22.txt,ALL,2022,2Q,"Implemented rate increases by State
+WA
+MT
+OR
+ID
+NV
+CA
+UT
+WY
+ND
+SD
+NE
+KS
+FIGURE 2.",rate increases,Financial,1.8464990716893226e-05,4.09442054660758e-06,0.9999774694442749,0.0,0.0,1.0,77.57,11.81,0.0,1.0,19
+ALL_2Q22.txt,ALL,2022,2Q,"losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op.",catastrophe,Financial,1.363236879114993e-05,1.204181216962752e-06,0.9999852180480957,0.193,0.1,0.707,-21.24,31.48,0.0,0.819672131147541,61
+ALL_2Q22.txt,ALL,2022,2Q,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182155736198183e-06,0.9992392063140869,0.0007516797631978989,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+ALL_2Q23.txt,ALL,2023,2Q,"In relation to capital adequacy, we sense a posture
+shift, with a greater sense of urgency now to get back on track,
+after a relatively more relaxed posture previously.",capital adequacy,Financial,0.007628554943948984,0.34414857625961304,0.6482228636741638,0.2,0.0,0.8,33.58,18.5,0.0,0.8275862068965517,29
+ALL_2Q23.txt,ALL,2023,2Q,"ALL implemented 3 pts
+of weighted rate increases in June in NY.",rate increases,Financial,5.247493027127348e-05,1.9065910237259232e-06,0.9999456405639648,0.0,0.0,1.0,67.76,11.47,0.0,0.9166666666666666,12
+ALL_2Q23.txt,ALL,2023,2Q,"While ALL may have been testing
+the limits to a degree, we think actions taken to date are sufficient to get capital adequacy
+back on track.
+",capital adequacy,Financial,0.966707706451416,0.000984777812846005,0.03230757638812065,0.0,0.0,1.0,53.55,13.48,0.0,0.9230769230769231,26
+ALL_2Q23.txt,ALL,2023,2Q,"Before ALL's July buyback
+suspension, we have seen more buyback consistency from ALL even in periods when it
+completed acquisitions or elevated catastrophe activity.",catastrophe,Financial,0.9992125034332275,1.7990634660236537e-05,0.0007695104577578604,0.0,0.161,0.839,13.28,22.93,0.0,0.9583333333333334,24
+ALL_2Q23.txt,ALL,2023,2Q,"Prolonged period of achieving
+approvals from regulators with
+respect to requested rate increases.
+",rate increases,Financial,3.812869908870198e-05,0.9993422627449036,0.0006195409805513918,0.205,0.0,0.795,24.44,17.51,0.0,1.0,13
+ALL_2Q23.txt,ALL,2023,2Q,"losses
+Catastrophe points
+Pre-tax prior year development
+Underlying combined ratio
+Shareholders' equity and returns
+Ending Common Shareholders' equity
+Fully diluted book value per share
+Adjusted net income return on equity
+Capital deployment
+Assumed Repurchase Price Per Share
+# of shares repurchased (in mn)
+Shares Repurchases
+Dividends per share
+Total $ Amount of Dividends
+Total capital return
+Total capital return, % op.",catastrophe,Financial,1.363236879114993e-05,1.204181216962752e-06,0.9999852180480957,0.193,0.1,0.707,-21.24,31.48,0.0,0.819672131147541,61
+ALL_2Q23.txt,ALL,2023,2Q,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182155736198183e-06,0.9992392063140869,0.0007516797631978989,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15

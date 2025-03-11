@@ -1,0 +1,3458 @@
+April 21, 2020 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+TRV: The Umbrella Provides Shelter From BI
+Claims; Conference Call Round-Up
+· Summary: Travelers hosted a conference call on 4/21 to discuss Q1
+results. The call focused on Covid-19 and the impact on its different
+businesses, its updated outlook for net investment income, as well
+as thoughts surrounding capital (and the potential for a slowdown in
+its buyback in 2020). Our 2020 EPS estimate falls to $9.10 (from
+$10.45), 2021 falls to $10.00 (from $11.00), and 2022 falls to
+$10.70 (from $11.60) reflective of lower NII, lower buybacks, and
+adjustments to our premium and margin assumptions. Our price
+target moves to $105 from $110 based on our 2021 BV estimate.
+We are surprised the shares traded up post earnings (and
+outperformed the P&C sector), but we do view the market
+responding favorably to TRV's thoughts surrounding potential
+business interruption claims from Covid-19. Below, we highlight key
+takes for the rest of the insurance sector coming out of TRV's print
+(with some additional laterals also in the back of this note).
+· Business interruption should be mostly insulated from Covid-
+19 claims. TRV highlighted that for its commercial property book its
+policies require losses to be caused by a direct physical damage to
+property for it to be a covered BI loss. Additionally, its standard
+policy form specifically excludes losses or damages resulting from a
+virus. TRV did say it had some policies that include virus
+endorsements and that was included within the charge the company
+took this quarter. Additionally, within commercial TRV is seeing
+fewer commercial auto and slip and fall type claims and is also
+seeing the plaintiffs' bar move to settle claims faster.
+. Workers' compensation could be impacted further by Covid-
+19. Generally workers' comp claims would be triggered if the
+employee can demonstrate that the injury occurred over the course
+of employment, including healthcare workers and first responders
+(which does not represent a significant part of TRV's book). TRV
+highlighted that some states have taken steps to expand the scope
+of workers' comp coverage
+by
+creating presumptions
+of
+compensability. While giving this caveat on workers' comp, the
+company did say the frequency in the comp line has been down.
+· Personal auto is benefiting from a lack of driving. Confirming
+what we saw in PGR's numbers, TRV is benefiting from a lack of
+driving by its insurers with miles driven down 40% over the final two
+weeks of March. TRV did caution that there could be an offset to the
+favorable frequency trends as severity could rise as individuals get
+into accidents at higher speeds.
+· Capital return could slow, reflective of conservatism in a
+weaker economy. TRV pointed to being more cautious when it
+comes to capital return as the company was during the Global
+Financial Crisis. As a result, TRV to us pointed to a decent slowdown
+in share repurchase until there is more clarity on the economy.
+WELLS
+FARGO
+SECURITIES
+Underweight/$105
+Commercial Lines Insurance
+Price Target Change
+$
+EPS
+2019A
+2020E
+2021E
+Prior
+Curr.
+Curr.
+Prior
+Q1 (Mar.)
+2.83
+2.62 A
+NC
+2.80
+3.02
+Q2 (June)
+2.02
+1.26
+1.66
+1.55
+1.82
+Q3 (Sep.)
+1.43
+1.94
+2.12
+2.21
+2.40
+3.54
+3.45
+3.78
+Q4 (Dec.)
+3.32
+3.29
+FY
+9.60
+9.10
+10.45
+10.00
+11.00
+CY
+9.60
+9.10
+10.00
+FY P/EPS
+10.7x
+11.3x
+10.3x
+Rev.(MM)
+29,151
+29,614
+31,187
+Source: Company Data, Wells Fargo Securities, LLC estimates, and Reuters
+NA = Not Available, NC = No Change, NE = No Estimate, NM = Not Meaningful
+V = Volatile
+Ticker
+Price Target/Prior:
+$105/$110
+Price (04/21/2020)
+$102.88
+52-Week Range:
+$76-156
+Shares Outstanding: (MM)
+252.8
+Market Cap .: (MM)
+$26,008.1
+S&P 500:
+2,749.26
+Avg. Daily Vol .:
+3,050,550
+Dividend/Yield:
+$3.28/3.2%
+LT Debt: (MM)
+$6,559.0
+LT Debt/Total Cap .:
+21.9%
+ROE:
+12.0%
+3-5 Yr. Est. Growth Rate:
+10.0%
+CY 2020 Est. P/EPS-to-Growth:
+1.1x
+Last Reporting Date:
+04/21/2020
+TRV
+Before Open
+NC = No Change
+Source: Company Data, Wells Fargo Securities, LLC estimates, and Reuters
+Elyse Greenspan, CFA
+Senior Analyst | 212-214-8031
+elyse.greenspan@wellsfargo.com
+Weston Bloomer
+Associate Analyst | 212-214-8013
+weston.bloomer@wellsfargo.com
+James Kurek
+Associate Analyst | 212-214-5036
+james.kurek@wellsfargo.com
+Please see page 13 for rating definitions, important disclosures and
+required analyst certifications. All estimates/forecasts are as of
+04/21/20 unless otherwise stated. 04/21/20 16:04:01 ET
+Wells Fargo Securities, LLC does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the
+firm may have a conflict of interest that could affect the objectivity of the report
+and investors should consider this report as only a single factor in making their
+investment decision.
+Together we'll go far
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Insurance
+Equity Research
+Q1 2020 Earnings And Conference Call Highlights
+Summary. Travelers hosted a conference call on 4/21 to discuss Q1 results. The call focused on Covid-19
+and the impact on its different businesses, its updated view for net investment income, as well as
+thoughts surrounding capital (and the potential for a slowdown in its buyback in 2020). Our 2020 EPS
+estimate falls to $9.10 (from $10.45), 2021 falls to $10.00 (from $11.00), and 2022 falls to $10.70 (from
+$11.60) reflective of lower NII, lower buybacks, and adjustments to our premium and margin
+assumptions. Our price target moves to $105 from $110 based on our 2021 BV estimate. TRV highlighted
+that it did not believe that the 1.2 point impact from Covid-19 in the Q1 should be multiplied to give an
+ongoing quarterly impact (since Covid-19 only impacted about one month of the quarter) as certain items
+like bad debt expense (which was 0.5 points) will not necessarily continue. The company did point to
+potential commercial claims as well as surety losses depending on the duration of the economy slowdown
+and employment practices liability losses due to the increase in furloughs and laid off employees. We are
+surprised the shares traded up post earnings, but we do view the market responding favorably to the
+company's thoughts surrounding potential business interruption claims from Covid-19.
+The Quarter In A Nutshell. This morning (4/21), TRV reported Q1 core EPS of $2.62, missing our $3.15
+and consensus of $2.82. The downside versus us reflects a lower level of favorable reserve development,
+higher catastrophe losses, and Covid-19 related losses (impacted Business Insurance and Bond &
+Specialty Insurance) of $86 million pre-tax, and $68 million after-tax. Weaker underlying results in
+Business Insurance and Bond & Specialty were offset by stronger Personal Insurance results. The
+underlying margin of 91.3%, beat our 92.5%, but that was due to a better margin in personal lines (both
+auto and home) as the margins within Business Insurance and Bond & Specialty missed us as they were
+both impacted by Covid-19 related charges. TRV pulled its outlook for renewal premium change and
+underlying margins due to the potential impact of Covid-19 on its businesses. Net investment income was
+$611 million, just beating our $606 million, TRV did update its net investment income outlook to be down
+$20 million on a quarterly basis, from the prior $5-10 million decline, which is not surprising given the
+drop in rates in Q1. TRV repurchased $471 million, above our $375 million - language in the 10Q pointed
+to a potential slow in buyback depending upon how Covid-19 unfolds. Book value per share declined 1.8%
+and the core ROE was 11.5%. TRV shares should trade down due to earnings falling short of expectations
+and its pulled outlook for the year.
+Exhibit 1. Consolidated Results Versus Wells Fargo Securities Estimates
+Q1 2020 Actual
+Net premiums written (in millions)
+Growth in net premiums written
+4.1%
+Growth in net premiums earned
+Investment income (in millions)
+Combined ratio
+Catastrophe losses (in millions)
+$333
+Reserve releases (in millions)
+($27)
+($70)
+Underlying Loss Ratio
+61.3%
+63.0%
+Expense Ratio
+Underlying combined ratio
+Tax rate
+17.4%
+Operating EPS
+$2.62
+Growth in operating EPS
+Book value per share
+$99.69
+Segment Underwriting Income (in millions):
+Business Insurance
+($146)
+Bond & Specialty Insurance
+$91
+Personal Insurance
+$295
+$253
+Operating ROE
+11.5%
+12.3%
+Source: Wells Fargo Securities, LLC estimates and Company reports
+$7,346
+5.5%
+5.3%
+$611
+95.5%
+93.6%
+30.0%
+91.2%
+(7.4%)
+Q1 2020 Estimate
+$7,389
+4.7%
+$606
+$150
+29.5%
+92.5%
+16.5%
+$3.15
+11.1%
+$103.64
+$41
+$98
+2 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+2020 Outlook Removed Except For Net Investment Income
+2020 Outlook Lowered For Investment Income, Other Components Pulled. Exhibit 2 below
+highlights TRV's commentary and expectations for 2020. TRV pulled its outlook for renewal premium
+change and its underlying margins for the remainder of 2020 as a result of the uncertainty associated with
+the potential impacts associated with Covid-19, but did provide an outlook for net investment income, and
+also provided helpful color around other line items in the model. The company's fixed net investment
+income should be down approximately $20 million per quarter for the remaining three quarters of 2020.
+The company also expects alternative investments (other investment income) to be down "significantly" in
+Q2 2020. For catastrophe losses, the company highlighted that approximately 40% of its annual losses
+have come in the second quarter of the year. TRV did not commit to a level of share repurchases for the
+remainder of 2020 but did say that they may buy back some shares in the coming quarters or may not
+choose to buy back shares until there is more clarity on the state of the economy. When looking at
+premium volume, TRV expects to see more significant impacts in the economic contraction on written
+and earned premium. The company further highlighted that earned premium generally lags written
+premium and they could feel the impact on an earned basis beyond the end of the year. In Business
+Insurance, the company expects a slowdown in premiums, and claims could potentially be elevated from
+more workers comp (healthcare workers, etc. ) related claims. In Surety, TRV highlighted that loss activity
+could be elevated depending on the length of the shutdown, although they get the sense that a vast
+majority of projects are still permitted to proceed. In Personal Insurance, TRV highlighted that lower
+frequency favorably impacted underlying results by 1 point in personal auto and favorable frequency
+should continue in the Q2 2020 with a partial offset from higher severity. TRV expects premiums (we
+model just an earned impact) to be approximately $140 million lower in the Q2 2020 as a result of its
+rebate program. Additionally, TRV expects the expense ratio to be elevated in the near term as they do
+not expect to make significant adjustments to their fixed expense base in response to short-term
+fluctuations in business volumes.
+Exhibit 2. 2020 Outlook Provided By Travelers
+Underlying Margins
+Provided With Q3 2019 Earnings
+Business Insurance
+Bond and Specialty Insurance
+Personal Insurance
+of 2020
+Personal auto
+three quarters of 2020
+Margins higher y-o-y for the first three quarters
+Homeowners'
+of 2020
+Renewal Premium Growth
+Positive and higher on average y-o-y for first
+three quarters of 2020
+Business Insurance
+Bond and Specialty Insurance
+Personal auto
+Homeowners'
+three quarters of 2020
+Margins higher y-o-y for the first three quarters
+of 2020
+Margins broadly consistent y-o-y for the first
+three quarters of 2020
+Margins higher y-o-y for the first three quarters
+Margins broadly consistent y-o-y for the first
+Management liability: Positive and higher on
+average y-o-y for first three quarters of 2020
+Positive but lower on average y-o-y for first three
+quarters of 2020
+Positive and higher on average y-o-y for first
+2020 Outlook
+Provided With Q4 2019 Earnings
+Provided With Q1 2020 Earnings
+Margins higher for 2020, but weaker in Q1 due to
+the adjustments taken in Q2-Q4 2019
+Margins broadly consistent over all quarters of 2020
+TRV is not providing an outlook for earned premiums, fee
+income, claims and claim adjustment expense, and
+general and administrative expenses for the remainder
+of 2020 as a result of the uncertainty associated with the
+potential impacts associated with COVID-19.
+Underlying combined ratio better in 2020 (in Q2-Q4
+due to low non-cat weather)
+Broadly consistent underlying combined ratio
+Underlying combined ratio better in 2020 (in Q2-Q4
+due to low non-cat weather)
+Positive and higher on average y-o-y for all of 2020 The company expects the decreased economic activity to
+Management liability: Positive and higher on
+average y-o-y for all of 2020
+weigh on premium volumes in Q2 2020 ad FY 2020. TRV
+is not providing an outlook for earned premiums, fee
+income, claims and claim adjustment expense, and
+general and administrative expenses for the remainder
+Positive but lower on average y-o-y for all of 2020
+of 2020 as a result of the uncertainty associated with the
+potential impacts associated with COVID-19.
+Positive and higher on average y-o-y for all of 2020
+Investment Income (Fixed Income And Short-Term Investments)
+$10-$15 million lower per quarter for the first
+three quarters of 2020
+$5-$10 million lower per quarter for all quarters of
+2020
+Approx, $20 million lower per quarter for the remainder
+of 2020 and "significantly negative" in Q2 2020.
+Source: Wells Fargo Securities, LLC and Company data
+Wells Fargo Securities, LLC | 3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Insurance
+Equity Research
+Takeaways For The Non-Life Insurance Group
+The main takes that stand out from TRV to us and the laterals for the rest of the group include:
+(1) Commercial lines pricing continues to firm and picked up in the Q1 although the company is
+concerned about exposure growth slowing, which could offset the positive impact that rate is having
+on premiums. As a result, we have lowered our premium assumptions for Business Insurance for the
+remainder of 2020. This is mixed for the commercial insurance (AIG, CB and HIG) as stronger
+pricing is being offset by potential a lower premium base.
+(2) Business interruption should be insulated from Covid-19 claims. TRV highlighted that for its
+commercial property book its policies require losses to be caused by a direct physical damage to
+property for it to be a covered BI loss. Additionally, its standard policy form specifically excludes
+losses or damages resulting from a virus. TRV did say it had some policies that include virus
+endorsements and that was included within the charge the company took this quarter (with 1.5 points
+of losses on the Business Insurance loss ratio, or about $58 million). Additionally within commercial
+lines, TRV is seeing fewer commercial auto and slip and fall type claims and is also seeing the
+plaintiffs' bar move to settle claims faster. This is positive for all commercial lines insurers, but
+the most positive for HIG under our coverage, as HIG has a similar account footprint at TRV
+and has come under pressure surrounding potential BI claims from Covid-19.
+(3) Workers' compensation could be impacted further by Covid-19. Generally workers' comp claims will
+be triggered if the employee can demonstrate that the injury occurred over the course of
+employment, including healthcare workers and first responders (which does not represent a
+significant part of TRV's book). TRV highlighted that some states have taken steps to expand the
+scope of workers' comp coverage by creating presumptions of compensability. While giving this
+caveat on workers' comp, the company did say the frequency in the comp line has been down. The
+potential for workers' comp claims would be a negative for HIG, although we believe claims
+will most likely be confined to the impacted industries.
+(4) Personal auto is benefiting from a lack of driving. Confirming what we saw in PGR's numbers,
+Travelers is benefiting from a lack of driving by its insurers with miles driven down 40% over the final
+two weeks of March. TRV did caution that there could be an offset to the favorable frequency trends
+as severity could rise as individuals get into accidents at higher speeds. This is a positive lateral
+for the personal auto insurers (ALL and PGR) who should continue to benefit from
+favorable frequency trends in auto (which is their largest business).
+(5) Investment income will be pressured for the group. TRV lowered its outlook for investment income
+from its fixed maturity investments and also cautioned that the Q2 will be under pressure due to
+weaker returns from its private equity investments, which are recorded on a one quarter lag. This
+would imply to all insurers (life and non-life) as everyone will be impacted by lower
+interest rates and the one-quarter lag with their investment portfolios.
+(6) Capital return could slow. TRV pointed to being more cautious when it comes to capital return as the
+company was during the Global Financial Crisis. As a result TRV to us pointed to a decent slowdown in
+share repurchase until there is more clarity on the economic situation. We had previously thought
+that P&C insurers would continue to buyback shares, even with Covid-19 uncertainty, but
+given TRV's cautiousness surrounding buybacks we would not be surprised to see other
+insurers also suspend buybacks to conserve capital right now.
+4 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Highlights Of Our Estimate Changes
+Overview of estimate changes. Exhibit 3 highlights the changes we made to our earnings model
+following Q1 2020 earnings. Our 2020 EPS estimate goes to $9.10 from $10.45, our 2021 EPS estimate
+goes to $10.00 from $11.00, and our 2022 EPS estimate goes to $10.70 from $11.60. We are making
+broad adjustments to our model, including:
+(1) Lower written and earned premium across each segment to reflect the economic slowdown (and lower
+premium in personal auto to reflect the rebate);
+(2) NII from its fixed maturity portfolio that is lower by approximately $20 million per quarter in 2020
+(and lower alts in the Q2);
+(3) Loss ratio adjustments that vary by segment, although BI and surety are broadly moving higher to
+reflect potentially higher loss activity and personal lines moving lower to reflect lower frequency
+(partially offset by higher severity);
+(4) Elevated expense ratios to reflect consistent fixed expenses and declining premium volumes; and,
+(5) Removing buyback for the Q2 and including a modest amount in the Q3.
+Exhibit 3. Summary Of Estimate Changes
+Current
+2021E
+Income Statement
+2020E
+Gross premiums written
+31,874.0
+% growth (yr/yr)
+2.6%
+4.5%
+33,322.6
+34,816.0
+Net premiums written
+% growth (yr/yr)
+1.6%
+29,614.1
+31,186.9
+32,725.1
+4.9%
+5.3%
+Increase in unearned premiums
+(780.1)
+(939.1)
+4.9%
+(934.3)
+Net premiums earned
+28,834.0 30,247.8 31,790.8
+% growth (yr/yr)
+2.0%
+5.1%
+Net investment income
+2,348.3
+2,428.8
+2,461.3
+Fee income
+458.0
+458.0
+276.0
+458.0
+Other income
+257.0
+284.0
+Total revenue
+31,897.2 33,410.5 34,994.1
+Losses and loss adjustment expenses
+19,503.1
+20,581.6
+21,723.8
+Amortization of deferred acquisition costs
+4,700.5
+4,908.7
+5,158.6
+General and administrative expenses
+4,562.0
+4,673.0
+4,841.0
+Interest expense
+336.0
+340.0
+344.0
+Total expenses
+29,101.5 30,503.2 32,067.4
+Pretax operating income
+2,795.7
+2,907.3
+2,926.7
+% growth (yr/yr)
+(7.6%)
+Income tax expense/(benefit)
+468.3
+4.0%
+479.7
+0.7%
+482.9
+After-tax core income
+2,327.4
+2,427.6
+2,443.8
+% growth (yr/yr)
+(8.3%)
+Company income tax rate (%)
+16.8%
+Weighted average number of diluted shares
+254.0
+4.3%
+16.5%
+0.7%
+16.5%
+241.3
+227.0
+Participating share-based awards - allocated income
+17.0
+16.0
+16.0
+After-tax core income
+$9.10
+$10.00
+$10.70
+Profitability Metrics
+Loss and loss adjustment expense ratio
+Underwriting expense ratio
+Combined ratio
+Points on the combined ratio
+Points on the combined ratio
+Current accident year combined ratio
+Underlying loss ratio
+62.9%
+63.4%
+67.1%
+67.5%
+67.7%
+30.1%
+29.7%
+29.5%
+97.2%
+4.8%
+-0.7%
+93.0%
+93.1%
+97.1%
+4.5%
+-0.4%
+97.2%
+4.4%
+-0.3%
+93.1%
+63.6%
+Segment Underwriting Income (in millions):
+Business Insurance
+($424)
+($350)
+Bond & Specialty Insurance
+$442
+$492
+Personal Insurance
+$540
+$435
+($402)
+$526
+$435
+Book value per share
+ROE
+$103.65
+$110.40
+$118.19
+8.9%
+9.3%
+9.4%
+Source: Wells Fargo Securities, LLC estimates and Company data
+Prior Estimates
+2021E
+2020E
+2022E
+2022E
+32,984.2
+4.5%
+34,474.2
+36,011.3
+4.5%
+6.2%
+4.5%
+30,481.0
+31,916.0
+33,436.2
+4.6%
+4.7%
+4.8%
+(830.2)
+(799.8)
+(840.2)
+29,650.8 31,116.3 32,596.0
+4.9%
+4.9%
+4.8%
+2,398.0
+2,450.4
+2,462.2
+459.0
+459.0
+459.0
+265.0
+277.0
+285.0
+32,772.8 34,302.7 35,802.2
+19,926.5
+4,810.6
+21,114.1
+5,045.3
+22,255.1
+5,283.5
+4,511.5
+4,644.0
+4,814.5
+344.0
+348.0
+356.0
+29,592.6 31,151.4 32,709.1
+(491.1)
+(648.2)
+3,180.2
+3,151.3
+3,093.1
+(384.5)
+(244.0)
+5.1%
+524.7
+520.0
+(0.9%)
+(1.8%)
+510.4
+2,655.5
+2,631.3
+2,582.7
+4.7%
+(0.9%)
+(1.8%)
+16.5%
+16.5%
+16.5%
+252.5
+237.8
+221.3
+16.0
+16.0
+16.0
+$10.45
+$11.00
+$11.60
+66.6%
+67.3%
+29.4%
+29.1%
+96.1%
+96.4%
+4.0%
+4.3%
+-0.8%
+-0.5%
+-0.3%
+92.9%
+92.6%
+63.4%
+63.4%
+63.7%
+67.7%
+29.0%
+96.7%
+4.3%
+92.7%
+($113)
+$473
+$533
+$520
+($204)
+$489
+($273)
+$496
+$513
+$108.67
+$117.09
+$126.72
+9.9%
+9.7%
+9.5%
+Delta (Absolute)
+2021E
+2020E
+2022E
+(1,110.2) (1,151.7) (1,195.3)
+(3.6%)
+0.0%
+0.0%
+(711.0)
+(866.9)
+(729.2)
+(3.0%)
+50.0
+0.6%
+(139.3)
+(868.5)
+0.2%
+(94.1)
+(816.8)
+(2.9%)
+(0.0%)
+(21.7)
+(805.2)
+0.3%
+(1.0)
+(49.8)
+(1.0)
+(1.0)
+(1.0)
+(8.0)
+(1.0)
+(1.0)
+(875.6)
+(892.1)
+(808.1)
+(423.4)
+(532.6)
+(531.3)
+(110.2)
+(136.6)
+(124.9)
+50.5
+29.0
+26.5
+(12.0)
+(8.0)
+(8.0)
+(641.7)
+(166.4)
+(12.7%)
+(56.4)
+4.9%
+2.5%
+(40.3)
+(27.5)
+(328.1)
+(203.7)
+(139.0)
+(12.9%)
+0.3%
+5.2%
+0.0%
+2.5%
+(0.0%)
+1.5
+3.4
+5.7
+0.0
+1.0
+0.0
+($1.36)
+($ 1.00)
+($0.90)
+0.4%
+0.2%
+0.1%
+0.7%
+0.5%
+0.5%
+1.1%
+0.8%
+0.1%
+0.1%
+0.2%
+0.1%
+0.0%
+0.2%
+-0.5%
+0.7%
+0.5%
+0.5%
+-0.1%
+0.4%
+-0.1%
+($311)
+($31)
+$7
+($147)
+($85)
+($78)
+($129)
+$3
+$30
+($5.02)
+-1.1%
+-0.4%
+($6.69)
+($8.53)
+-0.2%
+Wells Fargo Securities, LLC | 5
+Insurance
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Equity Research
+Pricing Improving In Commercial And Homeowners'; Slowed In Auto
+Business Insurance Rating Environment -TRV Rates Picked Up As Expected, While Exposure
+Declined
+. In the Q1, the Business Insurance renewal rate change was +6.2%, accelerating 110 basis points
+from +5.1% in Q4 2019. Exposure growth was +1.6%, higher than 1.4% in Q4 (although the Q4
+number was revised down from 2.7% as TRV revised down its estimate for ultimate exposure change
+given the impact of Covid-19).
+. See Exhibit 4 below, which shows the recent trends in TRV's quarterly domestic Business Insurance
+(BI) renewal rate change. The charts shows how its rate started to move up in Q4 2017 (following the
+high level of hurricane losses during the 2017 hurricane season) then dropped in Q3 2018 and has
+since risen over the past five quarters.
+. TRV stopped providing forward guidance on its RPC as the company is unsure of how the economy
+will be impacted from Covid-19. Our assumption is the exposure bucket of the RPC turns negative in
+the Q2.
+Exhibit 4. Domestic Business Insurance Renewal Pricing Results By Quarter
+Q1 2017 Q2 2017 Q3 2017 Q4 2017 Q1 2018 Q2 2018 Q3 2018 Q4 2018 Q1 2019 Q2 2019 03 2019 Q4 2019 Q1 2020
+RPC
+RRC
+Exposure/other
+3.0%
+0.3%
+2.7%
+3.6%
+% of BI NPW in Workers' Comp 31.3%
+26.1%
+Source: Wells Fargo Securities, LLC and Company data
+4.1%
+0.5%
+3.5%
+0.7%
+2.8%
+26.7%
+4.1%
+1.4%
+2.7%
+25.5%
+29.8%
+5.1%
+1.6%
+3.5%
+5.5%
+2.1%
+3.4%
+24.7%
+5.2%
+1.6%
+3.6%
+2.8%
+24.3%
+4.3%
+1.5%
+23.4%
+5.3%
+2.1%
+3.2%
+1.2%
+2.1%
+1.4%
+1.6%
+28.6%
+23.1%
+Exhibit 5 Continued. Domestic Business Insurance Renewal Pricing Results By Quarter
+10.0%
+4.7%
+3.5%
+6.4%
+4.3%
+23.3%
+6.4%
+5.0%
+22.1%
+26.2%
+7.8%
+6.2%
+7.8%
+8.0%
+6.0%
+4.0%
+3.0%
+6.4%
+6.4%
+5.5%
+5.1%
+5.2%
+4.3%
+4.1%
+4.1%
+3.5%
+5.3%
+4.7%
+6.2%
+5.0%
+4.3%
+3.6%
+2.8%
+2.7%
+3.5%
+2.0%
+2.7%
+3.4%
+2.1%
+1.6%
+1.4%
+3.6%
+2.8%
+1.6%
+3.5%
+3.2%
+2.1%
+1.5%
+1.2%
+2.1%
+1.4%
+1.6%
+0.0%
+0.3%
+0.5%
+0.7%
+(2.0%)
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019
+Q1 2020
+-Renewal Premium Change
+Source: Wells Fargo Securities, LLC and Company data
+Renewal Rate Change
+- Exposure/Other
+Personal Auto - TRV Continues to Secure Rate, Although The Level Is Slowing
+. Within Personal Insurance, TRV continues to secure rate increases in auto (but the level is slowing).
+The RPC in auto was 2.4% in Q1 versus 2.9% in Q4, 3.7% in Q3, and 5.0% in Q2 2019. Homeowners'
+pricing did accelerate to 7.7% in Q1 versus 7.3% in Q4 and 6.8% in Q3 2019.
+. Travelers saw its new business in auto grow for the seventh consecutive quarter (although the level
+did slow by a modest amount sequentially), which could be due to the impact of Covid on shopping.
+Auto new business premium was $227 million in Q1 versus $224 million in Q4, $236 million in the Q3,
+and up from $206 million last year.
+6 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Exhibit 6. Personal Insurance Business Statistics
+Q1 2017 Q2 2017 Q3 2017 Q4 2017 Q1 2018 Q2 2018 Q3 2018 Q4 2018 Q1 2019 Q2 2019 Q3 2019 Q4 2019 Q1 2020
+Agency Automobile
+Retention
+Renewal Premium Change
+Policies-In-Force (PIF, in thousands)
+PIF Yearly Change
+PIF Sequential Change
+New Business ($ in millions)
+$244
+$225
+New Business yearly change
+86%
+7.3%
+2,482
+2,514
+12%
+11%
+2%
+13%
+(3%)
+86%
+8.8%
+1%
+84%
+10.5%
+2,528
+8%
+1%
+$214
+(17%)
+84%
+11.5%
+2,529
+4%
+0%
+$198
+83%
+10.7%
+2,519
+1%
+(0%)
+$193
+(24%)
+(21%)
+83%
+9.6%
+8.0%
+2,517
+0%
+(0%)
+(0%)
+0%
+$212
+$219
+(6%)
+2%
+84%
+2,518
+84%
+6.7%
+5.6%
+5.0%
+2,518
+2,516
+(0%)
+0%
+$202
+2%
+84%
+84%
+84%
+(0%)
+(0%)
+$206
+$217
+$236
+$224
+$227
+7%
+2%
+8%
+11%
+10%
+2,517
+2,524
+0%
+0%
+0%
+0%
+3.7%
+2.9%
+2.4%
+Agency Homeowners & Other
+Retention
+87%
+87%
+86%
+2.8%
+Renewal Premium Change
+2.6%
+Policies-In-Force (PIF, in thousands)
+PIF Yearly Change
+PIF Sequential Change
+New Business ($ in millions)
+New Business yearly change
+4,222
+4%
+1%
+$118
+17%
+2.6%
+4,283
+4%
+1%
+$151
+14%
+18%
+4,352
+5%
+2%
+$159
+87%
+3.0%
+4,402
+4%
+0%
+$125
+9%
+86%
+3.2%
+4,453
+4,530
+6%
+5%
+1%
+$125
+6%
+86%
+3.7%
+2%
+$170
+$173
+13%
+86%
+3.6%
+4,601
+6%
+2%
+9%
+87%
+85%
+3.7%
+5.2%
+4,652
+6%
+1%
+$154
+23%
+4,726
+4,825
+6%
+2%
+2%
+$163
+30%
+86%
+6.6%
+6.8%
+7%
+$215
+26%
+37%
+86%
+4,927
+7%
+2%
+$237
+$219
+$212
+42%
+30%
+Source: Wells Fargo Securities, LLC and Company data
+Margin Misses In Business And Bond & Specialty Insurance Due To Covid-19
+Underlying Results Beat In Personal But Fell Short In Other Segments
+·
+The consolidated combined ratio was 95.5%, missing our 93.6% estimate largely reflective of higher
+catastrophe losses. The $333 million of catastrophe losses came in above our $150 million estimate,
+while prior year development slowed (and missed our estimate) due to adverse development for
+commercial auto. The underlying combined ratio of 91.3%, improved 30 bps from last year, but fell
+short of us and was impacted by Covid-19 (which negatively impacted both the Business Insurance
+and Bond & Specialty segments).
+·
+Catastrophe losses of $333 million were higher than our $150 million estimate and stemmed primarily
+from tornadoes in Tennessee.
+·
+Favorable development totaled $27 million and fell short of our estimate for favorable development of
+$70 million. The $5 million of favorable development in Business Insurance missed our estimate for
+favorable development of $20 million. Bond and Specialty did not see any development in the quarter
+and missed our estimate for $2 million of favorable reserve development. Personal Lines favorable
+development of $22 million missed our $48 million estimate.
+.
+TRV did not provide any forward guidance due to the potential impact of Covid-19 on its businesses.
+Exhibit 7. Underlying Combined Ratio - Deterioration In Loss Ratio, But Improvement In
+Expense Ratio
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Reported Combined Ratio
+96.0%
+96.7%
+103.2%
+95.5%
+95.5%
+98.1%
+96.6%
+97.5%
+3.8%
+93.7%
+98.4%
+84%
+84%
+2,532
+2,540
+0%
+0%
+1%
+1%
+86%
+86%
+7.3%
+7.7%
+5,016
+5,111
+8%
+8%
+2%
+2%
+Q4 2019
+Q1 2020
+101.5%
+92.4%
+95.5%
+Catastrophe Losses, net of reinsurance
+5.6%
+6.4%
+10.7%
+7.5%
+5.4%
+7.3%
+8.8%
+2.8%
+5.3%
+3.4%
+1.2%
+4.6%
+Prior Year Reserve Development
+(Favorable)/Unfavorable
+(1.3%)
+(3.2%)
+(0.3%)
+(4.4%)
+(2.3%)
+(2.8%)
+(0.2%)
+(2.4%)
+(0.7%)
+(1.8%)
+4.1%
+(0.8%)
+Underlying Combined Ratio
+91.7%
+93.5%
+Underlying (improvement) deterioration
+1.7%
+Underlying Loss Ratio
+61.0%
+Change from last year
+92.8%
+92.4%
+92.4%
+93.6%
+93.0%
+91.1%
+91.6%
+(0.8%)
+1.3%
+94.9%
+94.1%
+1.2%
+0.7%
+62.4%
+2.0%
+0.4%
+61.7%
+0.9%
+0.7%
+0.1%
+61.8%
+62.9%
+0.8%
+0.5%
+0.2%
+(1.3%)
+63.3%
+0.9%
+61.6%
+(0.1%)
+1.1%
+62.4%
+2.2%
+2.0%
+61.9%
+0.1%
+64.7%
+1.8%
+64.5%
+1.3%
+Underlying Expense Ratio
+30.7%
+(0.5%)
+31.1%
+(0.9%)
+Change from last year
+Source: Wells Fargo Securities, LLC and Company data
+30.4%
+(1.3%)
+30.7%
+(0.5%)
+(0.1%)
+30.6%
+30.7%
+(0.4%)
+29.7%
+(0.7%)
+29.5%
+29.7%
+(1.2%)
+(0.9%)
+30.2%
+29.5%
+(0.5%)
+(0.2%)
+Exhibit 8. Underlying Combined Ratio By Segment - Deterioration In All Segments
+92.1%
+91.3%
+0.9%
+(0.3%)
+63.0%
+1.3%
+(0.6%)
+29.1%
+30.0%
+(0.4%)
+0.3%
+(0.4%)
+61.3%
+Q1 2017 Q2 2017 03 2017 04 2017 01 2018 02 2018 03 2018 04 2018 Q1 2019 02 2019 03 2019 04 2019 01 2020
+Business Insurance
+Underlying (improvement) deterioration
+1.4%
+Bond & Specialty
+Underlying (improvement) deterioration
+0.2%
+Personal Insurance
+90.1%
+Underlying (improvement) deterioration
+Personal Insurance:
+Agency Automobile
+Underlying (improvement) deterioration
+Agency Homeowners & Other
+Underlying (improvement) deterioration
+94.4%
+94.8%
+(0.5%)
+96.4%
+2.3%
+93.9%
+1.1%
+95.5% 96.5%
+1.1%
+1.7%
+81.9%
+82.0%
+(0.4%)
+77.7%
+(0.8%)
+91.1%
+9.8%
+80.7% 80.5%
+78.3%
+(1.2%)
+(1.5%)
+0.6%
+94.5%
+2.9%
+91.0%
+(1.4%)
+4.3%
+90.4%
+(3.2%)
+90.5% 92.6%
+92.9%
+1.9%
+0.4%
+(1.9%)
+95.4%
+(1.0%)
+95.4%
+1.5%
+78.1%
+(13.0%)
+87.8%
+(2.6%)
+95.0%
+(0.5%)
+0.9%
+81.1%
+0.4%
+89.1%
+94.6%
+2.0%
+(1.4%)
+97.4%
+81.0%
+95.9%
+0.5%
+83.6%
+0.5%
+5.3%
+94.0%
+1.1%
+98.6% 102.4% 98.8% 104.1% 96.3% 95.5%
+4.6%
+3.8%
+(2.3%)
+(8.1%)
+(2.3%)
+(6.9%)
+77.6%
+1.4%
+82.8%
+4.6%
+78.1%
+(0.2%)
+70.2%
+(0.2%)
+2.6%
+2.4%
+80.2%
+85.2%
+92.6%
+(6.2%)
+88.5%
+10.4%
+96.9%
+(7.2%)
+72.5%
+82.6%
+92.9%
+93.5%
+2.3%
+2.4%
+92.1%
+(4.2%)
+93.8%
+(1.7%)
+7.7%
+92.7%
+0.1%
+5.0%
+Source: Wells Fargo Securities, LLC and Company data
+96.4%
+1.0%
+81.3%
+3.2%
+4.6%
+88.4%
+84.0%
+0.5%
+(5.1%)
+99.6%
+2.7%
+(2.9%)
+73.6%
+74.9%
+1.1%
+(7.7%)
+97.3%
+2.3%
+85.7%
+89.2%
+Wells Fargo Securities, LLC | 7
+Insurance
+Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Investment Income And Other
+Investment Income Above Our Estimate, But Forward Outlook Lowered
+·
+Net investment income was $611 million pre-tax, above our $606 million estimate. Travelers' pre-tax
+book yield on its fixed income portfolio was 3.1%, just below the 3.2% yield for Q4 2019. Fixed
+income investments added $511 million pre-tax, higher than our $503 million estimate.
+· Income from other investments was $88 million pre-tax, missing our $90 million estimate. Short-term
+investments added $22 million, below our $23 million estimate.
+. On an after-tax basis, net investment income from fixed income and short-term investments was
+down $5 million from last Q1, and in-line with its outlook for investment income to be down $5 million
+to $10 million per quarter.
+. Given the low interest rate environment TRV lowered its outlook for investment income and is now
+looking for income from fixed maturities to be down $20 million after-tax per quarter (as compared to
+the prior guidance for a decline of $5-10 million). In the Q2, private equity income will be negative
+(with TRV pointing to a 15-30% decline in PE indices in the Q1 and that portfolio is recorded on a one
+quarter lag).
+Capital Management - Above Our Estimate, But Will Be Muted From Here
+. TRV returned $635 million (including $425 million of share repurchase), compared to the $676 million
+of core earnings. The level of repurchases was higher than our $375 million estimate, however, the
+company did point to slowing repurchases from here reflective of market uncertainty stemming from
+Covid-19.
+·
+As a result of its more conservative posture on forward buybacks we have removed our buyback
+assumption for the Q2 and our Q3 estimate of $200 million is well below last Q3 ($375 million) and
+the trailing four quarter quarterly run rate ($388 million). Our 2020 capital return estimates have the
+company returning approximately 80% of its core earnings while our 2021 and 2022 estimates are
+closer to 95%.
+Premium Growth Below Us And Slowed Sequentially Due To Slowdown In Business Insurance
+·
+Net premiums rose 4,1% versus our 4,7% estimate and slowed from 5.7% in Q4. The shortfall in
+premiums was due to lower Business Insurance volume, which more than offset stronger premium
+within both Bond and Specialty and Personal Insurance. Gross premiums rose by 4.0%, Given the
+timing of the Covid-19, TRV did not observe a significant impact of the pandemic on its production
+statistics this quarter.
+·
+Business Insurance net premiums rose 0.6% versus our 4.3% estimate and 4.8% in the Q4. The
+slowdown in Business Insurance premiums was due to: (1) lower new business, which was down 6%
+due to lower workers' compensation pricing, (2) an 8% drop in international business, due to efforts
+by TRV to improve the porfitabli8ty of its book at Lloyd's. Gross premiums grew by a higher 1.4%,
+and (3) lower audit premium.
+·
+Bond and Specialty net premiums were up 12.9% versus our 2.5% estimate and 8.7% in the Q4 due
+to strong growth in all of their businesses.
+. Personal Insurance net premiums rose by 8.1% versus our 6.0% estimate and 6.3% in the Q4.
+Growth was strong domestically, which more than offset a 5% decline internationally as TRV works on
+improving the proifitabli8ty of its Canadian book. Within personal insurance, TRV saw growth of 2.9%
+in auto (above +2.2% in Q4) and 18.3% in home (versus +13.3% in Q4).
+8 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Highlights From Our Loss Trend Analysis
+Looking at TRV loss picks versus others. Exhibit 9 highlights the statutory general liability (Other
+Liability - Claims Made) initial loss ratios and the total level of development for AIG, CB, HIG, TRV, and the
+P&C industry for the 2019 accident year and how other prior years have developed (this data was just
+available last month following the filing of company's annual statutory results). Exhibit 10 provides the
+same data for Other Liability - Claims Made and Exhibit 11 for Commercial Auto.
+Exhibit 9. Other Liability Claims Made - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+AY Loss
+CB
+HIG
+AY Loss
+TRV
+AY Loss
+Ratio
+Peer Average
+AY Loss
+Dev.
+Dev.
+Accident Year
+Ratio
+Ratio
+2010
+77.22
+(12.11)
+70.36
+(8.72)
+2011
+76.96
+0.70
+72.19
+(7.31)
+2012
+76.51
+6.66
+71.82
+(1.70)
+2013
+73.32
+(6.65)
+69.51
+(14.69)
+2014
+67.47
+3.94
+64.48
+(7.52)
+2015
+64.85
+5.70
+62.16
+2.98
+2016
+70.19
+18.72
+61.62
+4.36
+2017
+73.47
+4.03
+58.48
+1.16
+2018
+67.06
+4.34
+63.31
+(0.95)
+61.03
+2019
+65.61
+Average
+71.27
+2.81
+65.50
+(3.60)
+Source: SNL and Wells Fargo Securities, LLC
+Ratio
+62.38
+73.85
+64.91
+57.41
+50.13
+47.26
+45.14
+43.68
+48.56
+54.04
+Dev.
+3.32
+0.77
+(12.33)
+62.73
+(12.46)
+56.69
+(4.30)
+55.94
+6.16
+54.27
+1.11
+7.17
+47.06
+4.88
+-
+(0.63)
+66.02
+67.39
+53.69
+55.30
+53.05
+54.65
+57.97
+62.19
+Dev.
+6.84
+(7.97)
+72.60
+4.51
+7.34
+(8.09)
+(12.34)
+57.14
+0.65
+57.66
+(0.60)
+2.23
+-
+(0.83)
+AY Loss
+68.99
+68.99
+64.23
+59.50
+57.73
+57.62
+57.46
+Dev.
+Ratio
+(2.66)
+70.38
+(3.45)
+71.09
+(0.71)
+69.50
+(6.62)
+(3.99)
+0.62
+62.65
+6.21
+62.53
+2.94
+2.62
+(0.56)
+SNL DISCLAIMER: SNL FINANCIAL LC. CONTAINS COPYRIGHTED AND TRADE SECRET MATERIAL DISTRIBUTED UNDER
+LICENSE FROM SNL, FOR RECIPIENT'S INTERNAL USE ONLY.
+Exhibit 10. Other Liability Claims Occurrence - Summary Of Loss Ratios and Total Development
+Relative To Initial Loss Picks
+AIG
+CB
+HIG
+TRV
+AY Loss
+Ratio
+Peer Average
+AY Loss
+Accident Year
+Ratio
+2010
+2011
+82.28
+2012
+78.73
+2013
+72.73
+2014
+73.36
+2015
+75.90
+2016
+2017
+2018
+2019
+Average
+80.37
+82.10
+81.70
+79.42
+82.77
+78.94
+12.36
+Dev.
+7.97
+13.31
+8.52
+12.96
+13.73
+27.41
+15.27
+12.32
+(0.28)
+AY Loss
+Ratio
+74.71
+76.44
+71.06
+72.46
+69.67
+71.15
+1.95
+0.35
+74.06
+75.54
+73.99
+73.01
+Dev.
+(10.46)
+(14.75)
+(5.96)
+(2.07)
+71.03
+0.63
+3.26
+(0.05)
+(3.01)
+Source: SNL and Wells Fargo Securities, LLC
+AY Loss
+Ratio
+54.41
+52.83
+52.33
+50.23
+51.27
+51.72
+52.30
+50.67
+51.73
+54.36
+52.19
+7.07
+Dev.
+8.67
+11.27
+7.77
+15.15
+54.75
+4.63
+53.98
+8.97
+52.89
+5.81
+54.62
+0.66
+0.71
+60.58
+59.09
+57.20
+54.90
+56.86
+Dev.
+(14.17)
+(10.04)
+(6.93)
+(1.87)
+0.89
+62.41
+3.59
+5.23
+2.89
+58.11
+2.38
+62.50
+(2.00)
+AY Loss
+Ratio
+67.52
+67.66
+64.83
+62.54
+62.55
+66.20
+68.41
+65.25
+Dev.
+(2.00)
+(0.05)
+0.85
+64.76
+6.04
+4.97
+10.81
+65.04
+7.07
+65.33
+4.05
+0.69
+3.60
+Exhibit 11. Commercial Auto - Summary Of Loss Ratios and Total Development Relative To
+Initial Loss Picks
+AIG
+CB
+HIG
+TRV
+Peer Average
+AY Loss
+Ratio
+Accident Year
+2010
+2011
+68.18
+2012
+71.46
+2013
+65.87
+2014
+76.83
+2015
+2016
+2017
+2018
+2019
+Average
+65.10
+76.62
+92.34
+110.46
+18.18
+92.87
+94.80
+81.45
+20.22
+Dev.
+16.42
+12.67
+21.21
+28.75
+31.62
+64.73
+25.62
+64.48
+18.13
+9.39
+AY Loss
+Ratio
+69.48
+67.28
+65.08
+61.21
+68.76
+67.16
+70.42
+66.69
+0.32
+Dev.
+(18.13)
+0.40
+(0.70)
+0.19
+1.28
+2.19
+68.34
+4.68
+7.69
+5.26
+Source: SNL and Wells Fargo Securities, LLC
+AY Loss
+Ratio
+56.72
+57.21
+66.45
+59.93
+64.24
+11.26
+Dev.
+10.58
+21.72
+18.18
+64.75
+7.43
+62.21
+8.72
+14.31
+73.28
+5.49
+70.11
+4.33
+63.63
+10.55
+68.12
+AY Loss
+Ratio
+59.06
+65.50
+65.01
+65.29
+61.85
+61.34
+62.89
+69.90
+70.46
+64.65
+6.08
+Dev.
+7.05
+62.59
+7.51
+64.54
+4.55
+67.00
+3.66
+64.28
+3.56
+66.40
+9.05
+10.41
+65.20
+7.48
+1.42
+AY Loss
+Ratio
+65.59
+74.21
+78.63
+69.26
+9.47
+Dev.
+3.98
+10.57
+10.81
+66.14
+6.60
+8.35
+10.01
+11.30
+65.25
+9.69
+12.79
+66.18
+9.96
+9.68
+69.39
+9.42
+73.39
+6.65
+75.95
+Industry
+AY Loss
+Ratio
+65.95
+63.65
+64.76
+62.97
+62.28
+65.57
+(0.62)
+Dev.
+(6.00)
+(1.70)
+0.90
+(5.95)
+(2.06)
+(1.05)
+5.48
+1.46
+3.33
+-
+Industry
+AY Loss
+Ratio
+Dev.
+(3.81)
+(0.12)
+(0.13)
+1.56
+2.72
+3.05
+3.83
+1.11
+68.34
+67.00
+62.33
+61.71
+61.68
+5.28
+63.75
+63.25
+64.56
+66.56
+64.40
+1.50
+Industry
+AY Loss
+Ratio
+64.70
+2.75
+65.56
+7.03
+65.65
+70.76
+69.82
+70.93
+67.44
+Dev.
+8.78
+5.62
+3.30
+-
+6.90
+Wells Fargo Securities, LLC | 9
+6.00
+8.00
+10.00
+04/21/2010 1
+10 | Wells Fargo Securities, LLC
+11/08/2010 +
+05/31/2011 -
+Source: FactSet and Wells Fargo Securities, LLC
+12/16/2011 1
+10-Year Low - 7.8x
+5-Year Low - 7.8x
+12.00
+14.00 +
+16.00
+0.50
+0.60
+0.80
+0.90
+0.70
+1.00
+1.10
+1.20
+1.30
+1.40
+1.50
+1.60
+1.70
+1.80
+Insurance
+Valuation
+10/1/07
+2/25/08 -
+7/17/08 +
+12/8/08 +
+5/4/09 +
+9/18/09
+Source: FactSet and Wells Fargo Securities, LLC
+2/5/10 +
+6/25/10
+11/12/10
+4/1/11 +
+Exhibit 13. TRV Historical Price-To-Earnings Multiples
+Price to Earnings
+07/10/2012 +
+01/31/2013 +
+08/21/2013 1
+03/13/2014 T
+- - 10-Year Average
+10/01/2014 T
+04/23/2015 T
+11/10/2015 +
+06/02/2016 +
+12/20/2016 +
+- - - 10-Year Standard Deviation
+07/13/2017 1
+02/01/2018 -
+10-Year Avg - 11.1x
+5-Year Avg -12.1x
+08/22/2018 +
+03/15/2019 1
+10/03/2019 1
+Exhibit 12. TRV Historical Price-To-Book Multiples
+estimate versus the 10-year average of 11.1x and 10-year peak of 14.7x.
+8/19/11
+1/5/12 +
+P/BV
+5/24/12
+10/11/12
+2/28/13
+7/18/13 1
+5 Year Low - 0.82x
+10 Year Low - 0.77x
+12/5/13
+3/25/14
+7/3/14
+10/11/14
+1/19/15 1
+Current Valuation. The TRV shares are now trading at 1.03x book value, below its 5-year (1.41x)
+average and its 10-year (1.28x) average multiple. The shares are trading below peak levels of 1.76x. On a
+price-to-earnings basis, the shares are trading at 11.2x our 2020 EPS estimate and 10.2x our 2021 EPS
+4/29/15 1
+8/7/15 1
+- 10-Year Average - - - 10-Year Standard Deviation
+11/15/15
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+2/23/16 +
+5-Year & 10-Year Peak - 14.7x
+6/2/16 +
+9/10/16 +
+12/19/16
+3/29/17
+5-Year & 10-Year Peak - 1.76x
+7/7/17 1
+10/15/17
+1/23/18 +
+5/3/18 +
+8/11/18 +
+5-Year Avg - 1.41x
+10-Year Avg - 1.28x
+11/19/18
+2/27/19
+6/7/19 1
+9/15/19
+Current-1.03x
+Current - 10.2x
+12/24/19 1
+4/2/20 +
+Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Consolidated Earnings Model
+Exhibit 14. Travelers Earnings Model - Consolidated
+($ in millions, except per share)
+Consolidated Income Statement
+Gross premiums written
+% growth (yr/yr)
+% retained
+Net premiums written
+% growth (yr/yr)
+Increase in unearned premiums
+Net premiums earned
+% growth (yr/yr)
+Net investment income
+% growth (yr/yr)
+Fee income
+% growth (yr/yr)
+Other income
+% growth (yr/yr)
+Total revenue
+% growth (yr/yr)
+Losses and loss adjustment expenses
+% growth (yr/yr)
+Amortization of deferred acquisition costs
+% growth (yr/yr)
+General and administrative expenses
+% growth (yr/yr)
+Interest expense
+% growth (yr/yr)
+Total expenses
+% growth (yr/yr)
+Underwriting Income
+add back: general and expense in Other
+Net Underwriting Income
+Pretax operating income
+% growth (yr/yr)
+Income tax expense/(benefit)
+After-tax core income
+% growth (yr/yr)
+Realized gains/(losses) on investments andother, after-tax
+Net income
+% growth (yr/yr)
+Company income tax rate (%)
+Weighted average number of diluted shares
+% growth (yr/yr)
+2018
+29,252.0
+5.8%
+94.7%
+27,690.0
+5.6%
+(631.0)
+27,059.0
+5.4%
+2,474.0
+3.2%
+432.0
+(3.4%)
+203.0
+27.7%
+30,168,0
+5.2%
+18,291.0
+4.7%
+4,381.0
+5.2%
+4,297.0
+3.0%
+352.0
+(4.6%)
+27,321.0
+4.4%
+522.0
+154.0
+676.0
+2,847.0
+13.2%
+417,0
+2,430,0
+18.9%
+93.0
+2,523.0
+22.7%
+14.6%
+269.8
+(3.2%)
+Participating share-based awards - allocated income
+19.0
+2019
+31,063.0
+6.2%
+93.8%
+29,151.0
+5.3%
+(879.0)
+28,272.0
+4.5%
+2,468.0
+(0.2%)
+459.0
+6.3%
+269.0
+32.5%
+31,468,0
+4.3%
+19,133.0
+4.6%
+4,601.0
+5.0%
+4,365.0
+1.6%
+344.0
+(2.3%)
+28,443.0
+4.1%
+632.0
+196.0
+828.0
+3,025.0
+6.3%
+488,0
+2,537,0
+4.4%
+85.0
+2,622.0
+3.9%
+16.1%
+262.3
+(2.8%)
+Q1
+8,152.0
+4.0%
+90.1%
+7,346.0
+4.1%
+(117.0)
+7,229.0
+5.5
+611.0
+5.0%
+108.0
+(0.9%)
+58.0
+(19.4%)
+8,006,0
+5.1%
+4,789.0
+7.8%
+1,178.0
+5.5%
+1,137.0
+7.6
+84.0
+(4.5%)
+7,188.0
+7.2%
+233.0
+54.0
+287.0
+818.0
+(10.5%)
+142,0
+676,0
+(10.5%)
+(76.0)
+600.0
+(24.6%)
+17.4%
+255.9
+(3.4%)
+19.0
+5.0
+Q2E
+7,782.1
+(0.5%)
+94.7%
+7,371.6
+(1.1%)
+(364.9)
+7,006.7
+0.3%
+535.3
+(17.4%)
+116.0
+0.0%
+65.0
+14.0%
+7,723,0
+(1.1%)
+4.935.5
+2.4%
+1,152.4
+1.6%
+1,160.0
+3.1%
+84.0
+(5.6%)
+7,331.9
+2.3%
+(125.2)
+46.0
+(79.2)
+391.1
+(38.9%)
+64,5
+326,5
+(39.2%)
+0.0
+326.5
+(41.4%)
+16.5%
+255.9
+(3.0%)
+Q3E
+8,218.8
+2.5%
+93.1%
+7,650.6
+1.1%
+(363.7)
+7,286.9
+1.5%
+600.2
+(3.5%)
+121.0
+0.0%
+67.0
+(1.5%)
+8,075,1
+1.1%
+5,077.8
+(2.9%)
+1,182.1
+1.1%
+1,135.0
+3.4%
+84.0
+0.0%
+7,478.9
+(1.3%)
+13.0
+43.0
+56.0
+596.2
+45.8%
+98.4
+497.8
+31.7%
+0.0
+497.8
+25.7%
+16.5%
+254.0
+(3.0%)
+4.0
+4.0
+Q4E
+7,721.1
+4.7%
+93.8%
+7,245.9
+2.4%
+65.5
+7,311.4
+0.8%
+601.7
+(2.3%)
+113.0
+0.0%
+67.0
+(6.9%)
+8,093.1
+0.5%
+4.700.8
+1.3%
+1,187.9
+0.6%
+1,130.0
+4.1%
+84.0
+1.2%
+7,102.7
+1.6%
+405.7
+43.0
+448.7
+990.4
+(6.7%)
+163.4
+827,0
+(4.6%)
+0.0
+827.0
+(5.3%)
+16.5%
+250.2
+(3.4%)
+2020E
+31,874.0
+2.69
+92.9%
+29,614.1
+1.6%
+[780.1)
+28,834.0
+2.09
+2,348.3
+(4.9%)
+458.0
+(0.2%)
+257.0
+(4.5%)
+31,897,2
+1.49
+19,503.1
+1.9%
+4,700.5
+2.29
+4,562.0
+.5%
+336.0
+(2.3%)
+29,101.5
+2.39
+526.4
+186.0
+712.4
+2,795.7
+(7.6%)
+468,3
+2,327.4
+(8.3%)
+(76.0)
+2,251.4
+(14.1%)
+16.8%
+254.0
+(3.2%)
+4.0
+17.0
+Q1E
+8,508.4
+4.4%
+90.6%
+7,711.3
+5.0%
+(233.3)
+7,478.1
+3.4%
+604.5
+(1.1%)
+108.0
+0.0%
+68.0
+17.2%
+8,258,5
+3.29%
+4,964.4
+3.7%
+1,212.7
+2.9%
+1,165.5
+2.5%
+85.0
+1.2%
+7,427.6
+3.3%
+243.4
+43.5
+286.9
+830.9
+1.6%
+137.1
+693,8
+2.6%
+0.0
+693.8
+15.6%
+16.5%
+246.6
+(3.6%)
+Q2E
+8,138.4
+4.6%
+96.5%
+7,852.6
+6.5%
+(403.3)
+7,449.2
+6.3%
+606.5
+13.3%
+116.0
+0.0%
+68.0
+4,6%
+8,239,7
+6.7%
+5,301.6
+7.4%
+1,208.4
+4.9%
+1,187.5
+2.4%
+85.0
+1.2%
+7,782.5
+6.1%
+(132.3)
+46.5
+(85.8)
+457.2
+16.9%
+75.4
+381,8
+16.9%
+0.0
+381.8
+16.9%
+16.5%
+243.0
+(5.0%)
+4.0
+4.0
+Q3E
+8,600.9
+4.6%
+93.3%
+8,023.0
+4.9%
+(400.4
+7,622.5
+4.6%
+608.4
+1.4%
+121.0
+0.0%
+70.0
+4.5%
+8,421,9
+4.3%
+5,299.2
+4.4%
+1,236.2
+4.6%
+1,162.5
+2.4%
+85.0
+1.2%
+7,782.9
+4.1%
+45.6
+43.5
+89.1
+639.0
+7.2%
+105.4
+533,6
+7.2%
+0.0
+533.6
+7.2%
+16.5%
+239.5
+(5.7%)
+Q4E
+8,074.9
+4.6%
+94.1%
+7,600.0
+4.99
+97.9
+7,698.0
+5.3%
+609.4
+1.3%
+113.0
+0.09
+70.0
+4.5%
+8,490,4
+4.9%
+5,016.4
+6.7%
+1,251.3
+5.39
+1,157.5
+2.49
+85.0
+1.29
+7,510.2
+5.79
+385.
+43.5
+429.2
+980.2
+(1.0%)
+161,7
+818,4
+(1.0%)
+0.0
+818.4
+(1.0%)
+16.5%
+235.9
+(5.7%)
+4.0
+4.0
+2021E
+33,322.6
+4.5%
+93.6%
+31,186.9
+5.3%
+(939.1)
+30,247.8
+4.9%
+2,428.8
+3.4%
+458.0
+0.0%
+276.0
+7.4%
+33,410,5
+4.7%
+20,581.6
+5.5%
+4,908.7
+4.4%
+4,673.0
+2.4%
+340.0
+1.2%
+30,503.2
+4.8%
+542.5
+177.0
+719.5
+2,907.3
+4.0%
+479,7
+2,427,6
+4.3%
+0.0
+2,427.6
+7.8%
+16.5%
+241.3
+(5.0%)
+Q1E
+8,875.3
+4.3%
+91.2%
+8,098.6
+5.0%
+(243.7)
+7,854.9
+5.0%
+612.4
+1.3%
+108.0
+0.0%
+70.0
+2.9%
+8,645,3
+4.7%
+5,238.0
+5.5%
+1,273.9
+5.0%
+1,197.5
+2.7%
+86.0
+1.2%
+7,795.4
+5.0%
+253.6
+43.5
+297.1
+849.9
+2.3%
+140.2
+709,7
+2.3%
+0.0
+709.7
+2.3%
+16.5%
+232.3
+(5.8%)
+16.0
+4.0
+Q2E
+8,505.9
+4.5%
+96.8%
+8,234.0
+4.9%
+(395.3)
+7,838.6
+5.2%
+614.3
+1.3%
+116.0
+0.0%
+70.0
+2.9%
+8,638,9
+4.8%
+5,607.3
+5.8%
+1,271.5
+5.2%
+1,224.5
+3.1%
+86.0
+1.2%
+8,189.3
+5.2%
+(148.7)
+46.5
+(102.2)
+449.6
+(1.7%)
+74,2
+375,5
+(1.7%)
+0.0
+375.5
+(1.7%)
+16.5%
+228.8
+(5.9%)
+Q3E
+8,995.5
+4.6%
+93.6%
+8,417.4
+4.9%
+(397.4)
+8,019.9
+5.2%
+616.3
+1.3%
+121.0
+0.0%
+72.0
+2,9%
+8,829,2
+4.89
+5,580.4
+5.3%
+1,300.5
+5.2%
+1,199.5
+3.2%
+86.0
+1.2°
+8,166.4
+4.9%
+60.5
+43.5
+104.0
+662.8
+3.7%
+109,4
+553.4
+3.7%
+0.0
+553.4
+3.7%
+16.5%
+225.2
+(6.0%)
+4.0
+4.0
+Q4E
+8,439.4
+4.5%
+94.5%
+7,975.2
+4.9%
+102.1
+8,077.3
+4.9%
+618.3
+1.59
+113.0
+0.0%
+72.0
+2.9%
+8,880,6
+4.6%
+5,298.0
+5.6%
+1,312.8
+4.9%
+1,219.5
+5.4%
+86.0
+1.2%
+7,916.3
+5.4%
+360.
+43.5
+403.5
+964.3
+(1.6%)
+159,1
+805,2
+(1.6%)
+0.0
+805.2
+(1.6%)
+16.5%
+221.6
+(6.1%)
+2022E
+34,816.0
+4.5%
+94.0%
+32,725.1
+4.9%
+(934.3)
+31,790.8
+5.1%
+2,461.3
+1.3%
+458.0
+0.0%
+284.0
+2.9%
+34,994,1
+4.7%
+21,723.8
+5.5%
+5,158.6
+5.1%
+4,841.0
+3.6%
+344.0
+1.2%
+32,067.4
+5.1%
+525.4
+177.0
+702.4
+2,926.7
+0.7%
+482,9
+2,443,8
+0.7%
+0.0
+2,443.8
+0.7%
+16.5%
+227.0
+(5.9%)
+4.0
+16.0
+Per share:
+After-tax core income
+% growth (yr/yr)
+Net income
+% growth (yr/yr)
+GAAP ratios:
+less: Fee income - Underwriting expenses
+less: Billing and policy fees
+less: Fee income - Loss and loss adjustment ex penses
+Combined Ratio:
+Loss and loss adjustment expense ratio
+Underwriting expense ratio
+Combined ratio
+Shareholders' equity
+Book value per share
+Common shares outstanding
+Operating ROAE
+$8,94
+22.8%
+$9.27
+27.0%
+2018
+278.0
+93.
+154.0
+66.8%
+30.1%
+96.9%
+$22,894.0
+$86.84
+263.6
+10.3%
+$9.60
+7.4%
+$9.91
+6.9%
+2019
+285.0
+108.0
+174.0
+66.9%
+29.6%
+96.5%
+$25,943.0
+$101.55
+255.5
+10.2%
+$2.62
+(7.4%)
+$2.33
+(22.2%)
+Q1
+67.0
+28.0
+41.0
+65.5%
+30.0%
+95.5%
+$25,204.0
+$99.69
+252.8
+10.4%
+$1.26
+(37.6%)
+Q2E
+68.9
+28.
+41.4
+69.8%
+31.0%
+100.8%
+$25,315.6
+$100.13
+252.8
+5.0%
+$1.94
+35.7%
+Q3E
+72.8
+30.3
+42.6
+69.1%
+29.8%
+98.9%
+$25,398.6
+$101.22
+250.9
+7.7%
+$3.29
+(0.9%)
+Q4E
+70.6
+30.
+42.5
+63.7%
+29.7%
+93.4%
+$25,612.3
+$103.65
+247.
+12.8%
+Source: Company data and Wells Fargo Securities, LLC estimates
+$9,10
+(5.2%)
+2020E
+279.4
+117.5
+167.4
+67.1%
+30.1%
+97.2%
+$25,612.3
+$103.65
+247.1
+8.99
+$2,80
+6.7%
+Q1E
+74.1
+33.6
+44.1
+65.8%
+29.8%
+95.6%
+$25,721.1
+$105.61
+243.5
+10.7%
+$1.55
+23.3%
+Q2E
+72.4
+33.8
+43.6
+70.6%
+30.1%
+100.7%
+$25,515.9
+$106.33
+240.0
+5.9%
+$2.21
+13.7%
+Q3E
+76.1
+34.3
+44.7
+68.9%
+29.4%
+98.4%
+$25,465.8
+$107.73
+236.
+8.3%
+$3.45
+5.09
+Q4E
+74.1
+34.7
+44.7
+64.6%
+29.3%
+93.9%
+$25,703.5
+$110.40
+232.8
+12.7%
+$10.00
+9.9%
+2021E
+296.7
+136.4
+177.1
+67.5%
+29.7%
+97.1%
+$25,703.5
+$110.40
+232.8
+9.3%
+$3.04
+8.6%
+Q1E
+77.6
+35.2
+46.3
+66.1%
+29.5%
+95.6%
+$25,835.7
+$112.70
+229.3
+10.9%
+$1.62
+4.5%
+Q2E
+76.1
+35.5
+46.0
+70.9%
+29.8%
+100.8%
+$25,627.5
+$113.56
+225.
+5.7%
+$2.44
+10.3%
+Q3E
+80.0
+36.1
+47.2
+69.0%
+29.2%
+98.2%
+$25,600.6
+$115.26
+222.1
+8.5%
+$3,62
+4.7%
+Q4E
+77.6
+36.4
+47.0
+65.0%
+29.4%
+94.4%
+$25,828.6
+$118.19
+218.5
+12.4%
+Wells Fargo Securities, LLC | 11
+$10.70
+7.0%
+2022E
+311.3
+143.2
+186.5
+67.7%
+29.5%
+97.2%
+$25,828.6
+$118.19
+218.5
+9.4%
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Insurance
+Equity Research
+Price Target
+Price Target: $105 from $110
+Our price target of $105 is based on around a 0.95x multiple of our projected 2021 book value estimate of
+around $110 and 10.5x our 2021 EPS estimate of $10.00. Risks to achieving our price target include large
+catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs, and
+a rise in D&O claims.
+Investment Thesis
+TRV has seen its loss picks within Business Insurance move higher primarily related to social inflation. We
+think the shares could underperform peers moving forward if it does not hit its 2020 margin target and/or
+if its reserve releases continue to slow down. In addition, TRV is less exposed to price increases due to its
+higher workers' comp exposure and also lacks the exposure to large accounts which have seen the
+strongest price increases. We rate the TRV shares Underweight.
+Company Description
+The Travelers Companies, Inc. (TRV) is the second largest writer of commercial lines in the United States
+and also the second-largest writer of personal insurance through independent agents. The company is
+organized into three business segments: Business Insurance (54% of 2019 net premiums written);
+Personal Insurance (37%); and Bond & Specialty Insurance (9%), which sell a wide range of insurance
+and surety products, as well as risk management services. Products are distributed primarily through
+independent agents and brokers in all 50 states and in select international markets.
+12 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Required Disclosures
+The Travelers Companies, Inc. (TRV) 3-yr. Price Performance
+$178.00.
+$172.75
+$167.50
+$162.25
+$157.00
+$151.75
+$148.50
+$141.25
+$138.00
+$130.75
+$125.50
+$120.25
+$115.00
+$109.75-
+$104.50
+Security Price
+$99.25
+$94.00
+$88.75
+$83.50
+$78.25
+$73.00
+4/29/2017
+5/27/2017-
+6/24/2017
+7/22/2017
+8/19/2017-
+9/16/2017-
+10/14/2017
+11/11/2017-
+12/9/2017
+1/6/2018
+2/3/2018
+3/3/2018
+3/31/2018-
+4/28/2018-
+5/26/2018-
+6/23/2018-
+7/21/2018
+8/18/2018-
+9/15/2018-
+10/13/2018-
+11/10/2018-
+12/8/2018-
+1/5/2019
+2/2/2019
+3/2/2019-
+3/30/2019-
+4/27/2019
+5/25/2019-
+6/22/2019-
+7/20/2019-
+8/17/2019-
+9/14/2019-
+10/12/2019-
+11/9/2019-
+12/7/2019
+1/4/2020-
+2/1/2020
+3/28/2020-
+2/29/2020-
+Date
+Published Price ($) Rating Code* Price Target Val. Rng. Low Val. Rng. High Close Price ($)
+Date
+4/17/2017
+Greenspan
+4/17/2017
+NA
+7/9/2017
+127.17
+7/25/2017
+127.46
+1/8/2018
+131.45
+1/23/2018
+146.26
+10/18/2018
+124.80
+1/8/2019
+118.30
+4/18/2019
+138.93
+10/22/2019
+130.15
+1/6/2020
+137.02
+1/23/2020
+4/1/2020
+99.35
+134.31
+2
+NE
+108.00
+112.00
+121.92
+2
+119
+2
+125
+2
+133
+2
+142
+2
+136
+2
+130
+2
+140
+2
+136
+3
+136
+3
+130
+3
+110
+NE
+NE
+127.17
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+NE
+127.46
+NE
+131.45
+NE
+146.26
+NE
+125.14
+NE
+117.84
+NE
+138.93
+NE
+130.15
+NE
+137.17
+NE
+134.19
+NE
+"Effective December 7, 2019. Wells Fargo Securities' Equity Research modified its ratings definitions.
+Complete definitions of current ratings can be found below. For information related to prior ratings definitions,
+please contact equityresearch1@wellsfargo.com.
+Source: Wells Fargo Securities, LLC estimates and Reuters data
+Symbol Key
+Rating Downgrade
+Rating Upgrade
+. Price Target/Val Range Change
+Rating Code Key
+Initiation, Resumption, Drop or Suspend 1 Overweight/Buy
+Analyst Change
+Split Adjustment
+95.20
+SR Suspended
+2 Equal Weight/Hold NR Not Rated
+3 Underweight/Sell NE No Estimate
+Additional Information Available Upon Request
+I certify that:
+1) All views expressed in this research report accurately reflect my personal views about any and all of the subject securities or
+issuers discussed; and
+2) No part of my compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed
+by me in this research report.
+. Wells Fargo Securities, LLC and/or its affiliates, have beneficial ownership of 0.5% or more of any class of the common stock of
+The Travelers Companies, Inc ..
+· Wells Fargo Securities, LLC, or any of its affiliates, intends to seek or expects to receive compensation for investment banking
+services from The Travelers Companies, Inc. in the next three months.
+Wells Fargo Securities, LLC | 13
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Insurance
+Equity Research
+. Wells Fargo Securities, LLC or its affiliates intends to seek or expects to receive compensation for investment banking services in
+the next three months from an affiliate of The Travelers Companies, Inc.
+. Wells Fargo Securities, LLC maintains a market in the common stock of The Travelers Companies, Inc ..
+· Wells Fargo Securities, LLC received compensation for products or services other than investment banking services from The
+Travelers Companies, Inc. in the past 12 months.
+. The Travelers Companies, Inc. currently is, or during the 12-month period preceding the date of distribution of the research
+report was, a client of Wells Fargo Securities, LLC. Wells Fargo Securities, LLC provided non-investment banking securities-
+related services to The Travelers Companies, Inc ..
+. Wells Fargo Securities, LLC or its affiliates has a significant financial interest in The Travelers Companies, Inc ..
+TRV: Risks to achieving our price target include large catastrophe losses, adverse reserve development, increased competition, a
+deterioration in loss costs, and a rise in D&O claims.
+Wells Fargo Securities, LLC does not compensate its research analysts based on specific investment banking transactions.
+Wells Fargo Securities, LLC's research analysts receive compensation that is based upon and impacted by the overall profitability
+and revenue of the firm, which includes, but is not limited to investment banking revenue.
+STOCK RATING
+1=Overweight: Total return on stock expected to be 10%+ over the next 12 months. BUY
+2=Equal Weight: Total return on stock expected to be 0-10% over the next 12 months. HOLD
+3=Underweight: Total return on stock expected to lag the Overweight- and Equal Weight-rated stocks within the analyst's
+coverage universe over the next 12 months. SELL
+VOLATILITY RATING
+V = A stock is defined as volatile if the stock price has fluctuated by +/-20% or greater in at least 8 of the past 24 months or if the
+analyst expects significant volatility. All IPO stocks are automatically rated volatile within the first 24 months of trading.
+As of: April 21, 2020
+52% of companies covered by Wells Fargo Securities, LLC Equity
+Research are rated Overweight.
+37% of companies covered by Wells Fargo Securities, LLC Equity
+Research are rated Equal Weight.
+11% of companies covered by Wells Fargo Securities, LLC Equity
+Research are rated Underweight.
+Wells Fargo Securities, LLC has provided investment banking
+services for 43% of its Equity Research Overweight-rated
+companies.
+Wells Fargo Securities, LLC has provided investment banking
+services for 33% of its Equity Research Equal Weight-rated
+companies.
+Wells Fargo Securities, LLC has provided investment banking
+services for 29% of its Equity Research Underweight-rated
+companies.
+Important Disclosure for U.S. Clients
+This report was prepared by Wells Fargo Securities Global Research Department ("WFS Research") personnel associated with
+Wells Fargo Securities and Structured Asset Investors, LLC ("SAI"), an investment adviser subsidiary of Wells Fargo & Co. If you are
+paying directly for this research, it is being provided by SAI. For all other recipients in the U.S. this report is being provided by
+Wells Fargo Securities.
+Important Disclosure for International Clients
+EEA - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain
+categories of investors. For recipients in the EEA, this report is distributed by Wells Fargo Securities International Limited ("WFSIL").
+WFSIL is a U.K. incorporated investment firm authorized and regulated by the Financial Conduct Authority. For the purposes of
+Section 21 of the UK Financial Services and Markets Act 2000 ("the Act"), the content of this report has been approved by WFSIL,
+an authorized person under the Act. WFSIL does not deal with retail clients as defined in the Directive 2014/65/EU ("MiFID2"). The
+FCA rules made under the Financial Services and Markets Act 2000 for the protection of retail clients will therefore not apply, nor will
+the Financial Services Compensation Scheme be available. This report is not intended for, and should not be relied upon by, retail
+clients.
+Australia - Wells Fargo Securities, LLC, Wells Fargo Securities International Limited and Wells Fargo Securities Asia Limited are
+exempt from the requirements to hold an Australian financial services license in respect of the financial services they provide to
+wholesale clients in Australia.
+Wells Fargo Securities, LLC is regulated under the laws of the United States,
+Wells Fargo Securities International Limited is regulated under laws of the United Kingdom, and Wells Fargo Securities Asia Limited
+is regulated under the laws of Hong Kong. All such laws differ from Australian laws. Any offer or documentation provided to
+Australian recipients
+by
+Wells
+Fargo
+Wells
+Securities International
+or
+Securities, LLC,
+Fargo
+Limited
+Wells Fargo Securities Asia Limited in the course of providing the financial services will be prepared in accordance with the laws of
+the United States, United Kingdom or Hong Kong and not Australian laws.
+Canada - This report is distributed in Canada by Wells Fargo Securities Canada, Ltd., a registered investment dealer in Canada and
+member of the Investment Industry Regulatory Organization of Canada (IIROC) and Canadian Investor Protection Fund (CIPF).
+Wells Fargo Securities, LLC's research analysts may participate in company events such as site visits but are generally prohibited
+from accepting payment or reimbursement by the subject companies for associated expenses unless pre-authorized by members of
+Research Management.
+14 | Wells Fargo Securities, LLC
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Hong Kong - This report is issued and distributed in Hong Kong by Wells Fargo Securities Asia Limited ("WFSAL"), a Hong Kong
+incorporated investment firm licensed and regulated by the Securities and Futures Commission to carry on types 1, 4, 6 and 9
+regulated activities (as defined in the Securities and Futures Ordinance (Cap. 571 The Laws of Hong Kong), "the SFO"). This report
+is not intended for, and should not be relied on by, any person other than professional investors (as defined in the SFO). Any
+securities and related financial instruments described herein are not intended for sale, nor will be sold, to any person other than
+professional investors (as defined in the SFO). The author or authors of this report is or are not licensed by the Securities and
+Futures Commission. Professional investors who receive this report should direct any queries regarding its contents to Kelly Chiang
+and Mandy Wan at WFSAL (email: wfsalresearch@wellsfargo.com).
+Japan - This report is distributed in Japan by Wells Fargo Securities (Japan) Co., Ltd, registered with the Kanto Local Finance
+Bureau to conduct broking and dealing of type 1 and type 2 financial instruments and agency or intermediary service for entry into
+investment advisory or discretionary investment contracts. This report is intended for distribution only to professional investors
+(Tokutei Toushika) and is not intended for, and should not be relied upon by, ordinary customers (Ippan Toushika).
+The ratings stated on the document are not provided by rating agencies registered with the Financial Services Agency of Japan
+(JFSA) but by group companies of JFSA-registered rating agencies. These group companies may include Moody's Investors
+Services Inc., Standard & Poor's Rating Services and/or Fitch Ratings. Any decisions to invest in securities or transactions should be
+made after reviewing policies and methodologies used for assigning credit ratings and assumptions, significance and limitations of
+the credit ratings stated on the respective rating agencies' websites.
+Wells Fargo Securities, LLC | 15
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Insurance
+Equity Research
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its
+subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and
+Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA
+and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A. and
+Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+This report is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments
+named or described in this report. Interested parties are advised to contact the entity with which they deal, or the entity that
+provided this report to them, if they desire further information or they wish to effect transactions in the securities discussed in this
+report. The information in this report has been obtained or derived from sources believed by Wells Fargo Securities Global Research
+Department ("WFS Research"), to be reliable, but WFS Research does not represent that this information is accurate or complete.
+Any opinions or estimates contained in this report represent the judgment of WFS Research, at this time, and are subject to change
+without notice. Certain text, images, graphics, screenshots and audio or video clips included in this report are protected by copyright
+law and owned by third parties (collectively, "Third Party Content"). Third Party Content is made available to clients by Wells Fargo
+under license or otherwise in accordance with applicable law. Any use or publication of Third Party Content included in this report for
+purposes other than fair use requires permission from the copyright owner. Any external website links included in this publication
+are not maintained, controlled or operated by Wells Fargo Securities. Wells Fargo Securities does not provide the products and
+services on these websites and the views expressed on these websites do not necessarily represent those of Wells Fargo Securities.
+Please review the applicable privacy and security policies and terms and conditions for the website you are visiting. All
+Wells Fargo Securities and SAI research reports published by WFS Research are disseminated and available to all clients
+simultaneously through electronic publication to our internal client websites. Additional distribution may be done by sales personnel
+via email, fax or regular mail. Clients may also receive our research via third party vendors. Not all research content is redistributed
+to our clients or available to third-party aggregators, nor is WFS Research responsible for the redistribution of our research by third
+party aggregators. Equity Strategists focus on investment themes across the equity markets and sectors. Any discussion within an
+Equity Strategy report of specific securities is not intended to provide a fundamental analysis of any individual company described
+therein. The information provided in Equity Strategy reports is subject to change without notice, and investors should not expect
+continuing information or additional reports relating to any security described therein. For research or other data available on a
+particular security, please contact your sales representative or go to http://www.wellsfargoresearch.com. For the purposes of the
+U.K. Financial Conduct Authority's rules, this report constitutes impartial investment research. Each of Wells Fargo Securities, LLC
+and Wells Fargo Securities International Limited is a separate legal entity and distinct from affiliated banks. Copyright @ 2020
+Wells Fargo Securities, LLC
+SECURITIES: NOT FDIC-INSURED/NOT BANK-GUARANTEED/MAY LOSE VALUE
+16 | Wells Fargo Securities, LLC

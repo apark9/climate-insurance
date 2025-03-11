@@ -1,0 +1,2463 @@
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Equity Research
+Flash Comment - July 23, 2024
+Commercial Lines Insurance
+The Travelers Companies, Inc. (TRV)
+TRV: Reserves Take Center Stage; Sell-Side Meeting Soundbites
+WELLS
+FARGO
+Our Call
+TRV hosted a sell-side meeting post Q2 EPS. In a word the focus was on reserves post the
+$250m reserve addition in Q2. TRV wanted the message to be that there was a different
+level of confidence as they took action on some very immature years.
+Initial Thoughts
+Reserves: TRV adjusted its GL loss development factors to allow for rising settlement
+costs and lengthening settlement patterns. TRV believes they are ahead of the industry
+given the movement they have seen in loss picks relative to starting points in Other
+Liability Occurrence, which we show inside. While we believe TRV could be ahead of the
+industry we are not convinced that there will not be future additions, and we will need
+quarters of no noise for us to be comfortable in no future charges.
+Not promising there won't be more: While not saying they will not take another GL
+charge, TRV wanted the messaging to be that there is a different level of confidence
+this quarter as they proactively and decisively added IBNR to very immature accident
+years. Travelers said that they looked at what was going on with actual versus expected,
+and they were not willing to bank on this being a one quarter event and instead are now
+applying the claims patterns across all claims they are going to see.
+What got worse in the past three months: When asked what got worse in the past three
+months, they said it was a combination of stuff including an aggressive plaintiff bar, third-
+party litigation, and sympathetic juries and judges. Selective (which also added to GL
+reserves in Q2) said they took up their loss trend assumption in GL from 4% in 2020 to 9%
+in 2024. When asked, TRV said they do not provide loss trend by line, but did say that they
+did not see the same doubling of trend that SIGI saw.
+Did not affect current accident year: Travelers said that the Q2 GL reserve addition
+did not affect the current accident year, as the accident year is the aggregate of all lines,
+which have puts and takes. Further, they had already reflected this, as on their Q1 call
+they said that they had some extra IBNR in the current accident year for the uncertainty
+environment. On the pricing side, TRV said that they are already seeing upward pressure
+on pricing, which they expect to accelerate.
+What else: Home: The 5 points of favorable non-cat weather in home was from fire and
+non-cat weather water. Auto: The 2.5 points of favorability called out in auto was from
+frequency and severity that were better than TRV expected. CrowdStrike: CrowdStrike
+could lead to BI losses and most cyber policies have BI coverage in them. Based on the
+event and its policy forms, TRV said that it is not high up on its worry list. Its hours clauses
+are typically 8-24 (and maybe 48) hours.
+Equity Analyst(s)
+Elyse Greenspan, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Elyse.Greenspan@wellsfargo.com | 212-214-8031
+Hristian Getsov
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Hristian.Getsov@wellsfargo.com | 561-843-4188
+Matthew Byrnes, CFA
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Matthew.Byrnes@wellsfargo.com | 212-214-8903
+Nicholas Annitto
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Nicholas.Annitto@wellsfargo.com | 212-214-5322
+The Travelers Companies, Inc. (TRV)
+Equal Weight
+Price: $208.53/Price Target: $206.00
+Market Cap: $47,531 MM
+Note: Pricing as of 07/23/2024
+Source: Company Data, Wells Fargo Securities estimates, and Factset.
+All estimates/forecasts are as of 7/23/2024 unless otherwise stated. 7/23/2024 16:03:38EDT. Please see page 12 for rating definitions, important disclosures and required analyst certifications.
+Wells Fargo Securities, LLC does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could
+affect the objectivity of the report and investors should consider this report as only a single factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Other Liability Occurrence-Incurred Loss Ratios
+Other liability occurrence loss picks. Below we show the initial versus developed loss picks for the
+Other Liability Occurrence line for TRV and the industry. Travelers highlighted that they have seen
+more development on years relative to the rest of the industry. They characterized themselves
+as outperforming in the mature years (2014-2016), being most responsive in the middle year
+(2017-2019) and being early in the green years (2020-2023). The below data is as of YE 2023, so is
+before the $350m of additions they took on accident years 2021-2023 so far this year. In the back we
+also show the other liability occurrence and paid loss trends for the other commercial insurers under
+our coverage (AIG, CB, HIG, WRB, as well as for the P&C industry),
+Exhibit 1 - Current vs Initial Picks for Other Liability Occurence for TRV and the Industry
+TRV
+Initial Loss Pick
+Current Loss Pick
+Change vs Initial
+P&C Industry
+Initial Loss Pick
+Current Loss Pick
+Change vs Initial
+2014
+54.0%
+52.9%
+(1.0%)
+2015
+52.9%
+61.1%
+8.2%
+2014
+61.7%
+64.5%
+2.9%
+2015
+61.7%
+68.7%
+7.0%
+2016
+54.6%
+61.9%
+7.3%
+2016
+63.7%
+70.8%
+2017
+54.9%
+64.7%
+9.8%
+2018
+58.1%
+71.5%
+13.4%
+2019
+62.5%
+72.8%
+10.3%
+2.9%
+2017
+63.1%
+73.0%
+7.0%
+9.8%
+2018
+64.5%
+72.6%
+8.1%
+2019
+66.5%
+72.6%
+6.1%
+13.4%
+9.8% 9.8%
+8.2%
+7.0%
+7.3% 7.0%
+10.3%
+8.1%
+6.1%
+2020
+60.7%
+63.6%
+2020
+67.4%
+66.4%
+(1.0%)
+2.9%
+2.9%
+(1.0%)
+2014
+2015
+2016
+2017
+2018
+(1.0%)
+2020
+2019
+TRV (Change vs Initial Pick)
+2021
+58.3%
+60.8%
+2.5%
+2.1%
+2022
+57.4%
+59.5%
+2023
+63.4%
+NM
+NM
+2021
+62.8%
+63.4%
+0.6%
+(0.1%)
+2022
+62.8%
+65.5%
+62.7%
+NM
+2023
+NM
+2.5%
+2.1%
+0.6%
+(0.1%)
+2022
+2021
+P&C Industry (Change vs Initial Pick)
+Source: SNL and Wells Fargo Securities, LLC
+Other Liability Occurrence-Paid to Incurred Trends
+TRV's paid-to-incurred trends within other liability occurrence screen better than the industry for
+recent AYs. Although still relatively early, TRV's paid-to-incurred trends for the more recent accident
+years screen favorable vs the industry's for the other liability-occurrence line as 2020 (51.3% vs
+49.5%) is the only year modestly above the industry, while the rest are below as 2021 is at a 33.5% (vs
+37.5%), 2022 is at 17.9% (vs 22.3%) and 2023 is at 3.0% (vs 8.2% for the industry).
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Exhibit 2 - TRV's Paid-to-Incurred Trends in Other Liability Occurrence vs the Rest of P&C Industry
+90.3% 90.6%
+TRV
+P&C Industry
+Delta
+88.5% 88.5%
+85.1%82.7%
+81.7% 79.9%
+76.0%
+73.6%
+64.4% 65.4%
+51.3% 49.5%
+Paid-to-Incurred
+Trends
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+33.5%
+37.5%
+(4.0%)
+22.3%
+(4.3%)
+2022
+17.9%
+2023
+37.5%
+33.5%
+90.3%
+88.5%
+85.1%
+81.7%
+79.9%
+1.7%
+76.0%
+73.6%
+2.4%
+64.4%
+65.4%
+(1.1%)
+51.3%
+1.9%
+3.0%
+8.2%
+(5.2%)
+22.3%
+17.9%
+90.6%
+(0.3%)
+88.5%
+0.0%
+82.7%
+2.4%
+49.5%
+8.2%
+3.0%
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+ITRV P&C Industry
+Source: SNL and Wells Fargo Securities, LLC
+Equity Research | 3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Looking at current vs initial picks for the rest of the lines. Below, we show the initial loss picks for the larger statutory lines for TRV and
+compare them to current picks and show the change they have seen by accident year, with TRV showing the largest increases in Other
+Liability Occurrence and Commercial Auto, while seeing the biggest releases in Workers' Compensation.
+Exhibit 3 - Initial Loss Picks and Change vs Current Trends
+Accident Years
+2023
+Industry Avg
+2016-2019
+5-Yr Avg
+Initial Loss Ratio Picks by Year
+Long-Tail
+Homeowners and Farmowners
+47.0%
+Commercial Multiple Peril
+54.0%
+Private Passenger Auto Liability
+Workers' Compensation
+Other Liability (Occurence)
+Commercial Auto
+Other Liability (Claims Made)
+Special Liability
+Short-Tail
+Auto Physical Damage
+Special Property
+Fidelity and Surety
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+% of 2023
+Earned Prem.
+2023
+vs Industry Avg
+vs 5-Yr Avg
+Change in Loss Picks vs Initial
+62.5%
+72.3%
+54.0%
+61.8%
+55.9%
+54.3%
+39.8%
+40.8%
+44.7%
+47.7%
+50.1%
+52.6%
+64.0%
+72.1%
+73.3%
+66.8%
+71.8%
+72.8%
+72.4%
+72.6%
+52.9%
+54.6%
+54.9%
+58.1%
+62.5%
+60.7%
+58.3%
+57.4%
+61.3%
+2014
+2015
+2016
+62.9%
+53.7%
+40.8%
+NM
+NM
+NM
+NM
+69.5%
+72.3%
+59.0%
+55.8%
+65.2%
+69.9%
+70.5%
+55.3%
+47.8%
+NM
+NM
+NM
+2017
+2018
+53.1%
+46.2%
+42.3%
+NM
+NM
+60.1%
+57.6%
+65.1%
+54.9%
+64.6%
+74.8%
+72.0%
+77.8%
+54.6%
+NM
+NM
+NM
+NM
+2019
+68.3%
+68.3%
+59.6%
+59.5%
+67.2%
+62.5%
+66.3%
+64.8%
+44.8%
+45.4%
+42.8%
+NM
+NM
+58.8%
+52.5%
+NM
+NM
+NM
+22.3%
+2020
+2021
+72.7%
+61.0%
+74.4%
+68.7%
+77.0%
+75.6%
+59.4%
+76.1%
+69.9%
+63.4%
+8.6%
+71.0%
+7.1%
+54.7%
+39.3%
+72.9%
+54.0%
+40.4%
+30.3%
+Total
+98.9%
+2022
+Average
+Average
+Long-Tail
+Homeowners and Farmowners
+(2.2%)
+Commercial Multiple Peril
+(1.0%)
+(0.1%)
+(2.9%)
+Private Passenger Auto Liability
+(62.5%)
+(64.0%)
+(1.0%)
+Workers' Compensation
+Other Liability (Occurence)
+Commercial Auto
+Other Liability (Claims Made)
+Special Liability
+(9.4%)
+(15.1%)
+(16.0%)
+(1.0%)
+8.2%
+7.3%
+9.8%
+3.6%
+10.4%
+12.4%
+(0.7%)
+1.1%
+(8.0%)
+(11.4%)
+3.1%
+0.3%
+Source: SNL and Wells Fargo Securities, LLC
+0.1%
+(1.5%)
+(5.3%)
+(7.7%)
+0.8%
+(2.7%)
+1.0%
+3.1%
+(3.5%)
+(13.9%)
+11.9%
+4.6%
+2.8%
+(1.0%)
+(1.3%)
+(0.1%)
+(2.1%)
+1.9%
+(11.0%)
+13.4%
+10.3%
+2.9%
+9.8%
+13.9%
+(6.8%)
+7.5%
+7.4%
+(4.9%)
+0.7%
+(1.5%)
+(4.6%)
+(9.0%)
+(2.1%)
+(0.2%)
+(3.2%)
+(2.0%)
+(0.4%)
+(2.0%)
+2.5%
+2.1%
+3.9%
+(8.4%)
+1.4%
+1.5%)
+1.0%
+1.4%
+4.9%
+7.1%
+(2.3%)
+(0.8%)
+(0.1%)
+(0.6%)
+(2.3%)
+(3.4%)
+(1.7%)
+0.5%
+1.9%
+(14.6%)
+(1.5%)
+(9.0%)
+(11.4%)
+6.2%
+2.5%
+7.8%
+(0.1%)
+(2.2%)
+19.8%
+12.7%
+11.4%
+9.9%
+5.0%
+2.2%
+10.0%
+2016 - 2019
+10.2%
+12.0%
+0.7%
+3.8%
+(1.7%)
+(6.2%)
+(2.2%)
+5.9%
+(2.2%)
+(3.1%)
+(4.7%)
+(7.1%)
+(3.6%)
+(17.4%)
+0.8%
+NM
+2020 - 2022
+Average
+(0.6%)
+0.4%
+(3.8%)
+(5.2%)
+(0.5%)
+2023
+6.6%
+(0.0%)
+9.1%
+69.3%
+67.0%
+78.3%
+(2.8%)
+2.9%
+3.5%
+(2.4%)
+(3.7%)
+NM
+8.6%
+NM
+3.6%
+Industry
+2016 - 2019
+Average
+(0.3%)
+0.6%
+1.0%
+(0.2%)
+0.4%
+0.5%
+(9.5%)
+(2.6%)
+10.2%
+1.8%
+8.3%
+(2.5%)
+(1.7%)
+1.0%
+62.4%
+69.0%
+77.3%
+56.3%
+59.4%
+72.4%
+72.6%
+64.0%
+57.5%
+60.4%
+65.6%
+67.1%
+67.5%
+74.2%
+54.2%
+57.1%
+44.3%
+42.9%
+NM
+NM
+NM
+NM
+Industry
+2020 - 2022
+Average
+NM
+NM
+65.7%
+59.4%
+46.3%
+76.5%
+57.8%
+29.4%
+4 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Exhibit 4 - TRV Current Loss Picks by Line vs the 5-Year Average and the P&C Industry
+Current Loss Ratio Picks by Year
+Long-Tail
+Homeowners and Farmowners
+46.2%
+64.1%
+58.9%
+Commercial Multiple Peril
+49.7%
+Private Passenger Auto Liability
+Workers' Compensation
+Other Liability (Occurence)
+Commercial Auto
+Other Liability (Claims Made)
+Special Liability
+Short-Tail
+Auto Physical Damage
+NM
+Special Property
+Fidelity and Surety
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+% of 2023
+Earned Prem.
+vs Industry Avg
+2023
+2023
+vs 5-Yr Avg
+Accident Years
+2023
+Industry Avg
+2016-2019
+5-Yr Avg
+Source: SNL and Wells Fargo Securities, LLC
+71.1%
+56.8%
+61.9%
+64.7%
+71.5%
+72.8%
+63.6%
+75.3%
+77.1%
+52.9%
+56.4%
+60.6%
+38.0%
+48.8%
+NM
+NM
+69.8%
+65.4%
+58.5%
+61.6%
+67.4%
+68.8%
+NM
+NM
+NM
+NM
+NM
+64.6%
+61.0%
+63.6%
+60.4%
+79.7%
+46.9%
+40.9%
+NM
+NM
+65.0%
+52.7%
+84.3%
+60.4%
+62.0%
+59.9%
+NM
+NM
+65.1%
+58.7%
+42.8%
+NM
+NM
+NM
+NM
+67.8%
+57.6%
+66.6%
+75.8%
+72.7%
+60.8%
+59.5%
+63.4%
+66.3%
+50.3%
+46.8%
+NM
+71.1%
+62.1%
+68.5%
+69.9%
+71.2%
+50.2%
+54.7%
+42.0%
+39.3%
+77.0%
+72.9%
+22.3%
+NM
+75.6%
+59.4%
+76.1%
+71.0%
+40.4%
+54.0%
+30.3%
+Total
+19.8%
+12.7%
+11.4%
+9.9%
+8.6%
+7.1%
+(3.1%)
+5.0%
+2.2%
+10.0%
+98.9%
+(1.7%)
+(6.2%)
+(2.2%)
+5.9%
+(2.2%)
+(4.7%)
+(7.1%)
+(3.6%)
+(17.4%)
+3.6%
+0.8%
+NM
+7.5%
+(0.2%)
+58.1%
+59.6%
+65.7%
+8.9%
+67.8%
+67.2%
+78.3%
+0.4%
+(0.6%)
+0.4%
+(0.8%)
+(3.1%)
+NM
+8.6%
+NM
+59.0%
+68.1%
+61.1%
+69.5%
+64.0%
+67.7%
+64.0%
+65.6%
+79.1%
+70.7%
+74.2%
+58.0%
+55.4%
+43.6%
+42.4%
+46.3%
+NM
+NM
+NM
+NM
+NM
+77.3%
+59.4%
+76.5%
+57.8%
+NM
+29.4%
+Equity Research | 5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Reserve Movement-2023
+In Exhibit 5 below, we show the statutory reserve movement that Travelers saw in 2023 by lines and by accident year. The company releases $904 million of releases in workers'
+compensation, across all accident years. Other liability occurrence was strengthened by $883 million and commercial auto was strengthened by $179 million. Travelers saw net releases
+of $235 million across all lines and accident years.
+Exhibit 5 - Travelers Statutory Reserve Triangles
+PYD ($ in millions) - Build / (Release)
+Long-Tail (10-yr triangles)
+Other Liability (Occurrence)
+(2)
+Commercial Auto
+2
+Private Passenger Auto Liability
+0
+Reinsurance: Non-proportional Assumed Property
+0
+Commercial Multiple Peril
+2
+Special Liability
+0
+Reinsurance: Non-proportional Assumed Liability
+Medical Professional Liability (Occurrence)
+Medical Professional Liability (Claims Made)
+International
+Reinsurance: Non-proportional Assumed Financial
+Product Liability (Claims)
+Product Liability (Occurrence)
+Other Liability (Claims Made)
+Homeowners and Farmowners
+Workers' Compensation
+Total Long-Tail PYD
+Short-Tail (2-yr triangles)
+Special Property
+NM
+NM
+Other
+Auto Physical Damage
+Fidelity and Surety
+Total Short Tail PYD
+Total Reserve Triangles PYD
+(41)
+(39)
+PYD Away From Triangles
+Total PYD
+Source: SNL and Wells Fargo Securities, LLC
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Total
+Accident Years
+2016-2019 2020-2022
+Prior 2014 PYD Triangle PYD
+0
+0
+0
+0
+0
+(0)
+0
+2
+1
+(45)
+(41)
+NM
+NM
+NM
+NM
+NM
+NM
+0
+28
+7
+1
+(0)
+(1)
+0
+0
+0
+0
+0
+(0)
+(1)
+(6)
+(0)
+(58)
+(84)
+(39)
+(77)
+0
+2
+7
+0)
+(0)
+(2)
+6
+0
+0
+0
+0
+0
+0
+(6)
+(0)
+12
+1
+(14)
+NM
+NM
+NM
+NM
+0
+(77)
+55
+13
+(3)
+1
+(12)
+1
+(5)
+0
+0
+0
+(1)
+(0)
+(8)
+(101)
+(62)
+NM
+NM
+NM
+NM
+NM
+0
+(62)
+71
+12
+1
+(0)
+10
+2
+(5)
+0
+0
+0
+(1)
+(2)
+(11)
+3
+(19)
+(100)
+(39)
+NM
+NM
+NM
+0
+(39)
+149
+47
+4
+10
+(0)
+(1)
+0
+0
+0
+0
+(1)
+(2)
+(7)
+(7)
+(8)
+(39)
+(112)
+(167)
+71
+NM
+NM
+NM
+NM
+NM
+NM
+NM
+0
+71
+118
+(60)
+(11)
+1
+(17)
+3
+(0)
+0
+0
+0
+(1)
+(1)
+(5)
+(47)
+(61)
+(225)
+NM
+NM
+NM
+0
+(225)
+51
+59
+37
+115
+(10)
+52
+0
+2
+0
+41
+7
+(5)
+0
+14
+0
+0
+0
+0
+0
+0
+(1)
+(0)
+(1)
+(1)
+(7)
+(7)
+(38)
+(144)
+(46)
+(92)
+(216)
+(46)
+(7)
+(719)
+(76)
+131
+NM
+95
+0
+(27)
+NM
+(50)
+17
+0
+(76)
+149
+530
+180
+34
+14
+13
+12
+4
+0
+0
+0
+(6)
+(7)
+(52)
+(356)
+95
+NM
+NM
+(30.7)
+0
+NM
+(27)
+NM
+NM
+(50)
+17
+(338)
+(106)
+(152)
+104
+(235)
+277
+79
+3
+10
+(4)
+8
+(10)
+0
+0
+0
+(4)
+(4)
+(32)
+8
+(147)
+(40)
+(177)
+(396)
+(220)
+(106)
+(170)
+NM
+NM
+NM
+NM
+228
+92
+31
+4
+24
+5
+14
+0
+0
+0
+(2)
+(2)
+(19)
+NM
+352.8
+(0.7)
+(4.9)
+29.4
+(2.9)
+10.8
+49.4
+62.2
+(0.1)
+12.3
+(4.7)
+(0.0)
+(16.3)
+(0.0)
+0.0
+17.7
+97.4
+(7.8)
+0.5
+(185.1)
+(903.9)
+295.3
+(125.2)
+0.1
+0.1
+(23.1)
+(49.8)
+(43.6)
+(94.0)
+(191.7)
+(174.3)
+103.6
+883.2
+179.1
+(0.9)
+0.0
+(16.3)
+(0.0)
+(6.1)
+11.1
+45.8
+(152.0)
+(215.3)
+(60.4)
+(234.7)
+6 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Appendix - Other Liability Occurrence Loss Ratios
+Exhibit 6 - P&C Industry Other Liability-Occurrence Loss Picks
+Loss Pick
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+2014
+61.7%
+61.1%
+62.9%
+63.1%
+65.1%
+62.0%
+64.4%
+66.7%
+66.9%
+62.9%
+66.9%
+68.4%
+68.4%
+70.4%
+2015
+61.7%
+63.7%
+63.7%
+2016
+2017
+2018
+2019
+2020
+64.0%
+64.9%
+63.1%
+67.8%
+67.1%
+64.5%
+65.6%
+67.8%
+70.0%
+66.5%
+67.1%
+68.3%
+70.2%
+72.6%
+67.4%
+66.3%
+65.8%
+66.4%
+2021
+62.8%
+62.6%
+63.4%
+2022
+62.8%
+62.7%
+2023
+65.5%
+2014
+2015
+2016
+2017
+2018
+Initial
+61.7%
+Current
+64.5%
+61.7%
+68.7%
+63.7%
+63.1%
+64.5%
+73.0%
+70.8%
+72.6%
+Change
+2.9%
+7.0%
+7.0%
+9.8%
+8.1%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 7 - AIG Other Liability-Occurrence Loss Picks
+Loss Pick
+2014
+2015
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+73.4%
+75.9%
+75.1%
+104.3%
+86.3%
+93.9%
+83.4%
+97.5%
+83.8%
+2016
+2017
+2018
+2019
+2020
+82.1%
+92.5%
+92.5%
+97.4%
+81.7%
+85.0%
+94.0%
+99.5%
+96.6%
+79.4%
+79.1%
+81.8%
+84.6%
+90.6%
+82.8%
+84.0%
+85.8%
+88.1%
+88.3%
+86.6%
+86.7%
+83.7%
+83.7%
+2021
+80.5%
+78.1%
+77.8%
+2022
+65.6%
+66.9%
+2023
+66.7%
+2014
+2015
+2016
+2017
+2018
+Initial
+Current
+73.4%
+88.0%
+75.9%
+108.0%
+82.1%
+81.7%
+93.3%
+79.4%
+98.3%
+90.9%
+Change
+14.7%
+32.1%
+11.2%
+16.6%
+11.5%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 8 - CB Other Liability-Occurrence Loss Picks
+Loss Pick
+2014
+2015
+2016
+2017
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+71.0%
+71.8%
+69.7%
+72.5%
+72.2%
+74.7%
+72.1%
+71.9%
+72.2%
+72.9%
+73.1%
+71.1%
+72.0%
+73.2%
+74.6%
+74.1%
+73.6%
+74.4%
+74.3%
+73.3%
+2018
+2019
+75.5%
+75.5%
+78.5%
+80.6%
+80.3%
+74.0%
+77.1%
+81.8%
+86.0%
+2020
+77.2%
+77.7%
+80.1%
+81.4%
+2021
+72.1%
+73.3%
+77.6%
+2022
+71.5%
+74.2%
+2023
+74.2%
+2014
+2015
+2016
+2017
+2018
+Initial
+71.0%
+Current
+66.4%
+(4.6%)
+69.7%
+69.3%
+(0.3%)
+71.1%
+71.8%
+0.7%
+74.1%
+75.5%
+74.3%
+79.5%
+Change
+0.3%
+4.0%
+12.4%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 9 - HIG Other Liability-Occurrence Loss Picks
+Loss Pick
+Year 1
+2014
+2015
+2016
+52.3%
+50.1%
+2017
+50.7%
+48.3%
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+51.3%
+46.8%
+46.7%
+51.7%
+50.2%
+49.5%
+52.9%
+49.1%
+54.0%
+58.1%
+51.3%
+53.0%
+53.4%
+55.9%
+62.5%
+60.7%
+59.9%
+60.7%
+55.6%
+55.3%
+2018
+51.7%
+52.4%
+58.0%
+59.9%
+65.1%
+2019
+54.4%
+56.7%
+58.6%
+61.7%
+2020
+56.2%
+57.2%
+57.6%
+57.0%
+2021
+53.6%
+54.3%
+54.9%
+54.6%
+2022
+53.1%
+2023
+54.3%
+2014
+2015
+2016
+2017
+2018
+Initial
+51.3%
+Current
+56.6%
+5.3%
+51.7%
+63.9%
+12.1%
+52.3%
+66.3%
+14.0%
+50.7%
+51.7%
+67.3%
+60.2%
+9.5%
+Change
+15.6%
+Source: SNL and Wells Fargo Securities, LLC
+Year 6
+64.4%
+72.6%
+2019
+66.5%
+72.6%
+6.1%
+Year 6
+87.1%
+103.3%
+112.1%
+97.4%
+93.8%
+93.2%
+99.2%
+98.3%
+90.9%
+2019
+82.8%
+88.3%
+5.5%
+Year 6
+71.7%
+74.1%
+74.5%
+74.0%
+71.9%
+79.5%
+86.4%
+2019
+74.0%
+86.4%
+2019
+54.4%
+66.6%
+12.2%
+Year 7
+64.2%
+68.2%
+68.5%
+73.0%
+2020
+67.4%
+66.4%
+(1.0%)
+Year 7
+88.8%
+2020
+86.6%
+83.7%
+(2.8%)
+Year 7
+69.5%
+74.0%
+74.3%
+2020
+77.2%
+81.4%
+4.3%
+Year 7
+55.3%
+64.0%
+62.4%
+66.3%
+60.2%
+67.3%
+66.6%
+2020
+56.2%
+57.0%
+0.8%
+Year 8
+64.3%
+68.3%
+70.8%
+2021
+62.8%
+63.4%
+0.6%
+(0.1%)
+Year 8
+88.9%
+110.2%
+108.6%
+93.3%
+2021
+80.5%
+77.8%
+(2.8%)
+Year 8
+68.3%
+68.8%
+71.8%
+2021
+72.1%
+77.6%
+5.5%
+Year 8
+56.4%
+65.7%
+63.9%
+2021
+53.6%
+54.6%
+1.0%
+1.8%
+Equity Research
+Year 9
+64.4%
+68.4%
+69.6%
+68.7%
+Year 10
+64.5%
+2022
+62.8%
+62.7%
+2023
+65.5%
+Year 9
+88.8%
+108.0%
+Year 10
+88.0%
+2022
+65.6%
+66.9%
+1.3%
+2023
+66.7%
+Year 9
+Year 10
+67.3%
+69.3%
+66.4%
+2022
+2023
+71.5%
+74.2%
+2.7%
+74.2%
+Year 9
+57.2%
+Year 10
+56.6%
+2022
+2023
+53.1%
+54.3%
+54.9%
+Equity Research | 7
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Exhibit 10 - WRB Other Liability-Occurrence Loss Picks
+Loss Pick
+Year 1
+Year 2
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Initial
+Current
+Change
+55.8%
+54.8%
+56.0%
+55.6%
+55.1%
+53.9%
+55.7%
+56.0%
+54.8%
+55.3%
+57.2%
+57.7%
+55.8%
+55.4%
+57.2%
+2014
+55.8%
+54.6%
+(1.2%)
+55.4%
+51.6%
+50.2%
+55.7%
+2015
+56.0%
+60.4%
+4.4%
+Year 3
+53.7%
+53.2%
+54.3%
+58.9%
+55.8%
+56.9%
+49.6%
+48.9%
+2016
+55.1%
+64.8%
+9.7%
+Year 4
+53.8%
+54.9%
+56.7%
+61.6%
+58.9%
+60.1%
+50.0%
+2017
+55.7%
+69.7%
+14.0%
+Year 5
+55.2%
+56.6%
+58.4%
+64.0%
+67.4%
+62.7%
+64.2%
+2018
+54.8%
+67.4%
+12.6%
+Year 6
+55.4%
+67.4%
+2019
+57.2%
+64.2%
+7.0%
+Year 7
+55.4%
+57.0%
+59.8%
+61.2%
+69.7%
+2020
+57.7%
+50.0%
+(7.8%)
+Year 8
+55.1%
+58.0%
+64.8%
+2021
+55.8%
+48.9%
+55.7%
+(6.9%)
+Equity Research
+Year 9
+54.6%
+59.6%
+60.4%
+Year 10
+54.6%
+2022
+55.4%
+0.3%
+2023
+57.2%
+Source: SNL and Wells Fargo Securities, LLC
+Appendix - Other Liability Occurrence Paid To Ultimate Ratios
+Exhibit 11 - P&C Industry Other Liability-Occurrence Paid-to-Incurred Trends
+Paid to Incurred
+2014
+2015
+8.8%
+22.8%
+41.8%
+2016
+8.4%
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Average
+Year 1
+9.2%
+22.9%
+38.3%
+8.3%
+8.5%
+23.8%
+38.3%
+9.6%
+8.5%
+7.7%
+8.2%
+8.2%
+8.5%
+Year 2
+22.6%
+39.1%
+22.8%
+37.9%
+23.2%
+36.6%
+20.2%
+22.2%
+22.3%
+22.5%
+38.1%
+54.2%
+Year 3
+35.0%
+37.5%
+Year 4
+58.0%
+59.3%
+55.3%
+53.1%
+51.4%
+53.0%
+49.5%
+Year 5
+70.4%
+64.0%
+73.5%
+64.1%
+65.4%
+66.7%
+Year 6
+78.1%
+71.1%
+73.6%
+75.0%
+Year 7
+83.4%
+77.6%
+65.0%
+72.3%
+79.0%
+79.9%
+81.1%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 12 - AIG Other Liability-Occurrence Paid-to-Incurred Trends
+Other Liability (Occurrence)
+Paid to Incurred
+2014
+2015
+2016
+2017
+1.6%
+2018
+2019
+2020
+2021
+2022
+2023
+Average
+Year 1
+7.6%
+7.2%
+21.0%
+5.1%
+22.1%
+7.1%
+2.2%
+8.8%
+11.7%
+8.8%
+8.3%
+7.5%
+6.9%
+Year 2
+21.1%
+15.8%
+22.8%
+28.4%
+23.2%
+33.3%
+19.8%
+20.7%
+Year 3
+30.2%
+61.6%
+32.0%
+15.2%
+25.0%
+36.3%
+42.2%
+33.9%
+48.9%
+Year 4
+70.5%
+77.7%
+45.8%
+56.7%
+63.4%
+74.1%
+79.2%
+35.5%
+28.4%
+40.0%
+44.4%
+Year 5
+82.3%
+46.1%
+58.1%
+38.8%
+51.2%
+60.3%
+Year 6
+90.1%
+86.7%
+89.3%
+51.7%
+70.5%
+Year 7
+Year 8
+Year 9
+Year 10
+94.9%
+95.6%
+92.5%
+95.0%
+70.6%
+83.0%
+Source: SNL and Wells Fargo Securities, LLC
+Exhibit 13 - CB Other Liability-Occurrence Paid-to-Incurred Trends
+Other Liability (Occurrence)
+Paid to Incurred
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Average
+Year 1
+Year 2
+3.8%
+4.0%
+15.4%
+4.7%
+18.9%
+34.6%
+5.7%
+6.4%
+7.4%
+5.2%
+4.4%
+4.9%
+4.6%
+5.1%
+15.4%
+18.5%
+22.1%
+20.0%
+30.3%
+17.2%
+17.8%
+18.2%
+Year 3
+31.5%
+29.9%
+33.2%
+34.1%
+29.4%
+34.4%
+18.7%
+32.2%
+Source: SNL and Wells Fargo Securities, LLC
+Year 4
+51.3%
+48.8%
+52.7%
+60.1%
+65.9%
+46.2%
+43.5%
+57.1%
+43.7%
+56.3%
+44.5%
+47.2%
+Year 5
+61.3%
+61.2%
+54.4%
+65.8%
+58.4%
+67.9%
+Year 6
+70.4%
+67.9%
+69.4%
+Year 7
+75.5%
+80.3%
+71.4%
+81.3%
+73.3%
+72.1%
+73.1%
+80.4%
+Year 8
+86.1%
+82.0%
+82.7%
+84.8%
+89.9%
+Year 8
+Year 9
+Year 10
+79.5%
+Year 9
+Year 10
+88.9%
+85.7%
+88.5%
+90.6%
+88.7%
+90.6%
+97.5%
+98.1%
+96.2%
+96.9%
+98.1%
+84.3%
+87.2%
+83.3%
+83.8%
+87.2%
+8 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Exhibit 14 - HIG Other Liability-Occurrence Paid-to-Incurred Trends
+Other Liability (Occurrence)
+Paid to Incurred
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Year 7
+Year 8
+2014
+2.2%
+10.0%
+2.2%
+12.6%
+30.6%
+32.8%
+47.4%
+51.8%
+62.6%
+66.3%
+69.8%
+79.5%
+81.2%
+79.6%
+81.3%
+2015
+74.3%
+2016
+2017
+2018
+2.5%
+11.4%
+25.4%
+47.6%
+58.8%
+69.3%
+77.4%
+3.3%
+12.4%
+26.7%
+43.6%
+54.2%
+70.8%
+75.7%
+2.2%
+12.0%
+25.7%
+40.9%
+55.0%
+67.7%
+2019
+2.8%
+12.0%
+24.9%
+43.8%
+59.6%
+2020
+2.5%
+9.4%
+20.1%
+35.3%
+2021
+2.1%
+10.5%
+12.2%
+20.9%
+2022
+1.6%
+2023
+1.5%
+2.3%
+Average
+11.4%
+25.9%
+44.3%
+59.4%
+70.4%
+78.0%
+Source: SNL and Wells Fargo Securities, LLC
+Figure 1 - WRB Other Liability-Occurrence Paid-to-Incurred Trends
+Other Liability (Occurrence)
+Paid to Incurred
+2014
+Year 1
+Year 2
+Year 3
+17.3%
+16.7%
+Year 4
+Year 5
+Year 6
+Year 7
+Year 8
+5.0%
+5.4%
+36.0%
+34.7%
+52.5%
+65.5%
+52.4%
+67.0%
+75.9%
+81.7%
+76.0%
+81.6%
+2015
+2016
+2017
+2018
+2019
+2020
+3.9%
+16.5%
+34.4%
+50.3%
+62.8%
+70.0%
+78.2%
+4.8%
+21.1%
+38.8%
+55.1%
+65.0%
+75.0%
+82.5%
+5.2%
+19.5%
+37.0%
+52.2%
+65.0%
+75.9%
+5.0%
+19.3%
+35.0%
+53.9%
+65.9%
+2.9%
+16.0%
+33.8%
+51.7%
+2021
+2.7%
+16.7%
+35.2%
+2022
+3.3%
+18.1%
+2023
+2.3%
+4.1%
+Average
+17.9%
+35.6%
+52.6%
+65.2%
+74.5%
+81.0%
+84.7%
+Source: SNL and Wells Fargo Securities, LLC
+Equity Research
+80.7%
+Year 9
+82.7%
+87.6%
+Year 10
+87.5%
+81.1%
+85.1%
+87.5%
+85.9%
+84.8%
+83.4%
+Year 9
+89.5%
+90.2%
+Year 10
+91.9%
+89.9%
+91.9%
+Equity Research | 9
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+SNL DISCLAIMER:
+SNL FINANCIAL LC CONTAINS COPYRIGHTED AND TRADE SECRET MATERIAL DISTRIBUTED UNDER LICENSE FROM SNL. FOR
+RECIPIENT'S USE ONLY
+Equity Research
+10 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+Investment Thesis, Valuation and Risks
+The Travelers Companies, Inc. (TRV)
+Investment Thesis
+We believe that TRV will continue to benefit from the good pricing environment within commercial lines and improving margins within
+personal auto. With that being said, we think there are questions on their reserves following the increases for liability lines in H1 and as a
+result, we think the shares could underperform the broader group until they show a lack of movement on the reserve side. We rate the
+shares Equal Weight
+Target Price Valuation for TRV: $206.00 from NC
+. Our price target of $206 is based on just over 10.0x our 2025 EPS estimate.
+. Implies around a ~1.6x multiple of our projected 2025 book value estimate of ~$129.
+Risks to Our Price Target and Rating for TRV
+Risks to the downside include large catastrophe losses, adverse reserve development, increased competition, a deterioration in loss costs,
+while risks to the upside include stronger premium growth, reported / underlying margins coming in better than expected, and higher-
+than-expected favorable PYD.
+Equity Research | 11
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Required Disclosures
+I, Elyse Greenspan, certify that:
+1) All views expressed in this research report accurately reflect my personal views about any and all of the subject securities or issuers discussed; and
+2) No part of my compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by me in this research report.
+Wells Fargo Securities, LLC does not compensate its research analysts based on specific investment banking transactions. Wells Fargo Securities, LLC's research
+analysts receive compensation that is based upon and impacted by the overall profitability and revenue of the firm, which includes, but is not limited to investment
+banking revenue.
+Additional Information Available Upon Request
+HOLD:$161.00
+10/19/2021
+240
+HOLD:$172.00
+01/20/2022
+The Travelers Companies, Inc. Rating History as of 07-22-2024
+HOLD:$180.00
+04/12/2022
+powered by: BlueMatrix
+HOLD:$181.00
+01/24/2023
+HOLD:$182.00
+04/05/2023
+HOLD:$183.00
+04/19/2023
+HOLD:$185.00
+07/17/2023
+HOLD:$172.00
+10/16/2023
+HOLD:$182.00
+01/11/2024
+220
+200
+180
+160
+140
+Oct 21
+Jan 22
+HOLD:$211.00
+01/19/2024
+Apr 22
+Jul 22
+HOLD:$209.00
+07/11/2024
+HOLD:$206.00
+07/19/2024
+Oct 22
+Jan 23
+Apr 23
+Jul 23
+Oct 23
+Jan 24
+Apr 24
+Jul 24
+Closing Price
+- Price Target
+Initiation (I); Drop Coverage (D); Overweight (BUY); Equal Weight (HOLD); Underweight (SELL); Suspended (SR); Not Rated (NR); No Estimate (NE)
+Wells Fargo Securities, LLC, or its affiliates received compensation for investment banking services from The Travelers Companies, Inc. in the past 12 months.
+Wells Fargo Securities, LLC, maintains a market in the common stock of The Travelers Companies, Inc ..
+The Travelers Companies, Inc. currently is, or during the 12-month period preceding the date of distribution of the research report was, a client of Wells Fargo
+Securities, LLC. Wells Fargo Securities, LLC, provided non-investment banking securities-related services to The Travelers Companies, Inc ..
+Wells Fargo Securities, LLC, or any of its affiliates, intends to seek or expects to receive compensation for investment banking services from The Travelers
+Companies, Inc. in the next three months.
+Wells Fargo Securities, LLC, received compensation for products or services other than investment banking services from The Travelers Companies, Inc. in the past
+12 months.
+The Travelers Companies, Inc. currently is, or during the 12 month period preceding the date of distribution of the research report was, a client of Wells Fargo
+Securities, LLC. Wells Fargo Securities, LLC, provided investment banking services to The Travelers Companies, Inc ..
+Wells Fargo Securities, LLC, or its affiliates has a significant financial interest in The Travelers Companies, Inc ..
+STOCK RATING
+OW=Overweight: Total return on stock expected to be 10%+ over the next 12 months. (BUY)
+EW=Equal Weight: Total return on stock expected to be -10% to +10% over the next 12 months. (HOLD)
+UW=Underweight: Total return on stock expected to lag the Overweight- and Equal Weight-rated stocks within the analyst's coverage universe over the next 12
+months. (SELL)
+12 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+The Travelers Companies, Inc.
+Equity Research
+NR=Not Rated: The rating and price target has been removed due to lack of fundamental basis to support the recommendation or due to legal, regulatory or
+company policy considerations.
+As of July 22, 2024
+49.8% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Overweight. (BUY)
+41.3% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Equal Weight. (HOLD)
+9.0% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Underweight. (SELL)
+Wells Fargo Securities, LLC has provided investment banking services for 38.0% of its Equity Research Overweight-rated companies. (BUY)
+Wells Fargo Securities, LLC has provided investment banking services for 39.0% of its Equity Research Equal Weight-rated companies. (HOLD)
+Wells Fargo Securities, LLC has provided investment banking services for 31.2% of its Equity Research Underweight-rated companies. (SELL)
+Important Disclosure for U.S. Clients
+This report was prepared by Wells Fargo Securities Global Research Department ("WFS Research") personnel associated with Wells Fargo Securities, LLC ("Wells
+Fargo Securities").
+FINRA regulation requires member firms to assign ratings to one of three rating categories: Buy, Hold and Sell. In accordance with FINRA regulation and solely to
+satisfy those disclosure requirements in the ratings distribution table and ratings history chart contained in these Required Disclosures, our rating of Overweight
+corresponds to a Buy rating; Equal Weight corresponds to a Hold rating; and Underweight corresponds to a Sell rating.
+WFS Research may, from time to time, provide clients with short-term trading views in its research reports regarding subject companies on which Wells Fargo
+Securities currently has equity research coverage. A short-term trading view offers a view on how the market price of a subject company's common equity may
+trend in absolute terms during the 30 days following the date of the short-term trading view. A short-term trading view on a subject company's common equity
+does not impact our fundamental investment rating or price target for that company, which reflect our view of how the subject company's common equity may
+perform over a one-year period. A short-term trading view may reach a different conclusion than the firm's fundamental investment rating and price target for
+a subject company and, therefore, short-term trading views could result in short-term price movements that are contrary to our fundamental investment rating
+and price target. Short-term trading views are not ratings and the firm does not intend, nor undertakes any obligation, to maintain, update or close out short-term
+trading views. Short-term trading views may not be suitable for all investors and have not been tailored to individual investor circumstances and objectives, and
+investors should make their own independent decisions regarding any short-term trading views discussed in WFS Research reports.
+Important Disclosure for International Clients
+United Kingdom - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of
+investors. For recipients in the United Kingdom, this report is distributed by Wells Fargo Securities International Limited ("WFSIL"). WFSIL is a UK incorporated
+investment firm authorised and regulated by the Financial Conduct Authority. For the purposes of Section 21 of the UK Financial Services and Markets Act 2000
+(the "Act"), the content of this report has been approved by WFSIL, an authorised person under the Act. WFSIL does not deal with retail clients as defined in the
+Directive 2014/65/EU ("MiFID2"). The FCA rules made under the Financial Services and Markets Act 2000 for the protection of retail clients will therefore not apply,
+nor will the Financial Services Compensation Scheme be available. This report is not intended for, and should not be relied upon by, retail clients. For the purposes of
+the U.K. Financial Conduct Authority's rules, this report constitutes impartial investment research.
+EEA - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of investors. For
+recipients in the EEA, this report is distributed by WFSIL or Wells Fargo Securities Europe S.A. ("WFSE"). WFSE is a French incorporated investment firm authorized
+and regulated by the Autorité de contrôle prudentiel et de résolution and the Autorité des marchés financiers. WFSE does not deal with retail clients as defined in
+the Directive 2014/65/EU ("MiFID2"). This report is not intended for, and should not be relied upon by, retail clients.
+Australia - Wells Fargo Securities, LLC and Wells Fargo Securities International Limited are exempt from the requirements to hold an Australian financial services
+license in respect of the financial services they provide to wholesale clients in Australia. Wells Fargo Securities, LLC is regulated under the laws of the United
+States and Wells Fargo Securities International Limited is regulated under laws of the United Kingdom. All such laws differ from Australian laws. Any offer or
+documentation provided to Australian recipients by Wells Fargo Securities, LLC or Wells Fargo Securities International Limited in the course of providing the
+financial services will be prepared in accordance with the laws of the United States or United Kingdom and not Australian laws.
+Canada - This report is distributed in Canada by Wells Fargo Securities Canada, Ltd., a registered investment dealer in Canada and member of the Canadian
+Investment Regulatory Organization (CIRO) and, Member - Canadian Investor Protection Fund (CIPF). Wells Fargo Securities, LLC's research analysts may
+participate in company events such as site visits but are generally prohibited from accepting payment or reimbursement by the subject companies for associated
+expenses unless pre-authorized by members of Research Management.
+China - Strictly Private and Confidential. For the sole use of the recipient only. Not to be copied or redistributed within the People's Republic of China.
+Brazil - This report was not created for distribution to investors resident in Brazil or to the Brazilian public in general. Wells Fargo Securities, LLC is a broker-dealer
+registered in United States of America with and regulated by the U.S. Securities and Exchange Commission. Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM). The offer of Wells Fargo Securities, LLC's products, including this report and any securities mentioned in this report, is intended only for
+residents in the countries in which Wells Fargo Securities, LLC is authorized to operate.
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+Equity Research | 13
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+This report is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments named or described in the report.
+This report, including any ratings it contains, does not constitute a personal recommendation or take into account the particular investment objectives, financial
+situations, or needs of individual clients. Clients should seek professional advice, including tax advice, to determine whether any advice or recommendation in the
+attached research report is suitable for their particular circumstances. The information in this report is provided as of the date of the report and has been obtained
+or derived from sources believed by WFS Research to be reliable, but WFS Research does not represent that this information is accurate or complete. Any opinions
+or estimates contained in this report represent the judgment of WFS Research, at the time that the report was published, and are subject to change without notice.
+All Wells Fargo Securities research reports published by WFS Research are disseminated and available to all clients simultaneously through electronic publication to
+our internal client websites. Clients may also receive our research via third party vendors. Not all research content is redistributed to our clients or available to third-
+party aggregators, nor is WFS Research responsible for the redistribution of our research by third-party aggregators.
+Equity Strategists focus on investment themes across the equity markets and sectors. Any discussion within an Equity Strategy report of specific securities
+is not intended to provide a fundamental analysis of any individual company described therein. The information provided in Equity Strategy reports is subject
+to change without notice, and investors should not expect continuing information or additional reports relating to any security described therein. Wells Fargo
+Securities' Signature Picks is a product of the Equity Strategy team and represents a portfolio of stocks selected from the Equity Research Department's universe
+of Overweight rated stocks. Stocks with this designation are selected by the Signature Picks Committee based on factors such as volatility, risks, market cap and
+liquidity and may not represent the fundamental analysts' top-rated stock in their respective coverage universe. For research or other data available on a particular
+security, please contact your sales representative or go to http://research.wellsfargosecurities.com.
+Clients of WFS Research are permitted to store, display, analyze, modify, reformat, copy, duplicate and reproduce this report and the information contained
+within it for their own internal use and for no other purpose. Without the prior written consent of Wells Fargo Securities, no part of this report may be copied,
+duplicated or reproduced in any form by any other means. In addition, this report and its contents may not be redistributed or transmitted to any other party in
+whole or in part, directly or indirectly, including by means of any Al Technologies (defined below) through which this report or any portion thereof may be accessible
+by any third-party. "Al Technologies" means any deep learning, machine learning, and other artificial intelligence technologies, including without limitation any
+and all (a) proprietary algorithms, software, or systems that make use of or employ neural networks, statistical learning algorithms (such as linear and logistic
+regression, support vector machines, random forests or k-means clustering) or reinforcement learning, or curated data sets accessible by any of the foregoing or (b)
+proprietary embodied artificial intelligence and related hardware or equipment.
+In addition, certain text, images, graphics, screenshots and audio or video clips included in this report are protected by copyright law and owned by Wells Fargo
+Securities, its affiliates or one or more third parties (collectively, "Protected Content"). Protected Content is made available to clients by Wells Fargo under license
+or otherwise in accordance with applicable law. Any use or publication of Protected Content included in this report for purposes other than fair use requires
+permission from Wells Fargo Securities or, in the case of content attributed to any third party, the third-party copyright owner. You may not alter, obscure, or
+remove any copyright, trademark or any other notices attached to or contained within this report. These Conditions of Use are not intended to, and will not, transfer
+or grant any rights in or to the report or the information contained within it other than those rights that are specifically described herein. All rights not expressly
+granted herein are reserved by Wells Fargo Securities or the third-party providers from whom Wells Fargo Securities has obtained the applicable information.
+Any external website links included in this publication are not maintained, controlled or operated by Wells Fargo Securities. Wells Fargo Securities does not provide
+the products and services on these websites and the views expressed on these websites do not necessarily represent those of Wells Fargo Securities. Please review
+the applicable privacy and security policies and terms and conditions for the website you are visiting.
+Copyright @ 2024 Wells Fargo Securities, LLC
+SECURITIES: NOT FDIC-INSURED - MAY LOSE VALUE - NO BANK GUARANTEE
+14 | Equity Research

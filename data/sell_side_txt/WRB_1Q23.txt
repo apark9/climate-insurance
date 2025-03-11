@@ -1,0 +1,2585 @@
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Equity Research
+Price Target Change - April 20, 2023
+Commercial Lines Insurance
+WELLS
+FARGO
+W.R. Berkley Corporation (WRB)
+WRB: A Messy Quarter; Q1 EPS and Conference Call Roundup
+Our Call
+WRB reported Q1 EPS of $1.00, falling short of our $1.24 and consensus of $1.23 due
+to cat losses, prior year development on cats, and weaker underlying results (which were
+impacted by non-cat property losses).
+Estimate and price target changes: We are lowering our 2023 EPS estimate to $4.85
+(from $5.15) primarily to reflect the Q1 shortfall combined with lower growth versus
+our prior forecast while our 2024 estimate goes to $6.05 from $6.20 and our 2025 EPS
+estimate falls to $6.95 (from $7.10). Our forward numbers reflect lower growth counter-
+balanced by higher investment income (as current yields remain a good amount above the
+book yield). Our price target goes to $77 (from $79).
+The good: WRB saw 8.3% of price, excluding workers' comp, which picked up from 6.9%
+in Q4 and was the highest level since Q1 2022. WRB spoke positively about the property
+market and seeing rates improve throughout the quarter, with more momentum in April.
+Investment income of $223.4 million exceeded our $221.0 million, even with investment
+funds falling short of us (investment funds returned $2.2 million and WRB expects them
+to go back to the normal quarterly level of $20-50 million from here).
+The bad: Premium growth fell short of expectations for the second consecutive quarter,
+coming in at 7.0%, lower than our 10.3%, and just above 6.7% in Q4. Growth in insurance
+was 6.9%, missing our 11.0% and just below 7.2% in Q4. Reinsurance growth was 7.1%,
+better than our 5.9% and picking up from 2.9% in Q4 due to stronger property growth.
+WRB remains cautious on D&O and commercial auto, but did point to growth picking up
+from here with the goal to get back to the double-digits in H2.
+The ugly: The overall combined ratio came in at 90.6%, higher than our 87.7% estimate
+due to higher catastrophe losses, adverse development on cat losses (from Q4 2022) and
+a weaker underlying margin (mostly due to non-cat property losses within the insurance
+segment). The expense ratio also picked up 50 basis points due to changes in reinsurance
+(lower ceding commissions on some treaties) and increased compensation for new start-
+ups.
+The stock from here: The shares are indicating down over 4% which we believe reflects
+the messy quarter and lower growth. At 10.3x our 2024 EPS estimate we still think there
+is value here, especially as top-line premium growth should pick-up in Q2 and then more
+meaningfully in the H2.
+Equity Analyst(s)
+Elyse Greenspan, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Elyse.Greenspan@wellsfargo.com | 212-214-8031
+Wes Carmichael, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Wesley.Carmichael@wellsfargo.com | 212-214-5322
+Matthew Byrnes, CFA
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Matthew.Byrnes@wellsfargo.com | 212-214-8903
+Hristian Getsov
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Hristian.Getsov@wellsfargo.com | 561-843-4188
+Rating
+Ticker
+Price Target/Prior:
+$77.00/$79.00
+Upside/(Downside) to Target
+21.5%
+Price (04/20/2023)
+$63.36
+52 Week Range
+$59.01 - 76.17
+Shares Outstanding
+263,446,321
+Market Cap (MM)
+$16,692
+Enterprise Value (MM)
+$16,640
+Average Daily Volume
+788,553
+Average Daily Value (MM)
+50
+Dividend (NTM)
+$0.90
+Dividend Yield
+1.4%
+Net Debt (MM) - last reported
+$(52)
+ROIC - Current year est.
+18%
+3 Yr EPS CAGR from current
+year (unless otherwise noted)
+17%
+Overweight
+WRB
+$
+EPS
+Q1 (Mar)
+1.10 A
+1.00 A
+Q2 (Jun)
+1.12 A
+1.22 E
+1.23E
+Q3 (Sep)
+1.01 A
+1.25 E
+1.27E
+FY
+4.39 A
+4.85 E
+P/E
+14.4x
+13.1x
+2022A 2023E
+Curr.
+2023E 2024E
+Prior
+1.24E
+1.43 E
+1.53E
+1.48 E
+1.50E
+1.51 E
+1.52E
+Q4 (Dec)
+1.16 A
+1.39 E
+1.41E
+1.64 E
+1.67E
+5.15E
+6.05 E
+6.20E
+10.5x
+2024E
+Curr.
+Prior
+Source: Company Data, Wells Fargo Securities estimates, and Refinitiv.
+NA = Not Available, Volatility = Historical trading volatility
+All estimates/forecasts are as of 4/20/2023 unless otherwise stated. 4/20/2023 20:16:01EDT. Please see page 10 for rating definitions, important disclosures and required analyst certifications.
+Wells Fargo Securities, LLC does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could
+affect the objectivity of the report and investors should consider this report as only a single factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Q1 2023 Beats On Investment Income, Lower Cats And Expenses
+In a Nutshell. WRB reported Q1 EPS of $1.00, falling short of our $1.24 and consensus of $1.23.
+The variance was due to cat losses, prior year development on cats, and weaker underlying results.
+Catastrophe losses came in at $47.9 million, higher than our $32.0 million estimate, and prior year
+adverse reserve development was $24.0 million unfavorable vs. our estimate for adverse development
+of ($3.0) million. The adverse development was due to property cat losses that happened late in the
+Q4. Investment income came in at $223.4 million, versus our $221.0 million estimate, with the core
+portfolio and arbitrage trading account coming in above us and investment funds falling short of us.
+There were FX losses of $9.5 million that offset earnings by $0.03 per share.
+The underlying combined ratio of 87.7% was above our 86.3% estimate; the underlying loss ratio came
+in 110bps higher than us due to higher non-cat property losses. The expense ratio was 40 basis points
+higher than our estimate. WRB bought back $135.2 million shares in the quarter, relative to our $60
+million estimate. The operating ROE was 16.1%, and the net income ROE was 17.4%. Book value per
+share grew 3.7% QoQ.
+Exhibit 1 - WRB Q1 2023 Estimates Versus Actual
+Q1 2023
+($ in millions, except as noted)
+Summary
+Insurance
+185.5
+Reinsurance & Monoline Excess
+49.5
+Underwriting Income
+235.0
+Net Investment Income
+223.4
+221.0
+2.4
+1.1%
+Corporate & Other Ex. Realized Gains/(Losses)
+(105.3)
+(97.7)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+276.0
+Operating EPS
+$1.00
+$1.24
+YoY Change in Operating EPS
+(9.5%)
+21.4%
+21.0%
+12.4%
+($0.24)
+(21.9%)
+Tax Rate
++38bps
+1.8%
+(1.3%)
+GAAP Book Value per Share
+$26.45
+$26.79
+19.9%
+Operating Return on Equity
+16.1%
+Net Income ROE
+17.4%
+Revenues
+Gross premiums written
+3,049.3
+3,159.0
+(109.6)
+(3.5%)
+y/y change
+6.6%
+10.5%
+(3.8%)
+Net premiums written
+2,574.8
+2,661.9
+(87.1)
+(3.3%)
+y/y change
+6.7%
+Net premiums earned
+2,491.4
+y/y change
+10.8%
+Net investment income
+223.4
+221.0
+y/y change
+28.8%
+Total revenues
+2,895.0
+Underwriting Profitability
+Loss Ratio
+61.8%
+Expense Ratio
+28.8%
+Combined Ratio
+90.6%
+Cats Points on Combined Ratio
+1.9%
+PYD Points on Combined Ratio
+(0.0%)
+Underlying Loss Ratio
+59.9%
+Underlying Combined Ratio
+88.7%
+86.3%
+Catastrophe Losses ($)
+47.9
+Reserve Development ($)
+(1.0)
+Capital Return
+Common Dividends
+158.6
+Share Repurchases
+135.2
+Total Capital Return
+293.8
+Total Payout Ratio (% of Operating Income)
+106.5%
+Actual
+WFS Estimate
+Delta Vs. WFS
+Absolute Delta
+% Delta
+353.1
+435.5
+(82.5)
+(18.9%)
+(75.5)
+(91.5)
+(1.6)
+256.7
+55.5
+312.2
+(0.6)
+343.5
+21.8%
+10.3%
+(3.6%)
+2,532.1
+(40.7)
+(1.6%)
+12.6%
+27.4%
+2,909.8
+59.2%
++2.5pts
+4.3%
+28.4%
++0.4pts
+87.7%
++2.9pts
+3.3%
+1.3%
++0.7pts
+52.0%
+0.1%
+(0.2pts)
+(133.9%)
+57.8%
+32.0
+3.0
+158.1
+60.0
+218.1
+63.5%
+43.0%
+(71.2)
+(27.8%)
+(6.0)
+(10.8%)
+(77.2)
+(24.7%)
+(7.6)
+16.0
+(17.5%)
+(1.0)
+156.5%
+(67.5)
+(19.7%)
+($0.34)
+(3.8%)
+(441bps)
+(20.2%)
+(1.8%)
+2.4
+1.1%
+1.4%
+(14.8)
++2.0pts
++2.4pts
+15.9
+49.6%
+(4.0)
+(133.3%)
+7.8%
+(19.5%)
+(19.0%)
+(0.5%)
+1.4%
+3.5%
+2.8%
+0.5
+0.0
+75.2
+1.3
+75.7
+0.3
+Source: Company reports and Wells Fargo Securities, LLC estimates
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+What the Companies Are Saying - WRB
+Outlook. Flow of business out of standard market to the E&S market remains quite robust, with
+product liability being the one outlier with national carriers regaining a bit of an appetite. Overall WRB
+expects growth to pick-up in the second half of the year, but did caveat that with saying they are
+operating with a level of discipline and are cautious on some areas on the market, principally D&O and
+some areas of commercial auto.
+Pricing. WRB saw rate of 8.3% (ex workers' comp), which was versus the 6.9% last quarter, and
+WRB said the rate remains ahead of loss trends with this being the strongest rate increases since
+this time last year. In the property market, WRB said that they believe we are in the early stages of
+meaningful firming. With that being said, they stated the market was a little disappointing in January,
+but momentum picked up during the quarter, and they saw meaningful rate traction in April. The D&O
+market, particularly the large account space, remains in a free for all in terms of both rate adequacy
+and pricing. Within reinsurance, they said there is some excitement around the firming reinsurance
+market, particularly around property and property cat. Casualty is disciplined and certain parts of the
+professional lines market are causing WRB to pause as they are not seeing ceding commission come
+down, even though the level of underlying price is eroding.
+Guidance. WRB only provided guidance around the expense ratio, which they said should be below
+30.0% in 2023 (they expect the expense ratio to be in the range of 28-30%). The Q1 expense ratio was
+28.8%, rising 50 basis points from last year due to: (1) change in reinsurance (including lower ceding
+commissions on certain treaties), and (2) increased compensation for new start-ups.
+While the company does not provide top-line growth guidance they did allude to premium growth
+picking up in H2 and perhaps in the Q2 as they look to lean into and write more property business.
+In response to our question they alluded to premium growth potentially getting back to the double-
+digits in the second half of the year.
+Investments. WRB saw investment income of $223.4 million in the quarter as the core fixed portfolio
+saw a yield of 3.63% in the quarter, just below our 3.64% estimate. Investment income should continue
+to be a tailwind for WRB as new money rates are well above the 3.8% book yield (perhaps somewhere
+between 4.25-4.5%). Investment funds returned $2.2 million (below our $12.2 million estimate) and
+WRB expects them to go back to the normal quarterly level of $20-50 million from here. In the quarter
+the investment funds performance was impacted by declines in market value in the financial services
+and consumer goods sectors, partially offset by income from transportation and energy funds.
+Liquidity and Capital. WRB's debt to capital ratio ended Q1 at 29.0%, which is below the YE 2022 level
+of 29.6%. Repurchases in the quarter totaled $135.2 million, which was higher than our $60 million
+estimate and a pick-up from $87.6 million in Q4.
+Equity Research | 3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Exhibit 2 - WRB Historical Pricing Commentary
+Period
+Pricing Comments
+Q1 2023
+Regarding property, the company noted that its disappointment in Q4 pricing discipline has improved month over month,
+resulting in what is regards as real progressing being made on the pricing front in April. The company feels the rationalization of
+pricing in the property market, while more pronounced on the cat side, is broad-based overall. The company called out public
+D&O, certain professional liability lines, and commercial auto as being the most irrational parts of the market. Still, WRB does
+see pockets of opportunities even within professional liability, especially if written on an E&S basis.
+WRB said they were disappointed in the discipline in property pricing in the Q4 as they said many carriers failed to take into
+account limited reinsurance capacity and higher reinsurance costs. They believe that property pricing should continue to improve
+as 2023 develops. For workers' comp, they said they missed the timing on when the market would begin to harden and they
+expect pricing to be bumpy in 2023 with expectation for considerable firming in 2024 and beyond given severity trends,
+particularly medical inflation. For auto, they said there is rate to be had but remains the most susceptible line to social inflation
+and requires thought and judgement in underwriting for loss costs. Umbrella and general liability excess are amongst the brighter
+opportunities with one area on the cautious watchlist being large account excess lines. Professional liability is a tale of two stores
+with D&O being pressured given the rising competitive landscape but other lines within professional liability should provide good
+opportunities. WRB said they participated at 1/1 renewals and said the clock is right to lean in with good discipline with the US
+offering more attractive returns than international.
+Q4 2022
+Q3 2022
+The marketplace remains an interesting one from their perspective - there are pockets of the market that remain extremely
+attractive and there are others where there is a surprising level of competition. In the specialty space, and in particular the E&S
+market remains extremely attractive to WRB. Berkley said that they have the ability to pivot into product lines as opportunities
+emerge and that they could become a more active participant (for perhaps a year or two). They did flag both workers'
+compensation and professional lines (particularly public company D&O) as lines become increasingly competitive.
+Q2 2022
+Top line remains very healthy. WRB is seeing continued growth in submissions within Specialty and E&S and is beginning to see
+resilience in the reinsurance market. WRB does not see short-term headwinds to de-rail growth off of their 15-25% growth target,
+which they have been achieving. Within Insurance, seeing good growth in Other Liability and commercial auto is robust. In
+workers' comp, WRB expects the market to bottom and start to firm over the next 12-24 months, reflecting loss cost severity and
+erosion of pricing power we have seen; medical inflation is likely to increase rapidly and workers' comp is not insulated from that.
+Despite concerns around the economy and a recession, WRB noted that audit premiums are seeing considerable momentum,
+up 45% YOY.
+Q1 2022
+Continue to see rate increases that outpace trend by something measured in the hundreds of basis points. New business pricing
+is currently outpacing renewal pricing by about 2 points. Retention remains well within range and will continue to take rate as
+weeded. Submission flow in the E&S market is very strong & encouraging, not seeing standard carriers entering the market
+eroding any current opportunities. Feel that WC is still facing a difficult pricing environment but will eventually come back.
+There's nothing that leads us to believe that we will not continue to see rate increases that outpace trend by something
+measured in the hundreds of basis points. Opportunities remain in the workers comp market, but one needs to be very cautious
+and most of the growth seen is really being driven by payroll growth. We are starting so to see some folks being very aggressive
+on WC pricing in addition to leaning through on commissions. Submission flow in the E&S market is pretty overwhelming at this
+stage, particularly in January, and we don't really see standard carriers entering the market eroding any current opportunities.
+Q4 2021
+Source: Company reports and Wells Fargo Securities, LLC
+Period
+Pricing Comments
+It's a good moment for the P&C space. Quite frankly, most of the workers' comp market, which continues to feel a bit of a growing
+headwind. Obviously, property felt some pain in the quarter, but just general market conditions are reasonably attractive. And we
+don't see that trend changing. More specifically, it is a good moment for specialty writers, particularly casualty-related specialty
+writers and even more so the E&S market. We continue to see a growing flow of opportunities, both in specialty and even more so
+in E&S, and there's nothing that leads us to believe that, that tide is going to reverse anytime soon. So that's definitely
+encouraging
+Q3 2021
+And as far as drilling down into the market a little bit more, when we look at the major product lines with the exception of workers;
+compensation all of them continued to get rate increases that outpace our view of loss trend. And that is even as we have been
+factoring in a bit more for financial inflation. It's important that people not read too deeply into as I suspect some might as the rate
+increase and what does this mean relative to what the rate increase was last quarter or the same time in the prior year. The
+simple fact is that when we think about our economic model it is multi-dimensional. We look at the margins that are available in
+the business. And as we become pleased with the available margins we start to think about possibly how we re-prioritize exposure
+of growth versus pushing further on rate.
+Q2 2021
+WRB described the current market environment as one that it has only seen two times previously, with the prior two being the
+early 2000's hard market and the 1985-1986 hard market. The company sounded very optimistic about its outlook and looks to
+take advantage of the hardening market environment where some lines are seeing rate on rate compounding for just shy of three
+years, while most lines are approaching rate adequacy. Further, the company called out seeing continued tailwinds in the E&S
+market, driven by: (1) the standard market revisiting its appetite for the specialty market; (2) expectations for increased audit
+premiums; and (3) new ventures. In addition to E&S tailwinds, WRB indicated that most all lines are at or approaching rate
+adequacy with the exception of workers' comp. Not all of the lines, however, are seeing the same increases and gave the
+example of professional liability having seen rate increases for quite some time, while commercial auto has started to firm more
+recently and workers' comp is in a soft market.
+June 2021
+Non-Deal
+Roadshow
+(6/21/21)
+Q1 2021
+We are coming up for some of the major product lines on a third year in a row where we are getting meaningful rate increases.
+And at this stage, we are seeing, as Rich suggested, rate on rate and in many product lines where we have been getting rate on
+rate in excess of loss cost trend, again, we think that is very encouraging for what that means for margin.
+Q4 2020
+The market is clearly in the throes of firming. When WRB looks at the marketplace overall, they think that is very appropriate. And
+whether it proves to be similar to what we saw in sort of late 2001 and 2002 and 2003, we will only see with time. But the reality is,
+no cycle looks like any other cycle. When WRB looks at Q4 every product line at this stage, with the exception of workers'
+compensation, is achieving rate in excess of loss cost trends, which they view as appropriate and necessary. They are seeing
+meaningful firming continuing in much of the PL market as well as the excess and umbrella market, while property continues to be
+notably hard and auto is also quite firm. One of the laggards has been primary GL and but over the past couple of quarters that
+seems to be building some momentum.
+The drivers of the firming marketplace, with the exception of workers' compensation, are becoming more acute. As far as workers'
+compensation goes WRB expects that that marketplace is more likely than not to begin to firm as we make our way into 2021 or
+sometime next year. The loss ratios that WRB selected at the beginning of the year assumed that they would not be outpacing
+loss cost trend by the level that they are. The rate increases throughout the year, by and large, are above and beyond what was
+anticipated. Given the uncertainty around loss cost trend and specifically social inflation, WRB has deliberately decided to take a
+wait-and-see attitude.
+Q3 2020
+4 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+The exhibit below shows WRB's pricing trends (excluding Workers' Compensation) relative to
+MarketScout since 2017. In Q1, WRB's rate (ex. WC) was 8.3% vs. MarketScout of 5.0%. This compares
+to Q4 WRB rate of 6.9%, Q3 2022 rate of 7.3%, Q2 2022 WRB rate of 6.8%, and the 2022 average
+rate of 7.5%.
+Exhibit 3 - WRB Pricing (excluding Workers' Compensation) vs. MarketScout
+18.0%
+16.0%
+14.0%
+12.0%
+WRB (excluding Workers' Compensation)
+MarketScout
+15.4%
+14.5%
+13.0%
+11.9%
+12.8%
+10.1%
+9.7%
+10.0%
+9.3%
+9.0%
+8.3%
+8.3%
+8.0%
+7.3%
+6.6%
+6.8%
+6.9%
+6.4%
+6.0%
+>5%
+4.1% 4.0%
+4.0%
+2.3%
+1.8%
+2.0%
+NA
+0.0%
+Q1
+NA
+Q2
+Q3
+2017
+NA
+Q4
+Q1
+NA
+Q2
+Q3
+2018
+Q4
+Q1
+Q2
+Q3
+2019
+Q4
+Q1
+Q2
+Q3
+Q4
+2020
+Q1 Q2
+Q3
+2021
+Q4
+Q1 Q2 Q3
+Q4
+Q1
+2022
+2023
+Source: Company reports, MarketScout, and Wells Fargo Securities, LLC
+The exhibit below shows WRB's pricing trends (excluding Workers' Compensation) as a spread over the
+MarketScout pricing index since 2017. In Q1, WRB's rate (ex. WC) was 330bps above the MarketScout
+index. This compares to the Q4 2022 spread of 180 bps, Q3 2022 spread of 200 bps, Q2 2022 spread
+of 90 basis points, the Q1 2022 spread of 230 bps, and the average 2021 spread of 410 bps.
+Exhibit 4 - WRB Pricing (excluding Workers' Compensation) Spread Over MarketScout
+9.0%
+8.2% 8.3% 8.3%
+8.0%
+WRB Rate Spread Over MarketScout
+7.4%
+7.0%
+6.0%
+5.8%
+5.0%
+4.4%
+4.0%
+4.0%
+3.8%
+3.5%
+3.3%
+3.3%
+3.0%
+2.0%
+2.0%
+1.6%
+2.6%
+2.3%
+>2%
+2.0%
+1.8%
+1.0%
+NA
+0.0%
+Q1
+0.8%
+0.3%
+NA
+NA
+Q2
+Q3
+Q4
+2017
+Q1
+NA
+Q2
+Q3
+2018
+Q4
+Q1
+Q2
+Q3
+Q4
+2019
+Q1
+Q2
+Q3
+Q4
+2020
+Q1 Q2
+Q3
+Q4
+2021
+0.9%
+Q1
+Q2
+Q3
+Q4
+Q1
+2022
+2023
+Source: Company reports, MarketScout, and Wells Fargo Securities, LLC
+Equity Research | 5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Summary of Estimate Changes
+Estimates lowered. See below for an overview of our estimate changes following Q1 2023 earnings.
+Following WRB's conference call, our 2023 EPS estimate goes to $4.85 from $5.15, our 2024 estimate
+goes to $6.05 from $6.20, and our 2025 estimate goes to $6.95 from $7.10. We lowered our 2023
+estimate mostly to account for the Q1 2023 miss. Our forward numbers reflect lower growth counter-
+balanced by higher investment income, and currently we model a core fixed income portfolio yield for
+2023 and 2024 of 3.85% and 4.24%, respectively, vs. the fixed income yield in the quarter of 3.63%.
+Summary of Estimate Changes
+Exhibit 5 - WRB Estimate Changes
+2023E
+Current
+2024E
+2025E
+2023E
+Prior
+2024E
+2025E
+Absolute Change
+2024E
+2023E
+2025E
+Percentage Change
+2024E
+2023E
+2025E
+($ in millions, except as noted)
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex. Realized Gains/(Losses)
+(405.0)
+(425.6)
+(467.3)
+(405.3)
+(431.1)
+(472.6)
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+Tax Rate
+GAAP Book Value per Share
+Operating Return on Equity
+Net Income ROE
+Revenues
+Gross premiums written
+y/y change
+Net premiums written
+y/y change
+Net premiums earned
+y/y change
+Net investment income
+y/y change
+Total revenues
+Underwriting Profitability
+Loss Ratio
+60.7%
+59.8%
+59.4%
+Expense Ratio
+28.6%
+28.4%
+28.4%
+Combined Ratio
+89.3%
+Cats Points on Combined Ratio
+PYD Points on Combined Ratio
+Underlying Loss Ratio
+Underlying Combined Ratio
+Catastrophe Losses ($)
+208.9
+Reserve Development ($)
+Capital Return
+Common Dividends
+236.6
+102.8
+240.0
+Share Repurchases
+Total Capital Return
+Total Payout Ratio (% of Operating Income)
+942.2
+173.9
+1,116.1
+1,359.5
+1,555.6
+989.2
+1,163.0
+1,296.2
+1,700.3
+2,097.0
+(358.4)
+(3.5)
+1,338.4
+$4.85
+10.6%
+24.7%
+21.1%
+21.0%
+$30.19
+$36.13
+$43.09
+18.7%
+18.5%
+19.4%
+21.2%
+13,117.4
+14,539.9
+16,010.0
+10.1%
+10.1%
+10.8%
+10,940.7
+12,096.1
+13,308.0
+9.4%
+10.6%
+10,383.6
+8.6%
+11.1%
+10.0%
+989.2
+1,163.0
+17.6%
+11.5%
+27.0%
+12,073.7
+2.0%
+0.3%
+58.3%
+86.9%
+33.0
+315.2
+551.8
+342.8
+41.2%
+20.7%
+1,166.5
+193.0
+(440.4)
+(2.5)
+1,654.1
+$6.05
+22.4%
+21.5%
+11,539.3
+13,375.9
+14,668.7
+88.2%
+87.8%
+1.8%
+1.7%
+0.1%
+0.1%
+57.8%
+57.6%
+86.3%
+213.4
+215.4
+12.0
+12.0
+1,344.4
+211.2
+2,384.6
+(500.8)
+(2.5)
+1,881.3
+$6.95
+14.8%
+21.0%
+10.0%
+12,698.9
+1,296.2
+86.0%
+101.4
+240.0
+341.4
+18.1%
+1,044.3
+1,219.8
+1,401.5
+180.3
+199.0
+1,224.7
+1,418.9
+990.3
+1,168.8
+1,303.3
+1,809.7
+(380.0)
+(2.5)
+1,427.1
+$5.15
+17.5%
+20.2%
+21.0%
+21.0%
+$30.54
+$36.64
+19.4%
+19.6%
+18.8%
+22.6%
+22.6%
+13,448.9
+14,709.5
+16,184.5
+12.9%
+11,142.6
+12,232.8
+13,447.7
+11.4%
+9.8%
+9.9%
+10,548.5
+10.3%
+990.3
+27.1%
+12,216.2
+60.0%
+59.5%
+28.4%
+28.3%
+88.4%
+87.9%
+1.8%
+1.8%
+0.1%
+58.1%
+86.4%
+193.0
+213.4
+12.0
+236.6
+103.3
+102.0
+240.0
+240.0
+476.6
+343.3
+33.4%
+20.2%
+2,156.6
+(452.9)
+(2.5)
+1,701.2
+$6.20
+9.4%
+11,685.9
+12,838.3
+10.8%
+1,168.8
+1,303.3
+18.0%
+13,528.3
+0.1%
+57.6%
+85.9%
+12.0
+214.9
+1,616.3
+2,447.1
+(513.9)
+(2.5)
+1,930.7
+$7.10
+14.6%
+21.0%
+$43.78
+21.6%
+10.0%
+9.9%
+11.5%
+14,815.3
+59.1%
+28.3%
+87.4%
+1.7%
+0.1%
+57.3%
+85.6%
+215.4
+12.0
+240.0
+342.0
+17.7%
+(102.1)
+(53.3)
+(6.5)
+(108.6)
+(59.3)
+(1.1)
+(5.8)
+0.3
+5.6
+(109.4)
+(59.6)
+21.6
+12.5
+(1.0)
+0.0
+(88.7)
+($0.30)
+(6.8%)
+4.5%
++8bps
+(0bps)
+($0.35)
+($0.51)
+(0.2%)
+(0.1%)
+(1.0%)
+(142bps)
+(21bps)
+(11bps)
+(331.4)
+(169.6)
+(174.5)
+0.1%
+(2.8%)
+1.5%
+(201.9)
+(136.7)
+(139.6)
+(2.0%)
+0.8%
+(164.9)
+(146.6)
+(1.7%)
+(1.1)
+(0.1%)
+(142.5)
++0.6pts
++0.2pts
++0.1pts
++0.9pts
++0.4pts
++0.2pts
++0.0pts
++0.2pts
++0.0pts
++0.3pts
++0.5pts
+15.9
+21.0
+(6.1)
+(3.6)
+(47.1)
+($0.14)
+0.3%
+(5.8)
+(0.5%)
+(152.4)
+(146.6)
++0.2pts
++0.2pts
++0.3pts
+0.0
+0.0
+0.1
+(0.6)
+(0.5)
+75.2
+75.3
+0.0
+(0.6)
+(0.5)
+7.8%
+0.5%
+Source: Company reports and Wells Fargo Securities, LLC estimates
+(57.1)
+(60.7)
+(7.1)
+5.3
+(0.1%)
+(62.6)
+13.1
+0.0
+(49.4)
+($0.15)
+0.2%
+(0bps)
+($0.69)
+0.1%
+(139.5)
+0.2%
+(7.1)
+(0.1%)
++0.3pts
++0.0pts
+0.8%
++0.3pts
+1.0%
++0.0pts
++0.0pts
++0.3pts
++0.3pts
+0.0
+0.0
+0.0
+0.4%
+(9.8%)
+(3.6%)
+(8.9%)
+(0.1%)
+(6.0%)
+(5.7%)
+39.1%
+(6.2%)
+(5.8%)
+(4.4%)
+(4.1%)
+(3.0%)
+(1.7%)
+(4.2%)
+(3.8%)
+(0.5%)
+(0.5%)
+(1.3%)
+(2.8%)
+(2.6%)
+(2.8%)
+(2.6%)
+0.0%
+(2.8%)
+(2.3%)
+0.4%
+0.0%
+0.0%
+(1.1%)
+(4.9%)
+(6.3%)
+(1.4%)
+(1.6%)
+(0.9%)
+(0.5%)
+(0.9%)
+(0.5%)
+(2.5%)
+(1.2%)
+(1.1%)
+(1.8%)
+(1.1%)
+(1.6%)
+(1.3%)
+(1.1%)
+(0.1%)
+(0.5%)
+(1.2%)
+(1.1%)
+1.1%
+0.4%
+0.5%
+0.4%
+0.4%
+9.9%
+1.3%
+179.4%
+1.3%
+0.4%
+0.6%
+0.4%
+0.4%
+8.2%
+0.0%
+175.0%
+0.0%
+0.0
+(0.0)
+(0.0)
+0.3
+0.0
+0.0
+0.2
+(0.0)
+(0.0)
+(1.1%)
+0.0%
+(2.6%)
+(2.1%)
+(1.0%)
+(0.5%)
+(1.0%)
+0.2%
+0.4%
+1.1%
+1.1%
+0.5%
+0.4%
+0.0%
+0.0%
+6 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+Valuation
+Current Valuation. WRB trades at 2.40x Q1 2023 book value, which is above the 5-year and 10-
+year average multiples of 2.09x and 1.75x, respectively. The 5-year minimum is 1.42x and 10-year
+minimum is 1.11x. The 5-year and 10-year max is 2.99x, which is well above where the shares are
+currently trading. We do note that for the P&C sector price-to-book valuations are fuller given the
+unrealized losses we have seen in this rising interest rate environment. For WRB, if we exclude AOCI,
+the shares are trading at just around 2.00x adjusted Q4 book. On a P/E basis, WRB is trading at 11.7x
+our 2024 EPS estimate, which compares favorably to the 5-year and 10-year average multiples of
+18.2x and 16.9x, respectively. It is above the 5-year minimum, which is 10.6x (during the low point of
+the pandemic) and above the 10-year minimum of 10.4x. The 5-year and 10-year max is 25.0x.
+Exhibit 6 - WRB Historical P/BV
+3.50x
+3.00x
+5-Year Trend
+Average - 2.09x
+· Peak - 2.99x
+.
+Low - 1.42x
+10-Year Trend
+· Average - 1.75x
+· Peak - 2.99x
+.
+Low - 1.11x
+Current - 2.40x (2.00x ex AOCI)
+2.50x
+2.00x
+1.50x
+M
+1.00x
+Apr '13
+Apr '14
+Apr '15
+Apr '16
+Apr '17
+Apr '18
+Apr '19
+Apr '20
+Apr '21
+Apr '22
+Apr '23
+Price / Current Book Value -
+· 10-year average - - - 10-year Standard Deviation
+Source: Company reports, Factset, and Wells Fargo Securities, LLC estimates
+Exhibit 7 - WRB Historical P/E
+27.5x
+25.0x
+22.5x
+5-Year Trend
+· Average - 18.2x
+· Peak - 25.0x
+· Low - 10.6x
+10-Year Trend
+· Average - 16.9x
+· Peak - 25.0x
+.
+Low - 10.4x
+2024 Forward - 11.7x
+20.0x
+17.5x
+15.0x
+12.5x
+10.0x
+7.5x
+Apr '13
+Apr '14
+Apr '15
+Apr '16
+Apr '17
+Apr '18
+Apr '19
+Apr '20
+Apr '21
+Apr '22
+=
+Price / NTM Earnings
+10-Year Average
+Source: Company reports, Factset, and Wells Fargo Securities, LLC estimates
+- - - 10-year Standard Deviation
+Equity Research | 7
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Exhibit 8 - WRB Consolidated Earnings Model
+$ in millions, except per share data
+Summary
+Insurance
+Reinsurance & Monoline Excess
+Underwriting Income
+Net Investment Income
+Corporate & Other Ex. Realized Gains/(Losses)
+Pre-Tax Operating Income
+Tax Rate
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in After-Tax Operating Income
+YoY Change in Operating EPS
+Consensus EPS
+WFS Estimate versus Consensus
+Premiums
+YoY Change in Gross Premiums Written
+YoY Change in Premiums Earned
+Investment Income (Pre-Tax)
+Core Portfolio
+Investment Funds
+Arbitrage Trading Account
+Total Pre-Tax Net Investment Income
+Total Pre-Tax NII Annualized Yield
+Margins
+Loss Ratio
+Expense Ratio
+Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Expense Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Catastrophe Losses ($)
+Cats Points on Combined Ratio
+Reserve Development ($)
+PYD Points on Combined Ratio
+Adjusted Margins
+Underlying Loss Ratio
+Underlying Combined Ratio
+YoY Change in Loss Ratio (Favorable)
+YoY Change in Combined Ratio (Favorable)
+Book Value and Return on Equity
+GAAP Book Value per Share
+Operating Return on Equity
+Share Count
+Ending Common Shares
+Weighted Average Diluted Shares
+Capital Return to Shareholders
+Common Dividends
+Share Repurchases
+Total Capital Returned
+Dividend Payout Ratio
+Share Repurchase Payout Ratio
+Total Payout Ratio (% of Operating Income)
+Equity Rollforward and Leverage
+Beginning GAAP Equity
+Net Income
+Common Dividends
+Share Repurchases
+Change in AOCI
+Other
+Ending GAAP Equity
+Leverage
+Debt/Capital
+2021
+749.2
+95.1
+844.3
+671.6
+(320.7)
+1,195.2
+19.6%
+(234.8)
+(8.5)
+951.9
+$3.40
+117.1%
+119,8%
+20.9%
+17.0%
+413.9
+220.0
+37.7
+671.6
+2.98%
+61.1%
+28.5%
+89.6%
+(3.4%)
+(2.0%)
+(5.4%)
+202.0
+2.5%
+(7.0)
+(0.1%)
+58.7%
+87,2%
+(1.1%)
+(3.1%)
+$25.09
+14.6%
+265.2
+279.7
+355.7
+122.7
+478.4
+37.4%
+12,9%
+50.3%
+6,310.8
+1,022.5
+(355.7)
+(122,7)
+(219.8)
+17.9
+6,653,0
+32.9%
+Q1 2022
+243.4
+30.3
+273.7
+173.5
+(75.8)
+371.4
+16.7%
+(62.1)
+(2.4)
+306.921
+$1.10
+52.1%
+52.7%
+15.1%
+21.6%
+112.3
+52.0
+9.2
+173.5
+2,93%
+59.5%
+28,3%
+87.8%
+(1.1%)
+(1.2%)
+(2.3%)
+28.8
+1.3%
+(1.0)
+(0.0%)
+58.3%
+86.6%
+(0.5%)
+(1.8%)
+$25.89
+18.2%
+265.2
+279.2
+23.0
+0.0
+23.0
+7.5%
+0.0%
+7.5%
+6,653.0
+590.6
+(23.0)
+0.0
+(367.3)
+11.1
+6,864.5
+29.3%
+Q2 2022
+233.2
+35.0
+268.2
+171.6
+(45.6)
+394.1
+20.5%
+(80.6)
+(0.1)
+313.4
+$1.12
+43.0%
+43.6%
+14.7%
+19.6%
+133.6
+33.9
+4.1
+171.6
+2.91%
+60.9%
+27.7%
+88.6%
+(0.1%)
+(1.0%)
+(1.1%)
+57.9
+2.5%
+(2.0)
+(0.1%)
+58.5%
+86,2%
+(0.3%)
+(1.3%)
+$24.56
+18.8%
+265.3
+279.5
+159.2
+0.0
+159.2
+50.8%
+0,0%
+50.8%
+6,864.5
+179.3
+(159.2)
+0.0
+(380.8)
+10.6
+6,514.5
+30.4%
+Q3 2022
+187.4
+4.4
+191.7
+202.8
+(40.9)
+353.7
+19.9%
+(70.2)
+(1.6)
+281.8
+$1.01
+14.2%
+14.4%
+10.6%
+17.3%
+156.1
+36.0
+10.7
+202.8
+3.44%
+64.1%
+28.1%
+92.1%
+1.7%
+0.0%
+1.7%
+94.1
+3.9%
+39.0
+1.6%
+58.6%
+86,7%
+(0.3%)
+(0.3%)
+$23.88
+17.5%
+265.8
+279.6
+20.3
+6.6
+26.8
+7.2%
+2,3%
+9.5%
+6,514.5
+228.9
+(20.3)
+(6.6)
+(355.0)
+(15.5)
+6,346.1
+30.9%
+Q4 2022
+238.4
+52.7
+291.0
+231.3
+(119,0)
+403.3
+19.9%
+(80.2)
+0.2
+323.3
+$1.16
+13.7%
+13.6%
+5.4%
+14.1%
+186.9
+23.2
+21.2
+231.3
+3.84%
+60.6%
+27.8%
+88.4%
+0.2%
+0.0%
+0.2%
+30.8
+1.2%
+(0.3)
+(0.0%)
+59.3%
+87.2%
+1.1%
+1.1%
+$25.51
+19.8%
+264.5
+278.9
+32.8
+87.6
+120.3
+10.1%
+27.1%
+37.2%
+6,346.1
+382.2
+(32.8)
+(87.6)
+120.0
+20.3
+6,748.3
+29.6%
+2022
+902.3
+122.4
+1,024.7
+779.2
+(281.3)
+1,522.5
+19.3%
+(293.2)
+(3,9)
+1,225.4
+$4.39
+28.7%
+28.9%
+11.3%
+18.0%
+588.9
+145.1
+45.2
+779.2
+3.27%
+61.3%
+28.0%
+89.3%
+0.2%
+(0.5%)
+(0,3%)
+211.7
+2.2%
+35.7
+0.4%
+58.7%
+86,7%
+0.0%
+(0.5%)
+$25.51
+18.5%
+264.5
+279.3
+235.2
+94.1
+329.3
+19.2%
+7,7%
+26.9%
+6,653.0
+1,381.1
+(235.2)
+(94.1)
+(983.0)
+26,6
+6,748.3
+29.6%
+Source: Company reports, FactSet, and Wells Fargo Securities, LLC estimates
+8 | Equity Research
+Q1 2023
+185.5
+49.5
+235.0
+223.4
+(105.3)
+353.1
+21.4%
+(75.5)
+(1.6)
+276.0
+$1.00
+(10.1%)
+(9.5%)
+$1.23
+(18.9%)
+6.6%
+10.8%
+203.0
+2.2
+18,3
+223.4
+3,61%
+61.8%
+28.8%
+90,6%
+2.2%
+0.6%
+2.8%
+47.9
+1.9%
+24.0
+1.0%
+58.9%
+87.7%
+0.6%
+1.1%
+$26.45
+16.1%
+262.5
+277.3
+158.6
+135.2
+293.8
+57.5%
+49.0%
+106.5%
+6,748.3
+294.1
+(158.6)
+(135.2)
+186.0
+9.4
+6,944.0
+29.0%
+Q2 2023E
+241.1
+40.7
+281.9
+242.7
+(98.0)
+426.5
+21.0%
+(89.6)
+(0.6)
+336.3
+$1.22
+7.3%
+8.7%
+$1.22
+(0.4%)
+8.5%
+8.8%
+216.2
+20.3
+6.2
+242.7
+3.86%
+60.5%
+28.5%
+89.0%
+(0.4%)
+0,8%
+0.4%
+57.8
+2.3%
+3.0
+0. 1%
+58.1%
+86,6%
+(0.4%)
+0.4%
+$27.66
+19.0%
+261.0
+276.0
+26.1
+60.0
+36.1
+7.8%
+17,8%
+25.6%
+6,944.0
+361.3
+(26.1)
+(60.0)
+0.0
+0.0
+7,219.3
+28.2%
+Q3 2023E
+240.9
+37.5
+278.4
+255.2
+(96,8)
+436.8
+21.0%
+(91.7)
+(0.6)
+344.4
+$1.25
+22.2%
+24.2%
+$1.20
+4.3%
+12.4%
+7.6%
+228.0
+20.8
+6.3
+255.2
+3.99%
+60.9%
+28.5%
+89.4%
+(3.2%)
+0.4%
+(2.7%)
+5.4
+2.5%
+3.0
+0.1%
+58.3%
+86,8%
+(0.3%)
+0.1%
+$28.85
+18.7%
+260.1
+275.2
+26.0
+60.0
+86.0
+7.6%
+17.4%
+25.0%
+7,219.3
+369.4
+(26.0)
+(60.0)
+0.0
+0.0
+7,502.7
+27.4%
+Q4 2023E
+274.8
+46.1
+320.8
+268.0
+(104,9)
+483.9
+21.0%
+(101.6)
+(0.6)
+381.7
+$1.39
+18.0%
+19.9%
+$1.37
+1.5%
+12.9%
+7.4%
+240.1
+21.4
+6.5
+268.0
+4.12%
+59.6%
+28.6%
+88.1%
+(1.0%)
+0.7%
+(0.3%)
+37.8
+1.4%
+3.0
+0.1%
+58.0%
+86,6%
+(1.3%)
+(0.6%)
+$30.19
+19.9%
+259.2
+274.5
+25.9
+60.0
+85.9
+6.8%
+15,7%
+22.5%
+7,502.7
+406.7
+(25.9)
+(60.0)
+0.0
+(0.0)
+7,823.4
+26.6%
+2023E
+942.2
+173.9
+1,116.1
+989.2
+(405.0)
+1,700.3
+21.1%
+(358.4)
+(3.5)
+1,338.4
+$4.85
+9.2%
+10.6%
+$5.05
+(3.9%)
+10.1%
+8.6%
+887.2
+64.7
+37.2
+989.2
+3.90%
+60.7%
+28,6%
+89.3%
+(0.6%)
+0.6%
+(0,0%)
+208.9
+2.0%
+33.0
+0.3%
+58.3%
+86,9%
+(0.4%)
+0.3%
+$30.19
+18.5%
+259.2
+275.8
+236.6
+315.2
+551.8
+17.7%
+23,6%
+41.2%
+6,748.3
+1,431.6
+(236.6)
+(315.2)
+186.0
+9.4
+7,823.4
+26.6%
+Q1 2024E
+271.0
+54.4
+325.4
+276.9
+(105,9)
+496.3
+21.0%
+(104.2)
+(0.6)
+391.5
+$1.43
+41.9%
+43.7%
+$1.46
+(1.9%)
+12.9%
+11.4%
+248.2
+22.0
+6,6
+276.9
+4.18%
+59.7%
+28,6%
+88,3%
+(2.0%)
+(0,3%)
+(2.3%)
+37.4
+1.3%
+3.0
+0.1%
+58.3%
+86.8%
+(0.6%)
+(0,9%)
+$31.57
+19.6%
+258.3
+273.8
+25.8
+60.0
+85.8
+6.6%
+15.3%
+21.9%
+7,823.4
+416.5
+(25.8)
+(60.0)
+0.0
+0.0
+8,154.1
+25.8%
+Q2 2024E
+290.2
+46.3
+336.5
+286.0
+(108,6)
+513.9
+21.0%
+(107.9)
+(0.6)
+405.4
+$1.48
+20.5%
+21.8%
+$1.42
+4.4%
+11.2%
+11.1%
+256.5
+22.6
+6.8
+286.0
+4.25%
+59.9%
+28,3%
+88.2%
+(0.6%)
+(0,2%)
+(0.8%)
+62.8
+2.2%
+3.0
+0.1%
+57.6%
+85.9%
+(0.6%)
+(0.8%)
+$33.02
+19.5%
+257.4
+273.1
+25.7
+60.0
+85.7
+6.3%
+14,8%
+21.1%
+8,154.1
+430.4
+(25.7)
+(60.0)
+0.0
+0.0
+8,498.7
+25.0%
+Q3 2024E
+288.1
+42.0
+330.1
+295.3
+(104,9)
+520.5
+21.0%
+(109.3)
+(0.6)
+410.6
+$1.5
+19.2%
+20.4%
+$1.38
+9.3%
+9.6%
+11.2%
+265.1
+23.3
+295.3
+4.31%
+60.4%
+28.3%
+88.7%
+(0.5%)
+(0,2%)
+(0.7%)
+70.4
+2.4%
+3.0
+0.1%
+57.9%
+86,2%
+(0.4%)
+(0.6%)
+$34.50
+18.9%
+256.5
+272.4
+25.6
+60.0
+85.6
+6.2%
+14,6%
+20.9%
+8,498.7
+435.6
+25.6)
+(60.0)
+0.0
+0.0
+8,848.6
+24.3%
+Q4 2024E
+317.3
+50.2
+367.5
+304.9
+(106,2)
+566.2
+21.0%
+(118.9)
+(0.6)
+446.7
+$1.64
+17.0%
+18.2%
+$1.56
+5.3%
+9.9%
+10.8%
+273.8
+23.9
+7.2
+304.9
+4.38%
+59.2%
+28.6%
+87.7%
+(0.4%)
+(0.0%)
+(0.4%)
+42.8
+1.4%
+3.0
+0.1%
+57.6%
+86.2%
+(0.4%)
+(0.4%)
+$36.13
+19.8%
+255.6
+271.8
+25.6
+60.0
+85.6
+5.7%
+13,4%
+19.2%
+8,848.6
+471.7
+(25.6)
+(60.0)
+0.0
+(0.0)
+9,234.8
+23.5%
+2024E
+1,166.5
+193.0
+1,359.5
+1,163.0
+[425.6)
+2,097.0
+21.0%
+(440.4)
+(2.5)
+1,654.1
+$6.05
+23.6%
+24.7%
+$5.70
+6.1%
+10.8%
+11.1%
+1,043.6
+91.8
+27.6
+1,163.0
+4.28%
+59.8%
+28.4%
+88.2%
+(0.9%)
+(0.2%)
+(1,0%)
+213.4
+1.8%
+12,0
+0.1%
+57.8%
+86,3%
+(0.5%)
+(0.7%)
+$36.13
+19.4%
+255.6
+273.3
+102.8
+240.0
+342.8
+6.2%
+14,5%
+20.7%
+7,823.4
+1,754.1
+(102.8)
+(240.0)
+0.0
+0,0
+9,234.8
+23.5%
+Q1 2025E
+312.3
+59.2
+371.4
+312.4
+(116.4)
+567.4
+21.0%
+(119.2)
+(0.6)
+447.6
+$1.65
+14.3%
+15.5%
+$1.70
+(2.7%)
+10.2%
+10.3%
+280.5
+24.6
+7.3
+312.4
+4.41%
+59.4%
+28,5%
+87.9%
+(0.3%)
+(0.1%)
+(0.4%)
+39.4
+1.3%
+3.0
+0.1%
+58.0%
+86.5%
+(0.3%)
+(0,3%)
+$37.76
+19.0%
+254.8
+271.1
+25.5
+60.0
+85.5
+5.7%
+13.4%
+19.1%
+9,234.8
+472.6
+(25.5)
+(60.0)
+0.0
+0.0
+9,621.9
+22.8%
+Q2 2025E
+334.4
+50.7
+385.0
+320.1
+(119.1)
+586.0
+21.0%
+(123.1)
+(0.6)
+462,3
+$1.71
+14.0%
+15.1%
+$1.68
+2.0%
+10.1%
+10.0%
+287.3
+25.2
+7.5
+320.1
+4.44%
+59.4%
+28.3%
+87.7%
+(0.5%)
+0.0%
+(0.5%)
+62.8
+2.0%
+3.0
+0.1%
+57.3%
+85.6%
+(0.3%)
+(0.3%)
+$39.47
+18.8%
+254.0
+270.5
+25.4
+60.0
+85.4
+5.5%
+13,0%
+18.5%
+9,621.9
+487.3
+(25.4)
+(60.0)
+0.0
+(0.0)
+10,023.8
+22.1%
+Q3 2025E
+332.0
+46.6
+378.6
+327.9
+(115.1)
+591.4
+21.0%
+(124.2)
+(0.6)
+466.6
+$1.73
+13.6%
+14.7%
+$1.59
+8.4%
+10.1%
+10.0%
+294.2
+25.9
+Z.Z
+327.9
+4.48%
+59.9%
+28.3%
+88.2%
+(0.5%)
+0.0%
+(0.5%)
+70.4
+2.2%
+3.0
+0.1%
+57.6%
+85.9%
+(0.3%)
+(0.3%)
+$41.20
+18.2%
+253.2
+269.9
+25.3
+60.0
+85.3
+5.4%
+12,9%
+18.3%
+10,023.8
+491.6
+(25.3)
+(60.0)
+0.0
+0.0
+10,430.1
+21.4%
+Q4 2025E
+365.7
+54.8
+420.5
+335.9
+(116.6)
+639.8
+21.0%
+(134.4)
+(0.6)
+504.8
+$1.87
+13.0%
+14.0%
+$1.82
+3.1%
+10.0%
+10.0%
+301.4
+26.7
+7.9
+335.9
+4.51%
+58.8%
+28.4%
+87.2%
+(0.3%)
+(0.2%)
+(0.5%)
+42.8
+1.3%
+3.0
+0.1%
+57.4%
+85.8%
+(0.2%)
+(0.4%)
+$43.09
+19.0%
+252.4
+269.3
+25.2
+60.0
+85.2
+5.0%
+11,9%
+16.9%
+10,430.1
+529.8
+(25.2)
+(60.0)
+0.0
+(0.0)
+10,874.7
+20.7%
+2025E
+1,344.4
+211.2
+1,555.6
+1,296.2
+(467.3)
+2,384.6
+21.0%
+(500.8)
+(2.5)
+1,881.3
+$6.95
+13.7%
+14.8%
+$6.54
+6.2%
+10.1%
+10.0%
+1,163.4
+102.4
+30.5
+1,296.2
+4.46%
+59.4%
+28.4%
+87.8%
+(0.4%)
+(0.1%)
+(0.5%)
+215.4
+1.7%
+12.0
+0.1%
+57.6%
+86.0%
+(0.2%)
+(0.3%)
+$43.09
+18.7%
+252.4
+270.7
+101.4
+240.0
+341.4
+5.4%
+12,8%
+18.1%
+9,234.8
+1,981.3
+(101.4)
+(240.0)
+0.0
+(0,0)
+10,874.7
+20.7%
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+Investment Thesis, Valuation and Risks
+W.R. Berkley Corporation (WRB)
+Investment Thesis
+We have an Overweight rating on shares of WRB. We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2023, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth and
+underlying margin improvement, and we do not believe this is currently reflected in consensus expectations.
+Target Price Valuation for WRB: $77.00 from $79.00
+Our price target of $77 is based on just around a 2.1x multiple of our year-end 2024 book value estimate. Our price target also represents
+a ~12.7x multiple against our 2024 EPS estimate. The 12.7x is close to the lows where WRB has historically traded as we believe the
+multiple may stay constrained until WRB returns to reporting stronger premium growth. With that being said the multiple still provides
+double-digit upside potential in the name.
+Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+Equity Research | 9
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Required Disclosures
+I, Elyse Greenspan, certify that:
+1) All views expressed in this research report accurately reflect my personal views about any and all of the subject securities or issuers discussed; and
+2) No part of my compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by me in this research report.
+Wells Fargo Securities, LLC does not compensate its research analysts based on specific investment banking transactions. Wells Fargo Securities, LLC's research
+analysts receive compensation that is based upon and impacted by the overall profitability and revenue of the firm, which includes, but is not limited to investment
+banking revenue.
+Additional Information Available Upon Request
+I:BUY:$61.00
+04/07/2021
+90
+BUY:$65.00
+01/27/2022
+W.R. Berkley Corporation Rating History as of 04-19-2023
+BUY:$76.00
+04/12/2022
+BUY:$80.00
+04/25/2022
+powered by: BlueMatrix
+BUY:$81.00
+07/12/2022
+BUY:$83.00
+07/21/2022
+BUY: $85.00
+10/12/2022
+BUY:$79.00
+04/05/2023
+80
+70
+60
+50
+40
+M
+30
+20
+Jul 20
+Oct 20
+Jan 21
+Apr 21
+Jul 21
+Oct 21
+Jan 22
+Apr 22
+Jul 22
+Oct 22
+Jan 23
+Apr 23
+Closing Price
+Price Target
+Initiation (I); Drop Coverage (D); Overweight (BUY); Equal Weight (HOLD); Underweight (SELL); Suspended (SR); Not Rated (NR); No Estimate (NE)
+Wells Fargo Securities, LLC and/or its affiliates, have beneficial ownership of 0.5% or more of any class of the common stock of W.R. Berkley Corporation.
+Wells Fargo Securities, LLC, maintains a market in the common stock of W.R. Berkley Corporation.
+Wells Fargo Securities, LLC, or any of its affiliates, intends to seek or expects to receive compensation for investment banking services from W.R. Berkley
+Corporation in the next three months.
+Wells Fargo Securities, LLC, or its affiliates has a significant financial interest in W.R. Berkley Corporation.
+STOCK RATING
+OW=Overweight: Total return on stock expected to be 10%+ over the next 12 months. BUY
+EW=Equal Weight: Total return on stock expected to be -10% to +10% over the next 12 months. HOLD
+UW=Underweight: Total return on stock expected to lag the Overweight- and Equal Weight-rated stocks within the analyst's coverage universe over the next 12
+months. SELL
+As of April 19, 2023
+50.3% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Overweight.
+40.2% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Equal Weight.
+9.4% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Underweight.
+Wells Fargo Securities, LLC has provided investment banking services for 30.0% of its Equity Research Overweight-rated companies.
+Wells Fargo Securities, LLC has provided investment banking services for 32.5% of its Equity Research Equal Weight-rated companies.
+Wells Fargo Securities, LLC has provided investment banking services for 28.2% of its Equity Research Underweight-rated companies.
+Important Disclosure for U.S. Clients
+10 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+This report was prepared by Wells Fargo Securities Global Research Department ("WFS Research") personnel associated with Wells Fargo Securities, LLC ("Wells
+Fargo Securities").
+WFS Research may, from time to time, provide clients with short-term trading views in its research reports regarding subject companies on which Wells Fargo
+Securities currently has equity research coverage. A short-term trading view offers a view on how the market price of a subject company's common equity may
+trend in absolute terms during the 30 days following the date of the short-term trading view. A short-term trading view on a subject company's common equity
+does not impact our fundamental investment rating or price target for that company, which reflect our view of how the subject company's common equity may
+perform over a one-year period. A short-term trading view may reach a different conclusion than the firm's fundamental investment rating and price target for
+a subject company and, therefore, short-term trading views could result in short-term price movements that are contrary to our fundamental investment rating
+and price target. Short-term trading views are not ratings and the firm does not intend, nor undertakes any obligation, to maintain, update or close out short-term
+trading views. Short-term trading views may not be suitable for all investors and have not been tailored to individual investor circumstances and objectives, and
+investors should make their own independent decisions regarding any short-term trading views discussed in WFS Research reports.
+Important Disclosure for International Clients
+United Kingdom - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of
+investors. For recipients in the United Kingdom, this report is distributed by Wells Fargo Securities International Limited ("WFSIL"). WFSIL is a UK incorporated
+investment firm authorised and regulated by the Financial Conduct Authority. For the purposes of Section 21 of the UK Financial Services and Markets Act 2000
+(the "Act"), the content of this report has been approved by WFSIL, an authorised person under the Act. WFSIL does not deal with retail clients as defined in the
+Directive 2014/65/EU ("MiFID2"). The FCA rules made under the Financial Services and Markets Act 2000 for the protection of retail clients will therefore not apply,
+nor will the Financial Services Compensation Scheme be available. This report is not intended for, and should not be relied upon by, retail clients. For the purposes of
+the U.K. Financial Conduct Authority's rules, this report constitutes impartial investment research.
+EEA - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of investors. For
+recipients in the EEA, this report is distributed by WFSIL or Wells Fargo Securities Europe S.A. ("WFSE"). WFSE is a French incorporated investment firm authorized
+and regulated by the Autorité de contrôle prudentiel et de résolution and the Autorité des marchés financiers. WFSE does not deal with retail clients as defined in
+the Directive 2014/65/EU ("MiFID2"). This report is not intended for, and should not be relied upon by, retail clients.
+Australia - Wells Fargo Securities, LLC and Wells Fargo Securities International Limited are exempt from the requirements to hold an Australian financial services
+license in respect of the financial services they provide to wholesale clients in Australia. Wells Fargo Securities, LLC is regulated under the laws of the United
+States and Wells Fargo Securities International Limited is regulated under laws of the United Kingdom. All such laws differ from Australian laws. Any offer or
+documentation provided to Australian recipients by Wells Fargo Securities, LLC or Wells Fargo Securities International Limited in the course of providing the
+financial services will be prepared in accordance with the laws of the United States or United Kingdom and not Australian laws.
+Canada - This report is distributed in Canada by Wells Fargo Securities Canada, Ltd., a registered investment dealer in Canada and member of the Investment
+Industry Regulatory Organization of Canada (IIROC) and Canadian Investor Protection Fund (CIPF). Wells Fargo Securities, LLC's research analysts may participate in
+company events such as site visits but are generally prohibited from accepting payment or reimbursement by the subject companies for associated expenses unless
+pre-authorized by members of Research Management.
+China - Strictly Private and Confidential. For the sole use of the recipient only. Not to be copied or redistributed within the People's Republic of China.
+Brazil - This report was not created for distribution to investors resident in Brazil or to the Brazilian public in general. Wells Fargo Securities, LLC is a broker-dealer
+registered in United States of America with and regulated by the U.S. Securities and Exchange Commission. Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM). The offer of Wells Fargo Securities, LLC's products, including this report and any securities mentioned in this report, is intended only for
+residents in the countries in which Wells Fargo Securities, LLC is authorized to operate.
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+This report is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments named or described in the report.
+This report, including any ratings it contains, does not constitute a personal recommendation or take into account the particular investment objectives, financial
+situations, or needs of individual clients. Clients should seek professional advice, including tax advice, to determine whether any advice or recommendation in the
+attached research report is suitable for their particular circumstances. The information in this report is provided as of the date of the report and has been obtained
+or derived from sources believed by Wells Fargo Securities Global Research Department ("WFS Research"), to be reliable, but WFS Research does not represent
+that this information is accurate or complete. Any opinions or estimates contained in this report represent the judgment of WFS Research, at the time that the
+report was published, and are subject to change without notice. Certain text, images, graphics, screenshots and audio or video clips included in this report are
+protected by copyright law and owned by third parties (collectively, "Third Party Content"). Third Party Content is made available to clients by Wells Fargo under
+license or otherwise in accordance with applicable law. Any use or publication of Third Party Content included in this report for purposes other than fair use requires
+permission from the copyright owner. Any external website links included in this publication are not maintained, controlled or operated by Wells Fargo Securities.
+Wells Fargo Securities does not provide the products and services on these websites and the views expressed on these websites do not necessarily represent
+those of Wells Fargo Securities. Please review the applicable privacy and security policies and terms and conditions for the website you are visiting. All Wells Fargo
+Securities research reports published by WFS Research are disseminated and available to all clients simultaneously through electronic publication to our internal
+client websites. Clients may also receive our research via third party vendors. Not all research content is redistributed to our clients or available to third-party
+aggregators, nor is WFS Research responsible for the redistribution of our research by third party aggregators. Equity Strategists focus on investment themes
+Equity Research | 11
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+across the equity markets and sectors. Any discussion within an Equity Strategy report of specific securities is not intended to provide a fundamental analysis of
+any individual company described therein. The information provided in Equity Strategy reports is subject to change without notice, and investors should not expect
+continuing information or additional reports relating to any security described therein. Wells Fargo Securities' Signature Picks is a product of the Equity Strategy
+team and represents a portfolio of stocks selected from the Equity Research Department's universe of Overweight rated stocks. Stocks with this designation are
+selected by the Signature Picks Committee based on factors such as volatility, risks, market cap and liquidity and may not represent the fundamental analysts'
+top-rated stock in their respective coverage universe. For research or other data available on a particular security, please contact your sales representative or go to
+http://research.wellsfargosecurities.com. Copyright @ 2023 Wells Fargo Securities, LLC
+SECURITIES: NOT FDIC-INSURED - MAY LOSE VALUE - NO BANK GUARANTEE
+12 | Equity Research

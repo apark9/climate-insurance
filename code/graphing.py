@@ -4,9 +4,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from IPython.display import display
+from config import sentiment_flag
 
 ANALYSIS_FOLDER = "analysis/sentiment"
-DATA_FOLDER = "data/sentiment_output"
+DATA_FOLDER = f"data/{sentiment_flag}_output"
 
 
 def load_data(file_path):
@@ -61,7 +62,7 @@ def plot_sentiment_by_keyword_type_per_ticker(sentiment_df, sentiment_type="FINB
         plt.legend(title="Keyword Category")
         plt.grid()
 
-        output_path = os.path.join(output_folder, f"{sentiment_type.lower()}_sentiment_{ticker}.png")
+        output_path = os.path.join(output_folder, f"{sentiment_type.lower()}_{sentiment_flag}_sentiment_{ticker}.png")
         plt.savefig(output_path, bbox_inches="tight")
         plt.close()
         logging.info(f"✅ Saved {sentiment_type} sentiment trends plot for {ticker} at {output_path}.")
@@ -86,7 +87,7 @@ def plot_overall_sentiment_by_keyword_type(sentiment_df, sentiment_type="FINBERT
     plt.legend(title="Keyword Category")
     plt.grid()
 
-    output_path = os.path.join(output_folder, f"overall_{sentiment_type.lower()}_sentiment.png")
+    output_path = os.path.join(output_folder, f"overall_{sentiment_type.lower()}_{sentiment_flag}_sentiment.png")
     plt.savefig(output_path, bbox_inches="tight")
     plt.close()
     logging.info(f"✅ Saved overall {sentiment_type} sentiment trends plot at {output_path}.")
@@ -118,7 +119,7 @@ def rank_companies_by_sentiment(sentiment_df, output_folder="output/sentiment_al
     sorted_by_vader.to_csv(output_csv_vader, index=False)
 
 def perform_graphing():
-    sentiment_file = os.path.join(DATA_FOLDER, "sentiment_results_merged.csv")
+    sentiment_file = os.path.join(DATA_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
     sentiment_df = load_data(sentiment_file)
 
     quarter_to_month = {"1Q": "01", "2Q": "04", "3Q": "07", "4Q": "10"}

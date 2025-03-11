@@ -1,0 +1,1744 @@
+BARCLAYS
+Equity Research
+Financial Services
+15 February 2023
+Progressive Corp.
+Jan '23 Earnings: Unfavorable PYD
+While unfavorable PYD in January is seasonal to some degree,
+the level taken is higher than typical. Sequential PIF growth
+feels less sustainable given capital constraints.
+| CORE
+PGR
+UNDERWEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 123.00
+Unfavorable PYD: It appears every January PGR takes a reserve charge since any changes in
+prior month re-estimates is accounted for in prior AYs rather than the CY given it is the first
+month of the year. Even so, the company's 6.5 pts of unfavorable PYD is higher than the 2.6 pt
+average run rate (from Jan '22-Jan '18). The majority (75%) of the $330mn of unfavorable PYD
+related to an uptick in December case reserves for personal auto property damage, collision,
+and comprehensive coverages given higher settlements and changes to re-estimates including
+inflationary factors. The balance of adverse PYD came from commercial auto (20%) and
+property.
+raised 2% from USD 121.00
+Price (14-Feb-23)
+USD 139.27
+Potential Upside/Downside
+-11.7%
+We note, PGR's reported combined ratio in January was exactly at its 96% target, a factor that
+may have played into PGR's thinking on the ultimate amount of adverse PYD it was willing to
+take in the month.
+The cost & sustainability of growth: Personal auto PIF grew +2.4% sequentially (Jan '23 vs.
+Dec '22), up from +0.4% sequentially (Dec. vs. Nov.). On an annualized basis, that would imply
+PIF growth of 29% vs. 5% (keeping monthly growth constant over 12 months), though there are
+seasonality adjustments needed. We question the sustainability of growth, as PGR's premiums
+to surplus is near 3x. On a y/y basis, PGR recognized positive personal auto PIF growth over the
+last four months (+5.4% in Jan, +2.6% in Dec, +1.7% in Nov and +0.5% in Oct '22). PGR's pricing
+may appear more competitive as the insurer believes taking rates is behind it, a sentiment that
+we think is premature. PGR may be leaving rate on the table.
+Market Cap (USD mn)
+81459
+Shares Outstanding (mn)
+584.90
+Free Float (%)
+99.70
+52 Wk Avg Daily Volume (mn)
+2.6
+Dividend Yield (%)
+0.29
+Return on Equity TTM (%)
+4.13
+Current BVPS (USD)
+27.17
+Source: Bloomberg
+Price Performance
+Exchange-NYSE
+52 Week range
+USD 141.21-100.81
+Favorable seasonality in January contributed to PGR's improved underlying loss ratio of 68.5%
+in Jan from 75.4% in Dec and 75.7% in Nov. PGR's expense ratio rose to a much more normal
+20.2% in Jan from 17.3% in Dec and 18.0% in Nov. To recap, PGR's pre-pandemic expense ratio
+ran just north of 20%. We previously mentioned that an expense ratio well below 20% was not
+sustainable. However, a higher expense ratio in Jan is not coming from a higher policy
+acquisition ratio that is remaining steady, rather from higher other underwriting expenses.
+PGR's underlying loss ratio three-month simple average of 73.2% has a way to go to return to
+pre-pandemic levels (~68%). We think auto insurers will approach rate adequacy in 2024 - to be
+sure, not a return to 2019 levels.
+140
+130
+120
+110
+100
+Apr-2022
+Jul-2022
+Oct-2022
+Jan-2023
+Source: IDC
+Link to Barclays Live for interactive charting
+PGR's commercial premiums growth reached a high water mark in 2Q21. Looking back at Jan
+'22, PGR benefited from higher TNC premium audit for higher estimated miles driven. Reported
+U.S. Insurance/Non-Life
+Tracy Benguigui
++1 212 526 1561
+tracy.benguigui@barclays.com
+BCI, US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should consider this
+report as only a single factor in making their investment decision.
+Please see analyst certifications and important disclosures beginning on page 11 .
+Completed: 15-Feb-23, 16:53 GMT Released: 15-Feb-23, 16:55 GMT
+Restricted - External
+Barclays | Progressive Corp.
+commercial premium growth was down (5.8)% in Jan '23, on an adjusted basis down (1%). We
+estimated a (3)% reduction in Commercial NPW.
+PGR continues to see more NII gains, as the duration of its assets is shorter, leading to a quicker
+turnover rate, and its total investments to shareholder equity is high at 3.3x. On a capital
+adequacy standpoint, while auto is a less capital-intensive business than other lines, we think
+PGR's high asset leverage may pressure an already constrained capital position. PGR's premium
+growth levels (+16% NPW y/y) consume capital and it is generating lower organic capital
+through earnings than its historical trend. PGR's pre-tax net investment income (ex expenses)
+this month was $131mn vs. our $128mn estimate. Higher equity market returns (6.4% common
+stock yield) boosted NII in the quarter.
+January operating EPS of $0.43 missed our $0.62 estimate, reflecting adverse PYD and a higher
+expense ratio. We had modeled catastrophe loss of $63mn vs. PGR's $40.3mn.
+PGR: Quarterly and Annual EPS (USD)
+2022
+2023
+2024
+Change y/y
+FY Dec
+Actual
+Old
+New
+Cons
+Old
+New
+Q1
+Q2
+Q3
+0.49A
+Q4
+1.47A
+Year
+1.12A
+1.46E
+1.26E
+1.71E
+1.88E
+1.88E
+2.16E
+1.03A
+1.28E
+1.31E
+1.50E
+1.65E
+1.69E
+1.43E
+1.46E
+1.45E
+1.69E
+1.71E
+1.73E
+198%
+17%
+1.67E
+1.71E
+1.90E
+1.86E
+1.88E
+4.12A
+5.84E
+5.74E
+6.56E
+7.09E
+7.16E
+P/E
+33.8
+24.3
+19.5
+Consensus numbers are from Bloomberg received on 15-Feb-2023; 13:50 GMT
+Source: Barclays Research
+Cons
+2023
+12%
+1.76E
+27%
+2.25E
+16%
+10%
+7.89E
+39%
+2024
+49%
+29%
+25%
+15 February 2023
+2
+Barclays | Progressive Corp.
+U.S. Insurance/Non-Life
+Progressive Corp. (PGR)
+Income statement ($mn)
+Net premiums earned
+49,241
+Net investment income (NII)
+1,260
+Underwriting income
+1,342
+Operating income
+2,415
+Net income
+694
+Effective tax rate (%)
+21.8
+20.8
+21.0
+21.0
+-1.2%
+Combined ratio (%)
+95.8
+Combined ratio (ex cats & py development)
+92.6
+(%)
+Per share data ($)
+EPS (adj)
+4.12
+EPS (reported)
+1.18
+DPS
+0.40
+BVPS
+26.32
+BVPS (ex AOCI)
+31.01
+Diluted shares (mn)
+587
+Balance sheet and capital return ($mn)
+2022A
+Total investments
+53,548
+Common shareholders' equity (ex AOCI)
+18,140
+Share buybacks
+63
+Dividends paid
+234
+Balance sheet and capital return metrics
+Debt leverage (%)
+25.5
+Financial leverage (%)
+27.5
+Total capital return as a % of op. earnings
+12.3
+Valuation metrics
+P/BV (ex AOCI) (x)
+4.49
+P/E (adj) (x)
+33.8
+Dividend yield (%)
+ROE (%)
+Note: FY End Dec
+Source: Company data, Bloomberg, Barclays Research
+2022A
+2022A
+2022A
+2022A
+0.3
+3.8
+17.6
+2023E
+55,706
+1,733
+1,980
+3,370
+94.9
+92.9
+2023E
+5.74
+6.07
+2.65
+30.51
+34.37
+588
+2023E
+59,094
+20,103
+94
+1,550
+2023E
+23.7
+25.5
+48.8
+2023E
+4.05
+24.3
+1.9
+2024E
+59,435
+63,478
+8.8%
+2,015
+2,236
+21.1%
+2,694
+3,068
+31.8%
+4,196
+4,714
+25.0%
+3,564
+4,196
+94.0
+93.7
+-0.8%
+92.2
+91.9
+-0.3%
+2024E
+7.16
+7.16
+2.65
+2.65
+87.8%
+34.85
+35.57
+10.6%
+39.26
+587
+2024E
+63,322
+22,913
+156
+156
+35.0%
+1,547
+2024E
+21.7
+23.4
+23.2
+24.9
+40.6
+2024E
+3.55
+19.5
+17.3
+23.7
+1.9
+18.7
+18.9
+2025E
+CAGR
+4,714
+89.4%
+2025E
+8.06
+25.1%
+8.06
+89.7%
+40.34
+9.2%
+587
+0.0%
+2025E
+63,787
+6.0%
+23,526
+9.1%
+1,544
+2025E
+21.5
+23.1
+36.0
+2025E
+3.45
+3.89
+1.9
+1.5
+CAGR
+CAGR
+87.6%
+Average
+34.4
+Average
+14.7
+POSITIVE
+UNDERWEIGHT
+Price (14-Feb-2023)
+Price Target
+USD 139.27
+USD 123.00
+Why UNDERWEIGHT?
+Our call on PGR takes a longer term
+view. PGR may need to hold more
+capital to support an evolving
+business mix, which could lower
+ROEs. Likewise, we struggle to see
+how PGR could return to its
+historical PIF growth rate, as the
+company cut rates early during the
+pandemic and is now playing catch
+up, which is proving tough to gain
+approval from regulators.
+Upside case
+USD 152.00
+PGR is able to achieve personal
+auto rate adequacy and return to
+historical PIF growth rates. PGR
+leverages its multivariate pricing
+model across newer business lines.
+Upside case reflects ~21x '24E EPS.
+Downside case
+USD 90.00
+PGR's baseline pricing may be low,
+brought on by a pandemic with
+greater rate catch up. Downside
+case reflects ~13x '24E EPS.
+Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+152.00
+141.21 Current
+139.27
+Target
+123.00
+100.81
+90.00
+Low
+Downside
+15 February 2023
+3
+Barclays | Progressive Corp.
+PIF Growth Spotlight
+PGR reported personal auto PIF y/y growth of +5.4% in January (well above our estimate of
++3.2%), as auto agency PIF (+0.9% vs. our -0.6%) was augmented by growth in auto direct
+(+9.2% vs. our 6.3%). We note, this is the first time auto agency PIF was in positive territory since
+February '22.
+FIGURE 1. PIF growth y/y in January with agent (+0.9%) and direct (+9.2%)
+PIF y/y % Growth
+15%
+10%
+5%
+-
+0%
+-5%
+Jan-19 Apr-19 Jul-19 Oct-19 Jan-20 Apr-20 Jul-20 Oct-20 Jan-21 Apr-21 Jul-21 Oct-21 Jan-22 Apr-22 Jul-22 Oct-22 Jan-23
+Agency - Auto
+Direct - Auto
+Source: Barclays Research, Company Data.
+Underlying loss ratio - Favorable Seasonality
+Favorable seasonality in January contributed to PGR's improved underlying loss ratio of 68.5%
+in Jan from 75.4% in Dec and 75.7% in Nov. PGR's expense ratio rose to a much more normal
+20.2% in Jan from 17.3% in Dec and 18.0% in Nov. Collectively, PGR's underlying combined ratio
+of 88.7% has improved from 92.7% in Dec, 93.7% in Nov, and 95.9% in Oct.
+FIGURE 2. January '23 underlying loss ratio of 68.5% (vs. 74.1% Barclays) and expense ratio of 20.2% (vs. 17.5% Barclays)
+PGR Underlying CR %
+100%
+- 90%
+- 80%
+- 70%
+60%
+- 50%
+Oct-19
+Jan-20
+Apr-20
+Jul-20
+Source: Barclays Research, Company Data.
+Oct-20
+Jan-21
+Apr-21
+Jul-21
+Oct-21
+Jan-22
+Underlying Loss Ratio
+Apr-22
+Expense Ratio
+Jul-22
+Oct-22
+40%
+Jan-23
+Inflation: Focus on Absolute Levels
+Our focus is on an absolute basis, where used car pricing remains significantly elevated (see
+Figure 3). Likewise, if we compare used car & truck pricing to Jan '19 levels, it is up 34.7% vs. all
+items at 18.9%. We pay lesser attention to the Consumer Price Index (CPI) for All Urban
+Consumers, which rose 6.4% over the 12 months from Jan 2022 to Jan 2023. Used car and truck
+CPI trails all items at -11.6% in Jan vs. - 8.8% in Dec.
+15 February 2023
+4
+Barclays | Progressive Corp.
+210
+Index, January 2020
+= 100.0
+190
+170
+FIGURE 3. CPI Indexed to January '20
+150
+130
+110
+90
+- - Airline fares
+- Gasoline (all types)
+- New Vehicles
+70
+Jan-20
+Source: Barclays Research, U.S. Bureau of Labor Statistics
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+55%
+% Change Y-o-Y
+Manheim pricing was +1.5% m/m. We put less weight on Manheim pricing -13.7% y/y basis.
+More importantly, if we compare Jan '22 to Jan '20, Manheim pricing is still up 44%.
+Compounded auto pricing during that period has not caught up - not anywhere close. There is
+still significant rate catch-up needed to see that inflection point. It will be like an "x"; loss costs
+go down, then pricing goes up - where the two intersect in our view can take a bit longer,
+especially given how long it is taking auto pricing to actually "earn" in.
+45%
+35%
+15 February 2023
+25%
+15%
+5%
+FIGURE 4. CPI: Used Car and Truck (y/y -11.6% in Jan '23)
+-5%
+-15%
+Dec-20
+Used Car and Truck
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Source: Barclays Research, U.S. Bureau of Labor Statistics
+Jan-21
+-All items
+Oct-21
+Nov-21
+Dec-21
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+6.4%
+-Used Cars and Trucks
+Aug-22
+-11.6%
+Sep-22
+Oct-22
+Nov-22
+Dec-22
+Jan-23
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+250
+Jan-22
+230
+Feb-22
+Mar-22
+210
+Apr-22
+190
+170
+150
+Lodging away from home
+Car and truck rental
+Motor Vehicle Parts and Equipment
+All items
+- Used Cars and Trucks
+May-22 1
+FIGURE 5. Manheim used car prices (y/y -13.7% in Jan '23)
+Jun-22
+Jul-22
+130
+Jan-18
+Manheim used-vehicle index
+May-18
+Sep-18
+Jan-19
+May-19
+Source: Barclays Research, Bloomberg, Manheim
+Sep-19
+Sep-20
+The new vehicle CPI index rose 5.8% y/y ( vs. 5.9% in Dec) and Motor Vehicle Parts and
+Equipment CPI index rose 8.3% y/y (vs. 9.9% in Dec). However, comparing Jan '23 vs. Jan '19,
+new vehicles and car parts rose 20.5% and 24.9%, respectively.
+Jan-20
+May-20
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+Jan-23
+5
+Aug-22
+1
+Sep-22 1
+Oct-22
+>
+Nov-22
+Dec-22
+1
+Jan-23
+15 February 2023
+-1%
+1%
+3%
+5%
+7%
+9%
+11%
+13%
+15%
+Jan-20
+% Change Y-o-Y
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Source: Barclays Research, U.S. Bureau of Labor Statistics
+Nov-20
+FIGURE 6. CPI % Change (Y-o-Y): New Vehicles
+Barclays | Progressive Corp.
+Dec-20
+Jan-21
+-All items
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+New Vehicles
+-New Vehicles
+Aug-21
+Oct-21
+Nov-21
+Dec-21
+Sep-21
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+Aug-22
+Sep-22
+Oct-22
+Nov-22
+Dec-22
+Jan-23
+T
+5.8%
+6.4%
+-1%
+4%
+9%
+14%
+19%
+Jan-20
+% Change Y-o-Y
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Source: Barclays Research, U.S. Bureau of Labor Statistics
+All items
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+FIGURE 7. CPI % Change (Y-o-Y): Motor Vehicle Parts and Equipment
+Motor Vehicle Parts and Equipment
+Aug-21
+-Motor Vehicle Parts and Equipment
+Mar-21
+Apr-21
+: May-21
+Jun-21
+Jul-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+Aug-22
+Sep-22
+Oct-22
+Nov-22
+Dec-22
+Jan-23
+6.4%
+8.3%
+6
+Barclays | Progressive Corp.
+Valuation
+Our PT of $123 (up from $121) is based on 16.5x our new '24E EPS and 3.2x '24E BVPS (ex AOCI).
+Multiples are unchanged.
+Model Updates:
+We typically base our loss ratio expectations on a rolling 3-month average. We are also reducing
+growth within commercial auto in our forecast period. Lastly, we are adding 3.5 pts of
+unfavorable PYD in Jan '24 and Jan '25.
+Updated EPS: We revise '23E from $5.84 to $5.74 and '24E from $7.09 to $7.16.
+15 February 2023
+7
+Barclays | Progressive Corp.
+Variance Tables - Jan '23
+FIGURE 8. Variance Analysis - Jan '23
+Summary Details
+(in $mn, except per share)
+Net premiums written
+$5,332
+Net investment income
+$131
+Combined Ratio
+96.0%
+Combined Ratio ex cats and PYD
+88.7%
+Operating EPS
+$0.43
+$0.53
+Book value per share (ex. AOCI)
+$31.7
+$31.01
+NPW by Segment
+(in $mn, except per share)
+Personal lines-agent
+$1,918
+Personal lines-direct
+$2,411
+Total Personal Lines
+$4,329
+Commercial Business & Other
+$826
+Property
+$176
+Total Written Premiums
+$5,332
+$3,574
+CR by Segment
+(in $mn, except per share)
+Total Personal Lines
+96.5%
+Personal lines-agent
+93.6%
+Personal lines-direct
+Commercial Business & Other
+Property
+Jan '23A
+Jan '23A
+Jan '23A
+99.1%
+94.9%
+88.7%
+104.8%
+Source: Barclays Research estimates, Company Data.
+M/M
+Dec '22
+% Change
+$3,574
+$151
+93.3%
+92.7%
+49%
+$4,585
+-13%
+270 bps
+(400 bps)
+-19%
+2.2%
+M/M
+Dec '22
+% Change
+$1,348
+42%
+$1,631
+$1,522
+58%
+$2,870
+51%
+$498
+66%
+$206
+-15%
+49%
+M/M
+Dec '22
+% Change
+91.8%
+92.5%
+110 bps
+91.1%
+96.8%
+470 bps
+800 bps
+(190 bps)
+(1610 bps)
+Jan '22
+$70
+93.0%
+88.4%
+$0.51
+$30.3
+Jan '22
+$1,922
+$3,553
+$877
+$156
+$4,585
+Jan '22
+95.0%
+91.5%
+98.2%
+87.6%
+77.0%
+Y/Y
+% Change
+16%
+$5,178
+86%
+300 bps
+92.9%
+313 bps
+25 bps
+91.6%
+4%
+Y/Y
+% Change
+18%
+$1,880
+25%
+21.9%
+-6%
+13%
+$163
+Y/Y
+% Change
+150 bps
+210 bps
+90 bps
+730 bps
+1170 bps
+Barclays Est.
+Jan '23
+% Var.
+$128
+2%
+$0.62
+-31%
+$31.6
+0%
+3%
+(295 bps)
+-15%
+Barclays Est.
+Jan '23
+% Var.
+2.0%
+$2,284
+5.6%
+$4,164
+4.0%
+$851
+-3%
+8%
+16%
+3%
+$5,178
+Barclays Est.
+Jan '23
+% Var.
+91.8%
+91.8%
+180 bps
+90.5%
+860 bps
+93.9%
+105 bps
+109.0%
+470 bps
+(2030 bps)
+15 February 2023
+8
+Barclays | Progressive Corp.
+Model Summary
+FIGURE 9. Model Summary (pg. 1)
+($ in mn, except per share data)
+2019
+2020
+40,569
+2021
+2022
+2023E
+2024E
+2025E
+Net premiums written
+Revenues:
+Net premiums earned
+Investment income
+Total net realized gains (losses) on securities
+Fees and other revenues
+Service revenues
+195
+Total revenues
+Expenses:
+Losses and loss adjustment expenses
+Total underwriting expenses
+Policyholder credit expense
+-
+Investment expenses
+Service expenses
+Interest expense
+Total expenses
+Underwriting Income
+Income before income taxes
+Provision for income taxes
+Other comp (income) loss att. to NCI
+Net income
+Less: Preferred stock dividends
+37,578
+36,192
+1,042
+1,029
+564
+39,022
+25,471
+7,998
+25
+179
+190
+33,862
+2,724
+5,160
+1,180
+(10)
+3,970
+27
+39,262
+937
+1,630
+604
+226
+42,658
+25,122
+8,843
+20
+206
+217
+35,485
+5,297
+7,173
+1,469
+46,405
+44,369
+861
+1,509
+692
+271
+47,702
+33,628
+9,368
+1,077
+-
+26
+253
+219
+43,492
+1,374
+51,081
+49,241
+1,260
+(1,912)
+722
+299
+49,611
+38,123
+41,848
+9,777
+24
+297
+244
+48,689
+1,342
+4,210
+922
+4,533
+859
+201
+-
+3,351
+721
+3,591
+27
+27
+Net income to common shareholders
+ATX total net realized gains (losses) on sec
+Other
+Operating income to common shareholders
+Operating EPS
+Net EPS
+Net Written Premiums (y/y %)
+Net Earned Premiums (y/y %)
+3,943
+813
+3,130
+$5.33
+$6.72
+-
+5,705
+27
+5,678
+1,288
+4,390
+$7.47
+$9.66
+15.2%
+8.0%
+17.0%
+8.5%
+3,324
+1,192
+-
+2,132
+$3.63
+$5.66
+14.4%
+13.0%
+694
+3,564
+(1,496)
+194
+(225)
+2,415
+$4.12
+$5.74
+$1.18
+10.1%
+11.5%
+11.0%
+13.1%
+56,937
+55,706
+1,733
+246
+834
+326
+58,845
+11,878
+1
+31
+304
+252
+54,312
+1,980
+942
+-
+27
+3,370
+$6.07
+60,685
+59,435
+2,015
+-
+-
+892
+357
+62,698
+43,670
+13,071
+34
+327
+251
+57,353
+2,694
+5,345
+1,122
+-
+4,223
+26
+4,196
+1
+4,196
+$7.16
+$7.16
+6.6%
+6.7%
+Source: Barclays Research estimates, Company Data.
+64,791
+63,478
+2,236
+952
+381
+67,048
+46,443
+13,967
+-
+36
+349
+251
+61,047
+3,068
+6,001
+1,260
+-
+4,741
+26
+4,714
+-
+4,714
+$8.06
+$8.06
+6.8%
+6.8%
+15 February 2023
+9
+Barclays | Progressive Corp.
+FIGURE 10. Model Summary (pg. 2)
+($ in mn, except per share data)
+2019
+2020
+2021
+2022
+2023E
+2024E
+Underwriting Margins
+Loss and LAE ratio
+Expense ratio
+Combined ratio
+Catastrophes pretax
+Cat pts
+PYD pretax (negative is unfavorable PYD)
+PYD pts
+Underlying loss ratio
+Underlying combined ratio
+Share information
+Shares beginning period
+Shares issued
+Shares Repurchased
+Common Shares Outstanding, end of period
+Weighted average shares - basic
+Dilution
+Weighted average shares - diluted
+Shareholders' equity and returns
+Common shareholders' equity ex AOCI
+Average common shareholders' equity ex AOCI
+Book Value Per Share to common ex AOCI
+Operating return on avg. common SHE ex AOCI
+Trailling twelve month average ROCE (as reported)
+Source: Barclays Research estimates, Company Data.
+70.4%
+20.5%
+552
+1.5%
+(232)
+-0.6%
+68.2%
+88.8%
+583.2
+3
+1
+584.6
+585.2
+583.8
+3.1
+586.9
+12,612
+15,613
+11,423
+64.0%
+21.0%
+90.9%
+880
+2.2%
+(195)
+5
+-0.5%
+0.0%
+0.2%
+61.2%
+82.2%
+584.6
+2
+1
+584.9
+2.5
+587.4
+14,113
+75.8%
+19.6%
+85.0%
+95.3%
+1,310
+3.0%
+72.8%
+92.4%
+585.2
+2
+2
+584.4
+584.7
+2.3
+587.0
+17,697
+16,655
+77.4%
+75.1%
+18.4%
+19.8%
+95.8%
+1,667
+3.4%
+86
+74.2%
+92.6%
+584.4
+1
+1
+584.9
+584.6
+2.3
+586.9
+18,140
+17,918
+94.9%
+796
+1.4%
+(330)
+-0.6%
+73.1%
+92.9%
+584.9
+1
+1
+584.8
+583.6
+585.0
+2.7
+587.7
+20,103
+19,121
+73.5%
+20.5%
+94.0%
+862
+1.5%
+(178)
+-0.3%
+71.7%
+92.2%
+584.8
+-
+1
+584.1
+2.7
+586.8
+22,913
+21,508
+2025E
+73.2%
+20.5%
+93.7%
+933
+1.5%
+(190)
+0.3%
+71.4%
+91.9%
+583.6
+-
+1
+583.2
+583.9
+2.7
+586.6
+23,526
+23,220
+$21.57
+27.4%
+31.3%
+$26.68
+31.1%
+35.6%
+$30.28
+12.8%
+18.5%
+$31.01
+13.5%
+3.8%
+$34.37
+$39.26
+17.6%
+17.6%
+19.5%
+18.7%
+$40.34
+20.3%
+18.9%
+15 February 2023
+10
+Barclays | Progressive Corp.
+Analyst(s) Certification(s):
+I, Tracy Benguigui, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
+securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+Important Disclosures:
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All
+authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the
+local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to
+https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New
+York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues,
+a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the
+firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment
+or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis,
+quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of
+Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to
+https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to:
+https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+Progressive Corp. (PGR, 14-Feb-2023, USD 139.27), Underweight/Positive, CD/CE/J/K/M
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant trading market, which may not be the last
+available closing price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the
+previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+CH: Barclays Bank PLC and/or its group companies makes, or will make, a market in the securities (as defined under paragraph 16.2 (k) of the HK SFC
+Code of Conduct) in respect of this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the
+next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US
+regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with
+South Korean regulations.
+FE: Barclays Bank PLC and/or its group companies has financial interests in relation to this issuer and such interests aggregate to an amount equal to
+or more than 1% of this issuer's market capitalization, as calculated in accordance with HK regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an
+affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+15 February 2023
+11
+Barclays | Progressive Corp.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or
+an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for
+remuneration, other than normal course investment advisory or trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit
+holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright C (2023) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its proprietary information and data that may
+be included in this report. Any Sustainalytics' information and data included herein may not be copied or redistributed, is intended for informational
+purposes only, does not constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics' information and data is
+subject to conditions available at https://www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively "Bloomberg") and the Bloomberg Indices are
+trademarks of Bloomberg. Bloomberg or Bloomberg's licensors own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or
+endorse this material, or guarantee the accuracy or completeness of any information herein, or make any warranty, express or implied, as to the results
+to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg shall have no liability or responsibility for injury or damages arising
+in connection therewith.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below)
+relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see
+definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the
+entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment
+horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to
+comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in
+an advisory capacity in a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Below is the list of companies that constitute the "industry coverage universe":
+U.S. Insurance/Non-Life
+AIG, Inc. (AIG)
+Chubb Limited (CB)
+Palomar Holdings, Inc. (PLMR)
+Allstate Corp. (ALL)
+James River Group Holdings (JRVR)
+Progressive Corp. (PGR)
+Arch Capital Group Ltd. (ACGL)
+Lemonade Inc (LMND)
+Root Inc. (ROOT)
+15 February 2023
+12
+Skyward Specialty Insurance Group, Inc. (SKWD) The Hartford Financial Services Group, Inc. (HIG)
+Barclays | Progressive Corp.
+Ryan Specialty Holdings (RYAN)
+The Travelers Companies, Inc. (TRV)
+Distribution of Ratings:
+Barclays Equity Research has 1742 companies under coverage.
+49% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 46% of companies
+with this rating are investment banking clients of the Firm; 68% of the issuers with this rating have received financial services from the Firm.
+34% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 40% of
+companies with this rating are investment banking clients of the Firm; 63% of the issuers with this rating have received financial services from the Firm.
+15% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 26% of
+companies with this rating are investment banking clients of the Firm; 52% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays' Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Capital Canada Inc. (BCCI, Canada)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, India Branch (Barclays Bank, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+15 February 2023
+13
+Barclays | Progressive Corp.
+Progressive Corp. (PGR / PGR)
+Stock Rating: UNDERWEIGHT
+Industry View: POSITIVE
+USD 139.27 (14-Feb-2023)
+Rating and Price Target Chart - USD (as of 14-Feb-2023)
+Currency=USD
+150
+125
+100
+75
+50
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Jul-2022
+Closing Price
+Target Price
+Rating Change
+Jan-2023
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Date Closing Price*
+09-Jan-2023
+134.61
+Rating
+Adjusted Price
+Target
+14-Dec-2022
+126.58
+121.00
+109.00
+13-Oct-2022
+121.40
+104.00
+18-Aug-2022
+122.49
+106.00
+18-May-2022
+111.19
+90.00
+16-Mar-2022
+107.31
+88.00
+16-Feb-2022
+105.78
+85.00
+13-Jan-2022
+109.85
+83.00
+15-Dec-2021
+97.14
+82.00
+17-Nov-2021
+90.73
+81.00
+18-Aug-2021
+95.57
+82.00
+15-Jul-2021
+94.95
+84.00
+15-Apr-2021
+100.40
+86.00
+17-Feb-2021
+86.25
+85.00
+16-Nov-2020
+95.90
+Underweight
+87.00
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by Progressive Corp ..
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by Progressive Corp ..
+15 February 2023
+14
+Barclays | Progressive Corp.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by Progressive Corp. and/or in any related
+derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from Progressive Corp. within the past 12 months.
+M: Progressive Corp. is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC
+and/or an affiliate.
+Valuation Methodology: Our $123 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis. This would require loss cost trends
+abating, that is outside our base case. Next, PGR may be uniquely positioned to make a digital breakthrough within the small commercial lines market
+($120bn premiums/TAM) if it can successfully leverage its multivariate pricing model it is known for on the personal auto side.
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates
+(collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or more Barclays affiliated legal entities listed
+below or by an independent and non-affiliated third-party entity (as may be communicated to you by such third-party entity in its communications
+with you). It is provided for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states
+on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt
+research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors
+is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic
+organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment
+decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt
+issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays
+institutional debt research reports should contact debtresearch@barclays.com. Clients that are subscribed to receive equity research reports, will not
+receive certain cross asset research reports co-authored by equity and FICC research analysts that are distributed as "institutional debt research
+reports" unless they have agreed to accept such reports. Eligible clients may get access to such cross asset reports by contacting
+debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and accepts no liability for use by them of the
+contents which may not be suitable for their personal use. Prices shown are indicative and Barclays is not offering to buy or sell or soliciting offers to
+buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers,
+directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue,
+loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this
+publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research
+believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Barclays is not responsible for, and makes no
+warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or video presentations of third parties that are
+accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site ('Third-Party Content'). Any such Third-Party Content has
+not been adopted or endorsed by Barclays, does not represent the views or opinions of Barclays, and is not incorporated by reference into this
+publication. Third-Party Content is provided for information purposes only and Barclays has not independently verified its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no
+obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have
+not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general
+recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject
+companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial
+circumstances or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this publication. The securities and
+other investments discussed herein may not be suitable for all investors and may not be available for purchase in all jurisdictions. The United States
+imposed sanctions on certain Chinese companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing securities issued by those companies. Investors
+must independently evaluate the merits and risks of the investments discussed herein, including any sanctions restrictions that may apply, consult any
+independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income
+from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should not be used as a submission or
+contribution of input data for the purposes of determining a financial benchmark.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have not been adopted or endorsed by any third
+party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is
+directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of
+"investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high
+net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c)
+other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity
+to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this
+15 February 2023
+15
+Barclays | Progressive Corp.
+communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area ("EEA"): This material is being distributed to any "Authorised User" located in a Restricted EEA Country by Barclays Bank
+Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria, Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta,
+Portugal, Romania, Slovakia and Slovenia. For any other "Authorised User" located in a country of the European Economic Area, this material is being
+distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the Central Bank of Ireland whose registered office is at 1
+Molesworth Street, Dublin 2, Ireland. Barclays Bank PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to Barclays and authorised to use the
+Research Services. The Restricted EEA Countries will be amended if required.
+Finland: Notwithstanding Finland's status as a Restricted EEA Country, Research Services may also be provided by Barclays Bank PLC where permitted
+by the terms of its cross-border license.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital
+Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in
+connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do
+so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local
+regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a
+Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa, S.A. de C.V. This material is distributed in the
+Cayman Islands and in the Bahamas by Barclays Capital Inc., which it is not licensed or registered to conduct and does not conduct business in, from or
+within those jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a
+joint-stock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays
+Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho
+(kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated
+by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities
+(India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is
+registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585;
+Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-
+NSDL-299-2008; Investment Adviser: INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308.The registered office
+of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai - 400 018, India. Telephone No: +91 22 67196363. Fax number: +91
+22 67196399. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of
+BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn
+No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays
+Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth
+Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not
+authorised to distribute any reports produced by Barclays' Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of
+Singapore. For matters in connection with this material, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose
+registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+This communication is directed at persons who are a "Wholesale Client" as defined by the Australian Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain exemptions to Barclays Bank PLC (BBPLC) under
+paragraph 911A(2)(l) of the Corporations Act 2001 from the requirement to hold an Australian financial services licence (AFSL) in respect of financial
+services provided to Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of the United Kingdom
+(PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and the PRA under United Kingdom laws. The United Kingdom
+has laws which differ from Australian laws. To the extent that this communication involves the provision of financial services by BBPLC to Australian
+Wholesale Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited (ACN 636 976 059,
+"Barrenjoey"), the holder of Australian Financial Services Licence (AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you
+by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays Bank PLC is not registered, filed with or
+approved by any New Zealand regulatory authority. This material is not provided under or in accordance with the Financial Markets Conduct Act of
+2013 ("FMCA"), and is not a disclosure document or "financial advice" under the FMCA. This material is distributed to you by either: (i) Barclays Bank
+PLC directly or (ii) Barrenjoey Markets Pty Limited ("Barrenjoey"), a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC. This material may only be distributed to "wholesale investors" that meet the "investment business",
+"investment activity", "large", or "government agency" criteria specified in Schedule 1 of the FMCA.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing
+and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only.
+15 February 2023
+16
+Barclays | Progressive Corp.
+Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014
+as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel
+Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. Barclays
+Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal
+place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates.
+Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related
+financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the
+UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside
+the UAE in Dubai (Licence No .: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No .: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material does not constitute or form part
+of any offer to issue or sell, or any solicitation of any offer to subscribe for or purchase, any securities or investment products in the UAE (including the
+Dubai International Financial Centre) and accordingly should not be construed as such. Furthermore, this information is being made available on the
+basis that the recipient acknowledges and understands that the entities and securities to which it may relate have not been approved, licensed by or
+registered with the UAE Central Bank, the Dubai Financial Services Authority or any other relevant licensing authority or governmental agency in the
+UAE. The content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial Services Authority. Barclays Bank PLC in
+the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC
+Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar
+Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are
+only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority.
+Russia: This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain
+information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation
+and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of
+any copy of this material in your possession.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax
+advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used,
+and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the
+transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax
+advisor.
+@ Copyright Barclays Bank PLC (2023). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the
+prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP.
+Additional information regarding this publication will be furnished upon request.
+15 February 2023
+17

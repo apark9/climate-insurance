@@ -1,0 +1,2132 @@
+BARCLAYS
+Equity Research
+3 November 2022
+AIG, Inc.
+3Q22 Earnings: Financial Lines
+Reserves Statutory Review
+We explore two topics that caught our attention in the 3Q
+print: Potentially growing property catastrophe risk after a
+conscious effort to reduce exposure and Financial Lines Loss
+picks (included in this note is a schedule P analysis).
+| CORE
+AIG
+EQUAL WEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 59.00
+raised 11% from USD 53.00
+Price (02-Nov-22)
+USD 57.28
+Potential Upside/Downside
++3.0%
+Since CY2019, AIG has experienced $1.8bn of cumulative adverse development on U.S.
+Financial Lines. To be sure, its overall PYD experience has been positive during the same period
+and we do not have any fundamental concerns about reserve adequacy (in fact, YTD AIG
+completed its reserve review on 90% of its book). Since AIG's $660mn of adverse PYD for U.S.
+Financial lines during 3Q22 were predominantly for AYs 2018-2019, and to a lesser extent
+AY2020, we focus our attention on those AYs (that are not subject to its ADC). We reviewed the
+development of schedule P loss picks for a selection of top D&O underwriters in those years. A
+limitation is relying on 2021 statutory data, a slight lag from current performance. See figures 1-
+4 for further details.
+We recognize AIG's multi-prong approach to risk selection (limit profile, attachment point, etc.)
+and reunderwriting during AYs 2018-2020. Nonetheless, we think it can take 3-5 years for D&O
+reserves to fully develop, therefore those AYs are still green. Likewise pricing was less rich in
+2018-2020 than what we are seeing now considering the compounding effect. AIG's D&O prior
+year emergence continues to be driven by large losses.
+Market Cap (USD mn)
+42558
+Shares Outstanding (mn)
+742.98
+Free Float (%)
+99.79
+52 Wk Avg Daily Volume (mn)
+4.9
+Dividend Yield (%)
+2.24
+Return on Equity TTM (%)
+26.67
+Current BVPS (USD)
+51.58
+Source: Bloomberg
+Price Performance
+Exchange-NYSE
+52 Week range
+USD 65.73-47.05
+68 -
+64 -
+60
+In conclusion, we observed significant variability of the development of insurers' loss picks
+(other liability claims made) in AYs: 2018, 2019 and 2020. AIG experienced more upward
+revisions to its loss picks for AY2017-2019 than peers while AIG's AY2020 loss pick is
+relatively lower than the pull forward from prior years. To take it one step further, AIG, TRV
+and the industry have reduced their AY2021 initial loss picks vs. AY2020 while CB raised its
+AY2021 loss picks relative to prior years, a more conservative stance. On the earnings call, AIG
+mentioned that its primary and excess not-for-profit loss pick for policy year '21 at 18 months of
+development is 80% lower than the prior year which reflects management's confidence of how
+different its book is today.
+56
+52
+48 -
+44
+Jan-2022
+Apr-2022
+Jul-2022
+Oct-2022
+Source: IDC
+Link to Barclays Live for interactive charting
+Appetite to grow property catastrophe underwriting. According to Peter Zaffino, Chairman &
+CEO "I think that the market will be very good for us to deploy more property. But again, we'll be
+disciplined, and we'll see what really transpires over the next 60 to 90 days. " We take that
+statement as more opportunistic, where it makes the most sense for AIG to participate.
+Reinsurance availability can be a significant factor for the deployment of capital on the primary
+side. We do not see AIG growing in property on the personal lines side in any meaningful way.
+U.S. Insurance/Non-Life
+Tracy Benguigui
++1 212 526 1561
+tracy.benguigui@barclays.com
+BCI, US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should consider this
+report as only a single factor in making their investment decision.
+Please see analyst certifications and important disclosures beginning on page 11 .
+Completed: 03-Nov-22, 09:47 GMT Released: 03-Nov-22, 09:48 GMT
+Restricted - External
+Barclays | AIG, Inc.
+We point out that while AIG manages its property catastrophe risk relative to capital by legal
+entity, S&P takes an enterprise view of capital. We think that AIG's catastrophe risk charge to
+S&P capital had benefited from a larger balance sheet that included life operations. With a
+smaller balance sheet, post separation, we see its PML growth to be more constrained.
+AIG: Quarterly and Annual EPS (USD)
+2021
+2022
+2023
+Change y/y
+FY Dec
+Q1
+Q2
+Q3
+Q4
+Year
+P/E
+Actual
+Old
+1.05A
+1.30A
+1.30A
+1.30A
+1.52A
+1.19A
+1.19A
+1.19A
+0.97A
+0.51E
+1.58A
+1.14E
+5.12A
+4.19E
+11.2
+New
+0.66A
+0.66A
+1.18E
+1.32E
+4.39E
+13.1
+Cons
+4.44E
+Old
+1.41E
+1.44E
+1.39E
+1.31E
+1.31E
+1.51E
+1.55E
+5.63E
+New
+1.49E
+5.79E
+9.9
+Consensus numbers are from Bloomberg received on 02-Nov-2022; 12:51 GMT
+Source: Barclays Research
+Cons
+2022
+1.48E
+24%
+1.58E
+-22%
+25%
+1.47E
+-32%
+98%
+1.65E
+-25%
+31%
+6.18E
+-14%
+2023
+11%
+32%
+3 November 2022
+2
+Barclays | AIG, Inc.
+U.S. Insurance/Non-Life
+AIG, Inc. (AIG)
+Income statement ($mn)
+Net premiums earned
+25,057
+Effective tax rate (%)
+19.4
+Combined ratio (%)
+95.8
+Combined ratio (ex cats & py development)
+90.9
+88.9
+(%)
+Per share data ($)
+EPS (adj)
+5.12
+EPS (reported)
+10.73
+DPS
+1.28
+BVPS (ex AOCI)
+71.80
+Balance sheet and capital return ($mn)
+Total investments
+91,792
+Common shareholders' equity (ex AOCI)
+58,784
+Share buybacks
+2,643
+5,250
+Dividends paid
+1,094
+Balance sheet and capital return metrics
+Debt leverage (%)
+22.8
+Financial leverage (%)
+24.6
+Total capital return as a % of op. earnings
+84.3
+179.8
+Valuation metrics
+P/BV (ex AOCI) (x)
+0.80
+P/E (adj) (x)
+Dividend yield (%)
+2.2
+ROE (%)
+6.7
+6.7
+Note: FY End Dec
+Source: Company data, Bloomberg, Barclays Research
+2021A
+2021A
+2021A
+2021A
+2021A
+2022E
+N/A
+N/A
+N/A
+N/A
+Underwriting income
+1,055
+1,887
+1,541
+1,681
+16.8%
+Operating income
+4,430
+3,479
+4,231
+4,655
+1.7%
+Net income
+9,359
+10,788
+21.8
+92.7
+2022E
+4.39
+13.28
+1.28
+52.01
+84.39
+2022E
+87,463
+62,014
+1,003
+2022E
+34.4
+36.7
+2022E
+0.68
+11.2
+13.1
+2.2
+2023E
+2024E
+CAGR
+25,677
+26,310
+27,439
+3.1%
+Net investment income (NII)
+N/A
+4,231
+22.0
+22.0
+4.3%
+94.1
+93.9
+89.2
+88.9
+2023E
+5.79
+5.79
+1.28
+56.35
+92.06
+2023E
+2024E
+77,855
+-5.3%
+82,717
+61,332
+2.4%
+4,000
+923
+2023E
+34.7
+37.1
+36.0
+116.4
+2023E
+0.62
+9.9
+2.2
+11.2
+12.1
+4,655
+-20.8%
+2024E
+CAGR
+6.84
+10.1%
+6.84
+-13.9%
+1.28
+0.0%
+BVPS
+79.97
+62.15
+-8.1%
+99.74
+11.6%
+63,134
+2,000
+-8.9%
+858
+-7.8%
+2024E
+33.8
+61.4
+2024E
+Average
+0.57
+0.67
+8.4
+10.6
+2.2
+2.2
+-0.7%
+-0.8%
+CAGR
+Average
+31.4
+33.6
+110.5
+9.2
+POSITIVE
+EQUAL WEIGHT
+Price (02-Nov-2022)
+USD 57.28
+Price Target
+USD 59.00
+Why EQUAL WEIGHT?
+We view AIG as a wait-and-see
+proposition as it goes down the
+complex path of deconsolidation as
+well as ongoing initiatives to
+achieve expense savings objectives.
+Upside case
+USD 64.00
+Eventual successful
+deconsolidation that yields a fair
+market value resulting in a rerating
+of AIG RemainCo. Our upside case
+assumes ~11x our '23 EPS estimate.
+Downside case
+USD 50.00
+Adverse reserve development
+accompanying expansion of
+underwriting risk appetite too fast
+too soon. Our downside case
+assumes ~8.6x our '23 EPS
+estimate.
+Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+65.73
+64.00
+Current
+57.28
+Target
+59.00
+50.00
+47.05
+Low
+Downside
+Industry Loss Picks: Other Liability Claims Made
+Insurers' narrative behind the continuation of hard pricing has been a rising claims
+environment. However, the industry has not raised its initial loss picks in AY2021 relative to
+prior years with significant variability by insurer.
+The industry has raised its other liability claims made loss picks for AYs 2018 and 2019 (from
+initial to current ) by 7.5 and 3.4 points, respectively. In contrast, the industry has lowered its
+3 November 2022
+3
+Barclays | AIG, Inc.
+2020 loss pick by 2.3 points (12 months development). The industry's AY2021 loss pick of 62% is
+relatively lower than prior years.
+FIGURE 1. Other Liability Claims Made - P&C Industry
+72%
+71%
+69%
+Industry Other Liab - Claims Made
+AYs have developed unfavorably by
+~1 pts on average since 2012
+70%
+69%
+71%
+66%
+62%
+64%
+63%
+61%
+61%
+65%
+62%
+66%
+63%
+63%
+65%
+63%
+62% 62%
+59%
+52%
+2012
+2013
+2014
+T
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Initial Loss Pick
+Current Loss Ratio
+Source: S&P Capital IQ Pro and Barclays Research
+AIG Loss Picks: Other Liability Claims Made
+D&O Market share: #1 in 2018, #2 2019, #3 2020
+AIG has notably raised its other liability claims made loss picks for AYs 2018, 2019, 2020 (from
+initial to current ) by 7.0, 8.1 and 1.3 points, respectively. This development is well ahead of the
+industry (see figure 1). On an absolute basis, AIG's loss picks for AYs 2018, 2019, 2020 are running
+higher than the industry and peers.
+FIGURE 2. Other Liability Claims Made - AIG
+100%
+90%
+80%
+77%77%
+70%
+84%
+76%
+73%
+66%
+AIG Other Liab - Claims Made
+AYs have developed unfavorably by
+~4.7 pts on average since 2012
+91%
+70%
+71%
+67%
+65%
+70%
+80%
+75%
+73%
+67%
+66%
+,67%
+67%67%
+60%
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Initial Loss Pick
+Current Loss Ratio
+Source: S&P Capital IQ Pro and Barclays Research
+CB Loss Picks: Other Liability Claims Made
+D&O Market share: #2 in 2018, #3 2019, #2 2020
+CB has raised its other liability claims made loss picks for AYs 2018, 2019, 2020 (from initial to
+current ) by 2.1, 4.2 and 3.3 points, respectively. This development is below the industry (see
+3 November 2022
+4
+Barclays | AIG, Inc.
+figure 1) for AYs 2018-2019 but appears more conservative for AY20 as it raised its loss picks
+rather than reduced it. On an absolute basis, CB's loss picks for AYs 2018, 2019, 2020 are running
+lower than the industry and peers that could reflect superior underwriting.
+FIGURE 3. Other Liability Claims Made - CB
+CB Other Liab - Claims Made
+AYs have developed favorably by
+~2.6 pts on average since 2012
+90%
+80%
+72%
+72%
+70%
+70%
+70%
+65%
+60%
+64%
+62%
+66%
+61%
+58%
+62%
+57%
+55%
+54%
+50%
+2012
+2013
+2014
+2015
+2016
+Initial Loss Pick
+2017
+2018
+Current Loss Ratio
+Source: S&P Capital IQ Pro and Barclays Research
+68%
+63%
+64%
+61%
+68%68%
+2019
+2020
+2021
+TRV Loss Picks: Other Liability Claims Made
+D&O Market share: #5 in 2018, #5 2019, #8 2020
+TRV has notably raised its other liability claims made loss picks for AYs 2018, 2019, 2020 (from
+initial to current ) by 6.8, 7.5 and 0.8 points, respectively. This development is well ahead of the
+industry (see figure 1). On an absolute basis, TRV's loss picks for AYs 2018, 2019, 2020 are
+running lower than the industry and peers.
+FIGURE 4. Other Liability Claims Made - TRV
+TRV Other Liab - Claims Made
+AYs have developed unfavorably by
+~0.4 pt on average since 2012
+80%
+70%
+68%
+63%
+60%
+61%
+57%
+56%
+54%
+54% 53%
+60%
+55%
+54%
+53%
+50%
+48%
+44%
+40%
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Current Loss Ratio
+Initial Loss Pick
+Source: S&P Capital IQ Pro and Barclays Research
+59%59%
+65%66%
+62%
+55%
+2019
+2020
+2021
+NA Commercial Pricing Coming Back in 3Q
+NA Commercial pricing grew to +9% in 3Q22 vs +7% in 2Q22 and +8% in 1Q22. At the same time
+AIG raised its view of loss trends to 6.5% in 3Q22 from 6.0% in 2Q22, mostly reflecting
+inflationary pressure son property loss cost trends on its weighted average. Just looking at
+excess casualty, loss trends are in the double digits. Digging into the segment contributions,
+International Commercial pricing dropped q/q to +6% in 3Q22 from +7% in 2Q22 and +10% in
+1Q22.
+3 November 2022
+5
+Barclays | AIG, Inc.
+FIGURE 5. AIG Pricing more robust in NA than International
+AIG
+1Q21
+2Q21
+3Q21
+4Q21
+1Q22
+2Q22
+3Q22
+Global Commercial
++15%
++13%
++12%
++10%
++9%
++7%
+Global Commercial ex WC
+NA Commercial
++15%
++13%
+Financial Lines
++24%
+Cyber*
+Excess Casualty
++31%
++20%
++11%
++11%
++8%
+>+15%
++15%
+>+15%
++14%
++10%
++7%
++9%
++12%
++85%
++52%
++32%
++10%
++12%
+Lexington
++11%
+Lexington - Property
++15%
+Lexington - Casualty
++36%
++19%
+NA Retail Property
+13%
++13%
++18%
++17%
++14%
++20%
+Intl Commercial
++14%
++13%
++13%
++9%
++10%
++7%
++6%
+UK
++23%
++21%
++12%
+EMEA
++18%
++14%
++10%
++10%
+Commercial Property
++19%
++18%
++14%
++10%
+Financial Lines
++20%
++21%
++24%
++18%
++21%
++11%
+Cyber*
++41%
++40%
++60%
++47%
+Global Energy
++26%
++16%
++14%
++11%
+APAC ex Japan
++13%
++10%
+Note: Cyber rates are included in financial lines, NA and International respectively.
+Source: Barclays Research, Company Data.
+3Q Highlights
+North America Commercial rate, ex WC, increased 9% (from 7% in 2Q22) in 3Q22 and continued
+to exceed loss cost trends. Last quarter, AIG characterized loss trend as 6% but should look
+more like 4% when taking into account 2 points of exposure growth. Note, other P&C insurers
+refer to the reverse, inflationary exposure as a component of rate, obscuring peer comparisons.
+PYD Spotlight: On a net basis, AIG's net favorable PYD was $72mn for 3Q22. AIG disclosed
+favorable PYD from global personal lines, global specialty and WC offset by adverse PYD in U.S.
+Financial Lines.
+Underlying combined ratio of 88.4% (210 bps improvement y/y) vs. our estimated 89.4% despite
+deterioration seen in NA Personal Lines. The standout is International Commercial AYCR
+improvements by 6.4 pts y/y. NA Commercial AYLR improved 4.0 pts y/y and on a sequential
+basis it improved by 80 bps to 62.5% from 63.3%. GI NPW declined 3% y/y, with a drag mostly
+seen in international personal lines. On a FX constant basis GI NPW growth was 3%.
+NA Personal Lines AYCR deteriorated to 112.8% in 3Q22 vs. 99.8% in 2Q22 and 98.4% in 3Q21
+reflecting ongoing remediation in PCG - from admitted to non-admitted. AIG is still committed
+to its business. We would like to better understand the economics and efficiency of its
+reinsurance program (i.e. Syndicate 2019). The growth side was impacted by one large client
+non-renewal.
+L&R: AIG continues to grow spread business with doubling of sales in FAs and robust FIA
+production. That said fee income was down amid weaker capital market conditions. AIG is
+seeing less adverse mortality. AIG's stake in CRBG is currently 77.7%. AIG consolidates CRBG
+results (NCI reflects its the equity interest not owned by AIG) until its ownership stake is <50%.
+3 November 2022
+6
+Barclays | AIG, Inc.
+Key Results
+EPS Beat: AIG's 3Q22 Operating EPS of $0.66 was above our $0.51 estimate and $0.46 consensus
+Street estimate. The beat primarily reflects better-than-expected GI underwriting gains
+including lower catastrophe losses and better underlying combined ratio, somewhat offset by
+lower NII due to lower alternative performance vs our estimates.
+BVPS (common) fell to $51.58 in 3Q22, from to $58.16 in 2Q22, mostly due to negative marks.
+VII: Alternative returns were $194mn (pre-tax) worse than AIG's expectations.
+Cat losses: $600mn (net of reinsurance) vs. our $830mn estimate.
+Capital Management: Parent liquidity was strong at $6.5bn at the end of the quarter, up from
+$5.6bn at the end of 2Q22. To recap, AIG received $1.7bn of gross proceeds from the CRBG IPO.
+$1.3bn of buybacks were completed during the quarter (vs. our $1.25bn estimate).
+Forward Looking Statements
+· Capital Deployment: AIG expects to put additional capital into its insurance subsidiaries for
+organic growth. AIG is bullish about the E&S market in particular. AIG is aiming to reduce its
+share count to 600-650mn range, while achieving leverage at the 20% to 25% level post-
+deconsolidation.
+. CRBG windows for a secondary offering: Mid to late March, mid May or late June. Net
+proceeds to be delayed for share repurchases
+· Share buybacks: AIG has $4.3bn remaining on its current share repurchase authorization
+and expect to end 2022 with >$5bn of buybacks. We are taking down our buyback
+assumption to $5.25bn from our original $5.87bn for FY22.
+· Fixed income/loan portfolio yields: Expected to rise 10-15 bps in 4Q, following +17 bps in
+3Q, and +9 bps in 2Q. Over time, yield uplift from NII could add 1 to 2 pts to ROCE.
+· CRBG is expecting spread expansion from compression beginning in 2023.
+· Expense savings: Remaining $350mn be realized from AIG 200; ~ $300mn of corporate GOE
+and ~$400mn of interest expense that will be transferred to Corebridge; and additional
+expense savings transitioning AIG to a leaner operating model.
+Valuation
+Our Equal Weight rating and $59 price target (up from $53) are based on a 50/50 weighted
+average of 10x (up from 9.0x) our 2023 EPS estimate and 0.7x (up from 0.6x) our 2023 book value
+per share (ex-AOCI) estimate. Our target multiples for AIG are below the P/C insurance group
+given we expect lower ROEs, especially for GI standalone.
+3 November 2022
+7
+Barclays | AIG, Inc.
+3Q Variance Analysis
+FIGURE 6. 3Q22 Variance Analysis
+Financial Summary
+(in $ mn, expect per share data)
+Adjusted pre-tax income (loss)
+General Insurance
+$750
+$1,257
+Life and Retirement
+$589
+Other Ops
+($614)
+NII APTI Basis
+$2,535
+Adjusted Net Income
+$509
+Adjusted EPS
+$0.66
+Adjusted return on common equity
+3.7%
+Repurchases
+$1,300
+Wgt. Avg. Diluted Shares Outstanding
+771.1
+Adjusted book value per common share
+$73.28
+Book value per common share
+$51.58
+General Insurance
+(in $ mn, expect per share data)
+Net premiums written
+Underwriting gains (loss)
+Adjusted pre-tax income
+Underwriting ratios
+Loss ratio
+Cat losses & reinstatement premiums
+9.8%
+PYD
+Underlying Loss ratio
+Expense ratio
+Combined ratio
+Underlying combined ratio
+General Insurance - North America
+(in $ mn, expect per share data)
+Net premiums written
+Commercial
+$2,757
+Personal
+$381
+Underwriting gain (loss)
+Commercial
+Personal
+Underwriting ratios - North America Commercial
+Combined ratio
+Underlying combined ratio
+Underwriting ratios - North America Personal
+Combined ratio
+Underlying combined ratio
+General Insurance - International
+(in $ mn, expect per share data)
+Net premiums written
+Commercial
+Personal
+3Q22A
+$725
+$1,359
+3Q22A
+$6,403
+$168
+$750
+67.5%
+(0.9%)
+58.6%
+29.8%
+97.3%
+88.4%
+88.5%
+3Q22A
+$3,138
+($439)
+($374)
+($65)
+113.6%
+83.7%
+88.4%
+116.4%
+112.8%
+3Q22A
+$3,265
+$3,465
+$1,992
+$1,273
+Q/Q
+2Q22
+% Change
+-47%
+-40%
+$563
+5%
+($461)
+-33%
+$2,504
+1.2%
+$979
+-48%
+$1.19
+-45%
+7.0%
+(327 bps)
+$1,699
+-23%
+843.3
+-9%
+$72.23
+1%
+$58.16
+-11%
+Q/Q
+2Q22
+% Change
+$6,866
+-7%
+$799
+-79%
+$1,257
+-40%
+56.2%
+1.9%
+(2.9%)
+57.3%
+31.3%
+87.5%
+1127 bps
+794 bps
+9.8%
+199 bps
+134 bps
+(146 bps)
+981 bps
+(12 bps)
+Q/Q
+2Q22
+% Change
+$3,401
+$2,918
+$483
+$406
+$416
+($10)
+-6%
+-21%
+-208%
+-190%
+550%
+88.2%
+2994 bps
+19 bps
+102.3%
+99.8%
+1405 bps
+1304 bps
+Q/Q
+2Q22
+% Change
+-6%
+$2,037
+$1,428
+-11%
+Y/Y
+3Q21
+% Change
+$1,126
+-36%
+$811
+-8%
+$877
+-33%
+($562)
+-9%
+$3,276
+-22.6%
+$837
+-39%
+$0.97
+-32%
+6.5%
+(280 bps)
+2.8%
+$1,059
+23%
+864.0
+-11%
+$61.80
+19%
+$77.03
+Y/Y
+3Q21
+% Change
+$6,590
+-3%
+$20
+740%
+$811
+-8%
+68.4%
+(0.6%)
+59.2%
+31.3%
+99.7%
+90.5%
+(88 bps)
+2 bps
+(30 bps)
+(0.2%)
+(61 bps)
+(151 bps)
+(239 bps)
+(211 bps)
+89.4%
+Y/Y
+3Q21
+-8%
+% Change 0
+$3,005
+$2,576
+$429
+($166)
+($503)
+$337
+4%
+7%
+-11%
+-164%
+26%
+119%
+120.0%
+90.5%
+(643 bps)
+(207 bps)
+14.9%
+98.4%
+10150 bps
+1435 bps
+102.5%
+Y/Y
+3Q21
+% Change
+$3,585
+-2%
+-9%
+$2,071
+-4%
+$1,514
+-16%
+Barclays Est.
+3Q22E
+% Var.
+$694
+4%
+$345
+117%
+$684
+-14%
+($334)
+-84%
+$2,619
+-3.2%
+$391
+30%
+$0.51
+30%
+85 bps
+$1,250
+4%
+769.4
+0%
+$72.54
+1%
+-33%
+$56.71
+-9%
+Barclays Est.
+3Q22E
+% Var.
+$6,632
+-3%
+($111)
+$345
+-252%
+117%
+70.3%
+(284 bps)
+12.5%
+(271 bps)
+(70 bps)
+58.0%
+57 bps
+31.3%
+(153 bps)
+101.7%
+(438 bps)
+(96 bps)
+Barclays Est.
+3Q22E
+% Var.
+$3,245
+-3%
+$2,834
+-3%
+$412
+-7%
+($310)
+42%
+($214)
+75%
+($96)
+32%
+107.8%
+580 bps
+88.0%
+45 bps
+121.6%
+(520 bps)
+1026 bps
+Barclays Est.
+% Var.
+-4%
+3Q22E
+$3,387
+$2,009
+-1%
+$1,378
+-8%
+3 November 2022
+8
+Barclays | AIG, Inc.
+Underwriting gain (loss)
+Commercial
+Personal
+Underwriting ratios - Intl Commercial
+Combined ratio
+Underlying combined ratio
+Underwriting ratios - Intl Personal
+Combined ratio
+Underlying combined ratio
+Life and Retirement
+(in $ mn, expect per share data)
+Adjusted pre-tax income
+Premiums and fees
+Net flows
+NII APTI basis
+$607
+$469
+$138
+75.4%
+82.4%
+81.4%
+80.4%
+89.8%
+99.9%
+$393
+$349
+$44
+96.9%
+95.2%
+54%
+-34%
+214%
+(699 bps)
+(97 bps)
+(713 bps)
+470 bps
+Q/Q
+2Q22
+3Q22A
+$589
+$2,136
+($92)
+$2,004
+$1,989
+% Change
+Source: Barclays Research, Company Data.
+$563
+$1,862
+$80
+5%
+-215%
+1%
+$186
+($94)
+$280
+226%
+-599%
+-51%
+104.8%
+86.8%
+(2944 bps)
+(644 bps)
+82.2%
+93.0%
+760 bps
+693 bps
+Y/Y
+3Q21
+% Change
+$969
+15%
+-39%
+$3,524
+-39%
+($1,106)
+92%
+$2,357
+-15%
+$199
+205%
+$178
+164%
+$21
+553%
+91.2% (1580 bps)
+84.2% (380 bps)
+98.5%
+(870 bps)
+95.1%
+480 bps
+Barclays Est.
+% Var.
+3Q22E
+$684
+$2,107
+($264)
+$2,025
+-14%
+1%
+65%
+-1%
+3 November 2022
+9
+Barclays | AIG, Inc.
+Model Summary
+FIGURE 7. Model Summary
+Summary
+($ in mn except per share data)
+Operating Income by Segment
+General Insurance
+Life and Retirement
+Individual Retirement
+Group Retirement
+Life Insurance
+Institutional Markets
+Other Operations
+Total Operating Earnings
+Pre-Tax
+After-Tax
+Operating EPS
+General Insurance
+Net premiums written
+Net earned premiums
+Combined Ratio
+Combined ratio ex cats, prior yr dev. & chg in disc.
+General Insurance - NA commercial
+Net premiums written
+Net earned premiums
+Combined Ratio
+Combined ratio ex cats, prior yr dev. & chg in disc.
+General Insurance - NA Personal
+Net premiums written
+Net earned premiums
+Combined Ratio
+Combined ratio ex cats, prior yr dev. & chg in disc.
+General Insurance - International Commercial
+Net premiums written
+Net earned premiums
+Combined Ratio
+Combined ratio ex cats, prior yr dev. & chg in disc.
+General Insurance - International Personal
+Net premiums written
+Net earned premiums
+Combined Ratio
+Combined ratio ex cats, prior yr dev. & chg in disc.
+Net Investment Income by Segment
+General Insurance
+Life and Retirement
+Corporate
+Total NII before eliminations
+Book value per share, ex AOCI
+Operating ROE, ex AOCI and DTA
+Share Buybacks
+Source: Barclays Research, Company Data.
+2019
+$3,533
+$1,977
+$937
+$331
+$308
+($1,616)
+$5,470
+$4,078
+$4.58
+$25,092
+$26,438
+99.7%
+96.0%
+$8,854
+102.3%
+97.6%
+$3,249
+$3,253
+100.1%
+94.7%
+$6,203
+$6,364
+99.5%
+95.1%
+$6,786
+$7,221
+96.1%
+95.2%
+$3,444
+$8,733
+$2,598
+$14,775
+$69.20
+8.3%
+$0
+2020
+$1,901
+$1,938
+$1,013
+$142
+$438
+($2,429)
+$3,003
+$2,201
+$2.52
+$22,959
+$23,662
+104.3%
+95.8%
+94.1%
+90.9%
+$8,635
+$9,600
+$8,516
+110.1%
+103.6%
+94.7%
+95.0%
+$1,149
+$1,786
+124.6%
+103.7%
+$6,874
+$6,927
+100.4%
+92.9%
+90.0%
+$6,301
+$6,433
+95.3%
+91.3%
+93.7%
+$2,925
+$3,304
+$8,881
+$9,521
+$1,087
+$1,112
+$12,893
+$60.78
+4.4%
+$500
+$2,643
+$5,250
+2021
+$4,359
+$1,939
+$1,284
+$106
+$582
+($2,350)
+$5,920
+$4,430
+$3,479
+$5.12
+$25,890
+$25,057
+$10,226
+$11,056
+$9,451
+$10,462
+90.9%
+$1,507
+$1,538
+80.8%
+99.6%
+$8,030
+$7,746
+86.9%
+$6,127
+$5,404
+$6,322
+93.7%
+$13,937
+$71.80
+8.4%
+2022E
+$4,286
+$1,082
+$798
+$363
+$371
+($1,954)
+$4,945
+$4.39
+$26,047
+$25,677
+92.7%
+88.9%
+87.0%
+$1,462
+$1,677
+$1,646
+106.4%
+104.8%
+104.3%
+$8,125
+$8,540
+$7,881
+$8,153
+84.2%
+86.6%
+81.6%
+$5,657
+$5,376
+96.5%
+103.0%
+97.8%
+$2,399
+$8,172
+$710
+$11,282
+$84.39
+6.0%
+7.1%
+2023E
+$4,136
+$1,477
+$1,043
+$569
+$523
+($1,488)
+$6,260
+$4,231
+$27,051
+$26,310
+94.1%
+89.2%
+$11,609
+$11,135
+93.8%
+87.3%
+$1,492
+100.0%
+82.1%
+$5,411
+$5,531
+100.3%
+$2,595
+$8,868
+$9,383
+$672
+$672
+$12,135
+$92.06
+$99.74
+$4,000
+2024E
+$4,205
+$1,653
+$1,131
+$653
+$602
+($1,528)
+$6,897
+$4,655
+$5.79
+$6.84
+$28,218
+$27,439
+93.9%
+88.9%
+$12,189
+$11,692
+93.8%
+87.3%
+$1,521
+$1,679
+104.8%
+100.0%
+$8,977
+$8,570
+86.6%
+82.1%
+$5,497
+102.0%
+99.3%
+$2,705
+$12,760
+7.8%
+$2,000
+3 November 2022
+10
+Barclays | AIG, Inc.
+Analyst(s) Certification(s):
+I, Tracy Benguigui, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
+securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+Important Disclosures:
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All
+authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the
+local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to
+https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New
+York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues,
+a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the
+firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment
+or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis,
+quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of
+Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to
+https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to:
+https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+AIG, Inc. (AIG, 02-Nov-2022, USD 57.28), Equal Weight/Positive, A/CD/CE/D/E/J/K/L/M/N
+Materially Mentioned Stocks (Ticker, Date, Price)
+Chubb Limited (CB, 02-Nov-2022, USD 210.54), Overweight/Positive, A/CE/D/J/K/L/M/N
+The Travelers Companies, Inc. (TRV, 02-Nov-2022, USD 182.31), Equal Weight/Positive, CD/CE/J/K/M/N
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant trading market, which may not be the last
+available closing price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the
+previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+CH: Barclays Bank PLC and/or its group companies makes, or will make, a market in the securities (as defined under paragraph 16.2 (k) of the HK SFC
+Code of Conduct) in respect of this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the
+next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US
+regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with
+South Korean regulations.
+FE: Barclays Bank PLC and/or its group companies has financial interests in relation to this issuer and such interests aggregate to an amount equal to
+or more than 1% of this issuer's market capitalization, as calculated in accordance with HK regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+3 November 2022
+11
+Barclays | AIG, Inc.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an
+affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or
+an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for
+remuneration, other than normal course investment advisory or trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit
+holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright C (2022) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its proprietary information and data that may
+be included in this report. Any Sustainalytics' information and data included herein may not be copied or redistributed, is intended for informational
+purposes only, does not constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics' information and data is
+subject to conditions available at https://www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively "Bloomberg") and the Bloomberg Indices are
+trademarks of Bloomberg. Bloomberg or Bloomberg's licensors own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or
+endorse this material, or guarantee the accuracy or completeness of any information herein, or make any warranty, express or implied, as to the results
+to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg shall have no liability or responsibility for injury or damages arising
+in connection therewith.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below)
+relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see
+definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the
+entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment
+horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to
+comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in
+an advisory capacity in a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Below is the list of companies that constitute the "industry coverage universe":
+U.S. Insurance/Non-Life
+3 November 2022
+12
+Barclays | AIG, Inc.
+AIG, Inc. (AIG)
+Chubb Limited (CB)
+Palomar Holdings, Inc. (PLMR)
+Ryan Specialty Holdings (RYAN)
+Allstate Corp. (ALL)
+James River Group Holdings (JRVR)
+Progressive Corp. (PGR)
+The Hartford Financial Services Group, Inc. (HIG) The Travelers Companies, Inc. (TRV)
+Arch Capital Group Ltd. (ACGL)
+Lemonade Inc (LMND)
+Root Inc. (ROOT)
+Distribution of Ratings:
+Barclays Equity Research has 1703 companies under coverage.
+50% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 48% of companies
+with this rating are investment banking clients of the Firm; 71% of the issuers with this rating have received financial services from the Firm.
+34% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 40% of
+companies with this rating are investment banking clients of the Firm; 67% of the issuers with this rating have received financial services from the Firm.
+14% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 29% of
+companies with this rating are investment banking clients of the Firm; 61% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Top Picks:
+Barclays Equity Research's "Top Picks" represent the single best alpha-generating investment idea within each industry (as defined by the relevant
+"industry coverage universe"), taken from among the Overweight-rated stocks within that industry. While analysts may highlight other Overweight-
+rated stocks in their published research in addition to their Top Pick, there can only be one "Top Pick" for each industry. To view the current list of Top
+Picks, go to the Top Picks page on Barclays Live (https://live.barcap.com/go/keyword/TopPicks).
+To see a list of companies that comprise a particular industry coverage universe, please go to https://publicresearch.barclays.com.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays' Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Capital Canada Inc. (BCCI, Canada)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, India Branch (Barclays Bank, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+3 November 2022
+13
+Barclays | AIG, Inc.
+AIG, Inc. (AIG / AIG)
+Stock Rating: EQUAL WEIGHT
+Industry View: POSITIVE
+USD 57.28 (02-Nov-2022)
+Rating and Price Target Chart - USD (as of 02-Nov-2022)
+Currency=USD
+65
+60
+x
+55
+50
+45
+40
+35
+30
+25
+20
+15
+Jan-2020
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Closing Price
+.
+Target Price
+Rating Change
+x
+Drop Coverage
+Jul-2022
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Date Closing Price*
+13-Oct-2022
+48.96
+13-Jul-2022
+51.12
+53.00
+11-Apr-2022
+63.14
+18-Feb-2022
+61.38
+61.00
+05-Jan-2022
+59.00
+59.00
+08-Nov-2021
+59.16
+60.00
+12-Oct-2021
+57.40
+59.00
+09-Aug-2021
+51.85
+53.00
+12-Jul-2021
+47.44
+50.00
+10-May-2021
+51.92
+53.00
+17-Mar-2021
+47.67
+47.00
+18-Feb-2021
+42.11
+43.00
+Rating
+Adjusted Price
+Target
+56.00
+63.00
+12-Jan-2021
+41.00
+16-Nov-2020
+38.49
+41.00
+Equal Weight
+39.00
+22-Jan-2020
+52.26
+Coverage
+Dropped
+On 03-Nov-2019, prior to any intra-day change that may have been
+published, the rating for this security was Overweight, and the adjusted
+price target was 67.00.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+3 November 2022
+14
+Barclays | AIG, Inc.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of AIG, Inc. in the previous
+12 months.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by AIG, Inc ..
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by AIG, Inc ..
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from AIG, Inc. in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from AIG, Inc. within the
+next 3 months.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by AIG, Inc. and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from AIG, Inc. within the past 12 months.
+L: AIG, Inc. is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: AIG, Inc. is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: AIG, Inc. is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or an
+affiliate.
+Valuation Methodology: Our Equal Weight rating and $59 price target are based on a 50/50 weighted average of 10x our 2023 EPS estimate and 0.7x
+our 2023 book value per share (ex-AOCI) estimate. Our target multiples for AIG are below the P/C insurance group given we expect lower ROEs,
+especially for GI standalone.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Potential calls on capital to complete a separation.
+Expansion of underwriting risk appetite too fast too soon and/or over exuberance at hardening pricing that falter AIG's resolve to walk away from
+business that does not meet risk return hurdles. Unexpected adverse reserve development which would not only impair earnings or capital but
+undermine the creditability of its underwriting remediation actions to date. Ultimately we think a smaller capital base post separation may temper
+AIG's ability to compete at the upper end of the market where we see less trading partners.
+Chubb Limited (CB / CB)
+Stock Rating: OVERWEIGHT
+Industry View: POSITIVE
+USD 210.54 (02-Nov-2022)
+Rating and Price Target Chart - USD (as of 02-Nov-2022)
+Currency=USD
+300
+250
+X
+200
+150
+100
+50
+Jan-2020
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Jul-2022
+Closing Price
+.
+Target Price
+Rating Change
+x
+Drop Coverage
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+3 November 2022
+15
+Barclays | AIG, Inc.
+Publication Date Closing Price*
+Rating
+Adjusted Price
+Target
+255.00
+26-Oct-2022
+204.15
+27-Jul-2022
+187.00
+253.00
+19-May-2022
+203.88
+249.00
+27-Apr-2022
+203.40
+250.00
+11-Apr-2022
+216.15
+244.00
+03-Feb-2022
+199.87
+236.00
+05-Jan-2022
+195.61
+232.00
+28-Oct-2021
+196.09
+227.00
+28-Jul-2021
+166.02
+192.00
+19-Jul-2021
+160.79
+190.00
+12-Apr-2021
+160.94
+187.00
+03-Feb-2021
+155.32
+178.00
+12-Jan-2021
+156.61
+173.00
+16-Nov-2020
+151.36
+Overweight
+171.00
+22-Jan-2020
+153.83
+Coverage
+Dropped
+On 03-Nov-2019, prior to any intra-day change that may have been
+published, the rating for this security was Overweight, and the adjusted
+price target was 185.00.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of Chubb Limited in the
+previous 12 months.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by Chubb Limited.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from Chubb Limited in the past 12 months.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by Chubb Limited and/or in any related
+derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from Chubb Limited within the past 12 months.
+L: Chubb Limited is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: Chubb Limited is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or
+an affiliate.
+N: Chubb Limited is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC
+and/or an affiliate.
+Valuation Methodology: Our Overweight rating and $255 price target are based on 50/50 weighted average P/E of 15x our 2023 EPS estimate and 1.5x
+our 2023 book value per share (ex-AOCI) estimate. Our target multiples for CB are above the P/C insurance group based on a stronger, more durable
+earnings trajectory and greater excess capital.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Lower investment income is expected but
+underutilization of the underwriting platform (not taking full advantage of hard pricing / customer base seeks out cheaper insurance providers or a
+material adverse reserve development) could keep fundamentals from accelerating. Chubb does have a sizeable capital buffer which in our view is an
+overhang on ROE.
+3 November 2022
+16
+Barclays | AIG, Inc.
+The Travelers Companies, Inc. (TRV / TRV)
+Stock Rating: EQUAL WEIGHT
+Industry View: POSITIVE
+USD 182.31 (02-Nov-2022)
+Rating and Price Target Chart - USD (as of 02-Nov-2022)
+Currency=USD
+200
+x
+175
+150
+125
+100
+75
+Jan-2020
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Jul-2022
+Closing Price
+Target Price
+.
+Rating Change
+x
+Drop Coverage
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Date Closing Price*
+Rating
+Adjusted Price
+Target
+19-Oct-2022
+166.77
+13-Oct-2022
+159.16
+178.00
+21-Jul-2022
+156.83
+164.00
+165.00
+13-Jul-2022
+165.28
+177.00
+20-Apr-2022
+176.16
+184.00
+11-Apr-2022
+184.86
+185.00
+21-Jan-2022
+165.18
+Equal Weight
+20-Apr-2021
+155.73
+170.00
+24-Mar-2021
+149.28
+165.00
+21-Jan-2021
+148.72
+155.00
+16-Nov-2020
+136.29
+Overweight
+150.00
+22-Jan-2020
+141.34
+Coverage
+Dropped
+On 03-Nov-2019, prior to any intra-day change that may have been
+published, the rating for this security was Overweight, and the adjusted
+price target was 162.00.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by The Travelers Companies, Inc ..
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by The Travelers Companies, Inc ..
+3 November 2022
+17
+Barclays | AIG, Inc.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by The Travelers Companies, Inc. and/or in any
+related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from The Travelers Companies, Inc. within the past 12 months.
+M: The Travelers Companies, Inc. is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays
+Bank PLC and/or an affiliate.
+N: The Travelers Companies, Inc. is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of
+Barclays Bank PLC and/or an affiliate.
+Valuation Methodology: Our Equal Weight rating and $178 price target are based on a 50/50 weighted average of ~13.5x our '23E EPS and 1.4x '23E
+BVPS ex AOCI.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Natural catastrophe exposure has potential to
+create earnings volatility. Depleted workers comp reserve margin and/or adverse loss emergence within long tail lines and commercial auto could
+result in reserve strengthening.
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates
+(collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or more Barclays affiliated legal entities listed
+below or by an independent and non-affiliated third-party entity (as may be communicated to you by such third-party entity in its communications
+with you). It is provided for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states
+on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt
+research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors
+is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic
+organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment
+decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt
+issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays
+institutional debt research reports should contact debtresearch@barclays.com. Clients that are subscribed to receive equity research reports, will not
+receive certain cross asset research reports co-authored by equity and FICC research analysts that are distributed as "institutional debt research
+reports" unless they have agreed to accept such reports. Eligible clients may get access to such cross asset reports by contacting
+debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and accepts no liability for use by them of the
+contents which may not be suitable for their personal use. Prices shown are indicative and Barclays is not offering to buy or sell or soliciting offers to
+buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers,
+directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue,
+loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this
+publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research
+believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Barclays is not responsible for, and makes no
+warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or video presentations of third parties that are
+accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site ('Third-Party Content'). Any such Third-Party Content has
+not been adopted or endorsed by Barclays, does not represent the views or opinions of Barclays, and is not incorporated by reference into this
+publication. Third-Party Content is provided for information purposes only and Barclays has not independently verified its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no
+obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have
+not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general
+recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject
+companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial
+circumstances or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this publication. The securities and
+other investments discussed herein may not be suitable for all investors and may not be available for purchase in all jurisdictions. The United States
+imposed sanctions on certain Chinese companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing securities issued by those companies. Investors
+must independently evaluate the merits and risks of the investments discussed herein, including any sanctions restrictions that may apply, consult any
+independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income
+from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should not be used as a submission or
+contribution of input data for the purposes of determining a financial benchmark.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have not been adopted or endorsed by any third
+party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is
+directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of
+"investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high
+net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c)
+3 November 2022
+18
+Barclays | AIG, Inc.
+other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity
+to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this
+communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area ("EEA"): This material is being distributed to any "Authorised User" located in a Restricted EEA Country by Barclays Bank
+Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria, Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta,
+Portugal, Romania, Slovakia and Slovenia. For any other "Authorised User" located in a country of the European Economic Area, this material is being
+distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the Central Bank of Ireland whose registered office is at 1
+Molesworth Street, Dublin 2, Ireland. Barclays Bank PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to Barclays and authorised to use the
+Research Services. The Restricted EEA Countries will be amended if required.
+Finland: Notwithstanding Finland's status as a Restricted EEA Country, Research Services may also be provided by Barclays Bank PLC where permitted
+by the terms of its cross-border license.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital
+Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in
+connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do
+so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local
+regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a
+Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa, S.A. de C.V. This material is distributed in the
+Cayman Islands and in the Bahamas by Barclays Capital Inc., which it is not licensed or registered to conduct and does not conduct business in, from or
+within those jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a
+joint-stock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays
+Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho
+(kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated
+by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities
+(India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is
+registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585;
+Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-
+NSDL-299-2008; Investment Adviser: INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308.The registered office
+of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai - 400 018, India. Telephone No: +91 22 67196363. Fax number: +91
+22 67196399. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of
+BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn
+No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays
+Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth
+Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not
+authorised to distribute any reports produced by Barclays' Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of
+Singapore. For matters in connection with this material, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose
+registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+This communication is directed at persons who are a "Wholesale Client" as defined by the Australian Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain exemptions to Barclays Bank PLC (BBPLC) under
+paragraph 911A(2)(l) of the Corporations Act 2001 from the requirement to hold an Australian financial services licence (AFSL) in respect of financial
+services provided to Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of the United Kingdom
+(PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and the PRA under United Kingdom laws. The United Kingdom
+has laws which differ from Australian laws. To the extent that this communication involves the provision of financial services by BBPLC to Australian
+Wholesale Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited (ACN 636 976 059,
+"Barrenjoey"), the holder of Australian Financial Services Licence (AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you
+by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays Bank PLC is not registered, filed with or
+approved by any New Zealand regulatory authority. This material is not provided under or in accordance with the Financial Markets Conduct Act of
+2013 ("FMCA"), and is not a disclosure document or "financial advice" under the FMCA. This material is distributed to you by either: (i) Barclays Bank
+PLC directly or (ii) Barrenjoey Markets Pty Limited ("Barrenjoey"), a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC. This material may only be distributed to "wholesale investors" that meet the "investment business",
+"investment activity", "large", or "government agency" criteria specified in Schedule 1 of the FMCA.
+3 November 2022
+19
+Barclays | AIG, Inc.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing
+and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only.
+Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014
+as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel
+Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. Barclays
+Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal
+place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates.
+Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related
+financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the
+UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside
+the UAE in Dubai (Licence No .: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No .: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material does not constitute or form part
+of any offer to issue or sell, or any solicitation of any offer to subscribe for or purchase, any securities or investment products in the UAE (including the
+Dubai International Financial Centre) and accordingly should not be construed as such. Furthermore, this information is being made available on the
+basis that the recipient acknowledges and understands that the entities and securities to which it may relate have not been approved, licensed by or
+registered with the UAE Central Bank, the Dubai Financial Services Authority or any other relevant licensing authority or governmental agency in the
+UAE. The content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial Services Authority. Barclays Bank PLC in
+the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC
+Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar
+Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are
+only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority.
+Russia: This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain
+information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation
+and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of
+any copy of this material in your possession.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax
+advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used,
+and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the
+transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax
+advisor.
+Copyright Barclays Bank PLC (2022). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the
+prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP.
+Additional information regarding this publication will be furnished upon request.
+3 November 2022
+20

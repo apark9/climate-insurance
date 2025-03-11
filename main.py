@@ -5,6 +5,7 @@ import sys
 import code.sentiment as sentiment
 import code.graphing as graphing
 import code.naic as naic
+import code.sell_side as sell_side
 import nltk
 
 # import code.climate as climate
@@ -26,18 +27,13 @@ if __name__ == "__main__":
     # naic.analyze_disclosures()
 
     'SENTIMENT'
-    # try:
-    #     batch_index = int(sys.argv[1])
-    # except ValueError:
-    #     logging.error("Batch index must be an integer.")
-    #     sys.exit(1)
-    # naic.analyze_single_batch(batch_index)
-
+    # sentiment.load_finbert()
     # batch_number = int(sys.argv[1])
     # sentiment.process_batch(batch_number)
+    # sentiment.process_pgr_files()
     # sentiment.merge_batches()
     # sentiment.perform_analysis()
-    sentiment.generate_sentiment_excel()
+    # sentiment.generate_sentiment_excel()
 
     'GRAPHING'
-    # graphing.perform_graphing()
+    graphing.perform_graphing()

@@ -1,0 +1,447 @@
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Equity Research
+Flash Comment - April 23, 2024
+Commercial Lines Insurance
+W.R. Berkley Corporation (WRB)
+WRB: Q1 Beats on Investment Income and Cats
+Our Call
+WRB reported Q1 EPS of $1.56, beating our $1.42 and consensus $1.43 due to
+investment income and lower cats. The underlying combined ratio was in-line (expense
+ratio a touch better/loss ratio a touch worse) as WRB takes a prudent view of loss trends.
+Initial Thoughts
+The good: Net premiums written rose 10.7%, a bit below our 13.2%, but within the
+10-15% guided range for the year. Insurance rose 11.9% (vs. our 13.7%) and reinsurance
+rose 4.2% (vs our 10.3%). The expense ratio was 28.6%, beating our 28.7% and better than
+28.8% last Q1, whereas the underlying loss ratio of 59.1%, fell short of our 58.9% and rose
+also when compared to 58.9% last Q1. Cat losses of $30.5m, were below our $40.0m.
+Average rate increases ex comp were 7.8%, a touch below 8.0% in Q4.
+The bad: Net investment income was $319.8m from the core portfolio, ahead of our
+$292.8m. Core portfolio income of $331.2m, beat our $297.6m whereas investment
+funds saw a loss of $29.3m (which was worse than our estimate for a loss of $20.3m) and
+arbitrage trading account added $18.0m (beating our $15.5m). The core portfolio most
+likely benefited from investment income from securities linked to Argentinian inflation
+(which was also the case in Q4).
+The ugly: There wasn't a lot to call "ugly" but WRB saw a loss from investment funds,
+which we expected. Also, they continue to conservatively book the current accident
+year and assuming no reserve development in either segment the underlying loss ratios
+missed us in insurance (60.7% vs our 59.9%), but beat in reinsurance (49.0% vs our 51.5%).
+Reinsurance growth was only 4.2% as growth in monoline excess and property, offset a
+casualty decline (-10.1%). The tax rate of 22.9%, was above our 21%.
+Negligible overall reserve movement: Reserve development was negligible as the delta
+between the reported and current accident year combined ratio was the $30.5m, or 1.1
+points of cat losses. We expect a focus of the conference call to be on movements WRB
+has seen it its reserves for different lines and accident years during the quarter.
+Stock call: The shares should trade based on the commentary given on the conference
+call and any forward outlook they provided for the year. The biggest focus of the call will
+be on the outlook for growth and margins and color on the reserve movement in the
+quarter. Conference call at 9:00 AM EST; Dial-in number is 888-330-3391, Passcode:
+9890223.
+WELLS
+FARGO
+Equity Analyst(s)
+Elyse Greenspan, CFA
+Equity Analyst | Wells Fargo Securities, LLC
+Elyse.Greenspan@wellsfargo.com | 212-214-8031
+Hristian Getsov
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Hristian.Getsov@wellsfargo.com | 561-843-4188
+Nicholas Annitto
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Nicholas.Annitto@wellsfargo.com | 212-214-5322
+Matthew Byrnes, CFA
+Associate Equity Analyst | Wells Fargo Securities, LLC
+Matthew.Byrnes@wellsfargo.com | 212-214-8903
+W.R. Berkley Corporation (WRB)
+Overweight
+Price: $83.43/Price Target: $99.00
+Market Cap: $21,404 MM
+Note: Pricing as of 04/22/2024
+Source: Company Data, Wells Fargo Securities estimates, and Factset.
+All estimates/forecasts are as of 4/23/2024 unless otherwise stated. 4/23/2024 8:57:40EDT. Please see page 4 for rating definitions, important disclosures and required analyst certifications.
+Wells Fargo Securities, LLC does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could
+affect the objectivity of the report and investors should consider this report as only a single factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+In a Nutshell. WRB reported Q1 EPS of $1.56, beating our $1.42 and consensus of $1.43. The upside
+was due to higher investment income (higher core portfolio income offsetting modestly lower
+investment funds) and modestly lower cats. Catastrophe losses came in at $30.5 million (1.1 pts),
+lower than our $40 million (1.4 pts). Prior year reserve development was negligible in the quarter.
+WRB does not call out the level of prior year development by segment until the 10-Q. Investment
+income came in at $319.8 million, better than our $292.8 million estimate, with the core portfolio and
+arbitrage trading account coming in ahead of us while investment funds saw a loss of $29m which was
+a bit worse than our loss of $20m estimate. There were FX gains of $13 million that helped earnings by
+$0.04 per share.
+The underlying combined ratio of 87.7% was in line with our 87.7%; the underlying loss ratio came
+in 59.1%, ~20bps worse than our estimate while the expense ratio was 10bps better than us. The
+expense ratio was 28.6%, 10 basis points better than us. WRB did not buy back any shares in the
+quarter, relative to our $50 million estimate. The average diluted share count of 270.5 million was a bit
+higher than our 270.2 million estimate. The reported operating ROE was 22.7%, and the reported net
+income ROE was 23.7%. Book value per share grew by 4.4% sequentially to $30.34.
+Exhibit 1 - WRB Q1 2024 Estimates Versus Actual
+($ in millions, except as noted)
+Summary
+Insurance
+235.1
+Reinsurance & Monoline Excess
+Underwriting Income
+309.7
+Net Investment Income
+319.8
+Corporate & Other Ex. Realized Gains/(Losses)
+(81.2)
+548.3
+Pre-Tax Operating Income
+Taxes
+Noncontrolling Interest
+Adjusted After-Tax Operating Income
+Operating EPS
+YoY Change in Operating EPS
+57.3%
+42.9%
+14.4%
+Tax Rate
+22.9%
+21.0%
++187bps
+GAAP Book Value per Share
+$30.34
+$30.46
+Operating Return on Equity
+22.2%
+20.2%
+Net Income ROE (Reported)
+23.7%
+Revenues
+Gross premiums written
+3,362.8
+y/y change
+13.1%
+10.3%
+(2.9%)
+Net premiums written
+2,851.3
+y/y change
+10,7%
+Net premiums earned
+2,764.3
+2,781.3
+y/y change
+11.0%
+11.6%
+Net investment income
+319.8
+292.8
+y/y change
+43.2%
+Total revenues
+3,256.8
+Actual
+Q1 2024
+WFS Estimate
+Delta Vs. WFS
+Absolute Delta
+% Delta
+Underwriting Profitability
+Loss Ratio
+60.2%
+60.5%
+Expense Ratio
+28.6%
+Combined Ratio
+88.8%
+89.2%
+Cats Points on Combined Ratio
+1.1%
+PYD Points on Combined Ratio
+0.0%
+Underlying Loss Ratio
+59.1%
+Underlying Combined Ratio
+87.7%
+Catastrophe Losses ($)
+30.5
+40.0
+Reserve Development ($)
+0.0
+Capital Return
+Common Dividends
+28.2
+Share Repurchases
+0.0
+Total Capital Return
+28.2
+Total Payout Ratio (% of Operating Income)
+6.7%
+74.6
+(125.4)
+0.4
+423,3
+$1.56
+$1.42
+244.2
+56.1
+300.4
+292.8
+[106.1)
+487.1
+(102.3)
+(0.6)
+384.1
+24.3%
+3,450.1
+2,915.9
+(64.6)
+(2.2%)
+13,2%
+31.1%
+3,228.4
+28.7%
+1.4%
+(0.3pts)
+0.1%
+58.9%
+87.7%
+3.0
+28.1
+0.1
+0.0
+50.0
+(1.0)
+78.1
+20.3%
+(13.7%)
+(9.2)
+18.4
+9.3
+3.1%
+27.1
+9.2%
+24.9
+(23.5%)
+61.2
+12.6%
+(23.1)
+22.6%
+1.1
+(169.8%)
+39.2
+$0.14
+($0.12)
+2.1%
+10.2%
+(51bps)
+(2.1%)
+(87.3)
+(2.5%)
+(2.5%)
+(16.9)
+(0.7%)
+27.1
+12.1%
+28.3
+(0.3pts)
+(0.5%)
+(0.1pts)
+(0.3%)
+(0.4pts)
+(0.4%)
+(0.1pts)
++0.1pts
++0.1pts
+(9.5)
+(3.0)
+(50.0)
+(49.9)
+Source: Company reports and Wells Fargo Securities, LLC estimates
+(3.8%)
+32.8%
+10.2%
+10.1%
+8.9%
+(0.4%)
+(0.6%)
+9.2%
+0.9%
+(23.3%)
+(100.0%)
+0.2%
+0.1%
+(23.7%)
+(100.0%)
+(0.6)
+2 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+Investment Thesis, Valuation and Risks
+W.R. Berkley Corporation (WRB)
+Investment Thesis
+We have an Overweight rating on shares of WRB. We believe that WRB is positioned to continue to see a healthy level of rate increases in
+2024, particularly as they lean in on property insurance and reinsurance, which should translate into a good level of premium growth, which
+we do not believe is currently reflected in consensus expectations.
+Target Price Valuation for WRB: $99.00 from NC
+. Our price target of $99 is based on just around a 2.5x multiple of our year-end 2025 book value estimate
+· Our price target also represents a ~14.5x multiple against our 2025 EPS estimate.
+. The 14.5x is a slight discount to where WRB has historically traded as we look to be conservative given social inflation.
+Risks to Our Price Target and Rating for WRB
+Risks to achieving our price target include a slowdown in the firming pricing environment, a spike in inflation resulting in higher loss costs
+and underlying margins falling short of expectations, adverse reserve development, and a high level of catastrophe losses.
+Equity Research | 3
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+Required Disclosures
+I, Elyse Greenspan, certify that:
+1) All views expressed in this research report accurately reflect my personal views about any and all of the subject securities or issuers discussed; and
+2) No part of my compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by me in this research report.
+Wells Fargo Securities, LLC does not compensate its research analysts based on specific investment banking transactions. Wells Fargo Securities, LLC's research
+analysts receive compensation that is based upon and impacted by the overall profitability and revenue of the firm, which includes, but is not limited to investment
+banking revenue.
+Additional Information Available Upon Request
+BUY:$65.00
+01/27/2022
+100
+BUY:$76.00
+04/12/2022
+W.R. Berkley Corporation Rating History as of 04-22-2024
+BUY:$80.00
+04/25/2022
+BUY:$81.00
+07/12/2022
+powered by: BlueMatrix
+BUY:$83.00
+07/21/2022
+BUY:$85.00
+10/12/2022
+BUY:$79.00
+04/05/2023
+BUY:$77.00
+04/20/2023
+BUY:$76.00
+07/17/2023
+BUY:$75.00
+07/20/2023
+90
+80
+70
+60
+50
+40
+Jul 21
+BUY:$84.00
+01/11/2024
+Oct 21
+BUY:$92.00
+01/24/2024
+Jan 22
+Apr 22
+BUY:$99.00
+04/11/2024
+Jul 22
+Oct 22
+Jan 23
+Apr 23
+Jul 23
+Oct 23
+Jan 24
+Apr 24
+Closing Price
+Price Target
+Initiation (I); Drop Coverage (D); Overweight (BUY); Equal Weight (HOLD); Underweight (SELL); Suspended (SR); Not Rated (NR); No Estimate (NE)
+Wells Fargo Securities, LLC and/or its affiliates, have beneficial ownership of 0.5% or more of any class of the common stock of W.R. Berkley Corporation.
+Wells Fargo Securities, LLC, maintains a market in the common stock of W.R. Berkley Corporation.
+Wells Fargo Securities, LLC, or any of its affiliates, intends to seek or expects to receive compensation for investment banking services from W.R. Berkley
+Corporation in the next three months.
+Wells Fargo Securities, LLC, or its affiliates has a significant financial interest in W.R. Berkley Corporation.
+STOCK RATING
+OW=Overweight: Total return on stock expected to be 10%+ over the next 12 months. BUY
+EW=Equal Weight: Total return on stock expected to be -10% to +10% over the next 12 months. HOLD
+UW=Underweight: Total return on stock expected to lag the Overweight- and Equal Weight-rated stocks within the analyst's coverage universe over the next 12
+months. SELL
+NR=Not Rated: The rating and price target has been removed due to lack of fundamental basis to support the recommendation or due to legal, regulatory or
+company policy considerations.
+As of April 22, 2024
+48.7% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Overweight.
+43.0% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Equal Weight.
+8.3% of companies covered by Wells Fargo Securities, LLC Equity Research are rated Underweight.
+Wells Fargo Securities, LLC has provided investment banking services for 34.8% of its Equity Research Overweight-rated companies.
+4 | Equity Research
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+W.R. Berkley Corporation
+Equity Research
+Wells Fargo Securities, LLC has provided investment banking services for 36.1% of its Equity Research Equal Weight-rated companies.
+Wells Fargo Securities, LLC has provided investment banking services for 32.0% of its Equity Research Underweight-rated companies.
+Important Disclosure for U.S. Clients
+This report was prepared by Wells Fargo Securities Global Research Department ("WFS Research") personnel associated with Wells Fargo Securities, LLC ("Wells
+Fargo Securities").
+WFS Research may, from time to time, provide clients with short-term trading views in its research reports regarding subject companies on which Wells Fargo
+Securities currently has equity research coverage. A short-term trading view offers a view on how the market price of a subject company's common equity may
+trend in absolute terms during the 30 days following the date of the short-term trading view. A short-term trading view on a subject company's common equity
+does not impact our fundamental investment rating or price target for that company, which reflect our view of how the subject company's common equity may
+perform over a one-year period. A short-term trading view may reach a different conclusion than the firm's fundamental investment rating and price target for
+a subject company and, therefore, short-term trading views could result in short-term price movements that are contrary to our fundamental investment rating
+and price target. Short-term trading views are not ratings and the firm does not intend, nor undertakes any obligation, to maintain, update or close out short-term
+trading views. Short-term trading views may not be suitable for all investors and have not been tailored to individual investor circumstances and objectives, and
+investors should make their own independent decisions regarding any short-term trading views discussed in WFS Research reports.
+Important Disclosure for International Clients
+United Kingdom - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of
+investors. For recipients in the United Kingdom, this report is distributed by Wells Fargo Securities International Limited ("WFSIL"). WFSIL is a UK incorporated
+investment firm authorised and regulated by the Financial Conduct Authority. For the purposes of Section 21 of the UK Financial Services and Markets Act 2000
+(the "Act"), the content of this report has been approved by WFSIL, an authorised person under the Act. WFSIL does not deal with retail clients as defined in the
+Directive 2014/65/EU ("MiFID2"). The FCA rules made under the Financial Services and Markets Act 2000 for the protection of retail clients will therefore not apply,
+nor will the Financial Services Compensation Scheme be available. This report is not intended for, and should not be relied upon by, retail clients. For the purposes of
+the U.K. Financial Conduct Authority's rules, this report constitutes impartial investment research.
+EEA - The securities and related financial instruments described herein may not be eligible for sale in all jurisdictions or to certain categories of investors. For
+recipients in the EEA, this report is distributed by WFSIL or Wells Fargo Securities Europe S.A. ("WFSE"). WFSE is a French incorporated investment firm authorized
+and regulated by the Autorité de contrôle prudentiel et de résolution and the Autorité des marchés financiers. WFSE does not deal with retail clients as defined in
+the Directive 2014/65/EU ("MiFID2"). This report is not intended for, and should not be relied upon by, retail clients.
+Australia - Wells Fargo Securities, LLC and Wells Fargo Securities International Limited are exempt from the requirements to hold an Australian financial services
+license in respect of the financial services they provide to wholesale clients in Australia. Wells Fargo Securities, LLC is regulated under the laws of the United
+States and Wells Fargo Securities International Limited is regulated under laws of the United Kingdom. All such laws differ from Australian laws. Any offer or
+documentation provided to Australian recipients by Wells Fargo Securities, LLC or Wells Fargo Securities International Limited in the course of providing the
+financial services will be prepared in accordance with the laws of the United States or United Kingdom and not Australian laws.
+Canada - This report is distributed in Canada by Wells Fargo Securities Canada, Ltd., a registered investment dealer in Canada and member of the Canadian
+Investment Regulatory Organization (CIRO) and, Member - Canadian Investor Protection Fund (CIPF). Wells Fargo Securities, LLC's research analysts may
+participate in company events such as site visits but are generally prohibited from accepting payment or reimbursement by the subject companies for associated
+expenses unless pre-authorized by members of Research Management.
+China - Strictly Private and Confidential. For the sole use of the recipient only. Not to be copied or redistributed within the People's Republic of China.
+Brazil - This report was not created for distribution to investors resident in Brazil or to the Brazilian public in general. Wells Fargo Securities, LLC is a broker-dealer
+registered in United States of America with and regulated by the U.S. Securities and Exchange Commission. Wells Fargo Securities, LLC is not registered in Brazil
+and its products, including this report and the securities mentioned in this report, have not been and will not be publicly issued, placed, distributed, offered or
+negotiated in the Brazilian capital markets, and, as a result, have not been and will not be registered with the Brazilian Securities Commission (Comissão de Valores
+Mobiliários, the CVM). The offer of Wells Fargo Securities, LLC's products, including this report and any securities mentioned in this report, is intended only for
+residents in the countries in which Wells Fargo Securities, LLC is authorized to operate.
+About Wells Fargo Securities
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not
+limited to Wells Fargo Securities, LLC, a U.S. broker-dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and
+SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Securities Canada, Ltd., a member of IIROC and CIPF, Wells Fargo Bank, N.A.
+and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+This report is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments named or described in the report.
+This report, including any ratings it contains, does not constitute a personal recommendation or take into account the particular investment objectives, financial
+situations, or needs of individual clients. Clients should seek professional advice, including tax advice, to determine whether any advice or recommendation in the
+attached research report is suitable for their particular circumstances. The information in this report is provided as of the date of the report and has been obtained
+or derived from sources believed by Wells Fargo Securities Global Research Department ("WFS Research"), to be reliable, but WFS Research does not represent
+that this information is accurate or complete. Any opinions or estimates contained in this report represent the judgment of WFS Research, at the time that the
+report was published, and are subject to change without notice. Certain text, images, graphics, screenshots and audio or video clips included in this report are
+protected by copyright law and owned by third parties (collectively, "Third Party Content"). Third Party Content is made available to clients by Wells Fargo under
+license or otherwise in accordance with applicable law. Any use or publication of Third Party Content included in this report for purposes other than fair use requires
+permission from the copyright owner. Any external website links included in this publication are not maintained, controlled or operated by Wells Fargo Securities.
+Wells Fargo Securities does not provide the products and services on these websites and the views expressed on these websites do not necessarily represent
+Equity Research | 5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Commercial Lines Insurance
+Equity Research
+those of Wells Fargo Securities. Please review the applicable privacy and security policies and terms and conditions for the website you are visiting. All Wells Fargo
+Securities research reports published by WFS Research are disseminated and available to all clients simultaneously through electronic publication to our internal
+client websites. Clients may also receive our research via third party vendors. Not all research content is redistributed to our clients or available to third-party
+aggregators, nor is WFS Research responsible for the redistribution of our research by third party aggregators. Equity Strategists focus on investment themes
+across the equity markets and sectors. Any discussion within an Equity Strategy report of specific securities is not intended to provide a fundamental analysis of
+any individual company described therein. The information provided in Equity Strategy reports is subject to change without notice, and investors should not expect
+continuing information or additional reports relating to any security described therein. Wells Fargo Securities' Signature Picks is a product of the Equity Strategy
+team and represents a portfolio of stocks selected from the Equity Research Department's universe of Overweight rated stocks. Stocks with this designation are
+selected by the Signature Picks Committee based on factors such as volatility, risks, market cap and liquidity and may not represent the fundamental analysts'
+top-rated stock in their respective coverage universe. For research or other data available on a particular security, please contact your sales representative or go to
+http://research.wellsfargosecurities.com. Copyright @ 2024 Wells Fargo Securities, LLC
+SECURITIES: NOT FDIC-INSURED - MAY LOSE VALUE - NO BANK GUARANTEE
+6 | Equity Research

@@ -1,0 +1,768 @@
+file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,vader_positive,vader_negative,vader_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
+SKWD_1Q23.txt,SKWD,2023,1Q,"NWP Growth Nuance: NWP growth of 49% y/y was obscured by the restructuring of a global
+property quota share reinsurance treaty in 1Q22.
+",reinsurance,Financial,0.0001881632924778387,0.32096362113952637,0.6788482069969177,0.28,0.0,0.72,56.59,14.42,0.0,0.9130434782608695,23
+SKWD_1Q23.txt,SKWD,2023,1Q,"US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays | Skyward Specialty Insurance Group, Inc.
+Ceded Re Strategy: The May 1 property catastrophe renewal was in line with managements'
+price and term expectations.",catastrophe,Financial,6.574743565579411e-06,2.50811644946225e-05,0.999968409538269,0.0,0.121,0.879,51.55,13.93,13.0,0.9714285714285714,35
+SKWD_1Q23.txt,SKWD,2023,1Q,"On the top of the
+tower, SKWD maintains reinsurance limits in excess of a 1 in 250 year event.",reinsurance,Financial,8.738821634324268e-06,4.628752139979042e-05,0.9999450445175171,0.101,0.0,0.899,77.57,9.71,0.0,0.8421052631578947,19
+SKWD_1Q23.txt,SKWD,2023,1Q,"Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+26.9%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+95.3%
+92.2%
+92.5%
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+16,063
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+11,828
+CAT points
+1.0%
+2.4%
+FY 2020
+83.9%
+70.9%
+65.3%
+83.9%
+67.7%
+68.9%
+65.3%
+110.3%
+FY 2021
+94.6%
+Source:",catastrophe,Financial,0.00016998448700178415,0.000763745279982686,0.9990662932395935,0.0,0.146,0.854,79.87,5.15,8.5,0.6714285714285714,70
+SKWD_1Q23.txt,SKWD,2023,1Q,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,5.412612881627865e-05,0.999755322933197,0.00019052978313993663,0.0,0.0,1.0,30.53,19.94,0.0,1.0,7
+SKWD_2Q23.txt,SKWD,2023,2Q,"Rate increases are broad based,
+with the greatest uplift seen in Global Property.
+",rate increases,Financial,0.9520553350448608,2.5953738713724306e-06,0.04794212430715561,0.259,0.0,0.741,66.74,11.35,0.0,1.0,13
+SKWD_2Q23.txt,SKWD,2023,2Q,"SKWD typically waits 3 years to reflect positive trends in its
+current vs. initial loss ratios.
+",loss ratios,Financial,0.00034180976217612624,0.0002552096266299486,0.9994029998779297,0.19,0.122,0.688,63.36,8.2,0.0,1.0,16
+SKWD_2Q23.txt,SKWD,2023,2Q,SKWD has not shared prior period loss ratios of exited businesses.,loss ratios,Financial,4.903886747342767e-06,3.852066583931446e-05,0.9999566078186035,0.0,0.325,0.675,51.85,15.31,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,2Q,2Q catastrophe losses of $6.8mn were worse than our modeled $1.8mn.,catastrophe,Financial,1.1253948741796194e-06,0.9999986886978149,2.336862365837078e-07,0.0,0.56,0.44,82.81,5.84,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,2Q,"Incrementally, we learned that its risk adjusted reinsurance pricing for
+property catastrophe risk at 5/1 was 15-20%.",catastrophe,Financial,6.2319531934917904e-06,3.753864439204335e-05,0.9999562501907349,0.0,0.381,0.619,37.3,18.56,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,2Q,"Incrementally, we learned that its risk adjusted reinsurance pricing for
+property catastrophe risk at 5/1 was 15-20%.",reinsurance,Financial,6.2319531934917904e-06,3.753864439204335e-05,0.9999562501907349,0.0,0.381,0.619,37.3,18.56,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,2Q,"This added reinsurance costs does not compress
+underwriting margins given prop cat is a relatively smaller portion of overall transactional E&S
+and global property pricing.
+",reinsurance,Financial,0.000998231815174222,0.0021393054630607367,0.996862530708313,0.0,0.0,1.0,29.18,18.0,0.0,1.0,25
+SKWD_2Q23.txt,SKWD,2023,2Q,Reinsurance risk management.,reinsurance,Financial,0.0005515926168300211,0.0008998419507406652,0.9985485672950745,0.0,0.512,0.488,9.21,27.87,0.0,1.0,3
+SKWD_2Q23.txt,SKWD,2023,2Q,"Exposure to reinsurance is predominately in the loss portfolio
+transfer (which is fully collateralized) and captives divisions.",reinsurance,Financial,1.5581646266582538e-06,8.640420128358528e-05,0.9999120235443115,0.0,0.126,0.874,11.92,20.92,0.0,0.9411764705882353,17
+SKWD_2Q23.txt,SKWD,2023,2Q,"The earnings miss is due to higher than expected catastrophe losses.
+",catastrophe,Financial,5.117525603282047e-08,0.9999998807907104,8.041636334610303e-08,0.0,0.521,0.479,60.31,11.67,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,2Q,"Double-digit
+premium increases were broad based, seen across transactional E&S, global property and
+agriculture, professional lines, and surety and captives.
+",premium increases,Financial,0.9999997615814209,8.575633536622718e-09,2.796621174638858e-07,0.095,0.0,0.905,17.34,20.0,0.0,0.9,20
+SKWD_2Q23.txt,SKWD,2023,2Q,"2Q catastrophe
+losses of $6.8mn were worse than our modeled $1.8mn.
+",catastrophe,Financial,1.1253948741796194e-06,0.9999986886978149,2.336862365837078e-07,0.0,0.56,0.44,82.81,5.84,0.0,1.0,11
+SKWD_2Q23.txt,SKWD,2023,2Q,"Operating ROE (annualized) of 12.4% was worse than our estimated 14.9% due to higher
+catastrophe losses.
+",catastrophe,Financial,4.213835325117543e-08,0.9999998807907104,3.012905480659356e-08,0.0,0.44,0.56,49.18,12.12,9.7,1.0,16
+SKWD_2Q23.txt,SKWD,2023,2Q,"FY 2020
+Loss ratio
+Net Impact of LPT
+0.0%
+Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+26.9%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+11,828
+CAT points
+1.0%
+Source:",catastrophe,Financial,0.00026445777621120214,0.0004103320825379342,0.9993252754211426,0.0,0.198,0.802,70.09,5.95,9.3,0.6557377049180327,61
+SKWD_2Q23.txt,SKWD,2023,2Q,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,5.412612881627865e-05,0.999755322933197,0.00019052978313993663,0.0,0.0,1.0,30.53,19.94,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,3Q,"We understand this
+cession did not have any reinsurance recovery that needed to
+be reversed.",reinsurance,Financial,0.0014962315326556563,0.01103774644434452,0.9874659180641174,0.0,0.0,1.0,56.25,11.33,0.0,1.0,15
+SKWD_3Q23.txt,SKWD,2023,3Q,"We also view rescinding a reinsurance treaty as
+atypical.
+CORE
+SKWD
+OVERWEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 31.00
+raised 7% from USD 29.00
+Price (07-Nov-23)
+USD 30.53
+Potential Upside/Downside
++1.5%
+Rates vs. Loss trends: Pure rates remain in double digits and are above loss cost inflation.
+",reinsurance,Financial,0.9999998807907104,2.4643910023769422e-08,9.281640700464777e-08,0.077,0.139,0.783,65.28,8.15,8.8,0.9183673469387755,49
+SKWD_3Q23.txt,SKWD,2023,3Q,"The industry has seen pressures on the commercial auto side, we would have
+preferred more reinsurance protection for SKWD.",reinsurance,Financial,0.0003446810005698353,0.9974923133850098,0.0021630602423101664,0.0,0.113,0.887,52.19,16.02,0.0,1.0,19
+SKWD_3Q23.txt,SKWD,2023,3Q,"We do not expect SKWD to rescind future
+reinsurance treaties, we view this action as a one-off, and not a sign that SKWD is leaning into
+commercial auto.
+",reinsurance,Financial,0.0001321358431596309,0.004713466390967369,0.9951543807983398,0.0,0.0,1.0,59.98,14.06,0.0,0.8928571428571429,28
+SKWD_3Q23.txt,SKWD,2023,3Q,"To recap, its 3Q23 policy acquisition ratio increase q/q was driven by the change in
+business mix and the impact of canceling the quota share reinsurance contract.",reinsurance,Financial,0.6665043234825134,0.00672789616510272,0.32676777243614197,0.153,0.0,0.847,44.07,16.73,0.0,0.9259259259259259,27
+SKWD_3Q23.txt,SKWD,2023,3Q,Lighter catastrophe experience despite more property writings.,catastrophe,Financial,0.0620478093624115,0.9378657341003418,8.64212415763177e-05,0.0,0.423,0.577,5.15,19.94,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,3Q,"1Q catastrophe losses was
+minimal at ~$1mn.",catastrophe,Financial,0.003457933897152543,0.5565842390060425,0.439957857131958,0.0,0.587,0.413,55.91,14.23,0.0,1.0,7
+SKWD_3Q23.txt,SKWD,2023,3Q,"Double-
+digit premium increases were broad based, seen across all eight of SKWD's underwriting
+divisions.
+",premium increases,Financial,0.9999998807907104,6.126367857461901e-09,1.5253273488724517e-07,0.0,0.0,1.0,47.79,16.67,0.0,1.0,15
+SKWD_3Q23.txt,SKWD,2023,3Q,"Higher Net Retention: NWP grew 63.7% y/y; however, SKWD rescinded a quota share
+reinsurance contract, whole account commercial auto, which increased premiums by $13.1mn.
+",reinsurance,Financial,0.9999971389770508,1.987022244520631e-07,2.6707994038588367e-06,0.17,0.0,0.83,42.38,13.13,0.0,1.0,24
+SKWD_3Q23.txt,SKWD,2023,3Q,"Underwriting performance: SKWD's combined ratio was 90.2% vs. our estimate of 94.0%, a 9.6
+pt y/y improvement amid lower catastrophes.",catastrophe,Financial,0.9999997615814209,1.1099259289437668e-08,2.513582728624897e-07,0.135,0.099,0.766,57.94,12.0,9.5,1.0,20
+SKWD_3Q23.txt,SKWD,2023,3Q,"Total company Accident Year Combined
+Ratio (AYCR), ex cats, was 89.9% vs. our 89.3% estimate and improved 115bps y/y. 3Q
+catastrophe losses of 0.4pts were better than our modeled 4.7pts.
+",catastrophe,Financial,1.0,6.916986095006905e-09,3.7238855554733163e-08,0.146,0.248,0.607,72.32,5.67,8.8,0.9666666666666667,30
+SKWD_3Q23.txt,SKWD,2023,3Q,"Loss ratio
+Net Impact of LPT
+0.0%
+Adj. loss ratio (ex LPT
+PYD)
+Expense ratio
+26.4%
+Combined ratio
+110.3%
+97.8%
+Accident year loss ratio
+ex cats
+Accident year combined
+ratio ex cats
+Adj. combined ratio (ex
+LPT PYD)
+PYD $ - (favorable)
+unfavorable
+60,337
+16,063
+PYD points- (favorable)
+unfavorable
+14.0%
+3.2%
+Catastrophes $
+4,223
+CAT points
+1.0%
+FY 2020
+83.9%
+83.9%
+67.7%
+68.9%
+65.3%
+95.3%
+92.2%
+110.3%
+Source:",catastrophe,Financial,0.00011007252032868564,0.0004094037285540253,0.9994805455207825,0.0,0.179,0.821,78.96,5.57,8.8,0.6617647058823529,68
+SKWD_3Q23.txt,SKWD,2023,3Q,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,5.412612881627865e-05,0.999755322933197,0.00019052978313993663,0.0,0.0,1.0,30.53,19.94,0.0,1.0,7
+SKWD_3Q24.txt,SKWD,2024,3Q,"Another important thing to note is that the Company canceled a quota share
+reinsurance contract during third quarter and first nine months of 2023, making it difficult to
+compare net premiums.",reinsurance,Financial,1.992457782762358e-06,0.9998816251754761,0.00011631972301984206,0.119,0.075,0.806,40.01,16.27,0.0,0.967741935483871,31
+SKWD_3Q24.txt,SKWD,2024,3Q,"Loss Ratio ex cats & PYD
+Combined Ratio ex Cats and PYD
+60.7%
+60.5%
+89.9%
+89.6%
+Catastrophes ($mn)
+1
+2
+17.1%
+1Q24
+Actual
+287
+42.0%
+236
+29.3%
+60.9%
+28.7%
+89.6%
+60.6%
+89.3%
+17.4%
+2Q24
+Actual
+297
+39.0%
+258
+32.5%
+61.7%
+29.0%
+90.7%
+60.6%
+89.6%
+1
+3
+14.7%
+Reported
+268
+(4.4%)
+270
+18.7%
+63.3%
+28.9%
+92.2%
+60.6%
+89.5%
+14.2%
+15.9%
+BARCe
+281
+0.2%
+280
+23.5%
+63.7%
+29.4%
+29.3%
+93.1%
+60.7%
+90.1%
+8
+8
+3Q24
+Street
+281
+0.1%
+271
+19.2%
+64.3%
+93.6%
+60.7%
+90.0%
+0.4pp
+Diff vs
+BARCe
+(4.6%)
+(4.6pp)
+(3.8%)
+",catastrophe,Financial,2.513361323508434e-06,1.4883014955557883e-05,0.9999825954437256,0.0,0.028,0.972,107.38,3.88,6.2,0.8314606741573034,89
+SKWD_3Q24.txt,SKWD,2024,3Q,"(4.7pp)
+(0.4pp)
+(0.5pp)
+(0.9pp)
+(0.1pp)
+(0.6pp)
+9
+(10.2%)
+Catastrophes (pts)
+0.4%
+1.0%
+0.4%
+1.2%
+2.8%
+3.0%
+3.5%
+(0.2pp)
+Reserve development ($m)
+(0)
+-
+(0)
+(0)
+(0)
+(0)
+Reserve development (pts)
+(0.1%)
+-
+(0.1%)
+(0.1%)
+(0.1%)
+-
+(0.0%)
+Source: Barclays Research, Bloomberg
+NA
+(0.1pp)
+(1.3pp)
+Diff vs
+Street
+(4.5%)
+(4.5pp)
+(0.4%)
+(0.5pp)
+(1.0pp)
+(0.4pp)
+(1.4pp)
+(0.2pp)
+(0.5pp)
+(19.6%)
+(0.7pp)
+NM
+(0.1pp)
+29 October 2024
+2
+Barclays | Skyward Specialty Insurance Group, Inc.
+SKWD: Quarterly and Annual EPS (USD)
+2023
+2024
+2025
+Change y/y
+FY Dec
+Actual
+Old
+New
+Cons
+Old
+New
+Q1
+Q2
+0.42A
+0.75A
+0.75A
+N/A
+0.78E
+0.81E
+0.42A
+0.80A
+0.80A
+N/A
+0.77E
+0.80E
+Q3
+0.65A
+Q4
+0.59A
+0.68E
+0.71A
+0.79E
+0.82E
+N/A
+0.76E
+0.79E
+N/A
+N/A
+0.89E
+0.93E
+N/A
+Year
+2.08A
+3.03E
+3.09E
+2.96E
+3.19E
+3.32E
+P/E
+21.5
+14.5
+13.5
+Consensus numbers are from Bloomberg received on 29-Oct-2024; 12:50 GMT
+Source:",catastrophe,Financial,1.1343361620674841e-05,1.9886438167304732e-05,0.9999687671661377,0.0,0.0,1.0,97.09,5.56,7.5,0.7605633802816901,142
+SKWD_3Q24.txt,SKWD,2024,3Q,"Our upside case assumes ROE
+expectations increase by 50bps to
+14.7% from improved loss ratios
+and the premium to the regression
+line increases to 65%.
+",loss ratios,Financial,1.0,1.89921500748369e-09,2.876545668328845e-09,0.182,0.077,0.741,58.79,11.4,0.0,0.88,25
+SKWD_3Q24.txt,SKWD,2024,3Q,"Skyward P&C Underwriting Information
+4Q23
+1Q24
+2Q24
+3Q24
+Actual
+Actual Actual
+Actual
+4Q24E
+BARCe Street
+Diff
+1Q25E
+BARCe Street
+Diff
+P&C Underwriting
+Net premiums written
+234
+% Growth YoY
+30.0%
+Net premiums earned
+233
+% Growth YoY
+287
+297
+268
+246
+243
+1.4%
+312
+322
+42.0%
+39.0%
+(4.4%)
+5.3% 13.4%
+(8.1pp)
+8.8% 12.1%
+236
+258
+270
+(3.0%)
+1,099
+(3.3pp)
+279
+276
+1.1%
+19.8%
+22.6%
+(2.8pp)
+19.9%
+283
+283
+0.3%
+19.6%
+36.7%
+29.3%
+32.5%
+18.7%
+0.3pp
+Loss Ratio
+Expense Ratio
+61.5%
+60.9%
+61.7%
+63.3%
+61.9%
+62.1%
+62.5%
+62.2%
+0.3pp
+29.1%
+28.7%
+29.0%
+28.9%
+29.2%
+29.5%
+(0.2pp)
+(0.3pp)
+29.2%
+28.8%
+0.4pp
+Combined Ratio
+90.6%
+89.6%
+90.7%
+92.2%
+91.1%
+91.9%
+(0.8pp)
+91.7% 91.2%
+0.5pp
+Loss Ratio ex cats & PYD
+60.5%
+60.6%
+60.6%
+60.6%
+Combined Ratio ex Cats and PYD
+89.6%
+89.3%
+89.6%
+89.5%
+60.7%
+60.7%
+89.9%
+90.2%
+0.0pp
+(0.3pp)
+60.7%
+60.8%
+89.9% 89.6%
+0.3pp
+(0.1pp)
+Catastrophes ($mn)
+2
+Catastrophes (pts)
+1.0%
+Reserve development ($m)
+Reserve development (pts)
+-
+(0.1%)
+(0.1%)
+(0.1%)
+1
+3
+8
+3
+5
+(28.9%)
+1.2%
+1.7%
+(0.5pp)
+1.8%
+(0) (100.0%)
+-
+(0.0%)
+0.0pp
+5
+4
+17.2%
+1.5%
+0.3pp
+(0) (100.0%)
+(1)
+-
+(0.0%)
+0.0pp
+0.4%
+1.2%
+2.8%
+(0)
+(0)
+(0)
+Source: Barclays Research, Bloomberg
+$3.09
+$2.96
+4.2%
+$3.32
+$20.6
+$18.6
+10.6%
+$20.6
+16.3% 16.5%
+(0.2pp)
+15.1%
+16.2%
+(1.1pp)
+2024E
+BARCe Street
+Diff
+1,108
+(0.8%)
+1,245
+18.1% 21.6%
+(3.5pp)
+13.3%
+11.9%
+1,042
+1,041
+0.2%
+1,190
+24.5%
+25.5%
+(1.0pp)
+62.0%
+62.2%
+(0.3pp)
+29.0% 29.0%
+(0.0pp)
+29.2%
+29.1%
+90.9%
+91.3%
+(0.3pp)
+60.6%
+60.6%
+0.0pp
+60.4%
+60.6%
+89.6%
+89.6%
+(0.0pp)
+15
+18 (17.0%)
+25
+1.4%
+(0.3pp)
+1.7%
+2.1%
+2.1%
+17.0%
+(1)
+(0.1%) (0.1%) (0.0pp)
+-
+(0.1%)
+",catastrophe,Financial,0.0,0.0,0.0,0.02,0.018,0.961,95.37,4.86,7.2,0.6844106463878327,263
+SKWD_4Q22.txt,SKWD,2022,4Q,"Following the earnings call, we gained greater clarity of its ceded Re strategy where SKWD is
+weighing in the merits of reinsurance by each risk class and is not constrained.",reinsurance,Financial,0.000700119009707123,0.00020207017951179296,0.9990978240966797,0.311,0.055,0.633,57.95,16.0,0.0,0.9,30
+SKWD_4Q22.txt,SKWD,2022,4Q,"At 1/1 renewals, SKWD entered into a whole account QS treaty for
+commercial auto with some optionality on changing the structures of its the portfolio specific
+auto liability reinsurance covers during 2H23.",reinsurance,Financial,0.0007248907932080328,2.786003733490361e-06,0.9992724061012268,0.0,0.057,0.943,22.08,20.3,0.0,0.9375,32
+SKWD_4Q22.txt,SKWD,2022,4Q,"SKWD's reinsurance renewals are staggered throughout the
+year, we expect to hear more iterations.",reinsurance,Financial,7.74198051658459e-05,3.0962573873694055e-06,0.9999195337295532,0.0,0.0,1.0,57.27,11.31,0.0,1.0,14
+SKWD_4Q22.txt,SKWD,2022,4Q,5/1 is SKWD's large cat reinsurance renewal.,reinsurance,Financial,1.754596087266691e-05,1.434881141904043e-05,0.9999681711196899,0.0,0.0,1.0,64.37,14.23,0.0,1.0,7
+SKWD_4Q22.txt,SKWD,2022,4Q,"Higher dependence on
+reinsurance than established peers.",reinsurance,Financial,5.412612881627865e-05,0.999755322933197,0.00019052978313993663,0.0,0.0,1.0,30.53,19.94,0.0,1.0,7
+SKWD_4Q24.txt,SKWD,2024,4Q,"It called for
+expected net income between $138-$150 million, a combined ratio between 91-92%, which
+reflects 2 to 2.5 points of catastrophe losses, and GWP growth of low to mid-teens.",catastrophe,Financial,0.007807573769241571,1.693486046860926e-05,0.9921755194664001,0.073,0.257,0.67,73.17,8.67,0.0,0.9,30
+SKWD_4Q24.txt,SKWD,2024,4Q,"Skyward also
+disclosed that it expects total losses and LAE to be less than $10 million from the CA wildfire
+event, net of reinsurance in 1Q25.
+",reinsurance,Financial,5.1747047109529376e-05,0.4860588610172272,0.5138893723487854,0.0,0.097,0.903,62.01,11.94,0.0,1.0,26
+SKWD_4Q24.txt,SKWD,2024,4Q,"Skyward also
+disclosed that it expects total losses and LAE to be less than $10 million from the CA wildfire
+event, net of reinsurance in 1Q25.
+",wildfire,Climate,5.1747047109529376e-05,0.4860588610172272,0.5138893723487854,0.0,0.097,0.903,62.01,11.94,0.0,1.0,26
+SKWD_4Q24.txt,SKWD,2024,4Q,"Our upside case assumes ROE
+expectations increase by 50bps to
+14.7% from improved loss ratios
+and the premium to the regression
+line increases to 65%.
+",loss ratios,Financial,1.0,1.89921500748369e-09,2.876545668328845e-09,0.182,0.077,0.741,58.79,11.4,0.0,0.88,25
+SKWD_4Q24.txt,SKWD,2024,4Q,"Diff
+1.3%
+11.7%
+14.19%
+(2.4pp)
+1,546
+1.3%
+12.3%
+15.5%
+(3.3pp)
+62.6%
+62.6%
+(0.0pp)
+62.5%
+62.7%
+(0.2pp)
+62.5%
+62.5%
+29.09
+28.9%
+28.9%
+29.2%
+28.8%
+29.2%
+0.4pp
+29.0%
+0.2pp
+29.2%
+28.9%
+0.3pp
+29.2%
+29.0%
+.Opp
+0.2pp
+29.2%
+29.2%
+Combined Ratio
+89.6%
+90.7%
+92.2%
+95.89%
+92.1%
+91.9%
+0.2pp
+92.1%
+91.7%
+0.4pp
+91.8%
+91.5%
+0.3pp
+91.7%
+91.7%
+0.0pp
+91.7%
+91.7%
+Loss Ratio ex cats & PYD
+60.6%
+Combined Ratio ex Cats and PYD
+89.3%
+60.6%
+60.6%
+60.5%
+60.4%
+60.69
+(0.2pp)
+60.4%
+60.5%
+(0.1pp)
+60.3%
+60.5%
+(0.1pp)
+60.3%
+60.7
+89.6%
+89.5%
+89.4%
+89.6%
+89.4%
+0.2pp
+89.6%
+89.5%
+.1Pp
+89.5%
+89.4%
+0.2pp
+89.5%
+89.7%
+0.0pp
+0.3pp)
+60.3%
+60.396
+(0.2pp)
+89.5%
+89.5%
+Catastrophes ($mn)
+1
+Catastrophes (pts)
+0.4%
+3
+8
+6
+7
+7
+10.6%
+8
+1.2%
+2.8%
+2.2%
+2.5%
+2.4%
+0.1pp
+28.3%
+26
+10.39%
+29
+2.5%
+2.19%
+0.4pp
+2.39
+2.2%
+0.1pp
+Reserve development ($m)
+",catastrophe,Financial,6.56416523270309e-06,1.7949785615201108e-05,0.9999754428863525,0.0,0.018,0.982,99.97,6.03,6.3,0.5912408759124088,137

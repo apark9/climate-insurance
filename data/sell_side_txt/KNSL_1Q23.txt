@@ -1,0 +1,1736 @@
+J.P.Morgan
+Kinsale
+1Q23 Earnings: Strong Results Likely to Persist but
+Valuation Seems Full; Neutral
+KNSL posted a strong 1Q23, and we continue to expect its results to exhibit
+positive momentum over the medium term. Kinsale is a high-quality E&S
+franchise that is benefiting from the current environment but should also perform
+well through the underwriting cycle. Still, we remain Neutral on the stock given its
+valuation and the risk of multiple compression when P&C pricing eventually turns.
+· EPS upside. KNSL reported 1Q23 operating EPS of $2.44, higher than our
+$2.32 estimate and consensus of $2.22. KNSL's underwriting margins were
+favorable to our model (CR 78.3% vs. 79.0%E), with a lower expense ratio
+(19.6% vs. 20.2%E) and reserve releases (-3.8% vs. - 3.0%E) more than
+offsetting a higher attritional loss ratio (61.8% vs. 61.0%E). Investment
+income was better as well (+$0.09 versus our model), helped by improving
+yields and strong operating cash flows. On a core basis, underwriting margins
+were slightly worse than our assumption (CR 81.4% vs. 81.2%E) but improved
+from 83.6% in 1Q22. Premium growth was strong (+38.1% vs. +26.1%E).
+· Miscellaneous items from 1Q23. (1) KNSL recognized realized losses of $4.7
+million in 1Q23 tied to the disposal of securities issued by certain banking and
+financial institutions, including SVB. In the P&L, this was mostly offset by
+unrealized gains on equity securities. (2) KNSL continues to manage down the
+duration of its investment portfolio (3.4 years in 1Q23 versus 3.5 years in 4Q22
+and 4.6 years in 1Q22) while increasing yields (3.7% in 1Q23, up from 2.5%
+in 1Q22). (3) Management noted that submission activity and pricing (across
+most lines of business) remains healthy given favorable conditions in the E&S
+market. Average written premiums per policy were $16,200 in 1Q23, up 14%
+from $14,200 in 1Q22. (4) Reserve releases of $9.0 million in 1Q23 consisted
+of $12.6 million of favorable development from accident years 2021 and 2022,
+partly offset by adverse development on property damage claims within
+construction-related casualty business from accident years 2017 and 2019.
+· Increasing EPS estimates; multiple drivers for further upside, but
+valuation seems full. We are raising 2Q23 EPS from $2.49 to $2.59, 2023 EPS
+from $10.21 to $10.63, and 2024 EPS from $12.87 to $13.32. We are assuming
+higher investment income in future periods given KNSL's higher jump off
+point in 1Q23 (net investment income of $20.7 million versus our $18.6 million
+assumption). Our assumptions for premium growth and underwriting margins
+are unchanged. In our opinion, KNSL is more likely than not to continue
+surprising to the upside given the positive momentum underpinning its
+premium growth, underwriting margins, and investment income. However,
+our concern is that even after giving credit for most of these factors, KNSL still
+trades at a significant premium versus peers. In addition, even if KNSL's stock
+could justifiably trade at a permanent (albeit lower) premium for structural
+reasons (high quality franchise, above-average growth, pricing advantage), we
+think its current valuation multiple has an embedded benefit from the favorable
+P&C environment, which is not permanent and will eventually deteriorate.
+JPMorgan
+North America Equity Research
+27 April 2023
+Neutral
+KNSL, KNSL US
+Price (27 Apr 23):$336.74
+Price Target (Dec-23):$300.00
+Prior (Dec-23):$290.00
+Insurance - Life & Nonlife
+Pablo S. Singzon AC
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+Bloomberg JPMA SINGZON <GO>
+Jimmy S. Bhullar, CFA
+(1-212) 622-6397
+jimmy.s.bhullar@jpmorgan.com
+Nicholas M Annitto
+(1-212) 622-6705
+nicholas.annitto@jpmorgan.com
+Scott Haveman, CPA
+(1-212) 622 9937
+scott.haveman@jpmchase.com
+J.P. Morgan Securities LLC
+Key Changes (FYE Dec)
+Prev
+10,21
+10.63
+Adj. EPS - 23E ($)
+Adj. EPS - 24E ($)
+12.87
+Cur
+13.32
+Quarterly Forecasts (FYE Dec)
+Adj. EPS ($)
+2022A
+1.63
+1.92
+2.59
+7.80
+10.63
+13.32
+2023E
+2.44A
+2024E
+Q1
+Q2
+Q3
+1.64
+2.57
+Q4
+2.60
+3.05
+FY
+Style Exposure
+Factors
+%Rank
+6M
+1Y
+3Y
+Value
+57
+Growth
+9
+Current
+Quant
+Hist %Rank (1=Top)
+Momentum
+9
+3
+44
+100
+99
+4
+69
+4
+10
+5
+4
+5
+10
+12
+16
+77
+43
+5Y
+98
+5
+81
+Quality
+6
+12
+Low Vol
+72
+ESGQ
+21
+82
+78
+34
+95
+1Q23 Results
+EPS: $2.44A vs. $2.32E
+NPW growth: +38.1% vs +26.1%E
+Comb. ratio: 78.3% vs. 79.0%E
+Sources for: Style Exposure - J.P. Morgan Quantitative and Derivatives Strategy; all other tables are company data and J.P. Morgan estimates.
+See page 12 for analyst certification and important disclosures.
+J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that
+the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single
+factor in making their investment decision.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Price Performance
+350
+300
+$
+250
+200
+150
+Jul 22
+Oct 22
+Jan 23
+Apr 23
+- KNSL Price ($)
+- RTY (rebased)
+Abs
+Rel
+YTD
+28.8%
+29.4%
+Company Data
+Shares O/S (mn)
+23
+52-week range ($)
+339.58-196.00
+Market cap ($ mn)
+7,796.86
+Exchange rate
+1.00
+Free float(%)
+94.5%
+3M - Avg daily vol (mn)
+0.15
+3M - Avg daily val ($ mn)
+46.5
+Volatility (90 Day)
+42
+Index
+RUSSELL 2000
+BBG BUY|HOLD|SELL
+3|5|1
+Key Metrics (FYE Dec)
+$ in millions
+Financial Estimates
+NEP (Premium)
+794
+Underwriting income
+175
+Net investment income
+25
+Operating income
+200
+Adj. PBT
+196
+Adj. net income
+180
+Adj. EPS
+7.80
+BBG EPS
+7.32
+9.62
+DPS
+0.52
+0.56
+Investments
+743
+BVPS
+NAVPS
+32.28
+Margins and Growth
+Adj. EPS growth
+Ratios
+Adj. tax rate
+Loss ratio
+Combined ratio
+57.7%
+59.0%
+59.4%
+Invest inc. % of Investments
+Regulatory solvency ratio
+Leverage (Debt/Debt+Equity)
+ROE
+28.6%
+27.3%
+Valuation
+Dividend yield
+0.2%
+Adj. P/E
+43.2
+31.7
+25.3
+P/ BV
+1m
+14.7%
+14.9%
+FY22A
+35.9%
+36.3%
+18.6%
+18.9%
+19.0%
+77.9%
+25.0%
+10.4
+3m
+23.3%
+47.8%
+31.7%
+54.8%
+12m
+FY23E
+FY24E
+1,074
+1,337
+224
+274
+93
+125
+317
+398
+306
+249
+10.63
+13.32
+996
+43.12
+387
+313
+11.55
+0.64
+1,294
+55.76
+25.3%
+79.1%
+79.5%
+0.2%
+0.2%
+7.8
+6.0
+J.P.Morgan
+Summary Investment Thesis and Valuation
+We affirm our Neutral rating. KNSL is the only publicly
+traded P&C insurer that operates exclusively in the E&S
+insurance market with a focus on small commercial accounts.
+Our long-term outlook for KNSL is positive given its large
+addressable market, superior technology platform, and low
+cost base, which we view as a sustainable competitive
+advantage. Still, the stock's valuation seems full at current
+levels and we are concerned about the risk of multiple
+compression as the P&C pricing cycle moderates.
+Performance Drivers
+Market
+15%
+Sector
+9%
+Macro
+7%
+Style
+15%
+Idiosyn.
+54%
+6M Corr
+1Y Corr
+0.38
+Factors
+Market: MSCI US
+0.14
+Sect: Financials
+0.38
+0.30
+Ind: Insurance
+0.45
+0.41
+Macro:
+US Dollar
+0.43
+0.19
+Economic Surprise
+0.24
+0.17
+US 10yr yield
+0.29
+0.14
+Quant Styles:
+Momentum
+0.41
+0.35
+Growth
+-0.41
+-0.30
+LowVol
+0.26
+0.19
+Source: J.P. Morgan Quantitative and Derivatives Strategy for Performance Drivers; company data, Bloomberg Finance L.P. and J.P. Morgan estimates for all other tables. Note: Price history may not be
+complete or exact.
+2
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+Table Of Contents
+Investment Thesis.
+4
+Well-Positioned to Capitalize on Favorable P&C Market.
+4
+Low Cost Operating Model a Durable Competitive Advantage .
+4
+Eventual Turn in Pricing Cycle is a Risk
+4
+1Q23 Summary Results.
+5
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+J.P.Morgan
+North America Equity Research
+27 April 2023
+Investment Thesis
+Please see Page 5 for tables
+summarizing 1Q23 results. KNSL will
+hold its earnings conference call at 9:00
+AM Eastern on April 28, 2023. The dial-in
+number for the call is 888-660-6493;
+code: 3573726. The call replay will be
+available on https://
+ir.kinsalecapitalgroup.com.
+We affirm our Neutral rating. We expect KNSL's premiums and margins to benefit
+from favorable trends in the E&S market, which continues to generate outsized growth
+at attractive pricing/terms. Also, we think that Kinsale's low-cost operating model is a
+sustainable competitive advantage through the pricing cycle, especially against higher
+cost competitors like Lloyd's writers. On the other hand, we think that the stock's
+valuation is full compared to commercial peers and specialist names even after giving
+credit to KNSL's growth potential and above-average margins. Further, though
+favorable P&C market conditions are likely to persist through 2023 and will have
+positive implications for KNSL's reserves and future earnings, the eventual turn in the
+P&C pricing cycle is a downside risk to its above-average multiple.
+Well-Positioned to Capitalize on Favorable P&C Market
+In our view, the E&S market - where KNSL operates exclusively - will see strong but
+moderating new business volumes and price hikes as more underwriters focus on growth
+(weighing on pricing) and admitted markets increase their appetite for risk (recapturing
+business that had been diverted to E&S). Still, we think that KNSL can grow premiums
+at a healthy pace given its small base and the fragmented nature of the pricing cycle
+whereby certain lines (property, marine) are only beginning to benefit from harder
+prices despite a slowdown in other lines and/or the broader market. With respect to
+profitability, we expect the combination of price hikes - historical and prospective - and
+conservative reserving to support healthy margins at KNSL over the medium term.
+Low Cost Operating Model a Durable Competitive Advantage
+KNSL has a proprietary and fully integrated technology platform built from ground up -
+in contrast to peers that use unwieldy hybrid systems consisting of legacy platforms and
+newer technologies - which allows it to handle significant business volumes without
+sacrificing customer responsiveness, underwriting quality, and expense efficiency. As a
+result, KNSL maintains an industry leading expense ratio, and we expect it to
+outperform higher cost competitors (especially Lloyd's which is more than 20% of the
+E&S market) through the pricing cycle. During softer markets, KNSL can grow
+premiums as others pull back while maintaining above-average profitability. In hard
+markets, Kinsale can be a price taker and generate an even larger excess return.
+Eventual Turn in Pricing Cycle is a Risk
+The P&C industry is well into the current hard market and we expect overall price hikes
+to moderate as re/insurers re-position themselves for growth (property and catastrophe
+coverage likely to be the exception in the near term). Given this, we see multiple
+compression as a risk as pricing/volume swings tend to be more volatile in E&S given
+its function as a safety valve for P&C. Although we believe that some portion of recent
+market share gains by the E&S industry are permanent and that KNSL will thrive even
+if prices soften, our view is that a reasonable valuation analysis will have to look several
+years out because of KNSL's above-average growth profile and would therefore have to
+account for how conditions in the P&C market are likely to be at that future time.
+4
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+1Q23 Summary Results
+J.P.Morgan
+The following tables and charts summarize KNSL's 1Q23 results as well as its operating
+performance over the past several years:
+Table 1: 1Q23 Earnings: Actual versus Expected
+$ in millions, %, and bps
+JPM
+1Q23E
+Actual
+1Q23
+Underwriting Results
+Net premiums written ($)
+273.0
+299.0
+9.5%
+Net premiums earned ($)
+242.0
+237.2
+-2.0%
+Loss ratio
+58.8%
+AY loss ratio
+61.0%
+Catastrophe losses
+0.8%
+Unfavorable (favorable) PYD
+-3.0%
+-3.8%
+-81 bps
+58.6%
+61.8%
+0.7%
+Expense ratio
+20.2%
+Combined ratio
+79.0%
+19.6%
+-57 bps
+78.3%
+-75 bps
+AY combined ratio ex. cats
+81.2%
+81.4%
+Summary Income Statement
+Underwriting income
+50.8
+Net investment income
+18.6
+Taxes and other
+(15.5)
+(15.5)
+($0.00)
+Operating income
+54.0
+56.8
+$0.12
+51.6
+$0.03
+20.7
+$0.09
+Average diluted shares
+23.2
+23.3
+($0.01)
+Operating EPS
+$2.32
+$2.44
+$0.11
+Source: Company reports and J.P. Morgan estimates.
+Actual v.
+Expected
+-17 bps
+77 bps
+-14 bps
+20 bps
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+Table 2: 1Q23 Earnings: Actual versus JPM Estimates and Consensus
+$ in millions, %, and bps
+Actual
+JPM
+%
+Consensus
+%
+Net premiums written
+299.0
+273.0
+Net premiums earned
+237.2
+242.0
+9.5%
+-2.0%
+267.0
+234.9
+12.0%
+1.0%
+Loss ratio
+58.6%
+Expense ratio
+19.6%
+Combined ratio
+78.3%
+58.8%
+20.2%
+79.0%
+-17 bps
+57.7%
+-57 bps
+-75 bps
+20.1%
+78.5%
+92 bps
+-50 bps
+-23 bps
+Operating EPS
+$2.44
+$2.32
+4.9%
+$2.22
+10.0%
+Source: Company reports, J.P. Morgan estimates, and Bloomberg Finance L.P.
+Table 3: Historical and Operating Performance
+$ in millions and %
+2017
+2018
+2019
+2020
+1Q21
+2Q21
+3Q21
+4Q21
+2021
+1Q22
+2Q22
+3Q22
+4Q22
+2022
+1Q23
+Premium Trends
+Gross written premiums
+% ceded
+Net written premiums
+189.5
+% growth y/y
+Net earned premiums
+% growth y/y
+Underwriting Results
+AY loss ratio
+Catastrophe losses
+5.0%
+Unfavorable (favorable) PYD
+Loss ratio
+Expense ratio
+Combined ratio
+AY combined ratio ex. cats
+Investment Results
+Net investment income
+10.6
+% growth y/y
+Duration
+Gross yield ex. cash (YTD)
+Cash and invested assets
+% growth y/y
+16.8%
+223.2
+15.1%
+13.3%
+176.1
+31.6%
+60.2%
+60.9%
+62.2%
+61.5%
+-6.4%
+58.9%
+25.1%
+84.0%
+85.3%
+41.2%
+3.9
+2.4%
+561.1
+275.5
+14.5%
+235.6
+24.4%
+212.7
+20.8%
+2.6%
+-3.3%
+60.2%
+25.1%
+24.8%
+85.3%
+86.0%
+15.7
+48.4%
+3.9
+3.0%
+643.1
+14.6%
+41.2%
+43.1%
+Source: Company reports and J.P. Morgan estimates.
+389.7
+552.8
+12.2%
+13.5%
+168.9
+14.6%
+342.1
+45.2%
+478.2
+39.8%
+144.3
+33.5%
+283.0
+33.0%
+412.8
+45,9%
+37,1%
+123.0
+1.1%
+-3.3%
+59.9%
+84.7%
+5.6%
+-3.2%
+-5.7%
+-6.6%
+63.9%
+22.8%
+86.8%
+80.0%
+79.2%
+62.8%
+0.1%
+57.1%
+22.9%
+21.7%
+87.0%
+84.4%
+85.7%
+83.7%
+20.1
+28.3%
+29.7%
+4.3
+3.1%
+2.9%
+908.2
+1,300.0
+26.1
+4.3
+6.9
+16.5%
+11.8%
+4.3
+2.6%
+1,400.0
+46.6%
+36.4%
+194.1
+13.6%
+197.6
+13.6%
+167.8
+42.6%
+170.7
+177.5
+39.6%
+137.7
+42.0%
+156.9
+44.9%
+62.0%
+2.1%
+57.5%
+57.8%
+3.7%
+-5.9%
+-4.0%
+55.7%
+53.1%
+20.1%
+75.7%
+77.9%
+78.6%
+7.4
+4.3
+2.6%
+1,500.0
+8.1
+8.6
+31.0
+15.5%
+32.1%
+4.4
+4.3
+2,5%
+203.8
+12.9%
+764.4
+13.6%
+245.5
+11.8%
+36.2%
+660.2
+216.5
+50.0%
+38.1%
+165.3
+40.3%
+582.9
+41,2%
+178.6
+45,1%
+57.1%
+-0.1%
+21.4%
+74.5%
+59.7%
+1.5%
+-5,5%
+55.7%
+21.4%
+77.1%
+62.0%
+0.0%
+-4.7%
+57.4%
+21.6%
+79.0%
+81.1%
+83.6%
+2.3%
+1,600.0
+1,700.0
+33.3%
+30.8%
+18.9%
+4.3
+2.5%
+2.5%
+1,700.0
+1,700.0
+30.8%
+21.4%
+9.1
+30.9%
+42.6%
+71.2%
+4.6
+277.0
+12.5%
+284.1
+17.0%
+242.3
+235.9
+44.5%
+38.2%
+190.2
+209.3
+38.1%
+33.4%
+61.3%
+0.0%
+12.5%
+-5.0%
+56.3%
+64.4%
+52.5%
+57.7%
+20.5%
+76.8%
+83.6%
+57.2%
+-5.3%
+-3.3%
+19.2%
+19.9%
+20.2%
+81.8%
+76.4%
+10.6
+13.9
+4.2
+3.9
+2.6%
+2.7%
+4.2%
+1,800.0
+1,900.0
+20.0%
+18.8%
+29.4%
+295.5
+18.1%
+242.1
+36.4%
+216.1
+30,8%
+55.6%
+58.8%
+0.2%
+72.5%
+77.9%
+75.5%
+17.7
+51.3
+20.7
+106.7%
+65.2%
+3.5
+2,200.0
+1,102.1
+15.0%
+16.4%
+936.8
+41.9%
+38.1%
+794.1
+36,2%
+32.8%
+3.4%
+-4.5%
+79.1%
+3.5
+3.4
+3.0%
+3.7%
+2,200.0
+2,400.0
+29.4%
+41.2%
+357.6
+299.0
+237.2
+61.8%
+0.7%
+-3.8%
+58.6%
+19.6%
+78.3%
+81.4%
+127.7%
+6
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Figure 1: Historical AY Loss Ratio Trends (Quarterly)
+% of net earned premiums
+80.0%
+8.0%
+70.0%
+6.0%
+4.0%
+60.0%
+2.0%
+50.0%
+0.0%
+40.0%
+-2.0%
+30.0%
+20.0%
+10.0%
+-4.0%
+-6.0%
+-8.0%
+-10.0%
+0.0%
+1Q16
+4Q16
+3Q17
+2Q18
+1Q19
+4Q19
+3Q20
+2Q21
+-12.0%
+1Q22
+4Q22
+AY loss ratio (LHS)
+--- Avg. AY loss ratio (LHS)
+y/y change (RHS)
+Source: Company reports and J.P. Morgan estimates.
+Figure 2: Historical Catastrophe and PYD Trends (Quarterly)
+% of net earned premiums
+Figure 3: Historical Catastrophe and PYD Trends (Annual)
+% of net earned premiums
+18.0%
+16.0%
+14.0%
+14.0%
+12.0%
+12.0%
+10.0%
+8.0%
+10.0%
+8.0%
+6.0%
+6.0%
+4.0%
+4.0%
+2.0%
+0.0%
+2.0%
+2Q18
+4Q18
+2Q19
+4Q19
+2Q20
+4Q20
+2Q21
+4Q21
+2Q22
+4Q22
+-2.0%
+0.0%
+Cat losses
+Favorable (unfavorable) PYD
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Cat losses
+Favorable (unfavorable) PYD
+Source: Company reports and J.P. Morgan estimates.
+Source: Company reports and J.P. Morgan estimates.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Figure 4: Year-on-Year % Change in Written Premiums per Policy
+%
+30.0%
+25.0%
+20.0%
+15.0%
+10.0%
+5.0%
+0.0%
+1Q20 2Q20 3Q20 4Q20 1Q21 2Q21 3Q21 4Q21 1Q22 2Q22 3Q22 4Q22 1Q23
+Average premium per policy ex. personal lines
+OAverage premium per policy
+Source: Company reports and J.P. Morgan estimates. Note: Data through 1Q23.
+Table 4: KNSL's Historical New Business Metrics
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Submissions
+Quotes
+47,204
+80,933
+Bound policies
+8,533
+10,929
+Quotes / submissions
+31.7%
+Bound / quotes
+18.1%
+Bound / submissions
+5.7%
+148,691
+186,377
+43.4%
+13.5%
+5.9%
+226,000
+116,000
+14,000
+51.3%
+12.1%
+6.2%
+288,000
+167,000
+18,000
+58.0%
+10.8%
+6.3%
+380,000
+234,000
+25,000
+61.6%
+10.7%
+10.3%
+6.6%
+461,000
+300,000
+31,000
+65.1%
+6.7%
+520,000
+347,000
+36,000
+66.7%
+10.4%
+6.9%
+605,000
+419,000
+43,000
+69.3%
+10.3%
+7.1%
+Growth Rate
+Submissions
+25%
+21%
+27%
+32%
+21%
+13%
+16%
+Quotes
+71%
+43%
+44%
+40%
+28%
+16%
+21%
+Bound
+28%
+28%
+29%
+39%
+24%
+16%
+19%
+Source: Company reports and J.P. Morgan estimates. Note: Data through 2022 since only disclosed on annual basis.
+8
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Figure 5: Average Commercial Premium Rate Changes by Account Size
+Year-over-year change on quarterly basis (%), data through 4Q22
+40%
+30%
+20%
+10%
+0%
+-10%
+-20%
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018 2020
+2022
+Small accounts
+-- Medium accounts
+-+Large accounts
+Source: Council of Insurance Agents and Brokers and J.P. Morgan estimates.
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Kinsale (Neutral; Price Target: $300.00)
+Investment Thesis
+We affirm our Neutral rating. KNSL is the only publicly traded P&C insurer that operates
+exclusively in the E&S insurance market with a focus on small commercial accounts. Our
+long-term outlook for KNSL is positive given its large addressable market, superior
+technology platform, and low cost base, which we view as a sustainable competitive
+advantage. Still, the stock's valuation seems full at current levels and we are concerned
+about the risk of multiple compression as the P&C pricing cycle moderates.
+Valuation
+We are raising our December 2023 price target from $290 to $300 to reflect our higher
+EPS and book value estimates. Our price target assumes a 4x multiple on 2025 book value
+and a 19x multiple on 2025 operating income. These target multiples are well above peers',
+which we believe is supported by KNSL's above-average premium growth (long-term low-
+to-mid teens growth versus mid-to-high single-digit growth for most large commercial
+peers) and margin profile (high 70s to low 80s CR versus 85-90% for peers). KNSL trades
+at 9.6x 3/31/23 BV, well above the specialty peer average (ex. PLMR) of 2.4x and
+commercial peers at 1.7x. On 2023 earnings, KNSL trades at 31x versus 12x for specialty
+insurers and 11x for commercial insurers.
+Risks to Rating and Price Target
+We believe the main upside risks to our rating and price target are:
+. The hard P&C market lasts longer than expected. Kinsale is seeing higher prices and
+greater submission flow because of dislocation in the P&C market. If current conditions
+persist longer than we assume, there could be upside to our forecasts and investor
+sentiment would likely improve.
+· Premium growth surpasses already elevated expectations. In our view, part of
+KNSL's premium valuation is attributable to its above-average growth. We would
+expect KNSL's valuation multiple to expand if it consistently exceeds growth
+expectations in the next few years.
+· Margin improvement is greater than assumed. The combination of earned pricing
+exceeding loss cost trends and management's conservative reserving suggests margin
+improvement in the next few years. If KNSL's margin improvement tracks higher than
+expectations, there could be upside to forecasts.
+We believe the main downside risks to our rating and price target are:
+· Increased competition and/or push back from insurance clients dampens the
+pricing cycle. The insurance industry is well into the hard market and clients are pushing
+back more strongly on price hikes while more insurers are deploying capital and
+positioning themselves for growth. If the cycle begins to turn, there is a risk of multiple
+compression for insurers that have seen an outsized benefit from higher prices.
+· Adverse loss trends or social inflation re-emerge in casualty reserves. Although
+unlikely to be a material risk for KNSL given its specific exposures and low limits, the
+re-opening of the court system could drive a surge in pent-up liability claims.
+· Unfavorable loss experience emerges from new lines of business. Kinsale has a
+strong underwriting track record and it is entering new lines in a strong part of the cycle.
+Still, given the long-tail nature of casualty coverage, the impact of badly underwritten
+risks is likely to persist. Also, inflation is a risk for both casualty and property coverages.
+10
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+Kinsale: Summary of Financials
+Income Statement - Annual
+FY22A
+FY23E
+Earned premiums
+-
+1
+Policy charges and fee income
+Net investment income
+Other income
+Total revenues
+-
+Insurance and annuity benefits
+Interest credited
+Interest expense
+Acquisition & operating expenses
+Amortization of acquisition costs (net)
+Other expenses
+Total expenses
+306
+Pretax income
+196
+Income taxes
+(36)
+(58)
+Total net income
+180
+249
+313
+Total operating income
+180
+249
+313
+Weighted average diluted shares
+23
+23
+24
+EPS - operating
+7.80
+10.63
+13.32
+FY24E
+Income Statement - Quarterly
+- Earned premiums
+1
+- Policy charges and fee income
+- Net investment income
+- Other income
+- Total revenues
+- Insurance and annuity benefits
+- Interest credited
+- Interest expense
+- Acquisition & operating expenses
+- Amortization of acquisition costs (net)
+- Other expenses
+- Total expenses
+387
+Pretax income
+68A
+(73)
+1Q23A
+2Q23E
+1
+75
+74
+Income taxes
+(13)A
+(14)
+(14)
+(17)
+Total net income
+57A
+61
+60
+71
+Total operating income
+57A
+61
+60
+71
+Weighted average diluted shares
+23A
+23
+23
+23
+EPS - operating
+2.44A
+2.59
+2.57
+3.05
+Balance Sheet and Capital Data
+FY22A
+FY23E
+Shareholders' equity
+Shareholders' equity ex. AOCI
+Shares outstanding
+23
+23
+Book value per share
+32.28
+43.12
+Book value per share (ex. AOCI)
+1
+Capital for share repurchases
+I
+1
+Capital for dividends
+I
+.
+Dividends
+0.52
+0.56
+Source: Company reports and J.P. Morgan estimates.
+Note: $ in millions (except per-share data).Fiscal year ends Dec
+FY24E
+Ratio Analysis
+FY22A
+FY23E
+- EPS growth - operating
+35.9%
+- Book value per share (ex. AOCI) growth
+23 Return on equity (ROE)
+25.0%
+Return on equity (ex. AOCI)
+55.76
+- Dividend payout ratio
+6.7%
+- Total revenue growth
+- Total expense growth
+0.64 Tax rate
+18.6%
+18.9%
+19.0%
+-
+36.3%
+25.3%
+28.6%
+27.3%
+-
+5.3%
+4.8%
+3Q23E
+4Q23E
+1
+1
+88
+FY24E
+FY25E
+.
+1
+ʻ
+-
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Analyst Certification: The Research Analyst(s) denoted by an "AC" on the cover of this report certifies (or, where multiple Research Analysts
+are primarily responsible for this report, the Research Analyst denoted by an "AC" on the cover or within the document individually certifies,
+with respect to each security or issuer that the Research Analyst covers in this research) that: (1) all of the views expressed in this report
+accurately reflect the Research Analyst's personal views about any and all of the subject securities or issuers; and (2) no part of any of the
+Research Analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the
+Research Analyst(s) in this report. For all Korea-based Research Analysts listed on the front cover, if applicable, they also certify, as per KOFIA
+requirements, that the Research Analyst's analysis was made in good faith and that the views reflect the Research Analyst's own opinion,
+without undue influence or intervention.
+All authors named within this report are Research Analysts who produce independent research unless otherwise specified. In Europe, Sector
+Specialists (Sales and Trading) may be shown on this report as contacts but are not authors of the report or part of the Research Department.
+Important Disclosures
+. Market Maker: J.P. Morgan Securities LLC makes a market in the securities of Kinsale.
+· Market Maker/ Liquidity Provider: J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to
+Kinsale.
+· Manager or Co-manager: J.P. Morgan acted as manager or co-manager in a public offering of securities or financial instruments (as such
+term is defined in Directive 2014/65/EU) of/for Kinsale within the past 12 months.
+. Client: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: Kinsale.
+. Client/Investment Banking: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as investment banking
+clients: Kinsale.
+. Client/Non-Investment Banking, Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies)
+as clients, and the services provided were non-investment-banking, securities-related: Kinsale.
+. Client/Non-Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the
+services provided were non-securities-related: Kinsale.
+· Investment Banking Compensation Received: J.P. Morgan has received in the past 12 months compensation for investment banking services
+from Kinsale.
+. Potential Investment Banking Compensation: J.P. Morgan expects to receive, or intends to seek, compensation for investment banking
+services in the next three months from Kinsale.
+. Non-Investment Banking Compensation Received: J.P. Morgan has received compensation in the past 12 months for products or services
+other than investment banking from Kinsale.
+. Debt Position: J.P. Morgan may hold a position in the debt securities of Kinsale, if any.
+Company-Specific Disclosures: Important disclosures, including price charts and credit opinion history tables, are available for compendium
+reports and all J.P. Morgan-covered companies, and certain non-covered companies, by visiting https://www.jpmm.com/research/disclosures,
+calling 1-800-477-0406, or e-mailing research.disclosure.inquiries@jpmorgan.com with your request.
+12
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+J.P.Morgan
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+Kinsale (KNSL, KNSL US) Price Chart
+500
+OW $230
+450
+OW $220
+400
+OW $200
+350
+N $200
+N $192
+N $225
+N $186
+N $210
+300
+Price($)
+250
+200
+150
+100
+50
+May
+20
+Sep
+Jan
+20
+21
+May
+21
+Sep
+21
+22
+Jan
+N $240
+N $250
+N $230
+N $290
+N $220
+N $270
+May
+22
+Sep
+22
+Jan
+23
+Date
+31-Jul-20
+OW
+165.91
+30-Oct-20
+208.26
+18-Feb-21
+OW
+190.72
+230
+16-Apr-21
+170.28
+29-Apr-21
+01-Jul-21
+29-Jul-21
+28-Oct-21
+28-Apr-22
+06-Jul-22
+28-Jul-22
+27-Oct-22
+04-Jan-23
+16-Feb-23
+N
+Rating
+OW
+N
+N
+170.98
+N
+164.77
+N
+179.44
+N
+163.26
+N
+227.90
+N
+243.47
+N
+235.85
+N
+N
+Price ($)
+271.40
+250
+260.29
+270
+299.63
+290
+Price Target
+($)
+200
+220
+186
+192
+200
+210
+225
+240
+220
+230
+Source: Bloomberg Finance L.P. and J.P. Morgan; price data adjusted for stock splits and dividends.
+Initiated coverage Aug 22, 2016. All share prices are as of market close on the previous business day.
+The chart(s) show J.P. Morgan's continuing coverage of the stocks; the current analysts may or may not have covered it over the entire period.
+J.P. Morgan ratings or designations: OW = Overweight, N= Neutral, UW = Underweight, NR = Not Rated
+Explanation of Equity Research Ratings, Designations and Analyst(s) Coverage Universe:
+J.P. Morgan uses the following rating system: Overweight [Over the next six to twelve months, we expect this stock will outperform the average
+total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Neutral [Over the next six to twelve months, we expect this
+stock will perform in line with the average total return of the stocks in the analyst's (or the analyst's team's) coverage universe.] Underweight
+[Over the next six to twelve months, we expect this stock will underperform the average total return of the stocks in the analyst's (or the
+analyst's team's) coverage universe.] Not Rated (NR): J.P. Morgan has removed the rating and, if applicable, the price target, for this stock
+because of either a lack of a sufficient fundamental basis or for legal, regulatory or policy reasons. The previous rating and, if applicable, the
+price target, no longer should be relied upon. An NR designation is not a recommendation or a rating. In our Asia (ex-Australia and ex-India)
+and U.K. small- and mid-cap equity research, each stock's expected total return is compared to the expected total return of a benchmark country
+market index, not to those analysts' coverage universe. If it does not appear in the Important Disclosures section of this report, the certifying
+analyst's coverage universe can be found on J.P. Morgan's research website, https://www.jpmorganmarkets.com.
+Coverage Universe: Singzon, Pablo S: American Equity Investment Life (AEL), BRP Group (BRP), Goosehead (GSHD), Kinsale (KNSL),
+Palomar (PLMR)
+J.P. Morgan Equity Research Ratings Distribution, as of April 01, 2023
+J.P. Morgan Global Equity Research Coverage*
+IB clients **
+JPMS Equity Research Coverage*
+IB clients **
+66%
+65%
+Overweight
+(buy)
+Neutral
+(hold)
+38%
+44%
+41%
+47%
+47%
+46%
+Underweight
+(sell)
+15%
+34%
+13%
+53%
+*Please note that the percentages might not add to 100% because of rounding.
+** Percentage of subject companies within each of the "buy," "hold" and "sell" categories for which J.P. Morgan has provided
+investment banking services within the previous 12 months.
+For purposes only of FINRA ratings distribution rules, our Overweight rating falls into a buy rating category; our Neutral rating falls
+into a hold rating category; and our Underweight rating falls into a sell rating category. Please note that stocks with an NR designation
+are not included in the table above. This information is current as of the end of the most recent calendar quarter.
+Equity Valuation and Risks: For valuation methodology and risks associated with covered companies or price targets for covered companies,
+please see the most recent company-specific research report at http://www.jpmorganmarkets.com, contact the primary analyst or your J.P.
+Morgan representative, or email research.disclosure.inquiries@jpmorgan.com. For material information about the proprietary models used,
+please see the Summary of Financials in company-specific research reports and the Company Tearsheets, which are available to download on
+the company pages of our client website, http://www.jpmorganmarkets.com. This report also sets out within it the material underlying
+assumptions used.
+A history of J.P. Morgan investment recommendations disseminated during the preceding 12 months can be accessed on the Research &
+Commentary page of http://www.jpmorganmarkets.com where you can also search by analyst name, sector or financial instrument.
+.13
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+Analysts' Compensation: The research analysts responsible for the preparation of this report receive compensation based upon various factors,
+including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues.
+Other Disclosures
+J.P. Morgan is a marketing name for investment banking businesses of JPMorgan Chase & Co. and its subsidiaries and affiliates worldwide.
+UK MIFID FICC research unbundling exemption: UK clients should refer to UK MIFID Research Unbundling exemption for details of
+JPMorgan's implementation of the FICC research exemption and guidance on relevant FICC research categorisation.
+All research material made available to clients are simultaneously available on our client website, J.P. Morgan Markets, unless specifically
+permitted by relevant laws. Not all research content is redistributed, e-mailed or made available to third-party aggregators. For all research
+material available on a particular stock, please contact your sales representative.
+Any long form nomenclature for references to China; Hong Kong; Taiwan; and Macau within this research material are Mainland China; Hong
+Kong SAR (China); Taiwan (China); and Macau SAR (China).
+J.P. Morgan Research may, from time to time, write on issuers or securities targeted by economic or financial sanctions imposed or administered
+by the governmental authorities of the U.S., EU, UK or other relevant jurisdictions (Sanctioned Securities). Nothing in this report is intended to
+be read or construed as encouraging, facilitating, promoting or otherwise approving investment or dealing in such Sanctioned Securities. Clients
+should be aware of their own legal and compliance obligations when making investment decisions.
+Any digital or crypto assets discussed in this research report are subject to a rapidly changing regulatory landscape. For relevant regulatory
+advisories on crypto assets, including bitcoin and ether, please see https://www.jpmorgan.com/disclosures/cryptoasset-disclosure.
+The author(s) of this research report may not be licensed to carry on regulated activities in your jurisdiction and, if not licensed, do not hold
+themselves out as being able to do so.
+Exchange-Traded Funds (ETFs): J.P. Morgan Securities LLC ("JPMS") acts as authorized participant for substantially all U.S .- listed ETFs. To
+the extent that any ETFs are mentioned in this report, JPMS may earn commissions and transaction-based compensation in connection with the
+distribution of those ETF shares and may earn fees for performing other trade-related services, such as securities lending to short sellers of the
+ETF shares. JPMS may also perform services for the ETFs themselves, including acting as a broker or dealer to the ETFs. In addition, affiliates
+of JPMS may perform services for the ETFs, including trust, custodial, administration, lending, index calculation and/or maintenance and other
+services.
+Options and Futures related research: If the information contained herein regards options- or futures-related research, such information is
+available only to persons who have received the proper options or futures risk disclosure documents. Please contact your J.P. Morgan
+Representative or visit https://www.theocc.com/components/docs/riskstoc.pdf for a copy of the Option Clearing Corporation's Characteristics
+and Risks of Standardized Options or http://www.finra.org/sites/default/files/Security Futures Risk Disclosure_Statement_2018.pdf for a copy
+of the Security Futures Risk Disclosure Statement.
+Changes to Interbank Offered Rates (IBORs) and other benchmark rates: Certain interest rate benchmarks are, or may in the future
+become, subject to ongoing international, national and other regulatory guidance, reform and proposals for reform. For more information, please
+consult: https://www.jpmorgan.com/global/disclosures/interbank_offered_rates
+Private Bank Clients: Where you are receiving research as a client of the private banking businesses offered by JPMorgan Chase & Co. and its
+subsidiaries ("J.P. Morgan Private Bank"), research is provided to you by J.P. Morgan Private Bank and not by any other division of J.P. Morgan,
+including, but not limited to, the J.P. Morgan Corporate and Investment Bank and its Global Research division.
+Legal entity responsible for the production and distribution of research: The legal entity identified below the name of the Reg AC Research
+Analyst who authored this material is the legal entity responsible for the production of this research. Where multiple Reg AC Research Analysts
+authored this material with different legal entities identified below their names, these legal entities are jointly responsible for the production of
+this research. Research Analysts from various J.P. Morgan affiliates may have contributed to the production of this material but may not be
+licensed to carry out regulated activities in your jurisdiction (and do not hold themselves out as being able to do so). Unless otherwise stated
+below, this material has been distributed by the legal entity responsible for production. If you have any queries, please contact the relevant
+Research Analyst in your jurisdiction or the entity in your jurisdiction that has distributed this research material.
+Legal Entities Disclosures and Country-/Region-Specific Disclosures:
+Argentina: JPMorgan Chase Bank N.A Sucursal Buenos Aires is regulated by Banco Central de la República Argentina ("BCRA"- Central
+Bank of Argentina) and Comisión Nacional de Valores ("CNV"- Argentinian Securities Commission" - ALYC y AN Integral Nº51). Australia:
+J.P. Morgan Securities Australia Limited ("JPMSAL") (ABN 61 003 245 234/AFS Licence No: 238066) is regulated by the Australian
+Securities and Investments Commission and is a Market, Clearing and Settlement Participant of ASX Limited and CHI-X. This material is
+issued and distributed in Australia by or on behalf of JPMSAL only to "wholesale clients" (as defined in section 761G of the Corporations Act
+2001). A list of all financial products covered can be found by visiting https://www.jpmm.com/research/disclosures. J.P. Morgan seeks to cover
+companies of relevance to the domestic and international investor base across all Global Industry Classification Standard (GICS) sectors, as well
+14
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+as across a range of market capitalisation sizes. If applicable, in the course of conducting public side due diligence on the subject company(ies),
+the Research Analyst team may at times perform such diligence through corporate engagements such as site visits, discussions with company
+representatives, management presentations, etc. Research issued by JPMSAL has been prepared in accordance with J.P. Morgan Australia's
+Research Independence Policy which can be found at the following link: J.P. Morgan Australia - Research Independence Policy. Brazil: Banco
+J.P. Morgan S.A. is regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman J.P. Morgan:
+0800-7700847 / ouvidoria.jp.morgan@jpmorgan.com. Canada: J.P. Morgan Securities Canada Inc. is a registered investment dealer, regulated
+by the Investment Industry Regulatory Organization of Canada and the Ontario Securities Commission and is the participating member on
+Canadian exchanges. This material is distributed in Canada by or on behalf of J.P.Morgan Securities Canada Inc. Chile: Inversiones J.P. Morgan
+Limitada is an unregulated entity incorporated in Chile. China: J.P. Morgan Securities (China) Company Limited has been approved by CSRC
+to conduct the securities investment consultancy business. Dubai International Financial Centre (DIFC): JPMorgan Chase Bank, N.A., Dubai
+Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered address is Dubai International Financial Centre - The
+Gate, West Wing, Level 3 and 9 PO Box 506551, Dubai, UAE. This material has been distributed by JP Morgan Chase Bank, N.A., Dubai
+Branch to persons regarded as professional clients or market counterparties as defined under the DFSA rules. European Economic Area
+(EEA): Unless specified to the contrary, research is distributed in the EEA by J.P. Morgan SE ("JPM SE"), which is subject to prudential
+supervision by the European Central Bank ("ECB") in cooperation with BaFin and Deutsche Bundesbank in Germany. JPM SE is a company
+headquartered in Frankfurt with registered address at TaunusTurm, Taunustor 1, Frankfurt am Main, 60310, Germany. The material has been
+distributed in the EEA to persons regarded as professional investors (or equivalent) pursuant to Art. 4 para. 1 no. 10 and Annex II of MiFID II
+and its respective implementation in their home jurisdictions ("EEA professional investors"). This material must not be acted on or relied on by
+persons who are not EEA professional investors. Any investment or investment activity to which this material relates is only available to EEA
+relevant persons and will be engaged in only with EEA relevant persons. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE
+number AAJ321) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong, and J.P.
+Morgan Broking (Hong Kong) Limited (CE number AAB027) is regulated by the Securities and Futures Commission in Hong Kong. JP Morgan
+Chase Bank, N.A., Hong Kong Branch (CE Number AAL996) is regulated by the Hong Kong Monetary Authority and the Securities and
+Futures Commission, is organized under the laws of the United States with limited liability. Where the distribution of this material is a regulated
+activity in Hong Kong, the material is distributed in Hong Kong by or through J.P. Morgan Securities (Asia Pacific) Limited and/or J.P. Morgan
+Broking (Hong Kong) Limited. India: J.P. Morgan India Private Limited (Corporate Identity Number - U67120MH1992FTC068724), having its
+registered office at J.P. Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz - East, Mumbai - 400098, is registered with the Securities and
+Exchange Board of India (SEBI) as a 'Research Analyst' having registration number INH000001873. J.P. Morgan India Private Limited is also
+registered with SEBI as a member of the National Stock Exchange of India Limited and the Bombay Stock Exchange Limited (SEBI
+Registration Number - INZ000239730) and as a Merchant Banker (SEBI Registration Number - MB/INM000002970). Telephone: 91-22-6157
+3000, Facsimile: 91-22-6157 3990 and Website: http://www.jpmipl.com. JPMorgan Chase Bank, N.A. - Mumbai Branch is licensed by the
+Reserve Bank of India (RBI) (Licence No. 53/ Licence No. BY.4/94; SEBI - IN/CUS/014/ CDSL : IN-DP-CDSL-444-2008/ IN-DP-NSDL-285-
+2008/ INBI00000984/ INE231311239) as a Scheduled Commercial Bank in India, which is its primary license allowing it to carry on Banking
+business in India and other activities, which a Bank branch in India are permitted to undertake. For non-local research material, this material is
+not distributed in India by J.P. Morgan India Private Limited. Indonesia: PT J.P. Morgan Sekuritas Indonesia is a member of the Indonesia Stock
+Exchange and is registered and supervised by the Otoritas Jasa Keuangan (OJK). Korea: J.P. Morgan Securities (Far East) Limited, Seoul
+Branch, is a member of the Korea Exchange (KRX). JPMorgan Chase Bank, N.A., Seoul Branch, is licensed as a branch office of foreign bank
+(JPMorgan Chase Bank, N.A.) in Korea. Both entities are regulated by the Financial Services Commission (FSC) and the Financial Supervisory
+Service (FSS). For non-macro research material, the material is distributed in Korea by or through J.P. Morgan Securities (Far East) Limited,
+Seoul Branch. Japan: JPMorgan Securities Japan Co., Ltd. and JPMorgan Chase Bank, N.A., Tokyo Branch are regulated by the Financial
+Services Agency in Japan. Malaysia: This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-
+X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued by the Securities
+Commission in Malaysia. Mexico: J.P. Morgan Casa de Bolsa, S.A. de C.V.and J.P. Morgan Grupo Financiero are members of the Mexican
+Stock Exchange and are authorized to act as a broker dealer by the National Banking and Securities Exchange Commission. New Zealand: This
+material is issued and distributed by JPMSAL in New Zealand only to "wholesale clients" (as defined in the Financial Markets Conduct Act
+2013). JPMSAL is registered as a Financial Service Provider under the Financial Service providers (Registration and Dispute Resolution) Act of
+2008. Pakistan: J. P. Morgan Pakistan Broking (Pvt.) Ltd is a member of the Karachi Stock Exchange and regulated by the Securities and
+Exchange Commission of Pakistan. Philippines: J.P. Morgan Securities Philippines Inc. is a Trading Participant of the Philippine Stock
+Exchange and a member of the Securities Clearing Corporation of the Philippines and the Securities Investor Protection Fund. It is regulated by
+the Securities and Exchange Commission. Russia: CB J.P. Morgan Bank International LLC is regulated by the Central Bank of Russia.
+Singapore: This material is issued and distributed in Singapore by or through J.P. Morgan Securities Singapore Private Limited (JPMSS) [MCI
+(P) 060/08/2022 and Co. Reg. No .: 199405335R], which is a member of the Singapore Exchange Securities Trading Limited, and/or JPMorgan
+Chase Bank, N.A., Singapore branch (JPMCB Singapore), both of which are regulated by the Monetary Authority of Singapore. This material is
+issued and distributed in Singapore only to accredited investors, expert investors and institutional investors, as defined in Section 4A of the
+Securities and Futures Act, Cap. 289 (SFA). This material is not intended to be issued or distributed to any retail investors or any other investors
+that do not fall into the classes of "accredited investors," "expert investors" or "institutional investors," as defined under Section 4A of the SFA.
+Recipients of this material in Singapore are to contact JPMSS or JPMCB Singapore in respect of any matters arising from, or in connection
+with, the material. As at the date of this material, JPMSS is a designated market maker for certain structured warrants listed on the Singapore
+Exchange where the underlying securities may be the securities discussed in this material. Arising from its role as a designated market maker for
+such structured warrants, JPMSS may conduct hedging activities in respect of such underlying securities and hold or have an interest in such
+underlying securities as a result. The updated list of structured warrants for which JPMSS acts as designated market maker may be found on the
+website of the Singapore Exchange Limited: http://www.sgx.com. South Africa: J.P. Morgan Equities South Africa Proprietary Limited and
+15
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Pablo S. Singzon
+(1-212) 622-2295
+pablo.s.singzon@jpmorgan.com
+North America Equity Research
+27 April 2023
+J.P.Morgan
+JPMorgan Chase Bank, N.A., Johannesburg Branch are members of the Johannesburg Securities Exchange and are regulated by the Financial
+Services Board. Taiwan: J.P. Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated
+by the Taiwan Securities and Futures Bureau. Material relating to equity securities is issued and distributed in Taiwan by J.P. Morgan Securities
+(Taiwan) Limited, subject to the license scope and the applicable laws and the regulations in Taiwan. According to Paragraph 2, Article 7-1 of
+Operational Regulations Governing Securities Firms Recommending Trades in Securities to Customers (as amended or supplemented) and/or
+other applicable laws or regulations, please note that the recipient of this material is not permitted to engage in any activities in connection with
+the material that may give rise to conflicts of interests, unless otherwise disclosed in the "Important Disclosures" in this material. Thailand:
+This material is issued and distributed in Thailand by JPMorgan Securities (Thailand) Ltd., which is a member of the Stock Exchange of
+Thailand and is regulated by the Ministry of Finance and the Securities and Exchange Commission, and its registered address is 3rd Floor, 20
+North Sathorn Road, Silom, Bangrak, Bangkok 10500. UK: Unless specified to the contrary, research is distributed in the UK by J.P. Morgan
+Securities plc ("JPMS plc") which is a member of the London Stock Exchange and is authorised by the Prudential Regulation Authority and
+regulated by the Financial Conduct Authority and the Prudential Regulation Authority. JPMS plc is registered in England & Wales No. 2711006,
+Registered Office 25 Bank Street, London, E14 5JP. This material is directed in the UK only to: (a) persons having professional experience in
+matters relating to investments falling within article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) (Order) 2005
+("the FPO"); (b) persons outlined in article 49 of the FPO (high net worth companies, unincorporated associations or partnerships, the trustees of
+high value trusts, etc.); or (c) any persons to whom this communication may otherwise lawfully be made; all such persons being referred to as
+"UK relevant persons". This material must not be acted on or relied on by persons who are not UK relevant persons. Any investment or
+investment activity to which this material relates is only available to UK relevant persons and will be engaged in only with UK relevant persons.
+Research issued by JPMS plc has been prepared in accordance with JPMS plc's policy for prevention and avoidance of conflicts of interest
+related to the production of Research which can be found at the following link: J.P. Morgan EMEA - Research Independence Policy. U.S .: J.P.
+Morgan Securities LLC ("JPMS") is a member of the NYSE, FINRA, SIPC, and the NFA. JPMorgan Chase Bank, N.A. is a member of the
+FDIC. Material published by non-U.S. affiliates is distributed in the U.S. by JPMS who accepts responsibility for its content.
+General: Additional information is available upon request. The information in this material has been obtained from sources believed to be
+reliable. While all reasonable care has been taken to ensure that the facts stated in this material are accurate and that the forecasts, opinions and
+expectations contained herein are fair and reasonable, JPMorgan Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) make
+no representations or warranties whatsoever to the completeness or accuracy of the material provided, except with respect to any disclosures
+relative to J.P. Morgan and the Research Analyst's involvement with the issuer that is the subject of the material. Accordingly, no reliance should
+be placed on the accuracy, fairness or completeness of the information contained in this material. There may be certain discrepancies with data
+and/or limited content in this material as a result of calculations, adjustments, translations to different languages, and/or local regulatory
+restrictions, as applicable. These discrepancies should not impact the overall investment analysis, views and/or recommendations of the subject
+company(ies) that may be discussed in the material. J.P. Morgan accepts no liability whatsoever for any loss arising from any use of this material
+or its contents, and neither J.P. Morgan nor any of its respective directors, officers or employees, shall be in any way responsible for the contents
+hereof, apart from the liabilities and responsibilities that may be imposed on them by the relevant regulatory authority in the jurisdiction in
+question, or the regulatory regime thereunder. Opinions, forecasts or projections contained in this material represent J.P. Morgan's current
+opinions or judgment as of the date of the material only and are therefore subject to change without notice. Periodic updates may be provided on
+companies/industries based on company-specific developments or announcements, market conditions or any other publicly available
+information. There can be no assurance that future results or events will be consistent with any such opinions, forecasts or projections, which
+represent only one possible outcome. Furthermore, such opinions, forecasts or projections are subject to certain risks, uncertainties and
+assumptions that have not been verified, and future actual results or events could differ materially. The value of, or income from, any
+investments referred to in this material may fluctuate and/or be affected by changes in exchange rates. All pricing is indicative as of the close of
+market for the securities discussed, unless otherwise stated. Past performance is not indicative of future results. Accordingly, investors may
+receive back less than originally invested. This material is not intended as an offer or solicitation for the purchase or sale of any financial
+instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not
+intended as recommendations of particular securities, financial instruments or strategies to particular clients. This material may include views on
+structured securities, options, futures and other derivatives. These are complex instruments, may involve a high degree of risk and may be
+appropriate investments only for sophisticated investors who are capable of understanding and assuming the risks involved. The recipients of
+this material must make their own independent decisions regarding any securities or financial instruments mentioned herein and should seek
+advice from such independent financial, legal, tax or other adviser as they deem necessary. J.P. Morgan may trade as a principal on the basis of
+the Research Analysts' views and research, and it may also engage in transactions for its own account or for its clients' accounts in a manner
+inconsistent with the views taken in this material, and J.P. Morgan is under no obligation to ensure that such other communication is brought to
+the attention of any recipient of this material. Others within J.P. Morgan, including Strategists, Sales staff and other Research Analysts, may take
+views that are inconsistent with those taken in this material. Employees of J.P. Morgan not involved in the preparation of this material may have
+investments in the securities (or derivatives of such securities) mentioned in this material and may trade them in ways different from those
+discussed in this material. This material is not an advertisement for or marketing of any issuer, its products or services, or its securities in any
+jurisdiction.
+"Other Disclosures" last revised April 01, 2023.
+Copyright 2023 JPMorgan Chase & Co. All rights reserved. This material or any portion hereof may not be reprinted, sold or
+redistributed without the written consent of J.P. Morgan.
+Completed 27 Apr 2023 10:06 PM EDT
+16
+This document is being provided for the exclusive use of AVERY PARK at HARVARD BUSINESS SCHOOL.
+Disseminated 27 Apr 2023 10:06 PM EDT

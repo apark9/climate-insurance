@@ -1,0 +1,1667 @@
+BARCLAYS
+Equity Research
+Financial Services
+31 October 2022
+The Hartford Financial Services Group, Inc.
+3Q22 Earnings Review
+Our focus is on total returns, HIG's premium growth and WC
+bias can fuel nice NII upside from higher net invested assets.
+While we do not think this is the time to grow auto PIF (+1.2%
+q/q vs. its historical declines), auto is not a material
+component of HIG's enterprise (10.5% of premiums earned).
+CORE
+Earnings Review
+HIG
+OVERWEIGHT
+Unchanged
+U.S. Insurance/Non-Life
+POSITIVE
+Unchanged
+Price Target
+USD 82.00
+raised 5% from USD 78.00
+Price (28-Oct-22)
+USD 72.16
+Potential Upside/Downside
++13.6%
+NII upside should more than offset auto headwinds: HIG's new money rate of about 4.9% is well
+ahead of its 3.7% average yield of assets rolling off (both pre-tax). In translation, HIG is
+expecting its annualized portfolio yield, excluding limited partnerships, to increase by ~10 to 20
+bps in 4Q22 and ~50 to 60 bps in 2023 from 2022. HIG is also shortening its asset duration (4.0 in
+Sept' 22 vs. 4.8 in March 21), which should accelerate its portfolio turnover rate. While HIG's
+investment posture is conservative, we pay attention to changes on the margin. In terms of
+asset allocations on an amortized cost basis, HIG is growing in ABS (+75% since YE21) and RMBS
+(+17% since YE21). These are asset classes linked to consumer finance.
+On the personal auto side, HIG's +1.2% PIF growth q/q in this business is ahead of its historical
+trend. HIG had originally expected improvements in auto physical damage in 2H22 that is not
+materializing. HIG is ramping up its auto filing efforts (from 5% in 3Q22 to double-digits in 4Q &
+mid-teens in 1H23), although we think it will take longer for those rates to earn in, especially
+considering that the bulk of its inforce is still on 12-month policies. (Note, its more recent
+marketing efforts for Prevail are centered on 6-month policies). Unlike ALL, HIG is not calling
+out higher bodily injury claims and/or higher attorney representations. To be sure, HIG's
+favorable auto PYD reflects AY2018 and prior, although we are surprised that the auto claims
+cycle can span those multiple years.
+Market Cap (USD mn)
+22954
+Shares Outstanding (mn)
+318.10
+Free Float (%)
+99.55
+52 Wk Avg Daily Volume (mn)
+1.9
+Dividend Yield (%)
+2.36
+Return on Equity TTM (%)
+12.83
+Current BVPS (USD)
+39.50
+Source: Bloomberg
+Price Performance
+Exchange-NYSE
+52 Week range
+USD 78.17-60.17
+HIG is maintaining its loss trends, excluding workers' compensation, 100 bps below its pricing
+level. As HIG reported 6.4% of commercial lines (ex WC) renewal pricing in 3Q22, we assume that
+its loss trend is ~5.5%, which feels up from prior commentary of 5%. Within WC, indemnity loss
+trends are contained in wage growth and HIG's long-term medical severity for comp is 5%. While
+HIG experienced some WC underlying margin compression in 3Q22, it was within its
+expectations (<0.5 points). We recognize that on an absolute basis, WC is a high underwriting
+margin business with greater NII upside than other lines. WC pricing is also in positive territory,
+though we think most of that is driven from exposures that act like rate (i.e. audit premiums).
+76
+72
+68
+64 -
+60 .
+Jan-2022
+Apr-2022
+Jul-2022
+Oct-2022
+Source: IDC
+Link to Barclays Live for interactive charting
+Peer Leading P&C ROE: HIG's core ROE of 14.0% is at the upper end of its 13-14% '22 guidance.
+In particular, its core ROE in P&C of 17.7% is peer leading and ahead of its segment guide of 14-
+15%, which is impressive considering a heavy catastrophe quarter and tough auto headwinds.
+HIG's core ROE within group benefits of 6.6% and well below its segment guide of 10-11%.
+U.S. Insurance/Non-Life
+Tracy Benguigui
++1 212 526 1561
+tracy.benguigui@barclays.com
+BCI, US
+Alex Barenklau
++1 212 526 1021
+alexander.barenklau@barclays.com
+BCI, US
+Barclays Capital Inc. and/or one of its affiliates does and seeks to do business with companies
+covered in its research reports. As a result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of this report. Investors should consider this
+report as only a single factor in making their investment decision.
+Please see analyst certifications and important disclosures beginning on page 9 .
+Completed: 31-Oct-22, 05:35 GMT Released: 31-Oct-22, 10:00 GMT
+Restricted - External
+Barclays | The Hartford Financial Services Group, Inc.
+Lastly, Hartford Funds core ROE of 52.8% is trending below its segment guide of 54-55%. Note,
+HIG excludes AOCI from the denominator of its CORE ROE.
+HIG: Quarterly and Annual EPS (USD)
+2021
+2022
+2023
+Change y/y
+FY Dec
+Actual
+Old
+New
+Cons
+Old
+New
+Q1
+Q2
+Q3
+Q4
+Year
+0.56A
+1.66A
+1.66A
+1.69A
+2.03E
+2.04E
+2.03E
+2.33A
+2.15A
+2.15A
+2.18A
+1.77E
+1.80E
+1.97E
+1.26A
+1.39E
+1.44A
+1.44A
+1.96E
+2.00E
+2.02A
+1.76E
+1.85E
+1.92E
+2.29E
+2.36E
+6.17A
+6.97E
+7.11E
+7.06E
+8.04E
+8.19E
+P/E
+11.7
+10.1
+8.8
+Consensus numbers are from Bloomberg received on 28-Oct-2022; 12:50 GMT
+Source: Barclays Research
+Cons
+2022
+196%
+-8%
+2.06E
+14%
+2.31E
+-8%
+28%
+8.38E
+15%
+2023
+23%
+-16%
+39%
+15%
+31 October 2022
+2
+Barclays | The Hartford Financial Services Group, Inc.
+U.S. Insurance/Non-Life
+The Hartford Financial Services Group, Inc.
+(HIG)
+Income statement ($mn)
+Net premiums earned
+12,495
+Net investment income (NII)
+2,313.0
+Underwriting income
+469
+Operating income
+2,150
+Net income
+2,337
+Effective tax rate (%)
+18.6
+Combined ratio (%)
+96.2
+Combined ratio (ex cats & py development)
+89.3
+89.8
+(%)
+Per share data ($)
+EPS (adj)
+6.17
+EPS (reported)
+6.62
+DPS
+1.44
+BVPS
+51.36
+BVPS (ex AOCI)
+50.86
+Balance sheet and capital return ($mn)
+2021A
+Total investments
+57,749
+53,525
+Common shareholders' equity (ex AOCI)
+17,337
+17,143
+Share buybacks
+1,702
+Dividends paid
+501
+Balance sheet and capital return metrics
+2021A
+Debt leverage (%)
+21.7
+Financial leverage (%)
+23.2
+Total capital return as a % of op. earnings
+102.5
+2021A
+2021A
+Valuation metrics
+2021A
+P/BV (ex AOCI) (x)
+1.42
+P/E (adj) (x)
+11.7
+Dividend yield (%)
+2.0
+ROE (%)
+13.2
+10.3
+Note: FY End Dec
+Source: Company data, Bloomberg, Barclays Research
+2022E
+13,534
+2,013.5
+909
+2,340
+1,826
+20.4
+93.3
+2022E
+7.11
+5.48
+1.59
+39.96
+53.82
+2022E
+1,545
+515
+2022E
+25.0
+26.9
+88.0
+2022E
+1.34
+10.1
+2.2
+2023E
+14,512
+15,408
+2,355.8
+888
+2,550
+19.5
+19.5
+93.9
+89.5
+89.3
+2023E
+8.19
+8.19
+1.79
+44.62
+59.40
+2023E
+56,502
+17,742
+1,380
+543
+2023E
+24.2
+26.0
+76.1
+70.5
+2023E
+1.21
+8.8
+9.5
+2.5
+14.2
+2024E
+CAGR
+2,544.2
+3.2%
+978
+27.8%
+2,526
+2,752
+8.6%
+2,776
+5.9%
+93.6
+-0.9%
+2024E
+9.52
+15.5%
+9.52
+12.9%
+1.96
+11.0%
+50.51
+-0.6%
+66.27
+9.2%
+2024E
+59,691
+1.1%
+18,551
+2.3%
+1,380
+-6.8%
+560
+2024E
+23.1
+23.5
+24.9
+25.3
+2024E
+1.09
+1.27
+7.6
+2.7
+2.3
+14.9
+7.2%
+1.5%
+0.0%
+CAGR
+CAGR
+3.8%
+Average
+Our downside case assumes
+unsuccessful underwriting margin
+expansion and expense savings as
+84.3
+well as a slowdown in the
+commercial P&C renewal rate
+Average
+environment. Our downside case is
+~7.6x '23E EPS.
+13.1
+POSITIVE
+OVERWEIGHT
+Price (28-Oct-2022)
+USD 72.16
+Price Target
+USD 82.00
+Why OVERWEIGHT?
+HIG has sound fundamentals
+following transformation, which
+should continue to drive a stronger
+book multiple. ROE convergence
+with peers should make current
+valuation look inexpensive.
+Navigators acquisition is becoming
+more accretive given boost from
+hard pricing in specialty lines. HIG
+has accelerated the pace of its
+expense savings plans.
+Upside case
+USD 87.00
+Our upside case reflects stronger
+than expected underwriting margin
+expansion and commercial P&C
+pricing levels and improving group
+benefits margins. Our upside case is
+~1.6x '23 BVPS ex AOCI.
+Downside case
+USD 62.00
+Upside/Downside scenarios
+Price History
+Prior 12 months
+High
+Price Target
+Next 12 months
+Upside
+87.00
+Target
+82.00
+78.17
+Current
+72.16
+62.00
+60.16
+Low
+Downside
+31 October 2022
+3
+Barclays | The Hartford Financial Services Group, Inc.
+3Q22 vs. Target Financial Plan
+HIG's personal lines underlying CR was 95.9% in 3Q22, tracking above its FY22 guided range of
+91-94% (updated last quarter by 1-2 points). On a YTD basis it's inside the range at 92.8%,
+although we recognize on a seasonality perspective, 4Q auto loss trends usually run higher. HIG
+expects to meet its guided ranges in 2022.
+Commercial lines underlying CR of 89.3% in 3Q22 is on track to meet HIG's 2022E outlook range
+of 86.5%-88.5%. Group Benefits 7.2% core earnings margin and 8.7% ex-COVID in 2Q22 is ahead
+of the 2022E outlook ranges (3.1-5.4% inc. COVID and 6-7% ex-COVID) in the quarter. We are
+modeling better commercial lines premiums in 2022 than HIG's plan (BARC: 11.3% vs. HIG: 4-
+5%).
+FIGURE 1. HIG Targets vs. Barclays Estimates
+HIG Outlook
+Key Business Metrics
+Commercial Lines
+NPW Growth
+12%
+CR
+Underlying CR
+2021
+Actual
+2022E
+Outlook Range
+2022E
+2023E
+Barclays Barclays
+95.8%
+89.1%
+~ 4%
+5%
+11.3%
+9.5%
+90%
+-
+92%
+90.6%
+92.0%
+Personal Lines
+NPW Growth
+86.5%
+-
+88.5%
+Flat to slightly down
+CR
+Underlying CR
+Group Benefits
+-1.0%
+90.6%
+89.9%
+Earned Premium and Fee Income Growth
+2.7%
+97.0%
+-
+99.0%
+91.0%
+-
+94.0%
+88.5%
+1.6%
+101.7%
+94.0%
+~2%
+5.6%
+Core earnings margin (excluding COVID)
+Core earnings margin (including COVID)
+10.3%
+6.0%
+-
+7.0%
+8.3%
+2.4%
+3.1%
+-
+88.4%
+0.5%
+101.2%
+94.0%
+3.0%
+6.7%
+5.4%
+6.3%
+6.7%
+Core ROE
+Source: Barclays Research, Company Data.
+Personal Lines
+12.7%
+13.0%
+-
+14.0%
+13.6%
+14.5%
+HIG is ramping up its auto rate actions and anticipates to see double digit increases in 4Q and
+mid-teens increases for 1H23. We think these rating actions are on a written basis and may take
+time to fully earn in for its inforce, as the bulk are written under 12 month policies.
+The auto underlying combined ratio of 102.6% was up 2.6 pts sequentially. HIG saw higher than
+expected severity, most evident in physical damage with bodily injury being a less significant
+driver.
+Auto Underlying Loss ratio: To get worse before it gets better. On a seasonality perspective,
+we keep in mind that HIG's auto loss ratio runs at the highest level in the fourth quarter (about 3
+to 5 points) than the annual loss ratio. Conversely, 1Q auto loss costs run lower than the balance
+of the year.
+The homeowners underlying combined ratio of 80.4% was down 1.6 pts q/q. HIG is also
+pushing for rate on the homeowners side with 12% rate increases seen in 3Q22.
+The loss ratio for Personal lines increased to 82.5% in 3Q22 compared to 73.4% in 2Q22 and
+71.2% in 3Q21.
+31 October 2022
+4
+Barclays | The Hartford Financial Services Group, Inc.
+Auto PIF slightly up, despite headwinds
+FIGURE 2. PIF slightly up in auto and PIF decline moderating in home
+Policies in Force (in thousands)
+1Q20
+2Q20
+3Q20
+4Q20
+1Q21
+2Q21
+3Q21
+4Q21
+1Q22
+2Q22
+3Q22
+Auto
+1,410
+1,416
+1,392
+1,369
+1,357
+1,339
+1,328
+1,317
+1,315
+1,315
+1,331
+y/y % growth
+-5.1%
+Homeowners
+868
+-3.3%
+-3.7%
+865
+846
+-3.7%
+826
+-3.8%
+815
+-5.4%
+799
+-4.6%
+-3.8%
+-3.1%
+-1.8%
+0.2%
+786
+773
+765
+756
+749
+y/y % growth
+-4.9%
+-4.2%
+-5.3%
+-5.8%
+-6.1%
+-7.6%
+-7.1%
+-6.4%
+-6.1%
+-5.4%
+-4.7%
+Source: Barclays Research, Company Data.
+Underlying Commercial Margin
+Commercial lines underlying margin worsened to 89.3% ~2.1 pts y/y and 1.2 pts q/q. Over the
+last 2 quarters, HIG's global specialty underlying combined ratio was better than small
+commercial which we partly attribute to pricing as well as HIG's underwriting influence on the
+old NAVG book. HIG is targeting commercial lines underlying combined ratio of 86.5%- 88.5% in
+2022 (BARC estimate 88.5%).
+Segment Underlying Results:
+· Middle & Large Commercial underlying combined ratio of 93.7% in 3Q22 worsened from
+92.9% in 2Q22, partly due to unfavorable non-cat weather.
+· Small Commercial underlying combined ratio at 88.5% in 3Q22 worsened from 86.9% in
+2Q22, partly due to unfavorable non-cat weather and WC margins.
+· Global Specialty underlying combined ratio of 84.5% in 3Q22 worsened from 83.1% in
+2Q22, but improved y/y by 2.4 points.
+Group Benefits
+Core earnings margin of 7.2% is trending above'22 guidance including COVID of 3.1%-5.4%, and
+better than our estimate of 5.5%. HIG's margins included a pandemic headwind of $26mn and a
+$5mn headwind related to pre-tax COVID-19 related short term disability claims. The group
+benefits core earnings margin adjusted for pandemic excess mortality and COVID-19 ST
+disability losses was 8.7%, above its guided range of 6-7%.
+Forward Looking Commentary/Model Updates
+· Higher NII guide: Annualized portfolio yield, excluding limited partnerships, to increase by
+~10 to 20 bps in 4Q22 (we are estimating 3.45%) and ~50 to 60 bps in 2023 from 2022. HIG
+posted 3.1% (pre-tax) annualized yield, ex LLP, in the first nine months of 2022. On the same
+basis, we are estimating 3.21% for FY22 and 3.76% for FY23.
+· HIG anticipates annualized LP returns in FY2022 to be at the high end of its 8-10% range.
+HIG posted 13.0% (pre-tax) annualized LLP returns in the first nine months of 2022. In order
+to arrive at the high end of its 8-10% annual target, we are estimating below trend 3%
+returns in 4Q22E.
+· Capital Returns: During 3Q22 HIG repurchased $350mn of shares (vs. our $311mn estimate)
+and repurchased $98mn from Oct. 1-26, 2022. HIG has $3.1bn remaining on its board
+authorized buyback programs through YE24. In 4Q22, HIG expects to receive $400mn of
+31 October 2022
+5
+Barclays | The Hartford Financial Services Group, Inc.
+dividends from its U.S. P&C insurance subsidiaries, $45mn from HLA (Group Benefits) and
+$40mn from Hartford Funds. HIG's holding co. cash and marketable assets totaled $1.1bn as
+of Sept. 30, 2022. We are modeling a $345mn quarterly buyback run-rate.
+We reiterate our Overweight rating on HIG and raise our PT to $82 (from $78) based on a
+50/50 weighted 10.5x $8.19 (up from $8.04) '23E EPS and 1.3x (from 1.2x) 2023E book value per
+share ex AOCI of $59.4 (up from $59.2). Trading at 8.6x 2023E P/E, HIG offers one of the best long
+term risk/rewards in P/C insurance, in our view.
+3Q22 Variance
+FIGURE 3. 3Q22 Variance Analysis: Segments
+Consolidated Results
+Q/Q
+Y/Y
+Barclays Est.
+(in $ mn, expect per share data)
+Net income avail to common shareholders
+$333
+Net income per diluted share
+$1.02
+Core earnings
+Core earnings per diluted share
+$1.44
+Net investment income
+Cat losses
+P&C - Combined ratio
+P&C - Underlying combined ratio
+Book value per diluted share
+Book value per diluted share (ex. AOCI)
+Core Earnings ROE
+Share Repurchases
+$350
+Source: Barclays Research, Company Data.
+3Q22A
+$471
+$487
+$293
+94.3%
+89.3%
+$38.99
+$52.63
+14.3%
+FIGURE 4. 3Q22 Variance Analysis: Segments
+Business Results
+(in $ mn, expect per share data)
+2Q22
+$437
+(23.8%)
+$1.32
+$714
+(34.0%)
+$2.15
+$541
+(10.0%)
+$123
+91.4%
+292 bps
+89.4%
+(13 bps)
+$42.21
+(7.6%)
+$52.12
+1.0%
+0.0%
+$450
+(22.2%)
+% Change
+(22.6%)
+(33.1%)
+138.2%
+1430 bps
+Q/Q
+3Q21
+$476
+$1.36
+$442
+$1.26
+$650
+$300
+100.5%
+(620 bps)
+88.3%
+$50.53
+$49.64
+12.5%
+$511
+% Change
+(30.0%)
+(24.9%)
+6.6%
+14.3%
+(25.1%)
+(2.3%)
+101 bps
+(22.8%)
+$42.43
+(8.1%)
+6.0%
+180 bps
+(31.5%)
+Y/Y
+3Q22E
+$455
+$1.39
+$455
+$1.39
+3.4%
+$419
+$243
+96.0%
+89.2%
+12 bps
+$52.48
+14.2%
+$311
+% Var.
+(26.8%)
+(26.7%)
+3.5%
+16.1%
+20.3%
+(173 bps)
+0.3%
+13 bps
+12.6%
+Barclays Est.
+Commercial Lines
+Net written premiums
+$2,780
+Underwriting gain (loss)
+$153
+Underlying underwriting gain
+Underlying Loss ratio
+Cat and PYD pts
+Expense ratio
+Policyholder dividends
+Combined ratio
+Underlying combined ratio
+Personal Lines
+Net written premiums
+Underwriting gain (loss)
+Underwriting underwriting gain
+Underlying Loss ratio
+Cat and PYD pts
+Expense ratio
+Combined ratio
+Underlying combined ratio
+95.9%
+Group Benefits
+3Q22A
+2Q22
+% Change
+$290
+57.5%
+5.0%
+31.5%
+0.3%
+94.3%
+89.3%
+$803
+($72)
+$31
+68.8%
+13.7%
+27.1%
+109.6%
+$2,836
+$333
+$312
+56.1%
+(1%)
+580 bps
+14.0%
+(905 bps)
+31.7%
+0.3%
+87.3%
+88.1%
+$756
+($13)
+$43
+65.7%
+7.7%
+28.4%
+101.8%
+94.1%
+(2.0%)
+(54.1%)
+($30)
+(7.1%)
+140 bps
+(20 bps)
+31.8%
+3 bps
+703 bps
+101.2%
+123 bps
+87.2%
+6.2%
+453.8%
+(27.9%)
+310 bps
+599 bps
+6.9%
+(127 bps)
+27.4%
+781 bps
+182 bps
+3Q21
+$2,532
+$314
+55.2%
+0.2%
+$765
+$10
+$61
+64.4%
+98.7%
+91.8%
+% Change
+9.8%
+610.0%
+$168
+(7.6%)
+233 bps
+(31 bps)
+10 bps
+(692 bps)
+212 bps
+5.0%
+(820.0%)
+(49.2%)
+442 bps
+66.0%
+685 bps
+10.0%
+(28 bps)
+28.2%
+1095 bps
+410 bps
+3Q22E
+$2,809
+$331
+55.9%
+6.0%
+(100 bps)
+31.6%
+0.3%
+93.8%
+87.8%
+$761
+($31)
+$42
+104.2%
+94.2%
+% Var.
+(1.0%)
+(8.8%)
+(12.3%)
+160 bps
+(11 bps)
+(2 bps)
+47 bps
+147 bps
+5.5%
+134.3%
+(26.8%)
+280 bps
+370 bps
+(111 bps)
+539 bps
+169 bps
+31 October 2022
+6
+Barclays | The Hartford Financial Services Group, Inc.
+Net income
+Core earnings
+$117
+Fully insured ongoing premiums (ex. buyout premiums)
+$1,458
+Loss ratio
+72.8%
+Expense ratio
+25.4%
+Net income margin
+5.4%
+Core earnings margin
+Hartford Funds
+Net income
+Core earnings
+Mutual Fund and ETP net flows
+($2,223)
+Total Hartford AUM
+Source: Barclays Research, Company Data.
+$86
+7.2%
+$41
+$47
+$117,827
+$104
+$161
+$1,469
+70.2%
+25.5%
+6.6%
+9.8%
+$34
+$44
+($2,011)
+$127,398
+Model Summary
+FIGURE 5. Model Summary (pg. 1)
+($ in mn, except per share data)
+P&C Net written premiums
+P&C Revenues:
+P&C net earned premiums
+Fee Income
+Total revenues
+P&C Expenses:
+Loss & loss adjustment expenses
+Amortization of DAC
+Underwriting Expenses
+Dividends to policyholders
+Total expenses
+(17.3%)
+27.3%
+(0.7%)
+260 bps
+(6 bps)
+(119 bps)
+(260 bps)
+20.6%
+6.8%
+10.5%
+(7.5%)
+$153,793
+2020
+11,905
+11,918
+64
+11,982
+7,653
+1,641
+2,228
+29
+11,551
+Underwriting Income
+431
+$28
+$149
+$1,378
+71.4%
+25.4%
+10.7%
+9.5%
+$52
+$51
+$2,440
+2021
+12,949
+12,495
+66
+12,561
+8,110
+1,628
+2,330
+24
+12,092
+207.1%
+21.5%
+5.8%
+139 bps
+0 bps
+(529 bps)
+(227 bps)
+(21.2%)
+$52
+(7.8%)
+(191.1%)
+(23.4%)
+$133,074
+2022E
+14,134
+13,534
+69
+13,603
+8,422
+1,789
+2,452
+30
+12,693
+469
+909
+$86
+$88
+$1,441
+74.0%
+25.7%
+5.5%
+5.5%
+$52
+$115
+2023E
+15,210
+14,512
+69
+14,581
+9,119
+1,918
+2,619
+38
+13,693
+0.5%
+(33.4%)
+1.2%
+(120 bps)
+(29 bps)
+(5 bps)
+167 bps
+(20.5%)
+(8.9%)
+(2026.2%)
+(11.5%)
+2024E
+16,308
+15,408
+69
+15,477
+9,621
+2,060
+2,777
+41
+14,499
+888
+978
+P&C Net investment income
+Other
+P&C Income before income taxes
+Income tax expense
+P&C Net Income (loss)
+Adjustments (incl ATX net realized cap gain/(loss))
+P&C Core Earnings
+Core earnings Per Share
+Shares
+Wtd Average Diluted Shares Outstanding
+Source: Barclays Research, Company Data.
+1,372
+(83)
+1,720
+314
+1,406
+(313)
+$1,719
+$5.78
+360.6
+1,734
+315
+2,518
+469
+2,049
+36
+$2,013
+$6.17
+354.1
+1,509
+(436)
+1,982
+405
+1,577
+(349)
+$1,926
+$7.11
+329.1
+1,772
+2,660
+519
+2,141
+-
+$2,141
+$8.19
+308.5
+1,914
+-
+2,892
+564
+2,328
+$2,328
+$9.52
+289.2
+31 October 2022
+7
+Barclays | The Hartford Financial Services Group, Inc.
+FIGURE 6. Model Summary (pg. 2)
+($ in mn, except per share data)
+Capital deployment
+Assumed Repurchase Price Per Share
+Shares Repurchased (in mn)
+Dollar Amount Repurchased (in $ mn)
+Dividends Per Share
+Shareholder dividends (in $ mn)
+Total capital returned
+Total capital returned as % normalized earnings
+Other statistics
+Effective Tax Rate
+18.3%
+Catastrophe losses (P/T)
+Prior year reserve development (fav)/unfav (P/T)
+Shareholders' Equity and Returns on Capital
+Common stockholders' equity ex AOCI
+17,052
+17,337
+Total stockholders' equity ex AOCI
+17,386
+Book value per diluted share ex AOCI
+Core Earnings ROE
+Underwriting Margins - P&C
+Loss ratio
+Expense ratio
+Policyholder dividends
+Total P&C Combined ratio
+Underlying Combined Ratio
+Catastrophe loss CR pts
+5.1%
+Prior year reserve development CR pts
+Underlying P&C Combined Ratio
+Source: Barclays Research, Company Data.
+2020
+$56
+2.7
+150
+$1.30
+466
+616
+2,203
+102%
+30%
+606
+(136)
+$47.16
+12.7%
+64.2%
+31.9%
+0.2%
+96.4%
+-1.1%
+92.4%
+2021
+$65
+26.3
+1,702
+1,545
+$1.44
+501
+18.6%
+664
+650
+199
+17,671
+17,477
+$50.86
+$53.82
+12.5%
+64.9%
+31.1%
+0.2%
+96.2%
+5.3%
+1.6%
+89.3%
+89.8%
+2022E
+$69
+22.5
+$1.59
+515
+2,060
+88%
+20.4%
+(175)
+17,143
+13.6%
+62.2%
+30.8%
+0.2%
+93.3%
+4.8%
+-1.3%
+-0.8%
+2023E
+$69
+19.9
+1,380
+$1.79
+543
+1,923
+19.5%
+748
+(116)
+17,742
+18,076
+$59.40
+14.5%
+62.8%
+62.4%
+30.8%
+0.3%
+93.9%
+5.2%
+89.5%
+2024E
+$73
+18.8
+1,380
+$1.96
+560
+1,940
+76%
+70%
+19.5%
+789
+(125)
+18,551
+18,885
+$66.27
+15.2%
+30.9%
+0.3%
+93.6%
+5.1%
+-0.8%
+89.3%
+31 October 2022
+8
+Barclays | The Hartford Financial Services Group, Inc.
+Analyst(s) Certification(s):
+I, Tracy Benguigui, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
+securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+Important Disclosures:
+Barclays Research is produced by the Investment Bank of Barclays Bank PLC and its affiliates (collectively and each individually, "Barclays"). All
+authors contributing to this research report are Research Analysts unless otherwise indicated. The publication date at the top of the report reflects the
+local time where the report was produced and may differ from the release date provided in GMT.
+Availability of Disclosures:
+Where any companies are the subject of this research report, for current important disclosures regarding those companies please refer to
+https://publicresearch.barclays.com or alternatively send a written request to: Barclays Research Compliance, 745 Seventh Avenue, 13th Floor, New
+York, NY 10019 or call +1-212-526-1072.
+The analysts responsible for preparing this research report have received compensation based upon various factors including the firm's total revenues,
+a portion of which is generated by investment banking activities, the profitability and revenues of the Markets business and the potential interest of the
+firm's investing clients in research with respect to the asset class covered by the analyst.
+Analysts regularly conduct site visits to view the material operations of covered companies, but Barclays policy prohibits them from accepting payment
+or reimbursement by any covered company of their travel expenses for such visits.
+Barclays Research Department produces various types of research including, but not limited to, fundamental analysis, equity-linked analysis,
+quantitative analysis, and trade ideas. Recommendations contained in one type of Barclays Research may differ from those contained in other types of
+Barclays Research, whether as a result of differing time horizons, methodologies, or otherwise.
+In order to access Barclays Statement regarding Research Dissemination Policies and Procedures, please refer to
+https://publicresearch.barcap.com/S/RD.htm. In order to access Barclays Research Conflict Management Policy Statement, please refer to:
+https://publicresearch.barcap.com/S/CM.htm.
+Primary Stocks (Ticker, Date, Price)
+The Hartford Financial Services Group, Inc. (HIG, 28-Oct-2022, USD 72.16), Overweight/Positive, CD/CE/D/J/K/L/M
+Unless otherwise indicated, prices are sourced from Bloomberg and reflect the closing price in the relevant trading market, which may not be the last
+available closing price at the time of publication.
+Disclosure Legend:
+A: Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of the issuer in the
+previous 12 months.
+B: An employee or non-executive director of Barclays PLC is a director of this issuer.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by this issuer.
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by this issuer.
+CH: Barclays Bank PLC and/or its group companies makes, or will make, a market in the securities (as defined under paragraph 16.2 (k) of the HK SFC
+Code of Conduct) in respect of this issuer.
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+E: Barclays Bank PLC and/or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer within the
+next 3 months.
+FA: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with US
+regulations.
+FB: Barclays Bank PLC and/or an affiliate beneficially owns a long position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FC: Barclays Bank PLC and/or an affiliate beneficially owns a short position of more than 0.5% of a class of equity securities of this issuer, as calculated
+in accordance with EU regulations.
+FD: Barclays Bank PLC and/or an affiliate beneficially owns 1% or more of a class of equity securities of this issuer, as calculated in accordance with
+South Korean regulations.
+FE: Barclays Bank PLC and/or its group companies has financial interests in relation to this issuer and such interests aggregate to an amount equal to
+or more than 1% of this issuer's market capitalization, as calculated in accordance with HK regulations.
+GD: One of the Research Analysts on the fundamental credit coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+GE: One of the Research Analysts on the fundamental equity coverage team (and/or a member of his or her household) has a long position in the
+common equity securities of this issuer.
+H: This issuer beneficially owns more than 5% of any class of common equity securities of Barclays PLC.
+I: Barclays Bank PLC and/or an affiliate is party to an agreement with this issuer for the provision of financial services to Barclays Bank PLC and/or an
+affiliate.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities of this issuer and/or in any related derivatives.
+31 October 2022
+9
+Barclays | The Hartford Financial Services Group, Inc.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from this issuer within the past 12 months.
+L: This issuer is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affiliate.
+M: This issuer is, or during the past 12 months has been, a non-investment banking client (securities related services) of Barclays Bank PLC and/or an
+affiliate.
+N: This issuer is, or during the past 12 months has been, a non-investment banking client (non-securities related services) of Barclays Bank PLC and/or
+an affiliate.
+O: Not in use.
+P: A partner, director or officer of Barclays Capital Canada Inc. has, during the preceding 12 months, provided services to the subject company for
+remuneration, other than normal course investment advisory or trade execution services.
+Q: Barclays Bank PLC and/or an affiliate is a Corporate Broker to this issuer.
+R: Barclays Capital Canada Inc. and/or an affiliate has received compensation for investment banking services from this issuer in the past 12 months.
+S: This issuer is a Corporate Broker to Barclays PLC.
+T: Barclays Bank PLC and/or an affiliate is providing equity advisory services to this issuer.
+U: The equity securities of this Canadian issuer include subordinate voting restricted shares.
+V: The equity securities of this Canadian issuer include non-voting restricted shares.
+Risk Disclosure(s)
+Master limited partnerships (MLPs) are pass-through entities structured as publicly listed partnerships. For tax purposes, distributions to MLP unit
+holders may be treated as a return of principal. Investors should consult their own tax advisors before investing in MLP units.
+Disclosure(s) regarding Information Sources
+Copyright C (2022) Sustainalytics. Sustainalytics retains ownership and all intellectual property rights in its proprietary information and data that may
+be included in this report. Any Sustainalytics' information and data included herein may not be copied or redistributed, is intended for informational
+purposes only, does not constitute investment advice and is not warranted to be complete, timely and accurate. Sustainalytics' information and data is
+subject to conditions available at https://www.sustainalytics.com/legal-disclaimers/
+Bloomberg® is a trademark and service mark of Bloomberg Finance L.P. and its affiliates (collectively "Bloomberg") and the Bloomberg Indices are
+trademarks of Bloomberg. Bloomberg or Bloomberg's licensors own all proprietary rights in the Bloomberg Indices. Bloomberg does not approve or
+endorse this material, or guarantee the accuracy or completeness of any information herein, or make any warranty, express or implied, as to the results
+to be obtained therefrom and, to the maximum extent allowed by law, Bloomberg shall have no liability or responsibility for injury or damages arising
+in connection therewith.
+Guide to the Barclays Fundamental Equity Research Rating System:
+Our coverage analysts use a relative rating system in which they rate stocks as Overweight, Equal Weight or Underweight (see definitions below)
+relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry (the "industry coverage universe").
+In addition to the stock rating, we provide industry views which rate the outlook for the industry coverage universe as Positive, Neutral or Negative (see
+definitions below). A rating system using terms such as buy, hold and sell is not the equivalent of our rating system. Investors should carefully read the
+entire research report including the definitions of all ratings and not infer its contents from ratings alone.
+Stock Rating
+Overweight - The stock is expected to outperform the unweighted expected total return of the industry coverage universe over a 12-month investment
+horizon.
+Equal Weight - The stock is expected to perform in line with the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Underweight - The stock is expected to underperform the unweighted expected total return of the industry coverage universe over a 12-month
+investment horizon.
+Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or to
+comply with applicable regulations and/or firm policies in certain circumstances including where the Investment Bank of Barclays Bank PLC is acting in
+an advisory capacity in a merger or strategic transaction involving the company.
+Industry View
+Positive - industry coverage universe fundamentals/valuations are improving.
+Neutral - industry coverage universe fundamentals/valuations are steady, neither improving nor deteriorating.
+Negative - industry coverage universe fundamentals/valuations are deteriorating.
+Below is the list of companies that constitute the "industry coverage universe":
+U.S. Insurance/Non-Life
+AIG, Inc. (AIG)
+Chubb Limited (CB)
+Palomar Holdings, Inc. (PLMR)
+Ryan Specialty Holdings (RYAN)
+Allstate Corp. (ALL)
+James River Group Holdings (JRVR)
+Progressive Corp. (PGR)
+Arch Capital Group Ltd. (ACGL)
+Lemonade Inc (LMND)
+Root Inc. (ROOT)
+The Hartford Financial Services Group, Inc. (HIG) The Travelers Companies, Inc. (TRV)
+31 October 2022
+10
+Barclays | The Hartford Financial Services Group, Inc.
+Distribution of Ratings:
+Barclays Equity Research has 1701 companies under coverage.
+50% have been assigned an Overweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Buy rating; 49% of companies
+with this rating are investment banking clients of the Firm; 71% of the issuers with this rating have received financial services from the Firm.
+34% have been assigned an Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold rating; 40% of
+companies with this rating are investment banking clients of the Firm; 67% of the issuers with this rating have received financial services from the Firm.
+14% have been assigned an Underweight rating which, for purposes of mandatory regulatory disclosures, is classified as a Sell rating; 28% of
+companies with this rating are investment banking clients of the Firm; 60% of the issuers with this rating have received financial services from the Firm.
+Guide to the Barclays Research Price Target:
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of where the stock will trade
+in the next 12 months. Upside/downside scenarios, where provided, represent potential upside/potential downside to each analyst's price target over
+the same 12-month period.
+Top Picks:
+Barclays Equity Research's "Top Picks" represent the single best alpha-generating investment idea within each industry (as defined by the relevant
+"industry coverage universe"), taken from among the Overweight-rated stocks within that industry. While analysts may highlight other Overweight-
+rated stocks in their published research in addition to their Top Pick, there can only be one "Top Pick" for each industry. To view the current list of Top
+Picks, go to the Top Picks page on Barclays Live (https://live.barcap.com/go/keyword/TopPicks).
+To see a list of companies that comprise a particular industry coverage universe, please go to https://publicresearch.barclays.com.
+Types of investment recommendations produced by Barclays Equity Research:
+In addition to any ratings assigned under Barclays' formal rating systems, this publication may contain investment recommendations in the form of
+trade ideas, thematic screens, scorecards or portfolio recommendations that have been produced by analysts within Equity Research. Any such
+investment recommendations shall remain open until they are subsequently amended, rebalanced or closed in a future research report.
+Barclays may also re-distribute equity research reports produced by third-party research providers that contain recommendations that differ from
+and/or conflict with those published by Barclays' Equity Research Department.
+Disclosure of other investment recommendations produced by Barclays Equity Research:
+Barclays Equity Research may have published other investment recommendations in respect of the same securities/instruments recommended in this
+research report during the preceding 12 months. To view all investment recommendations published by Barclays Equity Research in the preceding 12
+months please refer to https://live.barcap.com/go/research/Recommendations.
+Legal entities involved in producing Barclays Research:
+Barclays Bank PLC (Barclays, UK)
+Barclays Capital Inc. (BCI, US)
+Barclays Bank Ireland PLC, Frankfurt Branch (BBI, Frankfurt)
+Barclays Bank Ireland PLC, Paris Branch (BBI, Paris)
+Barclays Bank Ireland PLC, Milan Branch (BBI, Milan)
+Barclays Securities Japan Limited (BSJL, Japan)
+Barclays Bank PLC, Hong Kong Branch (Barclays Bank, Hong Kong)
+Barclays Capital Canada Inc. (BCCI, Canada)
+Barclays Bank Mexico, S.A. (BBMX, Mexico)
+Barclays Capital Casa de Bolsa, S.A. de C.V. (BCCB, Mexico)
+Barclays Securities (India) Private Limited (BSIPL, India)
+Barclays Bank PLC, India Branch (Barclays Bank, India)
+Barclays Bank PLC, Singapore Branch (Barclays Bank, Singapore)
+Barclays Bank PLC, DIFC Branch (Barclays Bank, DIFC)
+31 October 2022
+11
+Barclays | The Hartford Financial Services Group, Inc.
+The Hartford Financial Services Group, Inc. (HIG / HIG)
+Stock Rating: OVERWEIGHT
+Industry View: POSITIVE
+USD 72.16 (28-Oct-2022)
+Rating and Price Target Chart - USD (as of 28-Oct-2022)
+Currency=USD
+90.0
+82.5
+75.0
+x
+67.5
+60.0
+52.5
+45.0
+37.5
+30.0
+22.5
+Jan-2020
+Jul-2020
+Jan-2021
+Jul-2021
+Jan-2022
+Jul-2022
+Closing Price
+.
+Target Price
+Rating Change
+x
+Drop Coverage
+Source: IDC, Barclays Research
+Link to Barclays Live for interactive charting
+Publication Date Closing Price*
+Rating
+Adjusted Price
+Target
+78.00
+01-Aug-2022
+64.47
+13-Jul-2022
+64.93
+80.00
+11-Apr-2022
+74.13
+86.00
+29-Oct-2021
+72.93
+85.00
+12-Oct-2021
+71.96
+76.00
+24-Mar-2021
+67.05
+73.00
+12-Jan-2021
+51.86
+55.00
+16-Nov-2020
+46.34
+Overweight
+51.00
+22-Jan-2020
+59.90
+Coverage
+Dropped
+11-Nov-2019
+61.09
+73.00
+On 31-Oct-2019, prior to any intra-day change that may have been
+published, the rating for this security was Overweight, and the adjusted
+price target was 70.00.
+Source: Bloomberg, Barclays Research
+*This is the closing price referenced in the publication, which may not be
+the last available closing price at the time of publication.
+Historical stock prices and price targets may have been adjusted for stock
+splits and dividends.
+CD: Barclays Bank PLC and/or an affiliate is a market-maker in debt securities issued by The Hartford Financial Services Group, Inc ..
+CE: Barclays Bank PLC and/or an affiliate is a market-maker in equity securities issued by The Hartford Financial Services Group, Inc ..
+D: Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from The Hartford Financial Services Group, Inc. in
+the past 12 months.
+31 October 2022
+12
+Barclays | The Hartford Financial Services Group, Inc.
+J: Barclays Bank PLC and/or an affiliate is a liquidity provider and/or trades regularly in the securities by The Hartford Financial Services Group, Inc.
+and/or in any related derivatives.
+K: Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation (including compensation for brokerage services, if
+applicable) from The Hartford Financial Services Group, Inc. within the past 12 months.
+L: The Hartford Financial Services Group, Inc. is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an
+affiliate.
+M: The Hartford Financial Services Group, Inc. is, or during the past 12 months has been, a non-investment banking client (securities related services)
+of Barclays Bank PLC and/or an affiliate.
+Valuation Methodology: Our $82 price target on HIG is based on a 50/50 weighted 10.5x '23E EPS and 1.3x 2023E book value per share ex AOCI.
+Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: Risks to HIG reaching our PT include greater
+exposure to a reduction in policies in force from business closures/affordability issues (beyond a drop in insurable losses as work forces partially
+migrate remotely going forward). If unexpected adverse reserve development (e.g. exhaustion of HIG's ADCs) could also materialize.
+Disclaimer:
+This publication has been produced by Barclays Research Department in the Investment Bank of Barclays Bank PLC and/or one or more of its affiliates
+(collectively and each individually, "Barclays").
+It has been prepared for institutional investors and not for retail investors. It has been distributed by one or more Barclays affiliated legal entities listed
+below or by an independent and non-affiliated third-party entity (as may be communicated to you by such third-party entity in its communications
+with you). It is provided for information purposes only, and Barclays makes no express or implied warranties, and expressly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. To the extent that this publication states
+on the front page that it is intended for institutional investors and is not subject to all of the independence and disclosure standards applicable to debt
+research reports prepared for retail investors under U.S. FINRA Rule 2242, it is an "institutional debt research report" and distribution to retail investors
+is strictly prohibited. Barclays also distributes such institutional debt research reports to various issuers, media, regulatory and academic
+organisations for their own internal informational news gathering, regulatory or academic purposes and not for the purpose of making investment
+decisions regarding any debt securities. Media organisations are prohibited from re-publishing any opinion or recommendation concerning a debt
+issuer or debt security contained in any Barclays institutional debt research report. Any such recipients that do not want to continue receiving Barclays
+institutional debt research reports should contact debtresearch@barclays.com. Clients that are subscribed to receive equity research reports, will not
+receive certain cross asset research reports co-authored by equity and FICC research analysts that are distributed as "institutional debt research
+reports" unless they have agreed to accept such reports. Eligible clients may get access to such cross asset reports by contacting
+debtresearch@barclays.com. Barclays will not treat unauthorized recipients of this report as its clients and accepts no liability for use by them of the
+contents which may not be suitable for their personal use. Prices shown are indicative and Barclays is not offering to buy or sell or soliciting offers to
+buy or sell any financial instrument.
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays, nor any affiliate, nor any of their respective officers,
+directors, partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue,
+loss of anticipated savings or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this
+publication or its contents.
+Other than disclosures relating to Barclays, the information contained in this publication has been obtained from sources that Barclays Research
+believes to be reliable, but Barclays does not represent or warrant that it is accurate or complete. Barclays is not responsible for, and makes no
+warranties whatsoever as to, the information or opinions contained in any written, electronic, audio or video presentations of third parties that are
+accessible via a direct hyperlink in this publication or via a hyperlink to a third-party web site ('Third-Party Content'). Any such Third-Party Content has
+not been adopted or endorsed by Barclays, does not represent the views or opinions of Barclays, and is not incorporated by reference into this
+publication. Third-Party Content is provided for information purposes only and Barclays has not independently verified its accuracy or completeness.
+The views in this publication are solely and exclusively those of the authoring analyst(s) and are subject to change, and Barclays Research has no
+obligation to update its opinions or the information in this publication. Unless otherwise disclosed herein, the analysts who authored this report have
+not received any compensation from the subject companies in the past 12 months. If this publication contains recommendations, they are general
+recommendations that were prepared independently of any other interests, including those of Barclays and/or its affiliates, and/or the subject
+companies. This publication does not contain personal investment recommendations or investment advice or take into account the individual financial
+circumstances or investment objectives of the clients who receive it. Barclays is not a fiduciary to any recipient of this publication. The securities and
+other investments discussed herein may not be suitable for all investors and may not be available for purchase in all jurisdictions. The United States
+imposed sanctions on certain Chinese companies (https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-
+information/chinese-military-companies-sanctions), which may restrict U.S. persons from purchasing securities issued by those companies. Investors
+must independently evaluate the merits and risks of the investments discussed herein, including any sanctions restrictions that may apply, consult any
+independent advisors they believe necessary, and exercise independent judgment with regard to any investment decision. The value of and income
+from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily
+indicative of future results. The information provided does not constitute a financial benchmark and should not be used as a submission or
+contribution of input data for the purposes of determining a financial benchmark.
+Third Party Distribution: Any views expressed in this communication are solely those of Barclays and have not been adopted or endorsed by any third
+party distributor.
+United Kingdom: This document is being distributed (1) only by or with the approval of an authorised person (Barclays Bank PLC) or (2) to, and is
+directed at (a) persons in the United Kingdom having professional experience in matters relating to investments and who fall within the definition of
+"investment professionals" in Article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (the "Order"); or (b) high
+net worth companies, unincorporated associations and partnerships and trustees of high value trusts as described in Article 49(2) of the Order; or (c)
+other persons to whom it may otherwise lawfully be communicated (all such persons being "Relevant Persons"). Any investment or investment activity
+31 October 2022
+13
+Barclays | The Hartford Financial Services Group, Inc.
+to which this communication relates is only available to and will only be engaged in with Relevant Persons. Any other persons who receive this
+communication should not rely on or act upon it. Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the
+Financial Conduct Authority and the Prudential Regulation Authority and is a member of the London Stock Exchange.
+European Economic Area ("EEA"): This material is being distributed to any "Authorised User" located in a Restricted EEA Country by Barclays Bank
+Ireland PLC. The Restricted EEA Countries are Austria, Bulgaria, Estonia, Finland, Hungary, Iceland, Liechtenstein, Lithuania, Luxembourg, Malta,
+Portugal, Romania, Slovakia and Slovenia. For any other "Authorised User" located in a country of the European Economic Area, this material is being
+distributed by Barclays Bank PLC. Barclays Bank Ireland PLC is a bank authorised by the Central Bank of Ireland whose registered office is at 1
+Molesworth Street, Dublin 2, Ireland. Barclays Bank PLC is not registered in France with the Autorité des marchés financiers or the Autorité de contrôle
+prudentiel. Authorised User means each individual associated with the Client who is notified by the Client to Barclays and authorised to use the
+Research Services. The Restricted EEA Countries will be amended if required.
+Finland: Notwithstanding Finland's status as a Restricted EEA Country, Research Services may also be provided by Barclays Bank PLC where permitted
+by the terms of its cross-border license.
+Americas: The Investment Bank of Barclays Bank PLC undertakes U.S. securities business in the name of its wholly owned subsidiary Barclays Capital
+Inc., a FINRA and SIPC member. Barclays Capital Inc., a U.S. registered broker/dealer, is distributing this material in the United States and, in
+connection therewith accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do
+so only by contacting a representative of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019.
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local
+regulations permit otherwise.
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer, a Dealer Member of IIROC (www.iiroc.ca), and a
+Member of the Canadian Investor Protection Fund (CIPF).
+This material is distributed in Mexico by Barclays Bank Mexico, S.A. and/or Barclays Capital Casa de Bolsa, S.A. de C.V. This material is distributed in the
+Cayman Islands and in the Bahamas by Barclays Capital Inc., which it is not licensed or registered to conduct and does not conduct business in, from or
+within those jurisdictions and has not filed this material with any regulatory body in those jurisdictions.
+Japan: This material is being distributed to institutional investors in Japan by Barclays Securities Japan Limited. Barclays Securities Japan Limited is a
+joint-stock company incorporated in Japan with registered office of 6-10-1 Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays
+Bank PLC and a registered financial instruments firm regulated by the Financial Services Agency of Japan. Registered Number: Kanto Zaimukyokucho
+(kinsho) No. 143.
+Asia Pacific (excluding Japan): Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated
+by the Hong Kong Monetary Authority. Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong.
+All Indian securities-related research and other equity research produced by Barclays' Investment Bank are distributed in India by Barclays Securities
+(India) Private Limited (BSIPL). BSIPL is a company incorporated under the Companies Act, 1956 having CIN U67120MH2006PTC161063. BSIPL is
+registered and regulated by the Securities and Exchange Board of India (SEBI) as a Research Analyst: INH000001519; Portfolio Manager INP000002585;
+Stock Broker INZ000269539 (member of NSE and BSE); Depository Participant with the National Securities & Depositories Limited (NSDL): DP ID: IN-DP-
+NSDL-299-2008; Investment Adviser: INA000000391. BSIPL is also registered as a Mutual Fund Advisor having AMFI ARN No. 53308.The registered office
+of BSIPL is at 208, Ceejay House, Shivsagar Estate, Dr. A. Besant Road, Worli, Mumbai - 400 018, India. Telephone No: +91 22 67196363. Fax number: +91
+22 67196399. Any other reports produced by Barclays' Investment Bank are distributed in India by Barclays Bank PLC, India Branch, an associate of
+BSIPL in India that is registered with Reserve Bank of India (RBI) as a Banking Company under the provisions of The Banking Regulation Act, 1949 (Regn
+No BOM43) and registered with SEBI as Merchant Banker (Regn No INM000002129) and also as Banker to the Issue (Regn No INBI00000950). Barclays
+Investments and Loans (India) Limited, registered with RBI as Non Banking Financial Company (Regn No RBI CoR-07-00258), and Barclays Wealth
+Trustees (India) Private Limited, registered with Registrar of Companies (CIN U93000MH2008PTC188438), are associates of BSIPL in India that are not
+authorised to distribute any reports produced by Barclays' Investment Bank.
+This material is distributed in Singapore by the Singapore Branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of
+Singapore. For matters in connection with this material, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose
+registered address is 10 Marina Boulevard, #23-01 Marina Bay Financial Centre Tower 2, Singapore 018983.
+This material, where distributed to persons in Australia, is produced or provided by Barclays Bank PLC.
+This communication is directed at persons who are a "Wholesale Client" as defined by the Australian Corporations Act 2001.
+Please note that the Australian Securities and Investments Commission (ASIC) has provided certain exemptions to Barclays Bank PLC (BBPLC) under
+paragraph 911A(2)(l) of the Corporations Act 2001 from the requirement to hold an Australian financial services licence (AFSL) in respect of financial
+services provided to Australian Wholesale Clients, on the basis that BBPLC is authorised by the Prudential Regulation Authority of the United Kingdom
+(PRA) and regulated by the Financial Conduct Authority (FCA) of the United Kingdom and the PRA under United Kingdom laws. The United Kingdom
+has laws which differ from Australian laws. To the extent that this communication involves the provision of financial services by BBPLC to Australian
+Wholesale Clients, BBPLC relies on the relevant exemption from the requirement to hold an AFSL. Accordingly, BBPLC does not hold an AFSL.
+This communication may be distributed to you by either: (i) Barclays Bank PLC directly or (ii) Barrenjoey Markets Pty Limited (ACN 636 976 059,
+"Barrenjoey"), the holder of Australian Financial Services Licence (AFSL) 521800, a non-affiliated third party distributor, where clearly identified to you
+by Barrenjoey. Barrenjoey is not an agent of Barclays Bank PLC.
+This material, where distributed in New Zealand, is produced or provided by Barclays Bank PLC. Barclays Bank PLC is not registered, filed with or
+approved by any New Zealand regulatory authority. This material is not provided under or in accordance with the Financial Markets Conduct Act of
+2013 ("FMCA"), and is not a disclosure document or "financial advice" under the FMCA. This material is distributed to you by either: (i) Barclays Bank
+PLC directly or (ii) Barrenjoey Markets Pty Limited ("Barrenjoey"), a non-affiliated third party distributor, where clearly identified to you by Barrenjoey.
+Barrenjoey is not an agent of Barclays Bank PLC. This material may only be distributed to "wholesale investors" that meet the "investment business",
+"investment activity", "large", or "government agency" criteria specified in Schedule 1 of the FMCA.
+31 October 2022
+14
+Barclays | The Hartford Financial Services Group, Inc.
+Middle East: Nothing herein should be considered investment advice as defined in the Israeli Regulation of Investment Advisory, Investment Marketing
+and Portfolio Management Law, 1995 ("Advisory Law"). This document is being made to eligible clients (as defined under the Advisory Law) only.
+Barclays Israeli branch previously held an investment marketing license with the Israel Securities Authority but it cancelled such license on 30/11/2014
+as it solely provides its services to eligible clients pursuant to available exemptions under the Advisory Law, therefore a license with the Israel
+Securities Authority is not required. Accordingly, Barclays does not maintain an insurance coverage pursuant to the Advisory Law.
+This material is distributed in the United Arab Emirates (including the Dubai International Financial Centre) and Qatar by Barclays Bank PLC. Barclays
+Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Principal
+place of business in the Dubai International Financial Centre: The Gate Village, Building 4, Level 4, PO Box 506504, Dubai, United Arab Emirates.
+Barclays Bank PLC-DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. Related
+financial products or services are only available to Professional Clients, as defined by the Dubai Financial Services Authority. Barclays Bank PLC in the
+UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated outside
+the UAE in Dubai (Licence No .: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No .: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). This material does not constitute or form part
+of any offer to issue or sell, or any solicitation of any offer to subscribe for or purchase, any securities or investment products in the UAE (including the
+Dubai International Financial Centre) and accordingly should not be construed as such. Furthermore, this information is being made available on the
+basis that the recipient acknowledges and understands that the entities and securities to which it may relate have not been approved, licensed by or
+registered with the UAE Central Bank, the Dubai Financial Services Authority or any other relevant licensing authority or governmental agency in the
+UAE. The content of this report has not been approved by or filed with the UAE Central Bank or Dubai Financial Services Authority. Barclays Bank PLC in
+the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-QFC
+Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar
+Financial Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. Related financial products or services are
+only available to Business Customers as defined by the Qatar Financial Centre Regulatory Authority.
+Russia: This material is not intended for investors who are not Qualified Investors according to the laws of the Russian Federation as it might contain
+information about or description of the features of financial instruments not admitted for public offering and/or circulation in the Russian Federation
+and thus not eligible for non-Qualified Investors. If you are not a Qualified Investor according to the laws of the Russian Federation, please dispose of
+any copy of this material in your possession.
+IRS Circular 230 Prepared Materials Disclaimer: Barclays does not provide tax advice and nothing contained herein should be construed to be tax
+advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used,
+and cannot be used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the
+transactions or other matters addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax
+advisor.
+Copyright Barclays Bank PLC (2022). All rights reserved. No part of this publication may be reproduced or redistributed in any manner without the
+prior written permission of Barclays. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP.
+Additional information regarding this publication will be furnished upon request.
+31 October 2022
+15
