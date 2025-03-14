@@ -1,0 +1,296 @@
+Results for VADER - Sentiment_All (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:          Sentiment_All   R-squared:                        0.1503
+Estimator:                   PanelOLS   R-squared (Between):              0.0387
+No. Observations:                 425   R-squared (Within):               0.1503
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0546
+Time:                        12:43:33   Log-likelihood                    831.96
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      9.9305
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             5.7223
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0013     0.0166    -0.0780     0.9379     -0.0339      0.0313
+P_Earned                  -0.0011     0.0097    -0.1107     0.9119     -0.0202      0.0180
+Loss_Ratio                 0.0036     0.0078     0.4563     0.6484     -0.0118      0.0189
+Loss_Containment_Ratio     0.0135     0.0074     1.8279     0.0683     -0.0010      0.0281
+Market_Share               0.0132     0.0121     1.0940     0.2746     -0.0105      0.0370
+Stock_Price                0.0031     0.0041     0.7582     0.4488     -0.0049      0.0112
+Total_Damage_Adj           0.0017     0.0015     1.1875     0.2357     -0.0011      0.0046
+==========================================================================================
+
+F-test for Poolability: 13.576
+P-value: 0.0000
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for VADER - Sentiment_All (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:          Sentiment_All   R-squared:                        0.0732
+Estimator:                   PanelOLS   R-squared (Between):              0.0679
+No. Observations:                 425   R-squared (Within):               0.1055
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0732
+Time:                        12:43:33   Log-likelihood                    399.69
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      4.7198
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             2.5949
+                                        P-value                           0.0125
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0003     0.0307     0.0097     0.9923     -0.0600      0.0606
+P_Earned               -2.481e-05     0.0186    -0.0013     0.9989     -0.0365      0.0365
+Loss_Ratio                 0.0149     0.0180     0.8257     0.4095     -0.0205      0.0502
+Loss_Containment_Ratio     0.0124     0.0127     0.9752     0.3300     -0.0126      0.0374
+Market_Share              -0.0022     0.0335    -0.0658     0.9475     -0.0680      0.0636
+Stock_Price                0.0060     0.0107     0.5600     0.5758     -0.0150      0.0269
+Total_Damage_Adj           0.0008     0.0018     0.4237     0.6720     -0.0028      0.0043
+==========================================================================================
+
+
+
+Results for VADER - Sentiment_Climate (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:      Sentiment_Climate   R-squared:                        0.1011
+Estimator:                   PanelOLS   R-squared (Between):             -0.0130
+No. Observations:                 425   R-squared (Within):               0.1011
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0479
+Time:                        12:43:34   Log-likelihood                    718.64
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      6.3159
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             27.268
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0090     0.0238     0.3802     0.7040     -0.0377      0.0557
+P_Earned                  -0.0244     0.0181    -1.3479     0.1785     -0.0601      0.0112
+Loss_Ratio                -0.0105     0.0052    -2.0095     0.0452     -0.0207     -0.0002
+Loss_Containment_Ratio     0.0151     0.0054     2.7925     0.0055      0.0045      0.0257
+Market_Share               0.0109     0.0143     0.7661     0.4441     -0.0171      0.0390
+Stock_Price                0.0008     0.0035     0.2227     0.8239     -0.0061      0.0076
+Total_Damage_Adj           0.0131     0.0018     7.4147     0.0000      0.0096      0.0165
+==========================================================================================
+
+F-test for Poolability: 0.9157
+P-value: 0.5807
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for VADER - Sentiment_Climate (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:      Sentiment_Climate   R-squared:                        0.0587
+Estimator:                   PanelOLS   R-squared (Between):              0.0138
+No. Observations:                 425   R-squared (Within):               0.0978
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0587
+Time:                        12:43:34   Log-likelihood                    575.47
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      3.7209
+Entities:                          25   P-value                           0.0006
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             12.488
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0095     0.0232     0.4089     0.6828     -0.0362      0.0552
+P_Earned                  -0.0217     0.0202    -1.0757     0.2827     -0.0614      0.0180
+Loss_Ratio                -0.0077     0.0122    -0.6306     0.5287     -0.0316      0.0163
+Loss_Containment_Ratio     0.0145     0.0086     1.6793     0.0938     -0.0025      0.0315
+Market_Share               0.0135     0.0121     1.1218     0.2626     -0.0102      0.0373
+Stock_Price                0.0001     0.0060     0.0192     0.9847     -0.0117      0.0119
+Total_Damage_Adj           0.0126     0.0017     7.2910     0.0000      0.0092      0.0160
+==========================================================================================
+
+
+
+Results for VADER - Sentiment_Risk (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         Sentiment_Risk   R-squared:                        0.0304
+Estimator:                   PanelOLS   R-squared (Between):             -0.0483
+No. Observations:                 425   R-squared (Within):               0.0304
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0079
+Time:                        12:43:34   Log-likelihood                    542.30
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      1.7581
+Entities:                          25   P-value                           0.0943
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             6.7015
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0194     0.0189     1.0276     0.3048     -0.0177      0.0565
+P_Earned                   0.0003     0.0071     0.0401     0.9681     -0.0137      0.0142
+Loss_Ratio                -0.0039     0.0048    -0.8161     0.4150     -0.0135      0.0056
+Loss_Containment_Ratio     0.0102     0.0036     2.7964     0.0054      0.0030      0.0173
+Market_Share              -0.0134     0.0154    -0.8712     0.3842     -0.0437      0.0169
+Stock_Price                0.0091     0.0062     1.4573     0.1458     -0.0032      0.0214
+Total_Damage_Adj           0.0022     0.0030     0.7313     0.4650     -0.0037      0.0081
+==========================================================================================
+
+F-test for Poolability: 1.8581
+P-value: 0.0089
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for VADER - Sentiment_Risk (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         Sentiment_Risk   R-squared:                        0.0243
+Estimator:                   PanelOLS   R-squared (Between):              0.0230
+No. Observations:                 425   R-squared (Within):               0.0248
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0243
+Time:                        12:43:34   Log-likelihood                    469.50
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      1.4863
+Entities:                          25   P-value                           0.1702
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             4.7056
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0337     0.0219     1.5381     0.1248     -0.0094      0.0768
+P_Earned                  -0.0101     0.0109    -0.9306     0.3526     -0.0314      0.0112
+Loss_Ratio                -0.0047     0.0102    -0.4664     0.6412     -0.0248      0.0153
+Loss_Containment_Ratio     0.0133     0.0057     2.3203     0.0208      0.0020      0.0245
+Market_Share              -0.0199     0.0203    -0.9778     0.3288     -0.0598      0.0201
+Stock_Price               -0.0006     0.0041    -0.1563     0.8759     -0.0086      0.0073
+Total_Damage_Adj           0.0024     0.0033     0.7347     0.4629     -0.0040      0.0088
+==========================================================================================
+
+
+
+Results for VADER - Sentiment_Financial (Fixed Effects):
+                           PanelOLS Estimation Summary                           
+=================================================================================
+Dep. Variable:     Sentiment_Financial   R-squared:                        0.1286
+Estimator:                    PanelOLS   R-squared (Between):              0.0350
+No. Observations:                  425   R-squared (Within):               0.1286
+Date:                 Fri, Mar 14 2025   R-squared (Overall):              0.0485
+Time:                         12:43:35   Log-likelihood                    805.99
+Cov. Estimator:              Clustered                                           
+                                         F-statistic:                      8.2879
+Entities:                           25   P-value                           0.0000
+Avg Obs:                        17.000   Distribution:                   F(7,393)
+Min Obs:                        17.000                                           
+Max Obs:                        17.000   F-statistic (robust):             4.2696
+                                         P-value                           0.0001
+Time periods:                       17   Distribution:                   F(7,393)
+Avg Obs:                        25.000                                           
+Min Obs:                        25.000                                           
+Max Obs:                        25.000                                           
+                                                                                 
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0092     0.0170    -0.5427     0.5876     -0.0426      0.0242
+P_Earned                   0.0023     0.0106     0.2195     0.8264     -0.0185      0.0231
+Loss_Ratio                 0.0066     0.0084     0.7839     0.4336     -0.0099      0.0231
+Loss_Containment_Ratio     0.0100     0.0082     1.2195     0.2234     -0.0061      0.0262
+Market_Share               0.0197     0.0127     1.5482     0.1224     -0.0053      0.0446
+Stock_Price                0.0019     0.0047     0.4178     0.6763     -0.0072      0.0111
+Total_Damage_Adj           0.0024     0.0017     1.4362     0.1517     -0.0009      0.0057
+==========================================================================================
+
+F-test for Poolability: 15.174
+P-value: 0.0000
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for VADER - Sentiment_Financial (No Fixed Effects):
+                           PanelOLS Estimation Summary                           
+=================================================================================
+Dep. Variable:     Sentiment_Financial   R-squared:                        0.0709
+Estimator:                    PanelOLS   R-squared (Between):              0.0697
+No. Observations:                  425   R-squared (Within):               0.0776
+Date:                 Fri, Mar 14 2025   R-squared (Overall):              0.0709
+Time:                         12:43:35   Log-likelihood                    380.19
+Cov. Estimator:              Clustered                                           
+                                         F-statistic:                      4.5538
+Entities:                           25   P-value                           0.0001
+Avg Obs:                        17.000   Distribution:                   F(7,418)
+Min Obs:                        17.000                                           
+Max Obs:                        17.000   F-statistic (robust):             2.3653
+                                         P-value                           0.0222
+Time periods:                       17   Distribution:                   F(7,418)
+Avg Obs:                        25.000                                           
+Min Obs:                        25.000                                           
+Max Obs:                        25.000                                           
+                                                                                 
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0091     0.0309    -0.2949     0.7682     -0.0700      0.0517
+P_Earned                   0.0047     0.0189     0.2480     0.8043     -0.0324      0.0418
+Loss_Ratio                 0.0197     0.0189     1.0409     0.2985     -0.0175      0.0568
+Loss_Containment_Ratio     0.0081     0.0137     0.5926     0.5537     -0.0188      0.0350
+Market_Share               0.0027     0.0341     0.0801     0.9362     -0.0644      0.0698
+Stock_Price                0.0062     0.0108     0.5706     0.5685     -0.0151      0.0274
+Total_Damage_Adj           0.0013     0.0020     0.6767     0.4990     -0.0026      0.0052
+==========================================================================================
+
+
+

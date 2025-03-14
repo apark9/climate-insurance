@@ -15,12 +15,13 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 
 nlp = spacy.load("en_core_web_sm")
 finbert = None
-# vader = SentimentIntensityAnalyzer()
+vader = SentimentIntensityAnalyzer()
 
 TRANSCRIPT_DATA = f"data/transcripts"
 SELL_SIDE_DATA = f"data/sell_side_txt"
-OUTPUT_FOLDER = f"data/{sentiment_flag}_output_gpt"
+OUTPUT_FOLDER = f"data/{sentiment_flag}_output"
 ANALYSIS_FOLDER = "analysis/sentiment"
+KEYWORD_FOLDER = "analysis/keyword_freq"
 
 NUM_PDFS = 100
 MAX_TOKENS = 512
@@ -207,7 +208,7 @@ def analyze_file(file_path, file_index, total_files):
     results = []
     for sentence, keyword, category in filtered_sentences_info:
         finbert_pos, finbert_neg, finbert_neu = analyze_sentiment_finbert(sentence)
-        # vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
+        vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
         readability = calculate_readability(sentence)
 
         results.append({
@@ -221,9 +222,9 @@ def analyze_file(file_path, file_index, total_files):
             "finbert_positive": finbert_pos,
             "finbert_negative": finbert_neg,
             "finbert_neutral": finbert_neu,
-            # "vader_positive": vader_pos,
-            # "vader_negative": vader_neg,
-            # "vader_neutral": vader_neu,
+            "vader_positive": vader_pos,
+            "vader_negative": vader_neg,
+            "vader_neutral": vader_neu,
             "flesch_reading_ease": readability["flesch_reading_ease"],
             "gunning_fog_index": readability["gunning_fog_index"],
             "smog_index": readability["smog_index"],
@@ -312,24 +313,24 @@ def merge_batches():
     merged_df = pd.concat(df_list, ignore_index=True)
 
     # ✅ Save the merged sentiment results
-    final_output_file = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
+    final_output_file = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
     merged_df.to_csv(final_output_file, index=False)
     logging.info(f"✅ Merged sentiment results saved to {final_output_file}")
 
 def analyze_sentiment_trends(df):
     sentiment_trends = df.groupby(["Year", "Quarter"]).agg(
         avg_finbert=("finbert_positive", "mean"),
-        # avg_vader=("vader_positive", "mean")
+        avg_vader=("vader_positive", "mean")
     ).reset_index()
-    sentiment_trends.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_sentiment_trends_gpt.csv"), index=False)
+    sentiment_trends.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_sentiment_trends.csv"), index=False)
 
 def analyze_keyword_sentiment(df):
     keyword_analysis = df.groupby("keyword").agg(
         count=("keyword", "count"),
         avg_finbert=("finbert_positive", "mean"),
-        # avg_vader=("vader_positive", "mean")
+        avg_vader=("vader_positive", "mean")
     ).reset_index()
-    keyword_analysis.to_csv(os.path.join(ANALYSIS_FOLDER, f"{sentiment_flag}_keyword_sentiment_gpt.csv"), index=False)
+    keyword_analysis.to_csv(os.path.join(KEYWORD_FOLDER, f"{sentiment_flag}_keyword_sentiment.csv"), index=False)
 
 def extract_month_year_from_filename(filename):
     """ Extracts month and year from a filename like 'PGR_JAN25.pdf' """
@@ -400,7 +401,7 @@ def process_pgr_files():
             # ✅ Run analysis on filtered sentences
             for sentence, keyword, category in filtered_sentences_info:
                 finbert_pos, finbert_neg, finbert_neu = analyze_sentiment_finbert(sentence)
-                # vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
+                vader_pos, vader_neg, vader_neu = analyze_sentiment_vader(sentence)
                 readability = calculate_readability(sentence)
 
                 all_results.append({
@@ -414,9 +415,9 @@ def process_pgr_files():
                     "finbert_positive": finbert_pos,
                     "finbert_negative": finbert_neg,
                     "finbert_neutral": finbert_neu,
-                    # "vader_positive": vader_pos,
-                    # "vader_negative": vader_neg,
-                    # "vader_neutral": vader_neu,
+                    "vader_positive": vader_pos,
+                    "vader_negative": vader_neg,
+                    "vader_neutral": vader_neu,
                     "flesch_reading_ease": readability["flesch_reading_ease"],
                     "gunning_fog_index": readability["gunning_fog_index"],
                     "smog_index": readability["smog_index"],
@@ -428,12 +429,12 @@ def process_pgr_files():
             logging.error(f"❌ Error processing PGR file {file}: {e}\n{traceback.format_exc()}")
 
     # ✅ Save PGR results in the same format as `process_batch()`
-    pgr_output_file = os.path.join(OUTPUT_FOLDER, "pgr_sentiment_results_gpt.csv")
+    pgr_output_file = os.path.join(OUTPUT_FOLDER, "pgr_sentiment_results.csv")
     pd.DataFrame(all_results).to_csv(pgr_output_file, index=False)
     logging.info(f"✅ PGR Sentiment results saved to {pgr_output_file}")
 
 def perform_analysis():
-    merged_csv_path = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")  
+    merged_csv_path = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")  
 
     if not os.path.exists(merged_csv_path):
         logging.error(f"File not found: {merged_csv_path}")
@@ -444,9 +445,9 @@ def perform_analysis():
     analyze_sentiment_trends(merged_df)
     analyze_keyword_sentiment(merged_df)
 
-def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output_path=f"output/{sentiment_flag}_sentiment_analysis_gpt.xlsx"):
+def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output_gpt", output_path=f"output/{sentiment_flag}_sentiment_analysis_gpt.xlsx"):
     
-    file_path = os.path.join(data_folder, f"{sentiment_flag}_sentiment_results_merged.csv")
+    file_path = os.path.join(data_folder, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
 
     sentiment_df = pd.read_csv(file_path)
     
@@ -466,7 +467,7 @@ def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output
     grouped_data = {}
     keyword_types = sentiment_df["CATEGORY"].unique()
     # sentiment_models = ["FINBERT", "VADER"]
-    sentiment_models = ["FINBERT"]
+    sentiment_models = ['FINBERT']
     
     for keyword in keyword_types:
         for model in sentiment_models:
@@ -483,14 +484,14 @@ def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output", output
         for sheet_name, df in grouped_data.items():
             df.to_excel(writer, sheet_name=sheet_name)
 
-def compute_quarterly_negative_sentiment(input_folder=f"data/{sentiment_flag}_output_gpt", output_folder="analysis/sentiment"):
+def compute_quarterly_negative_sentiment(input_folder=f"data/{sentiment_flag}_output", output_folder="analysis/sentiment"):
     """
     Computes the average quarterly negative sentiment for both 'climate' and 'all' sentiment categories.
     Works for all sentiment flags and accounts for PGR's different formatting.
     """
-    input_file = os.path.join(input_folder, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
-    climate_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_climate_sentiment_gpt.csv")
-    all_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_all_sentiment_gpt.csv")
+    input_file = os.path.join(input_folder, f"{sentiment_flag}_sentiment_results_merged.csv")
+    climate_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_climate_sentiment.csv")
+    all_output_file = os.path.join(output_folder, f"{sentiment_flag}_quarterly_all_sentiment.csv")
     
     if not os.path.exists(input_file):
         logging.error(f"File not found: {input_file}")
@@ -508,13 +509,13 @@ def compute_quarterly_negative_sentiment(input_folder=f"data/{sentiment_flag}_ou
     df_climate = df[df["CATEGORY"] == "Climate"]
     sentiment_quarterly_climate = df_climate.groupby(["TICKER", "YEAR", "QUARTER"], as_index=False).agg(
         AVG_FINBERT_NEGATIVE=("FINBERT_NEGATIVE", "mean"),
-        # AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
+        AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
     )
     
     # Compute sentiment for all categories
     sentiment_quarterly_all = df.groupby(["TICKER", "YEAR", "QUARTER"], as_index=False).agg(
         AVG_FINBERT_NEGATIVE=("FINBERT_NEGATIVE", "mean"),
-        # AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
+        AVG_VADER_NEGATIVE=("VADER_NEGATIVE", "mean")
     )
     
     # Save results

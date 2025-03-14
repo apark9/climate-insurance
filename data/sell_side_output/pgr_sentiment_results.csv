@@ -1,12 +1,12 @@
 file_name,Ticker,Year,Quarter,sentence,keyword,category,finbert_positive,finbert_negative,finbert_neutral,vader_positive,vader_negative,vader_neutral,flesch_reading_ease,gunning_fog_index,smog_index,lexical_density,word_count
 PGR_APR22.txt,PGR,2022,Q2,"We
 are cautious about PGR's stance that major personal auto rate increases are behind them (with
-the exception of a few key states).",rate increases,Financial,6.470254021451183e-08,0.9999994039535522,4.786015779245645e-07,0.0,0.062,0.938,65.05,14.42,0.0,0.9565217391304348,23
+the exception of a few key states).",rate increases,Financial,0.0,0.0,0.6328344345092773,0.0,0.062,0.938,65.05,14.42,0.0,0.9565217391304348,23
 PGR_APR22.txt,PGR,2022,Q2,"With PIF pressures, potentially PGR hit the apple core so it
-cannot chomp further on rate increases.",rate increases,Financial,8.782410986896139e-06,0.9999864101409912,4.811648523173062e-06,0.0,0.126,0.874,62.68,11.51,0.0,1.0,17
+cannot chomp further on rate increases.",rate increases,Financial,0.0,0.9215649962425232,0.0,0.0,0.126,0.874,62.68,11.51,0.0,1.0,17
 PGR_APR22.txt,PGR,2022,Q2,"We foresee a prolonged timeframe for PGR to return to
 double-digit rate increases and think its loss ratio may be put to the side in favor of PIF growth.
-",rate increases,Financial,0.01097346842288971,0.9812007546424866,0.007825731299817562,0.163,0.071,0.767,67.42,12.98,0.0,0.9310344827586207,29
+",rate increases,Financial,0.8137565851211548,0.0,0.0,0.163,0.071,0.767,67.42,12.98,0.0,0.9310344827586207,29
 PGR_APR22.txt,PGR,2022,Q2,"Wk Avg Daily Volume (mn)
 2.8
 Dividend Yield (%)
@@ -25,7 +25,7 @@ net investment income, somewhat offset by worse catastrophe losses than our expe
 120
 110
 100
-PGR:",catastrophe,Financial,0.999954342842102,9.592787364454125e-07,4.466624523047358e-05,0.042,0.142,0.816,64.78,9.42,9.2,0.9508196721311475,61
+PGR:",catastrophe,Financial,0.9398608803749084,0.0,0.0,0.042,0.142,0.816,64.78,9.42,9.2,0.9508196721311475,61
 PGR_APR22.txt,PGR,2022,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -54,12 +54,12 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_APR22.txt,PGR,2022,Q2,"Valuation Methodology: Our $90 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.4270801734237466e-06,0.9973012804985046,0.002695313189178705,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8735982775688171,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_APR23.txt,PGR,2023,Q2,"· PGR reported catastrophe losses of $393mn vs our $79mn estimate.
-",catastrophe,Financial,6.527741334139137e-07,0.9998704195022583,0.00012896461703348905,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
+",catastrophe,Financial,0.0,0.9636894464492798,0.0,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
 PGR_APR23.txt,PGR,2023,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -90,16 +90,16 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.4278425624070223e-05,1.5564695559078245e-06,0.9999841451644897,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
-PGR_APR23.txt,PGR,2023,Q2,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182112080452498e-06,0.9992392063140869,0.0007516754558309913,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9285368323326111,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
+PGR_APR23.txt,PGR,2023,Q2,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,0.0,0.0,0.5359372496604919,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
 PGR_APR23.txt,PGR,2023,Q2,"Our $123PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,2.8644506073760567e-06,0.9950892329216003,0.00490790419280529,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8743354082107544,0.0,0.0,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
 PGR_AUG21.txt,PGR,2021,Q3,"The 12.3 pts included 9.7 pts (~$342mn) of cat
-losses associated with Hurricane Ida.",hurricane,Climate,0.00011631966481218114,0.91590416431427,0.08397950232028961,0.0,0.172,0.828,64.37,11.37,0.0,0.9285714285714286,14
+losses associated with Hurricane Ida.",hurricane,Climate,0.0,0.9064033627510071,0.0,0.0,0.172,0.828,64.37,11.37,0.0,0.9285714285714286,14
 PGR_AUG21.txt,PGR,2021,Q3,"A key focus will be on the speed regulators allow rate increases,
 with some pushback seen in TX.
-",rate increases,Financial,0.00017202812887262553,0.0001427265233360231,0.9996851682662964,0.255,0.0,0.745,70.13,11.64,0.0,1.0,18
+",rate increases,Financial,0.0,0.0,0.5423771142959595,0.255,0.0,0.745,70.13,11.64,0.0,1.0,18
 PGR_AUG21.txt,PGR,2021,Q3,"Mar-19
 Apr-19
 May-19
@@ -160,7 +160,7 @@ Aug-21
 Barclays | Progressive Corp.
 FIGURE 3
 PGR filing for rate increases exceeding industry in 4 of last 5 months proving to be a headwind for PIF growth
-Wgt.",rate increases,Financial,0.0004797809524461627,0.0007501690415665507,0.9987699389457703,0.043,0.038,0.919,72.5,11.6,9.9,0.7235772357723578,123
+Wgt.",rate increases,Financial,0.0,0.966413140296936,0.0,0.043,0.038,0.919,72.5,11.6,9.9,0.7235772357723578,123
 PGR_AUG21.txt,PGR,2021,Q3,"3,164
 (6)
 2,615
@@ -281,13 +281,13 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.8499514428403927e-06,9.630857675801963e-06,0.9999874830245972,0.144,0.02,0.836,47.93,13.49,14.7,0.7880184331797235,217
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.7859296798706055,0.144,0.02,0.836,47.93,13.49,14.7,0.7880184331797235,217
 PGR_AUG22.txt,PGR,2022,Q3,"As such, we are cautious regarding
 how swiftly underlying loss ratios can turn around.
-",loss ratios,Financial,5.878103479517449e-07,0.9999898672103882,9.542482985125389e-06,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
+",loss ratios,Financial,0.0,0.0,0.7873981595039368,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
 PGR_AUG22.txt,PGR,2022,Q3,"PGR's investment income, catastrophe
 losses, and underlying loss ratio were all better than expected.
-",catastrophe,Financial,1.0,7.1700232417981624e-09,1.921653502989784e-09,0.13,0.422,0.448,31.89,17.03,0.0,1.0,14
+",catastrophe,Financial,0.9393867254257202,0.0,0.0,0.13,0.422,0.448,31.89,17.03,0.0,1.0,14
 PGR_AUG22.txt,PGR,2022,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -316,10 +316,10 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_AUG22.txt,PGR,2022,Q3,"Valuation Methodology: Our $106 PT is based on 18x EPS and 3.2x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.077704033988994e-06,0.9958357810974121,0.004160079173743725,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8741739392280579,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_AUG23.txt,PGR,2023,Q3,"BARCLAYS
 Equity Research
 Financial Services
@@ -330,7 +330,7 @@ a Brief Respite
 PGR's 97.2% combined ratio in August (> 96% or better annual
 target) largely stems from higher catastrophe losses; ~ 50%
 related to Hurricane Idalia and the balance severe weather.
-",catastrophe,Financial,2.1972882677800953e-06,0.9999974966049194,2.9918379595983424e-07,0.052,0.217,0.731,47.49,12.21,12.5,0.9791666666666666,48
+",catastrophe,Financial,0.0,0.6532295346260071,0.0,0.052,0.217,0.731,47.49,12.21,12.5,0.9791666666666666,48
 PGR_AUG23.txt,PGR,2023,Q3,"BARCLAYS
 Equity Research
 Financial Services
@@ -341,7 +341,7 @@ a Brief Respite
 PGR's 97.2% combined ratio in August (> 96% or better annual
 target) largely stems from higher catastrophe losses; ~ 50%
 related to Hurricane Idalia and the balance severe weather.
-",hurricane,Climate,2.1972882677800953e-06,0.9999974966049194,2.9918379595983424e-07,0.052,0.217,0.731,47.49,12.21,12.5,0.9791666666666666,48
+",hurricane,Climate,0.0,0.6532295346260071,0.0,0.052,0.217,0.731,47.49,12.21,12.5,0.9791666666666666,48
 PGR_AUG23.txt,PGR,2023,Q3,"Wk Avg Daily Volume (mn)
 2.6
 Dividend Yield (%)
@@ -356,7 +356,7 @@ Exchange-NYSE
 52 Week range
 USD 149.87-110.04
 PGR reported catastrophe losses of $207mn (vs our $79.5mn estimate); ~ 50% related to
-Hurricane Idalia and the balance severe weather.",catastrophe,Financial,8.928764145821333e-05,0.8978084921836853,0.10210219025611877,0.0,0.171,0.829,72.93,9.43,9.2,0.9803921568627451,51
+Hurricane Idalia and the balance severe weather.",catastrophe,Financial,0.0,0.9673371911048889,0.0,0.0,0.171,0.829,72.93,9.43,9.2,0.9803921568627451,51
 PGR_AUG23.txt,PGR,2023,Q3,"Wk Avg Daily Volume (mn)
 2.6
 Dividend Yield (%)
@@ -371,23 +371,23 @@ Exchange-NYSE
 52 Week range
 USD 149.87-110.04
 PGR reported catastrophe losses of $207mn (vs our $79.5mn estimate); ~ 50% related to
-Hurricane Idalia and the balance severe weather.",hurricane,Climate,8.928764145821333e-05,0.8978084921836853,0.10210219025611877,0.0,0.171,0.829,72.93,9.43,9.2,0.9803921568627451,51
+Hurricane Idalia and the balance severe weather.",hurricane,Climate,0.0,0.9673371911048889,0.0,0.0,0.171,0.829,72.93,9.43,9.2,0.9803921568627451,51
 PGR_AUG23.txt,PGR,2023,Q3,"PGR's FL market share in combined
 homeowners and auto physical damage was 9.7% as of 2022 and we assume industry Hurricane
-Idalia losses to be in the low single digit billions.",hurricane,Climate,0.0015573338605463505,0.4485284388065338,0.5499141812324524,0.059,0.215,0.726,64.2,11.36,0.0,0.9354838709677419,31
+Idalia losses to be in the low single digit billions.",hurricane,Climate,0.0,0.868918240070343,0.0,0.059,0.215,0.726,64.2,11.36,0.0,0.9354838709677419,31
 PGR_AUG23.txt,PGR,2023,Q3,"We are assuming PGR exhausted its aggregate
-reinsurance cover.",reinsurance,Financial,2.854922058759257e-06,4.4646909373113886e-05,0.9999524354934692,0.0,0.238,0.762,28.5,21.38,0.0,1.0,9
+reinsurance cover.",reinsurance,Financial,0.7487865686416626,0.0,0.0,0.0,0.238,0.762,28.5,21.38,0.0,1.0,9
 PGR_AUG23.txt,PGR,2023,Q3,"Given elevated catastrophe losses during 1H23, PGR was $40-$50mn below
-the annual aggregate retention threshold, according to PGR's 2Q 10Q.",catastrophe,Financial,5.175677415536484e-07,0.999997615814209,1.8367246639172663e-06,0.137,0.254,0.609,25.8,20.0,0.0,1.0,20
+the annual aggregate retention threshold, according to PGR's 2Q 10Q.",catastrophe,Financial,0.0,0.9609224796295166,0.0,0.137,0.254,0.609,25.8,20.0,0.0,1.0,20
 PGR_AUG23.txt,PGR,2023,Q3,"We consider PGR's lower advertising spend and pricing increases as deliberate attempts to
-reduce PIF and in turn improve capital adequacy.",capital adequacy,Financial,0.9999997615814209,2.2824048073744052e-07,2.2063662896698588e-08,0.12,0.091,0.788,16.32,17.92,0.0,0.9523809523809523,21
+reduce PIF and in turn improve capital adequacy.",capital adequacy,Financial,0.9536466598510742,0.0,0.0,0.12,0.091,0.788,16.32,17.92,0.0,0.9523809523809523,21
 PGR_AUG23.txt,PGR,2023,Q3,"Especially coming out of elevated catastrophe
 losses and adverse PYD during YTD August 2023 ($1.6bn and $1.155bn respectively).
-",catastrophe,Financial,3.4794153179973364e-05,0.9995858073234558,0.00037943574716337025,0.0,0.39,0.61,36.96,12.49,0.0,0.9444444444444444,18
+",catastrophe,Financial,0.7257398962974548,0.0,0.0,0.0,0.39,0.61,36.96,12.49,0.0,0.9444444444444444,18
 PGR_AUG23.txt,PGR,2023,Q3,"August operating EPS of $0.35 missed our $0.43 estimate due to higher catastrophe losses and
 expense ratio vs. our estimates.
-",catastrophe,Financial,5.179191830961827e-08,0.9999998807907104,9.190528516000995e-08,0.0,0.354,0.646,56.21,10.68,9.7,0.95,20
-PGR_AUG23.txt,PGR,2023,Q3,We have slightly raised our expense ratio and our catastrophe loss estimates.,catastrophe,Financial,0.9997640252113342,4.954077326146944e-07,0.0002354800672037527,0.0,0.401,0.599,59.3,11.47,0.0,0.9166666666666666,12
+",catastrophe,Financial,0.0,0.9512742161750793,0.0,0.0,0.354,0.646,56.21,10.68,9.7,0.95,20
+PGR_AUG23.txt,PGR,2023,Q3,We have slightly raised our expense ratio and our catastrophe loss estimates.,catastrophe,Financial,0.9474879503250122,0.0,0.0,0.0,0.401,0.599,59.3,11.47,0.0,0.9166666666666666,12
 PGR_AUG23.txt,PGR,2023,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -404,10 +404,10 @@ Catastrophes pretax
 Cat pts
 PYD pretax (negative is unfavorable PYD)
 PYD pts (negative is unfavorable)
-",catastrophe,Financial,2.851606586773414e-05,1.6257712559308857e-05,0.9999552965164185,0.049,0.052,0.899,42.21,13.08,0.0,0.8333333333333334,42
+",catastrophe,Financial,0.0,0.0,0.5153096914291382,0.049,0.052,0.899,42.21,13.08,0.0,0.8333333333333334,42
 PGR_AUG23.txt,PGR,2023,Q3,"Valuation Methodology: Our $109 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.9697292777418625e-06,0.9959595799446106,0.0040364377200603485,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8791972398757935,0.0,0.0,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
 PGR_AUG24.txt,PGR,2024,Q3,"Monthly Underwriting Summary
 Total Company P&C Underwriting
 Net premiums written
@@ -635,7 +635,7 @@ Analyst(s) Certification(s):
 I, Alex Scott, hereby certify (1) that the views expressed in this research report accurately reflect my personal views about any or all of the subject
 securities or issuers referred to in this research report and (2) no part of my compensation was, is or will be directly or indirectly related to the specific
 recommendations or views expressed in this research report.
-",catastrophe,Financial,1.373233089907444e-06,4.393935796542792e-06,0.999994158744812,0.016,0.016,0.968,67.55,9.95,10.8,0.8175182481751825,137
+",catastrophe,Financial,0.0,0.0,0.939825713634491,0.016,0.016,0.968,67.55,9.95,10.8,0.8175182481751825,137
 PGR_DEC21.txt,PGR,2021,Q4,"Wk Avg Daily Volume (mn)
 2.8
 Dividend Yield (%)
@@ -657,13 +657,13 @@ Potential Upside/Downside
 Dec. operating EPS of $0.37 beat our $0.35 estimate primarily on favorable reserve PYD (we
 modeled nil), slightly better NII, lower tax rate, tempered by worse catastrophe losses than our
 expectations.
-",catastrophe,Financial,0.9999816417694092,7.823005603313504e-07,1.746877569530625e-05,0.071,0.15,0.779,64.67,8.65,9.1,0.927536231884058,69
+",catastrophe,Financial,0.9469722509384155,0.0,0.0,0.071,0.15,0.779,64.67,8.65,9.1,0.927536231884058,69
 PGR_DEC21.txt,PGR,2021,Q4,"So far the total ask is +2.3% on subject premiums
 PGR has submitted pending rate increases through renewal effective dates May '22 in just 11
 states, not nationwide: CT, DC, FL, GA, HI, ID, MD, MI, NV, OR, and TX.
-",rate increases,Financial,0.0008751912973821163,4.166922281001462e-06,0.9991206526756287,0.143,0.0,0.857,68.1,14.0,0.0,1.0,40
+",rate increases,Financial,0.5176768898963928,0.0,0.0,0.143,0.0,0.857,68.1,14.0,0.0,1.0,40
 PGR_DEC21.txt,PGR,2021,Q4,"Though we would like to see greater improvements within auto (total auto loss ratio ex
-catastrophes improved 30 bps m/m).",catastrophe,Financial,0.9999986886978149,6.354849801937235e-07,6.706748649776273e-07,0.375,0.083,0.542,59.64,12.0,0.0,0.95,20
+catastrophes improved 30 bps m/m).",catastrophe,Financial,0.9594699144363403,0.0,0.0,0.375,0.083,0.542,59.64,12.0,0.0,0.95,20
 PGR_DEC21.txt,PGR,2021,Q4,"Model Summary Continued
 ($ in mn, except per share data)
 2018
@@ -703,15 +703,15 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.2636491848970763e-05,1.7050840597221395e-06,0.9999756813049316,0.227,0.032,0.741,-77.74,56.01,0.0,0.7131782945736435,129
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.821892261505127,0.227,0.032,0.741,-77.74,56.01,0.0,0.7131782945736435,129
 PGR_DEC21.txt,PGR,2021,Q4,"Valuation Methodology: Our $83 PT is based on 16x EPS and 2.7x BVPS (ex AOCI) on 2022E/2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.798701411345974e-06,0.9964608550071716,0.003534318646416068,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8536526560783386,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_DEC22.txt,PGR,2022,Q4,"On a capital adequacy standpoint, while auto is a less capital-intensive business than
 other lines, we think PGR's high asset leverage may pressure an already constrained capital
-position.",capital adequacy,Financial,3.541544856489054e-06,0.9999958276748657,6.023402079335938e-07,0.086,0.124,0.79,26.14,15.49,0.0,0.9285714285714286,28
+position.",capital adequacy,Financial,0.0,0.8606014847755432,0.0,0.086,0.124,0.79,26.14,15.49,0.0,0.9285714285714286,28
 PGR_DEC22.txt,PGR,2022,Q4,"We had modeled catastrophe loss of $43mn vs. PGR's $64mn.
-",catastrophe,Financial,1.405074362992309e-05,0.8453924059867859,0.1545936018228531,0.0,0.456,0.544,86.71,8.0,0.0,1.0,10
+",catastrophe,Financial,0.0,0.9121934175491333,0.0,0.0,0.456,0.544,86.71,8.0,0.0,1.0,10
 PGR_DEC22.txt,PGR,2022,Q4,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -742,28 +742,28 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.4278425624070223e-05,1.5564695559078245e-06,0.9999841451644897,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9285368323326111,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
 PGR_DEC22.txt,PGR,2022,Q4,"Valuation Methodology: Our $121 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.3982089462369913e-06,0.9961481094360352,0.003848507534712553,0.085,0.1,0.815,64.91,9.99,10.7,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8763687014579773,0.0,0.0,0.085,0.1,0.815,64.91,9.99,10.7,0.8983050847457628,59
 PGR_DEC24.txt,PGR,2024,Q4,"Strong underlying and
 far better than expected
 catastrophes lead to EPS beat
 Underlying loss and combined ratios come in below
 expectations, while cat losses are significantly lower then
-anticipated.",catastrophe,Financial,0.46522584557533264,0.5347725749015808,1.557202381263778e-06,0.166,0.193,0.642,16.66,19.88,0.0,0.9655172413793104,29
+anticipated.",catastrophe,Financial,0.0,0.9368047714233398,0.0,0.166,0.193,0.642,16.66,19.88,0.0,0.9655172413793104,29
 PGR_DEC24.txt,PGR,2024,Q4,"The beat comes primarily due to
 1) strong performance company wide, specifically in Property, Commercial, and Agency, 2)
 much lower than expected catastrophe losses for the month, and 3) solid favorable prior-year-
-development.",catastrophe,Financial,1.0,9.317960847354811e-10,2.0479242746063164e-09,0.181,0.21,0.609,12.6,24.11,0.0,0.9696969696969697,33
+development.",catastrophe,Financial,0.9536788463592529,0.0,0.0,0.181,0.21,0.609,12.6,24.11,0.0,0.9696969696969697,33
 PGR_DEC24.txt,PGR,2024,Q4,"Cat losses came in at $(67) million which was significantly below our $66 million
 estimate, as favorable development associated with Hurricanes Helene and Milton exceeded
-current month storm losses.",hurricane,Climate,5.6042395044642035e-06,0.9999929666519165,1.4492075024463702e-06,0.09,0.157,0.754,16.66,21.26,0.0,0.9655172413793104,29
+current month storm losses.",hurricane,Climate,0.0,0.8432387113571167,0.0,0.09,0.157,0.754,16.66,21.26,0.0,0.9655172413793104,29
 PGR_DEC24.txt,PGR,2024,Q4,"Overall, a
 solid print as PIF growth remained strong, catastrophes came in much better than expected,
 and very strong company wide results (specifically in Property, Commercial, and Agency)
 contributed to a bottom line beat.
-",catastrophe,Financial,1.0,1.2323518872037198e-09,6.324588075479198e-10,0.337,0.0,0.663,36.97,20.66,0.0,0.9117647058823529,34
+",catastrophe,Financial,0.9559431672096252,0.0,0.0,0.337,0.0,0.663,36.97,20.66,0.0,0.9117647058823529,34
 PGR_DEC24.txt,PGR,2024,Q4,"PGR Monthly Quicktake - Total Company P&C Underwriting
 Dec-21
 Dec-22
@@ -928,7 +928,7 @@ Catastrophes (pts)
 0.3%
 Reserve development ($m)
 Reserve development (pts)
-Source:",catastrophe,Financial,0.012893948704004288,8.948145841713995e-05,0.9870166182518005,0.092,0.081,0.827,45.76,10.72,13.6,0.6363636363636364,55
+Source:",catastrophe,Financial,0.0,0.0,0.9054298400878906,0.092,0.081,0.827,45.76,10.72,13.6,0.6363636363636364,55
 PGR_DEC24.txt,PGR,2024,Q4,"PGR Quarterly Quicktake - Total Company P&C Underwriting
 4Q23
 1Q24
@@ -955,7 +955,7 @@ Catastrophes (pts)
 Reserve development ($m)
 Reserve development (pts)
 (0.3%)
-",catastrophe,Financial,0.002657057950273156,2.8195387130836025e-05,0.9973147511482239,0.08,0.071,0.849,34.56,11.95,15.5,0.6349206349206349,63
+",catastrophe,Financial,0.0,0.0,0.7643828392028809,0.08,0.071,0.849,34.56,11.95,15.5,0.6349206349206349,63
 PGR_DEC24.txt,PGR,2024,Q4,"PGR Quarterly Quicktake - Personal Lines Underwriting
 4Q23
 1Q24
@@ -975,17 +975,17 @@ Catastrophes ($mn)
 Catastrophes (pts)
 Reserve development ($m)
 Reserve development (pts)
-",catastrophe,Financial,0.0032660409342497587,1.525398238300113e-05,0.99671870470047,0.093,0.082,0.824,3.81,24.8,0.0,0.6296296296296297,54
+",catastrophe,Financial,0.0,0.0,0.7602041363716125,0.093,0.082,0.824,3.81,24.8,0.0,0.6296296296296297,54
 PGR_FEB21.txt,PGR,2021,Q1,"February's cat losses were $86 contributing 2.7 points to the combined ratio, below our
 catastrophe loss estimate for February ($100mn) that had included a normalized cat load in
 addition to Winter Storm Uri piercing PGR's $80mn retention threshold on its reinsurance
 occurrence XOL program.
-",catastrophe,Financial,4.2332450789217546e-07,0.9999992847442627,2.86661702375568e-07,0.0,0.19,0.81,40.69,16.98,0.0,0.9545454545454546,44
+",catastrophe,Financial,0.0,0.9476286768913269,0.0,0.0,0.19,0.81,40.69,16.98,0.0,0.9545454545454546,44
 PGR_FEB21.txt,PGR,2021,Q1,"February's cat losses were $86 contributing 2.7 points to the combined ratio, below our
 catastrophe loss estimate for February ($100mn) that had included a normalized cat load in
 addition to Winter Storm Uri piercing PGR's $80mn retention threshold on its reinsurance
 occurrence XOL program.
-",reinsurance,Financial,4.2332450789217546e-07,0.9999992847442627,2.86661702375568e-07,0.0,0.19,0.81,40.69,16.98,0.0,0.9545454545454546,44
+",reinsurance,Financial,0.0,0.9476286768913269,0.0,0.0,0.19,0.81,40.69,16.98,0.0,0.9545454545454546,44
 PGR_FEB21.txt,PGR,2021,Q1,"Net Earned Premiums (y/y %)
 Source: Barclays Research, Company Data.
 2018
@@ -1159,11 +1159,11 @@ Book Value Per Share to common ex AOCI
 Operating return on avg.",catastrophe,Financial,0.0,0.0,0.0,0.115,0.035,0.85,41.77,18.54,16.4,0.8,275
 PGR_FEB22.txt,PGR,2022,Q1,"We also think
 war may bring on further supply chain disruptions.
-",supply chain disruption,Risk,4.1742663370314403e-07,0.9999985694885254,9.82442770691705e-07,0.0,0.412,0.588,68.77,8.04,0.0,1.0,11
+",supply chain disruption,Risk,0.0,0.9560627937316895,0.0,0.0,0.412,0.588,68.77,8.04,0.0,1.0,11
 PGR_FEB22.txt,PGR,2022,Q1,"Other states (particularly catastrophe prone) may want to put a
 lid on overall consumer costs when considering higher homeowners' premiums and utility
 costs, in our view.
-",catastrophe,Financial,0.02259214222431183,0.8480177521705627,0.12939012050628662,0.045,0.153,0.801,36.63,19.63,0.0,1.0,26
+",catastrophe,Financial,0.0,0.0,0.8008567690849304,0.045,0.153,0.801,36.63,19.63,0.0,1.0,26
 PGR_FEB22.txt,PGR,2022,Q1,"100
 96
 92
@@ -1176,18 +1176,18 @@ Source: IDC
 Link to Barclays Live for interactive charting
 Feb. operating EPS of $0.38 beat our $0.29 estimate primarily on a better underlying loss ratio
 and catastrophe losses than our expectations.
-",catastrophe,Financial,0.9999974966049194,8.928042802835989e-07,1.642400206947059e-06,0.063,0.203,0.734,61.53,11.1,10.7,0.9743589743589743,39
+",catastrophe,Financial,0.9473491311073303,0.0,0.0,0.063,0.203,0.734,61.53,11.1,10.7,0.9743589743589743,39
 PGR_FEB22.txt,PGR,2022,Q1,"So far the total ask is +10% on subject premiums
 PGR has submitted pending rate increases through renewal effective dates June '22 in just 9
-states, not nationwide: DC, FL, GA, HI, ID, MD, NJ, TN, TX.",rate increases,Financial,0.0007647575112059712,3.286337459940114e-06,0.9992319345474243,0.157,0.0,0.843,50.84,21.29,0.0,1.0,37
+states, not nationwide: DC, FL, GA, HI, ID, MD, NJ, TN, TX.",rate increases,Financial,0.6249383091926575,0.0,0.0,0.157,0.0,0.843,50.84,21.29,0.0,1.0,37
 PGR_FEB22.txt,PGR,2022,Q1,"Similar to the approved filings, PGR's
 pending rate increases show a weighted average of 10% approvals on ~$5.5bn of subject
-premiums, or ~$555mn in additional premiums.",rate increases,Financial,0.045389603823423386,4.276101662981091e-06,0.9546061158180237,0.104,0.0,0.896,49.82,12.89,0.0,0.9615384615384616,26
+premiums, or ~$555mn in additional premiums.",rate increases,Financial,0.9072287678718567,0.0,0.0,0.104,0.0,0.896,49.82,12.89,0.0,0.9615384615384616,26
 PGR_FEB22.txt,PGR,2022,Q1,"While Omicron may help on the frequency side in the short term, we think on a lagged basis the
 variant may lead to greater supply chain disruptions, pressuring used car sale and parts prices.
-",supply chain disruption,Risk,5.157053601578809e-05,0.9999470710754395,1.3149482356311637e-06,0.129,0.174,0.697,62.35,17.13,0.0,0.8823529411764706,34
+",supply chain disruption,Risk,0.0,0.9502933621406555,0.0,0.129,0.174,0.697,62.35,17.13,0.0,0.8823529411764706,34
 PGR_FEB22.txt,PGR,2022,Q1,"higher
-premiums linked to anticipated more miles driven 3.) rate increases.",rate increases,Financial,0.9998455047607422,6.389052487065783e-07,0.0001538827345939353,0.0,0.0,1.0,34.93,15.31,0.0,1.0,11
+premiums linked to anticipated more miles driven 3.) rate increases.",rate increases,Financial,0.95478355884552,0.0,0.0,0.0,0.0,1.0,34.93,15.31,0.0,1.0,11
 PGR_FEB22.txt,PGR,2022,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1224,14 +1224,14 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,7.931046638987027e-06,9.405725336364412e-07,0.9999910593032837,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8215795159339905,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
 PGR_FEB22.txt,PGR,2022,Q1,"Valuation Methodology: Our $88 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.5951049994764617e-06,0.9975205063819885,0.002475929679349065,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8740507960319519,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_FEB23.txt,PGR,2023,Q1,"We also had modeled catastrophe loss
 of $38mn vs. PGR's $17mn.
-PGR:",catastrophe,Financial,6.912467506481335e-05,0.6811742186546326,0.318756639957428,0.0,0.401,0.599,84.68,8.13,0.0,1.0,12
-PGR_FEB23.txt,PGR,2023,Q1,rate increases.,rate increases,Financial,0.9942679405212402,7.738596468698233e-05,0.005654617212712765,0.0,0.0,1.0,35.61,20.8,0.0,1.0,2
+PGR:",catastrophe,Financial,0.0,0.904119610786438,0.0,0.0,0.401,0.599,84.68,8.13,0.0,1.0,12
+PGR_FEB23.txt,PGR,2023,Q1,rate increases.,rate increases,Financial,0.0,0.0,0.8308236598968506,0.0,0.0,1.0,35.61,20.8,0.0,1.0,2
 PGR_FEB23.txt,PGR,2023,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1262,14 +1262,14 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.4278425624070223e-05,1.5564695559078245e-06,0.9999841451644897,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
-PGR_FEB23.txt,PGR,2023,Q1,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182112080452498e-06,0.9992392063140869,0.0007516754558309913,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9285368323326111,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
+PGR_FEB23.txt,PGR,2023,Q1,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,0.0,0.0,0.5359372496604919,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
 PGR_FEB23.txt,PGR,2023,Q1,"Valuation Methodology: Our $123 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.967146312788827e-06,0.9958051443099976,0.004190815147012472,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8789694309234619,0.0,0.0,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
 PGR_JAN21.txt,PGR,2021,Q1,"Catastrophe losses contributed 0.6
 points to the combined ratio.
-",catastrophe,Financial,0.0003414716338738799,0.08926069736480713,0.9103978872299194,0.0,0.504,0.496,49.99,10.69,0.0,1.0,9
+",catastrophe,Financial,0.0,0.0,0.5310614705085754,0.0,0.504,0.496,49.99,10.69,0.0,1.0,9
 PGR_JAN21.txt,PGR,2021,Q1,"to NCI
 3,130
 15.2%
@@ -1395,16 +1395,16 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.2082181203586515e-06,8.7632570284768e-06,0.9999889135360718,0.141,0.02,0.84,40.62,16.29,16.3,0.7892376681614349,223
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.847376823425293,0.141,0.02,0.84,40.62,16.29,16.3,0.7892376681614349,223
 PGR_JAN22.txt,PGR,2022,Q1,"So far the total ask is +8.9% on subject premiums
 PGR has submitted pending rate increases through renewal effective dates May '22 in just 11
-states, not nationwide: DC, FL, GA, HI, ID, MD, MI, NJ, NV, OH, TX.",rate increases,Financial,0.0018105373019352555,4.368961981526809e-06,0.9981849789619446,0.146,0.0,0.854,68.6,13.95,0.0,1.0,39
+states, not nationwide: DC, FL, GA, HI, ID, MD, MI, NJ, NV, OH, TX.",rate increases,Financial,0.0,0.0,0.7495408058166504,0.146,0.0,0.854,68.6,13.95,0.0,1.0,39
 PGR_JAN22.txt,PGR,2022,Q1,"Similar to the approved filings,
 PGR's pending rate increases show a weighted average of 8.9% approvals on ~$9.2bn of subject
-premiums, or ~$819mn in additional premiums.",rate increases,Financial,0.07174298167228699,5.099379905004753e-06,0.9282519221305847,0.104,0.0,0.896,54.18,11.17,11.2,0.9615384615384616,26
+premiums, or ~$819mn in additional premiums.",rate increases,Financial,0.9067341089248657,0.0,0.0,0.104,0.0,0.896,54.18,11.17,11.2,0.9615384615384616,26
 PGR_JAN22.txt,PGR,2022,Q1,"While Omicron may help on the frequency side in the short term, we think on a lagged basis the
 variant may lead to greater supply chain disruptions, pressuring used car sale and parts prices.
-",supply chain disruption,Risk,5.157053601578809e-05,0.9999470710754395,1.3149482356311637e-06,0.129,0.174,0.697,62.35,17.13,0.0,0.8823529411764706,34
+",supply chain disruption,Risk,0.0,0.9502933621406555,0.0,0.129,0.174,0.697,62.35,17.13,0.0,0.8823529411764706,34
 PGR_JAN22.txt,PGR,2022,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1441,12 +1441,12 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,7.931046638987027e-06,9.405725336364412e-07,0.9999910593032837,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8215795159339905,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
 PGR_JAN22.txt,PGR,2022,Q1,"Valuation Methodology: Our $85 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2022E/2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.8412143769382965e-06,0.9964711666107178,0.003523970255628228,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8542149066925049,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_JAN23.txt,PGR,2023,Q1,"We had modeled catastrophe loss of $63mn vs. PGR's $40.3mn.
-PGR:",catastrophe,Financial,8.571035868953913e-05,0.2695002853870392,0.7304140329360962,0.0,0.427,0.573,85.69,8.04,0.0,1.0,11
+PGR:",catastrophe,Financial,0.0,0.899651825428009,0.0,0.0,0.427,0.573,85.69,8.04,0.0,1.0,11
 PGR_JAN23.txt,PGR,2023,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1477,10 +1477,10 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.4278425624070223e-05,1.5564695559078245e-06,0.9999841451644897,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9285368323326111,0.23,0.04,0.729,-2.13,25.74,0.0,0.7244897959183674,98
 PGR_JAN23.txt,PGR,2023,Q1,"Valuation Methodology: Our $123 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.6429566989681916e-06,0.996075451374054,0.003920849412679672,0.085,0.1,0.815,64.91,9.99,10.7,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8767759203910828,0.0,0.0,0.085,0.1,0.815,64.91,9.99,10.7,0.8983050847457628,59
 PGR_JAN25.txt,PGR,2025,Q1,"BARCLAYS
 Progressive Corp.
 Jan results: Material EPS beat on
@@ -1489,20 +1489,20 @@ losses and favorable PYD
 Significant net EPS beat comes on far lower-than-expected
 catastrophe losses, sizable favorable reserve development,
 and solid company wide performance.
-",catastrophe,Financial,1.0,2.8043636302044206e-09,2.865003345675632e-09,0.193,0.285,0.522,11.92,16.21,0.0,0.7941176470588235,34
+",catastrophe,Financial,0.9551430940628052,0.0,0.0,0.193,0.285,0.522,11.92,16.21,0.0,0.7941176470588235,34
 PGR_JAN25.txt,PGR,2025,Q1,"The beat was primarily due to 1)
 solid total company performance, 2) much lower-than-expected catastrophe losses attributable
-to the California Wildfires, and 3) significant favorable prior year development.",catastrophe,Financial,1.0,2.461524539754123e-09,2.1526012083938895e-09,0.178,0.194,0.628,0.76,24.06,0.0,0.9642857142857143,28
+to the California Wildfires, and 3) significant favorable prior year development.",catastrophe,Financial,0.9535290598869324,0.0,0.0,0.178,0.194,0.628,0.76,24.06,0.0,0.9642857142857143,28
 PGR_JAN25.txt,PGR,2025,Q1,"The beat was primarily due to 1)
 solid total company performance, 2) much lower-than-expected catastrophe losses attributable
-to the California Wildfires, and 3) significant favorable prior year development.",wildfire,Climate,1.0,2.461524539754123e-09,2.1526012083938895e-09,0.178,0.194,0.628,0.76,24.06,0.0,0.9642857142857143,28
+to the California Wildfires, and 3) significant favorable prior year development.",wildfire,Climate,0.9535290598869324,0.0,0.0,0.178,0.194,0.628,0.76,24.06,0.0,0.9642857142857143,28
 PGR_JAN25.txt,PGR,2025,Q1,"Cat losses came
 in at $46 million, which were significantly below our $276 million estimate, as losses from the
-California wildfires were only $43 million, well below our $230 million estimate.",wildfire,Climate,5.659454416218068e-08,0.9999998807907104,8.697652731370908e-08,0.059,0.152,0.789,31.55,16.27,0.0,0.8064516129032258,31
+California wildfires were only $43 million, well below our $230 million estimate.",wildfire,Climate,0.0,0.9491135478019714,0.0,0.059,0.152,0.789,31.55,16.27,0.0,0.8064516129032258,31
 PGR_JAN25.txt,PGR,2025,Q1,"Overall, a solid print as catastrophes
 came in much better than expected, favorable PYD was significant, and a continued strong
 company wide underlying combined contributed to a bottom-line beat.
-",catastrophe,Financial,1.0,1.125150972391964e-09,8.669058804144925e-10,0.377,0.0,0.623,25.12,21.26,0.0,0.9310344827586207,29
+",catastrophe,Financial,0.9532593488693237,0.0,0.0,0.377,0.0,0.623,25.12,21.26,0.0,0.9310344827586207,29
 PGR_JAN25.txt,PGR,2025,Q1,"PGR Quicktake - Total Company P&C Underwriting
 Total Company P&C Underwriting
 Net premiums written
@@ -1635,7 +1635,7 @@ BARCe
 91.9%
 64.5%
 85.8%
-",catastrophe,Financial,6.068610673537478e-06,3.6785734209843213e-06,0.9999902248382568,0.031,0.027,0.942,89.65,4.3,8.2,0.7738095238095238,168
+",catastrophe,Financial,0.0,0.0,0.8221137523651123,0.031,0.027,0.942,89.65,4.3,8.2,0.7738095238095238,168
 PGR_JAN25.txt,PGR,2025,Q1,"Diff vs
 BARCe
 0.3pp
@@ -1772,13 +1772,13 @@ BARCe
 90.6%
 64.6%
 85.7%
-",catastrophe,Financial,5.650748789776117e-06,4.280319444660563e-06,0.9999901056289673,0.051,0.025,0.925,90.36,4.36,7.7,0.8032786885245902,183
+",catastrophe,Financial,0.0,0.0,0.0,0.051,0.025,0.925,90.36,4.36,7.7,0.8032786885245902,183
 PGR_JUL22.txt,PGR,2022,Q3,"As such, we are cautious regarding how swiftly
 underlying loss ratios can turn around.
-",loss ratios,Financial,5.878103479517449e-07,0.9999898672103882,9.542482985125389e-06,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
+",loss ratios,Financial,0.0,0.0,0.7873981595039368,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
 PGR_JUL22.txt,PGR,2022,Q3,"PGR's investment income, favorable PYD,
 catastrophe losses, expense ratio and underlying loss ratio were all better than expected.
-",catastrophe,Financial,1.0,1.0128609950754708e-08,1.728641341181003e-09,0.211,0.331,0.458,27.83,18.31,0.0,0.9444444444444444,18
+",catastrophe,Financial,0.9460877180099487,0.0,0.0,0.211,0.331,0.458,27.83,18.31,0.0,0.9444444444444444,18
 PGR_JUL22.txt,PGR,2022,Q3,"Upside/Downside scenarios
 Price History
 Prior 12 months
@@ -1795,7 +1795,7 @@ Target
 90.00
 Low
 Downside
-PGR was on the earlier side taking rate increases vs. the industry.",rate increases,Financial,0.999198853969574,4.596467533701798e-06,0.0007965057156980038,0.0,0.108,0.892,62.34,8.04,10.1,0.8611111111111112,36
+PGR was on the earlier side taking rate increases vs. the industry.",rate increases,Financial,0.0,0.0,0.800836443901062,0.0,0.108,0.892,62.34,8.04,10.1,0.8611111111111112,36
 PGR_JUL22.txt,PGR,2022,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1845,15 +1845,15 @@ Average common shareholders' equity ex AOCI
 880
 2.2%
 (195)
-",catastrophe,Financial,7.046292012091726e-05,6.990399469941622e-06,0.999922513961792,0.184,0.039,0.776,42.11,14.07,15.6,0.7830188679245284,106
+",catastrophe,Financial,0.0,0.0,0.8503156304359436,0.184,0.039,0.776,42.11,14.07,15.6,0.7830188679245284,106
 PGR_JUL22.txt,PGR,2022,Q3,"Valuation Methodology: Our $106 PT is based on 18x EPS and 3.2x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.077704033988994e-06,0.9958357810974121,0.004160079173743725,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8741739392280579,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_JUL23.txt,PGR,2023,Q3,"We consider PGR's lower advertising spend and pricing
-increases as deliberate attempts to reduce PIF and in turn improve capital adequacy.",capital adequacy,Financial,0.9999997615814209,2.2824048073744052e-07,2.2063662896698588e-08,0.12,0.091,0.788,16.32,17.92,0.0,0.9523809523809523,21
+increases as deliberate attempts to reduce PIF and in turn improve capital adequacy.",capital adequacy,Financial,0.9536466598510742,0.0,0.0,0.12,0.091,0.788,16.32,17.92,0.0,0.9523809523809523,21
 PGR_JUL23.txt,PGR,2023,Q3,"Especially
 coming out of elevated catastrophe losses and adverse PYD during 1H23.
-",catastrophe,Financial,2.2028492821846157e-05,0.9999479055404663,3.011351691384334e-05,0.0,0.516,0.484,25.46,14.8,0.0,1.0,12
+",catastrophe,Financial,0.5640854835510254,0.0,0.0,0.0,0.516,0.484,25.46,14.8,0.0,1.0,12
 PGR_JUL23.txt,PGR,2023,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -1870,14 +1870,14 @@ Catastrophes pretax
 Cat pts
 PYD pretax (negative is unfavorable PYD)
 PYD pts (negative is unfavorable)
-",catastrophe,Financial,2.851606586773414e-05,1.6257712559308857e-05,0.9999552965164185,0.049,0.052,0.899,42.21,13.08,0.0,0.8333333333333334,42
-PGR_JUL23.txt,PGR,2023,Q3,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182112080452498e-06,0.9992392063140869,0.0007516754558309913,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+",catastrophe,Financial,0.0,0.0,0.5153096914291382,0.049,0.052,0.899,42.21,13.08,0.0,0.8333333333333334,42
+PGR_JUL23.txt,PGR,2023,Q3,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,0.0,0.0,0.5359372496604919,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
 PGR_JUL23.txt,PGR,2023,Q3,"Valuation Methodology: Our $109 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.9697292777418625e-06,0.9959595799446106,0.0040364377200603485,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8791972398757935,0.0,0.0,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
 PGR_JUN21.txt,PGR,2021,Q2,"FIGURE 5
 PGR filed for rate declines in July (MTD) after two months of filing for rate increases
-Wgt.",rate increases,Financial,2.966181273222901e-05,0.0006362462881952524,0.9993340373039246,0.0,0.0,1.0,69.11,9.71,0.0,0.8947368421052632,19
+Wgt.",rate increases,Financial,0.0,0.9189759492874146,0.0,0.0,0.0,1.0,69.11,9.71,0.0,0.8947368421052632,19
 PGR_JUN21.txt,PGR,2021,Q2,"Net Earned Premiums (y/y %)
 Source: Barclays Research, Company Data.
 2018
@@ -2077,14 +2077,14 @@ Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
 Operating return on avg.",catastrophe,Financial,0.0,0.0,0.0,0.106,0.019,0.875,58.96,14.77,14.3,0.8112582781456954,302
 PGR_JUN22.txt,PGR,2022,Q2,"As such, we are cautious regarding how swiftly
-underlying loss ratios can turn around.",loss ratios,Financial,5.878103479517449e-07,0.9999898672103882,9.542482985125389e-06,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
+underlying loss ratios can turn around.",loss ratios,Financial,0.0,0.0,0.7873981595039368,0.13,0.219,0.651,57.27,11.31,0.0,1.0,14
 PGR_JUN22.txt,PGR,2022,Q2,"PGR's targeted
 actions to reduce property writings (assumed) in key catastrophe states like FL may have
 contributed to auto agency PIF declines in our view.
-",catastrophe,Financial,2.295954118380905e-06,0.999997615814209,5.2158306118599285e-08,0.084,0.147,0.769,46.1,16.4,0.0,0.92,25
+",catastrophe,Financial,0.0,0.9505020380020142,0.0,0.084,0.147,0.769,46.1,16.4,0.0,0.92,25
 PGR_JUN22.txt,PGR,2022,Q2,"We are cautious about PGR's stance that the majority of personal auto rate increases
 are behind them (with the exception of a few key states).
-",rate increases,Financial,9.96155691268541e-08,0.999998927116394,1.0021449270425364e-06,0.0,0.057,0.943,54.56,16.4,0.0,0.88,25
+",rate increases,Financial,0.0,0.0,0.7748380303382874,0.0,0.057,0.943,54.56,16.4,0.0,0.88,25
 PGR_JUN22.txt,PGR,2022,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2113,22 +2113,22 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_JUN22.txt,PGR,2022,Q2,"Valuation Methodology: Our $90 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.4270801734237466e-06,0.9973012804985046,0.002695313189178705,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8735982775688171,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_JUN23.txt,PGR,2023,Q2,"BARCLAYS
 Progressive Corp.
 June '23: $1.1bn Adverse PYD Toll for
 1H23
 Higher ultimate severity drove June increases in prior and
 current accident year loss ratios (3.1 pts and 6.5 pts,
-respectively).",loss ratios,Financial,0.9935983419418335,0.00014051322068553418,0.006261240690946579,0.0,0.22,0.78,65.18,8.93,9.4,0.9354838709677419,31
+respectively).",loss ratios,Financial,0.922106146812439,0.0,0.0,0.0,0.22,0.78,65.18,8.93,9.4,0.9354838709677419,31
 PGR_JUN23.txt,PGR,2023,Q2,"· PGR reported catastrophe losses of $415mn vs. our $175mn estimate.
-",catastrophe,Financial,9.204783282257267e-07,0.9997285008430481,0.0002705831138882786,0.0,0.47,0.53,57.94,14.0,0.0,1.0,11
+",catastrophe,Financial,0.0,0.9559392929077148,0.0,0.0,0.47,0.53,57.94,14.0,0.0,1.0,11
 PGR_JUN23.txt,PGR,2023,Q2,"June operating EPS of $(0.13) missed our $0.23 estimate, reflecting a higher combined ratio due
 to worse-than-expected underlying loss ratio and catastrophes losses.
-",catastrophe,Financial,9.374478082690985e-08,0.9999998807907104,1.3751345839807527e-08,0.0,0.275,0.725,46.74,13.51,11.2,0.9565217391304348,23
+",catastrophe,Financial,0.0,0.9474732875823975,0.0,0.0,0.275,0.725,46.74,13.51,11.2,0.9565217391304348,23
 PGR_JUN23.txt,PGR,2023,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2160,21 +2160,21 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.2935521226609126e-05,1.5381400544356438e-06,0.9999854564666748,0.228,0.04,0.732,-2.63,25.87,0.0,0.7272727272727273,99
-PGR_JUN23.txt,PGR,2023,Q2,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182112080452498e-06,0.9992392063140869,0.0007516754558309913,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9256756901741028,0.228,0.04,0.732,-2.63,25.87,0.0,0.7272727272727273,99
+PGR_JUN23.txt,PGR,2023,Q2,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,0.0,0.0,0.5359372496604919,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
 PGR_JUN23.txt,PGR,2023,Q2,"Our $103PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,2.8619833756238222e-06,0.995323121547699,0.004674011841416359,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8772162199020386,0.0,0.0,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
 PGR_SEP21.txt,PGR,2021,Q3,"The 5.5 pts included 4.7 pts (~$168mn) of cat losses
-associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",hurricane,Climate,1.8615748558659106e-05,0.9963966012001038,0.0035847669932991266,0.0,0.101,0.899,58.79,11.4,0.0,0.92,25
+associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",hurricane,Climate,0.0,0.9569094777107239,0.0,0.0,0.101,0.899,58.79,11.4,0.0,0.92,25
 PGR_SEP21.txt,PGR,2021,Q3,"The 5.5 pts included 4.7 pts (~$168mn) of cat losses
-associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",flood,Climate,1.8615748558659106e-05,0.9963966012001038,0.0035847669932991266,0.0,0.101,0.899,58.79,11.4,0.0,0.92,25
+associated with Hurricane Ida, primarily in auto due to flooding in NJ, NY, and PA.",flood,Climate,0.0,0.9569094777107239,0.0,0.0,0.101,0.899,58.79,11.4,0.0,0.92,25
 PGR_SEP21.txt,PGR,2021,Q3,"A key focus will be on the speed
 regulators allow rate increases, where we see pushback in TX where PGR has 8 pending
-requests ranging from 0% to +4.9% (Figure 4).",rate increases,Financial,0.014319781213998795,0.003316115587949753,0.9823640584945679,0.16,0.0,0.84,72.66,8.78,0.0,0.967741935483871,31
+requests ranging from 0% to +4.9% (Figure 4).",rate increases,Financial,0.5542547702789307,0.0,0.0,0.16,0.0,0.84,72.66,8.78,0.0,0.967741935483871,31
 PGR_SEP21.txt,PGR,2021,Q3,"FL is another tough state; PGR has 4
 pending requests at around 6% rate increases (Figure 5).
-",rate increases,Financial,0.00030453011277131736,0.9978195428848267,0.0018759462982416153,0.0,0.091,0.909,71.14,9.15,0.0,1.0,17
+",rate increases,Financial,0.0,0.7635734677314758,0.0,0.0,0.091,0.909,71.14,9.15,0.0,1.0,17
 PGR_SEP21.txt,PGR,2021,Q3,"May-20
 Jun-20
 Direct - Auto
@@ -2222,7 +2222,7 @@ Sep-21
 Barclays | Progressive Corp.
 FIGURE 3
 PGR filing for rate increases exceeding industry in 4 of last 6 months has been a headwind for PIF growth
-Wgt.",rate increases,Financial,0.00025638079387135804,1.0877954991883598e-05,0.9997327923774719,0.029,0.05,0.921,73.51,11.37,10.1,0.7446808510638298,94
+Wgt.",rate increases,Financial,0.0,0.9592282176017761,0.0,0.029,0.05,0.921,73.51,11.37,10.1,0.7446808510638298,94
 PGR_SEP21.txt,PGR,2021,Q3,"2022E
 51,052
 49,057
@@ -2314,11 +2314,11 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,7.093965905369259e-06,6.150242552394047e-05,0.9999313354492188,0.164,0.023,0.813,32.77,16.84,17.3,0.7659574468085106,188
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8338807225227356,0.164,0.023,0.813,32.77,16.84,17.3,0.7659574468085106,188
 PGR_MAR22.txt,PGR,2022,Q1,"Other states (particularly catastrophe prone) may want to put a lid on
 overall consumer costs when considering higher homeowners' premiums and utility costs, in
 our view.
-",catastrophe,Financial,0.02259214222431183,0.8480177521705627,0.12939012050628662,0.045,0.153,0.801,36.63,19.63,0.0,1.0,26
+",catastrophe,Financial,0.0,0.0,0.8008567690849304,0.045,0.153,0.801,36.63,19.63,0.0,1.0,26
 PGR_MAR22.txt,PGR,2022,Q1,"Wk Avg Daily Volume (mn)
 2.7
 Dividend Yield (%)
@@ -2336,13 +2336,13 @@ USD 120.17-88.05
 110
 100
 March operating EPS of $0.23 missed our $0.33 estimate primarily on worse catastrophe losses
-than our expectations.",catastrophe,Financial,4.193504992144881e-06,0.9999691247940063,2.6640964279067703e-05,0.0,0.212,0.788,73.85,9.07,8.8,0.94,50
+than our expectations.",catastrophe,Financial,0.0,0.9698575139045715,0.0,0.0,0.212,0.788,73.85,9.07,8.8,0.94,50
 PGR_MAR22.txt,PGR,2022,Q1,"PGR's upcoming rate increases
 show a weighted average of 5.3% approvals on ~$9.2bn of subject premiums, or ~$492mn in
 additional premiums.
-",rate increases,Financial,0.0692175105214119,6.3545035118295345e-06,0.9307761788368225,0.0,0.0,1.0,47.45,12.32,11.2,0.9523809523809523,21
+",rate increases,Financial,0.9060758352279663,0.0,0.0,0.0,0.0,1.0,47.45,12.32,11.2,0.9523809523809523,21
 PGR_MAR22.txt,PGR,2022,Q1,"PGR's pending rate increases show a weighted average of 10.5% rate
-requests on ~$6.4bn of subject premiums, or ~$673mn in additional premiums.",rate increases,Financial,0.007708082441240549,4.096972588740755e-06,0.9922877550125122,0.0,0.0,1.0,55.61,10.19,10.5,0.9090909090909091,22
+requests on ~$6.4bn of subject premiums, or ~$673mn in additional premiums.",rate increases,Financial,0.922565758228302,0.0,0.0,0.0,0.0,1.0,55.61,10.19,10.5,0.9090909090909091,22
 PGR_MAR22.txt,PGR,2022,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2379,20 +2379,20 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,7.931046638987027e-06,9.405725336364412e-07,0.9999910593032837,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8215795159339905,0.23,0.032,0.737,-14.81,31.0,0.0,0.7086614173228346,127
 PGR_MAR22.txt,PGR,2022,Q1,"Valuation Methodology: Our $88 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.5951049994764617e-06,0.9975205063819885,0.002475929679349065,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8740507960319519,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_MAR23.txt,PGR,2023,Q1,"PGR views tort reform offensive measures similar to
-reserving for a catastrophe.",catastrophe,Financial,0.022442953661084175,0.00035208859480917454,0.9772049784660339,0.0,0.451,0.549,42.38,18.13,0.0,1.0,12
-PGR_MAR23.txt,PGR,2023,Q1,· PGR reported catastrophe losses of $182mn vs our $55mn estimate.,catastrophe,Financial,5.206166520110855e-07,0.9999125003814697,8.702123159309849e-05,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
+reserving for a catastrophe.",catastrophe,Financial,0.0,0.0,0.8325881361961365,0.0,0.451,0.549,42.38,18.13,0.0,1.0,12
+PGR_MAR23.txt,PGR,2023,Q1,· PGR reported catastrophe losses of $182mn vs our $55mn estimate.,catastrophe,Financial,0.0,0.9632816314697266,0.0,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
 PGR_MAR23.txt,PGR,2023,Q1,"Management noted
 that they released $40mn or 0.9 pts of cat losses related to Hurricane lan.
-",hurricane,Climate,5.652917025145143e-05,0.44942620396614075,0.5505173206329346,0.0,0.153,0.847,63.36,10.7,0.0,1.0,16
+",hurricane,Climate,0.0,0.8647277355194092,0.0,0.0,0.153,0.847,63.36,10.7,0.0,1.0,16
 PGR_MAR23.txt,PGR,2023,Q1,"March operating EPS loss of $(0.19) missed our $0.40 estimate, reflecting a higher combined
 ratio (106.2% vs our 95.6% estimate) due to adverse PYD (Florida reforms and higher severity
 impacting personal auto, late reported claims and reserve assumptions impacting commercial
-lines, and changes to cat reserves impacting property lines) and higher catastrophe losses.",catastrophe,Financial,2.0442239190288092e-07,0.9999997615814209,5.913536682555787e-08,0.0,0.231,0.769,43.8,13.3,13.0,0.8301886792452831,53
+lines, and changes to cat reserves impacting property lines) and higher catastrophe losses.",catastrophe,Financial,0.0,0.9495343565940857,0.0,0.0,0.231,0.769,43.8,13.3,13.0,0.8301886792452831,53
 PGR_MAR23.txt,PGR,2023,Q1,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2421,14 +2421,14 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.8373635359457694e-05,3.295330088803894e-06,0.9999682903289795,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
-PGR_MAR23.txt,PGR,2023,Q1,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,9.182112080452498e-06,0.9992392063140869,0.0007516754558309913,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9191416501998901,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+PGR_MAR23.txt,PGR,2023,Q1,"Allstate has substantial exposure to natural catastrophe losses, stemming from its large homeowners insurance business.",catastrophe,Financial,0.0,0.0,0.5359372496604919,0.192,0.317,0.491,13.95,22.0,0.0,1.0,15
 PGR_MAR23.txt,PGR,2023,Q1,"Our $118PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,2.859150072254124e-06,0.995303750038147,0.004693357273936272,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8762615919113159,0.0,0.0,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
 PGR_MAY21.txt,PGR,2021,Q2,"PGR mentioned that NPW
 growth in personal lines would have been 5-7 points higher in light of last year's
-countrywide moratoriums and benign policy cancellations.",policy cancellations,Financial,0.9922687411308289,0.004462990909814835,0.003268295433372259,0.176,0.0,0.824,46.1,18.0,0.0,0.96,25
+countrywide moratoriums and benign policy cancellations.",policy cancellations,Financial,0.9471256136894226,0.0,0.0,0.176,0.0,0.824,46.1,18.0,0.0,0.96,25
 PGR_MAY21.txt,PGR,2021,Q2,"Net Earned Premiums (y/y %)
 Source: Barclays Research, Company Data.
 2019
@@ -2603,16 +2603,16 @@ Operating return on avg.",catastrophe,Financial,0.0,0.0,0.0,0.116,0.021,0.862,50
 PGR_MAY22.txt,PGR,2022,Q2,"PGR's catastrophe
 losses (6 pts of its combined ratio) was more atypical, we suspect Midwest hailstorms impacting
 auto physical damage to be the culprit (PCS events by catalog numbers: 2232, 2233, and 2235,
-cumulatively comprise $2.3bn of industry losses reported thus far).",catastrophe,Financial,9.255209988623392e-06,0.9999871253967285,3.6436651953408727e-06,0.0,0.295,0.705,41.7,16.02,0.0,0.9523809523809523,42
+cumulatively comprise $2.3bn of industry losses reported thus far).",catastrophe,Financial,0.0,0.9353633522987366,0.0,0.0,0.295,0.705,41.7,16.02,0.0,0.9523809523809523,42
 PGR_MAY22.txt,PGR,2022,Q2,"Higher catastrophe losses
 contributed to PGR missing its targeted 96% combined ratio (96.5% at May '22).
-",catastrophe,Financial,2.677047064025828e-07,0.9999995231628418,1.5882139337008994e-07,0.0,0.417,0.583,54.9,10.7,0.0,1.0,16
+",catastrophe,Financial,0.0,0.971583366394043,0.0,0.0,0.417,0.583,54.9,10.7,0.0,1.0,16
 PGR_MAY22.txt,PGR,2022,Q2,"We are cautious about PGR's stance that the majority of personal
 auto rate increases are behind them (with the exception of a few key states).
-",rate increases,Financial,9.96155691268541e-08,0.999998927116394,1.0021449270425364e-06,0.0,0.057,0.943,54.56,16.4,0.0,0.88,25
+",rate increases,Financial,0.0,0.0,0.7748380303382874,0.0,0.057,0.943,54.56,16.4,0.0,0.88,25
 PGR_MAY22.txt,PGR,2022,Q2,"PGR's net investment income was better
 than expected, somewhat offset by worse catastrophe losses.
-",catastrophe,Financial,1.0,4.042584489383216e-09,3.5501028783357924e-09,0.127,0.435,0.438,40.35,14.17,0.0,1.0,14
+",catastrophe,Financial,0.9543343186378479,0.0,0.0,0.127,0.435,0.438,40.35,14.17,0.0,1.0,14
 PGR_MAY22.txt,PGR,2022,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2641,15 +2641,15 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_MAY22.txt,PGR,2022,Q2,"Valuation Methodology: Our $90 PT is based on 16x EPS and 2.9x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.4270801734237466e-06,0.9973012804985046,0.002695313189178705,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8735982775688171,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_MAY23.txt,PGR,2023,Q2,"· PGR reported catastrophe losses of $220mn vs our $108mn estimate.
-",catastrophe,Financial,3.353373188019759e-07,0.999954104423523,4.55533190688584e-05,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
+",catastrophe,Financial,0.0,0.9628151655197144,0.0,0.0,0.47,0.53,52.87,16.0,0.0,1.0,11
 PGR_MAY23.txt,PGR,2023,Q2,"May operating EPS of $0.23 missed our $0.41 estimate, reflecting a higher combined ratio due to
 worse-than-expected PYD and catastrophes losses.
-",catastrophe,Financial,1.7768233817605505e-07,0.9999997615814209,1.8296969273023933e-08,0.0,0.214,0.786,55.91,12.32,10.5,1.0,21
+",catastrophe,Financial,0.0,0.9139125943183899,0.0,0.0,0.214,0.786,55.91,12.32,10.5,1.0,21
 PGR_MAY23.txt,PGR,2023,Q2,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2681,19 +2681,19 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.2935521226609126e-05,1.5381400544356438e-06,0.9999854564666748,0.228,0.04,0.732,-2.63,25.87,0.0,0.7272727272727273,99
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9256756901741028,0.228,0.04,0.732,-2.63,25.87,0.0,0.7272727272727273,99
 PGR_MAY23.txt,PGR,2023,Q2,"Our $120PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,2.7916516955883708e-06,0.9954625964164734,0.004534648731350899,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8767645359039307,0.0,0.0,0.09,0.107,0.803,65.93,9.16,10.1,0.9090909090909091,55
 PGR_NOV21.txt,PGR,2021,Q4,"Likewise PGR's reported 1.3 points of favorable PYD and (1.4) points
-of catastrophe losses from Ida can be counted on to continue.",catastrophe,Financial,0.6077411770820618,0.044885385781526566,0.34737342596054077,0.106,0.243,0.651,72.53,10.19,9.7,0.9090909090909091,22
+of catastrophe losses from Ida can be counted on to continue.",catastrophe,Financial,0.8826151490211487,0.0,0.0,0.106,0.243,0.651,72.53,10.19,9.7,0.9090909090909091,22
 PGR_NOV21.txt,PGR,2021,Q4,"States we are watching
 closely are TX (10 pending rate increases ranging from 0%-8.4%) and FL (4 pending rate
 increases; magnitude not disclosed).
-",rate increases,Financial,7.238525085995207e-07,8.143376248881395e-07,0.9999984502792358,0.128,0.0,0.872,68.26,8.08,0.0,0.8695652173913043,23
+",rate increases,Financial,0.0,0.0,0.7936079502105713,0.128,0.0,0.872,68.26,8.08,0.0,0.8695652173913043,23
 PGR_NOV21.txt,PGR,2021,Q4,"PGR has 4 outstanding filings for
 pending rate increases ranging from 9.9% to 11.8% for January 2022 renewal effective dates, all
-in TN, not nationwide.",rate increases,Financial,9.209386007569265e-06,9.920981028699316e-06,0.9999809265136719,0.244,0.0,0.756,63.05,11.32,11.2,0.96,25
+in TN, not nationwide.",rate increases,Financial,0.0,0.0,0.798536479473114,0.244,0.0,0.756,63.05,11.32,11.2,0.96,25
 PGR_NOV21.txt,PGR,2021,Q4,"Model Summary Continued
 ($ in mn, except per share data)
 2018
@@ -2731,21 +2731,21 @@ Total capital returned
 567
 1.8%
 (89)
-",catastrophe,Financial,9.108807716984302e-06,5.098445853946032e-06,0.9999858140945435,0.25,0.041,0.709,-1.11,26.34,0.0,0.7676767676767676,99
+",catastrophe,Financial,0.0,0.0,0.8588447570800781,0.25,0.041,0.709,-1.11,26.34,0.0,0.7676767676767676,99
 PGR_NOV21.txt,PGR,2021,Q4,"Our $82 PT is based on 16x EPS and 2.7x BVPS (ex AOCI) on 2022E/2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,2.571498498582514e-06,0.9973623156547546,0.002635084791108966,0.087,0.103,0.81,69.11,11.11,10.5,0.9122807017543859,57
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8919581770896912,0.0,0.0,0.087,0.103,0.81,69.11,11.11,10.5,0.9122807017543859,57
 PGR_NOV22.txt,PGR,2022,Q4,"S&P's P&C sector outlook is negative, partly reflecting their view of reduced
-capital adequacy from these negative marks upon P&C insurers.",capital adequacy,Financial,3.0835510642646113e-06,0.9999967813491821,1.6597532237483392e-07,0.0,0.28,0.72,24.78,16.02,0.0,0.9523809523809523,21
+capital adequacy from these negative marks upon P&C insurers.",capital adequacy,Financial,0.0,0.9671441316604614,0.0,0.0,0.28,0.72,24.78,16.02,0.0,0.9523809523809523,21
 PGR_NOV22.txt,PGR,2022,Q4,"PGR's
 pricing may appear relatively more compelling to customers as it took rate increases on the
 earlier side, we already saw, which we think reflects the continuation of higher new business
-(new applications +20% in 3Q).",rate increases,Financial,0.9999957084655762,2.9034470117039746e-07,4.069507212989265e-06,0.059,0.0,0.941,34.94,19.96,0.0,0.9444444444444444,36
+(new applications +20% in 3Q).",rate increases,Financial,0.9479167461395264,0.0,0.0,0.059,0.0,0.941,34.94,19.96,0.0,0.9444444444444444,36
 PGR_NOV22.txt,PGR,2022,Q4,"Nov. operating EPS of $0.54 beat our $0.24 estimate, reflecting better underlying income and a
-$40mn reduction of September's Hurricane lan loss estimates.",hurricane,Climate,1.0,3.5201650483429603e-09,5.92179683067684e-09,0.115,0.091,0.794,46.74,15.25,11.9,0.9565217391304348,23
+$40mn reduction of September's Hurricane lan loss estimates.",hurricane,Climate,0.9376663565635681,0.0,0.0,0.115,0.091,0.794,46.74,15.25,11.9,0.9565217391304348,23
 PGR_NOV22.txt,PGR,2022,Q4,"We had modeled catastrophe
 loss of $42mn vs. PGR's -$4mn.
-PGR:",catastrophe,Financial,0.00010658219252945855,0.5808855891227722,0.4190078377723694,0.0,0.427,0.573,85.69,8.04,0.0,1.0,11
+PGR:",catastrophe,Financial,0.0,0.9032975435256958,0.0,0.0,0.427,0.573,85.69,8.04,0.0,1.0,11
 PGR_NOV22.txt,PGR,2022,Q4,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -2774,21 +2774,21 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_NOV22.txt,PGR,2022,Q4,"Valuation Methodology: Our $109 PT is based on 20x EPS and 3.2x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.613480996340513e-06,0.9956489205360413,0.0043464889749884605,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8745034337043762,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_NOV24.txt,PGR,2024,Q4,"The beat comes
 primarily due to strong performance in the Property segment and lower than expected
-catastrophe losses for the month.",catastrophe,Financial,1.0,3.2896207979860037e-09,2.423515788052555e-08,0.111,0.314,0.574,41.7,17.92,0.0,0.9523809523809523,21
+catastrophe losses for the month.",catastrophe,Financial,0.8475134968757629,0.0,0.0,0.111,0.314,0.574,41.7,17.92,0.0,0.9523809523809523,21
 PGR_NOV24.txt,PGR,2024,Q4,"Cat losses came in at $(18) million which was significantly
 below our $63 million estimate, as favorable development associated with Hurricanes Helene
-and Milton exceeded current month storm losses.",hurricane,Climate,4.999972588848323e-06,0.9999936819076538,1.2888889386886149e-06,0.09,0.157,0.754,16.66,21.26,0.0,0.9655172413793104,29
+and Milton exceeded current month storm losses.",hurricane,Climate,0.0,0.8473743796348572,0.0,0.09,0.157,0.754,16.66,21.26,0.0,0.9655172413793104,29
 PGR_NOV24.txt,PGR,2024,Q4,"Overall, a
 solid print as PIF growth remained strong, catastrophes came in much better than expected,
 and strong Property results as well as solid Personal and Commercial results contributed to a
 bottom line beat.
-",catastrophe,Financial,1.0,1.3591521241806959e-09,8.046169286402005e-10,0.41,0.0,0.59,36.97,20.66,0.0,0.8235294117647058,34
+",catastrophe,Financial,0.9552086591720581,0.0,0.0,0.41,0.0,0.59,36.97,20.66,0.0,0.8235294117647058,34
 PGR_NOV24.txt,PGR,2024,Q4,"PGR - Quick Take Total Company P&C Underwriting
 Nov-21
 Nov-22
@@ -2894,7 +2894,7 @@ BARCe
 (8.9%)
 (11.5pp)
 (4.2%)
-",catastrophe,Financial,7.46615069147083e-06,4.855658517044503e-06,0.9999876022338867,0.036,0.032,0.932,89.45,4.65,8.2,0.8041958041958042,143
+",catastrophe,Financial,0.0,0.0,0.8588079214096069,0.036,0.032,0.932,89.45,4.65,8.2,0.8041958041958042,143
 PGR_NOV24.txt,PGR,2024,Q4,"Barclays Research, Company Data, Bloomberg
 FIGURE 4. PGR - Quick Take Personal Lines Underwriting
 Nov-21
@@ -2920,11 +2920,11 @@ Catastrophes ($mn)
 Catastrophes (pts)
 (1.8%)
 Reserve development ($m)
-",catastrophe,Financial,0.0010265626478940248,3.238604767830111e-05,0.9989410042762756,0.079,0.07,0.851,47.79,10.0,13.0,0.71875,64
-PGR_OCT21.txt,PGR,2021,Q4,PGR is filing for more rate increases.,rate increases,Financial,0.11555281281471252,4.088666901225224e-05,0.884406328201294,0.0,0.0,1.0,81.29,8.51,0.0,1.0,7
+",catastrophe,Financial,0.0,0.0,0.8988797068595886,0.079,0.07,0.851,47.79,10.0,13.0,0.71875,64
+PGR_OCT21.txt,PGR,2021,Q4,PGR is filing for more rate increases.,rate increases,Financial,0.6402915120124817,0.0,0.0,0.0,0.0,1.0,81.29,8.51,0.0,1.0,7
 PGR_OCT21.txt,PGR,2021,Q4,"States
 we are watching closely are TX (10 pending rate increases ranging from 0%-8.4%) and
-FL (4 pending rate increases; magnitude not disclosed).",rate increases,Financial,7.238525085995207e-07,8.143376248881395e-07,0.9999984502792358,0.128,0.0,0.872,68.26,8.08,0.0,0.8695652173913043,23
+FL (4 pending rate increases; magnitude not disclosed).",rate increases,Financial,0.0,0.0,0.7936079502105713,0.128,0.0,0.872,68.26,8.08,0.0,0.8695652173913043,23
 PGR_OCT21.txt,PGR,2021,Q4,"645
 2,426
 27
@@ -2998,29 +2998,29 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,1.2001577488263138e-05,8.096551027847454e-05,0.9999070167541504,0.181,0.025,0.794,35.81,16.19,17.3,0.7529411764705882,170
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.8940606117248535,0.181,0.025,0.794,35.81,16.19,17.3,0.7529411764705882,170
 PGR_OCT22.txt,PGR,2022,Q4,"We think auto insurers have to push high single-digit to
 low double-digit rate increases just to tread water amid
 inflationary loss trends.
-",rate increases,Financial,0.006601779256016016,0.9917294383049011,0.0016687811585143209,0.0,0.18,0.82,49.15,14.25,0.0,0.9090909090909091,22
+",rate increases,Financial,0.48497793078422546,0.0,0.0,0.0,0.18,0.82,49.15,14.25,0.0,0.9090909090909091,22
 PGR_OCT22.txt,PGR,2022,Q4,"It does not help that PGR is growing now while its underlying loss ratios are deteriorating.
-",loss ratios,Financial,0.0008000781526789069,0.9991845488548279,1.533881004434079e-05,0.088,0.237,0.675,55.24,11.4,0.0,1.0,16
+",loss ratios,Financial,0.5110450983047485,0.0,0.0,0.088,0.237,0.675,55.24,11.4,0.0,1.0,16
 PGR_OCT22.txt,PGR,2022,Q4,"We are cautious regarding how swiftly underlying loss ratios can turn around, particularly given
-PGR's stance that taking rating actions is behind the trend.",loss ratios,Financial,1.6198924868149334e-07,0.9999996423721313,2.2168178759329749e-07,0.082,0.138,0.781,38.66,14.6,0.0,1.0,24
+PGR's stance that taking rating actions is behind the trend.",loss ratios,Financial,0.0,0.0,0.4541909098625183,0.082,0.138,0.781,38.66,14.6,0.0,1.0,24
 PGR_OCT22.txt,PGR,2022,Q4,"In fact, auto insurers should be
 pushing rate increases just for maintenance purposes, to keep up with loss trends that are still
-accumulating; albeit at a moderating pace.",rate increases,Financial,0.9495706558227539,0.008107025176286697,0.042322319000959396,0.0,0.081,0.919,43.06,19.77,0.0,1.0,28
+accumulating; albeit at a moderating pace.",rate increases,Financial,0.8978566527366638,0.0,0.0,0.0,0.081,0.919,43.06,19.77,0.0,1.0,28
 PGR_OCT22.txt,PGR,2022,Q4,"Oct. operating EPS of $0.40 beat our $0.33 estimate as catastrophe losses were better than
-expected.",catastrophe,Financial,1.0,1.562937868015979e-08,1.490961842876004e-08,0.126,0.309,0.565,57.64,12.12,9.7,1.0,16
+expected.",catastrophe,Financial,0.9225099682807922,0.0,0.0,0.126,0.309,0.565,57.64,12.12,9.7,1.0,16
 PGR_OCT22.txt,PGR,2022,Q4,"During Oct., PGR experienced some loss creep related to Hurricane lan (by $27
 million, or 0.7 pts on its loss ratio for personal auto and by $3mn or 0.3 pts for Commercial
-lines).",hurricane,Climate,3.7202586099738255e-05,0.9994303584098816,0.00053237663814798,0.0,0.129,0.871,68.77,10.46,10.5,0.8787878787878788,33
+lines).",hurricane,Climate,0.0,0.8320096135139465,0.0,0.0,0.129,0.871,68.77,10.46,10.5,0.8787878787878788,33
 PGR_OCT22.txt,PGR,2022,Q4,"We had modeled higher loss
 creep from Hurricane lan, as our catastrophe loss estimate was $124mn vs. PGR's $44mn.
-PGR:",catastrophe,Financial,0.005328784231096506,0.09275563061237335,0.9019156098365784,0.0,0.346,0.654,68.1,14.0,0.0,0.95,20
+PGR:",catastrophe,Financial,0.0,0.8560141324996948,0.0,0.0,0.346,0.654,68.1,14.0,0.0,0.95,20
 PGR_OCT22.txt,PGR,2022,Q4,"We had modeled higher loss
 creep from Hurricane lan, as our catastrophe loss estimate was $124mn vs. PGR's $44mn.
-PGR:",hurricane,Climate,0.005328784231096506,0.09275563061237335,0.9019156098365784,0.0,0.346,0.654,68.1,14.0,0.0,0.95,20
+PGR:",hurricane,Climate,0.0,0.8560141324996948,0.0,0.0,0.346,0.654,68.1,14.0,0.0,0.95,20
 PGR_OCT22.txt,PGR,2022,Q4,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -3049,10 +3049,10 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_OCT22.txt,PGR,2022,Q4,"Valuation Methodology: Our $104 PT is based on 20x EPS and 3.2x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.479940344026545e-06,0.9956777691841125,0.004317792132496834,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.875188410282135,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_OCT24.txt,PGR,2024,Q4,"BARCLAYS
 Equity Research
 North America Insurance/Non-Life
@@ -3065,18 +3065,18 @@ Expected
 Progressive's October results yielded a strong Net EPS beat as
 catastrophe losses from named storms in the month were lower
 than expected and on a segment basis, Property performed
-much better than expected.",catastrophe,Financial,1.0,5.236261979568724e-10,1.1912943964631495e-09,0.152,0.213,0.636,32.57,18.0,0.0,0.8666666666666667,60
+much better than expected.",catastrophe,Financial,0.9516626000404358,0.0,0.0,0.152,0.213,0.636,32.57,18.0,0.0,0.8666666666666667,60
 PGR_OCT24.txt,PGR,2024,Q4,"The beat comes
 primarily due to strong performance in the Property segment and lower than expected
-catastrophe losses for the month.",catastrophe,Financial,1.0,3.2896207979860037e-09,2.423515788052555e-08,0.111,0.314,0.574,41.7,17.92,0.0,0.9523809523809523,21
+catastrophe losses for the month.",catastrophe,Financial,0.8475134968757629,0.0,0.0,0.111,0.314,0.574,41.7,17.92,0.0,0.9523809523809523,21
 PGR_OCT24.txt,PGR,2024,Q4,"Cat losses came in at $249 million which was significantly
 below our $595 million estimate based on PGR's prior guidance on Hurricane Milton.
-",hurricane,Climate,9.198855366321368e-08,0.9999992847442627,6.692894203297328e-07,0.0,0.109,0.891,39.67,14.42,0.0,0.9130434782608695,23
+",hurricane,Climate,0.0,0.9572163820266724,0.0,0.0,0.109,0.891,39.67,14.42,0.0,0.9130434782608695,23
 PGR_OCT24.txt,PGR,2024,Q4,"Overall, a solid print as PIF growth continued to remain strong, catastrophes
 came in better than feared, sizeable favorable reserve development, and strong Property results
-contributed to a bottom line beat.",catastrophe,Financial,1.0,1.6191082918837196e-09,9.297722036727407e-10,0.4,0.076,0.524,31.55,20.14,0.0,0.9354838709677419,31
+contributed to a bottom line beat.",catastrophe,Financial,0.9522688984870911,0.0,0.0,0.4,0.076,0.524,31.55,20.14,0.0,0.9354838709677419,31
 PGR_OCT24.txt,PGR,2024,Q4,"Property: Underlying loss ratio came in much better than expected at 32.3% vs. our 57.6% as a
-function of materially lower catastrophe losses compared to our estimate.",catastrophe,Financial,1.0,1.3856312763849132e-09,1.1824324630538285e-08,0.082,0.327,0.592,40.85,14.29,0.0,0.9629629629629629,27
+function of materially lower catastrophe losses compared to our estimate.",catastrophe,Financial,0.9146416783332825,0.0,0.0,0.082,0.327,0.592,40.85,14.29,0.0,0.9629629629629629,27
 PGR_OCT24.txt,PGR,2024,Q4,"PGR - Quick Take Total Company P&C Underwriting
 Total Company P&C Underwriting
 Net premiums written
@@ -3168,7 +3168,7 @@ BARCe
 98.0%
 67.4%
 88.6%
-",catastrophe,Financial,1.7416781702195294e-05,3.4557276649138657e-06,0.9999791383743286,0.04,0.036,0.924,80.58,5.03,8.7,0.796875,128
+",catastrophe,Financial,0.0,0.0,0.8366868495941162,0.04,0.036,0.924,80.58,5.03,8.7,0.796875,128
 PGR_OCT24.txt,PGR,2024,Q4,"PGR - Quick Take Personal Lines Underwriting
 Personal Lines Underwriting
 Net premiums written
@@ -3186,7 +3186,7 @@ Catastrophes ($mn)
 Catastrophes (pts)
 (0.1%)
 Reserve development ($m)
-",catastrophe,Financial,0.01121457852423191,9.313305781688541e-05,0.9886922836303711,0.1,0.089,0.811,47.49,10.47,13.0,0.66,50
+",catastrophe,Financial,0.0,0.0,0.8289346098899841,0.1,0.089,0.811,47.49,10.47,13.0,0.66,50
 PGR_OCT24.txt,PGR,2024,Q4,"Progressive Projections Total Company P&C Underwriting
 4Q23
 1Q24
@@ -3367,16 +3367,16 @@ Reserve development (pts)
 (111)
 (0.7%)
 (0.8%)
-",catastrophe,Financial,6.072248197597219e-06,0.00018647513934411108,0.9998074173927307,0.0,0.045,0.955,79.9,8.28,9.7,0.8235294117647058,51
+",catastrophe,Financial,0.0,0.0,0.8946000933647156,0.0,0.045,0.955,79.9,8.28,9.7,0.8235294117647058,51
 PGR_SEP22.txt,PGR,2022,Q3,"We are cautious regarding how swiftly
 underlying loss ratios can turn around, particularly given PGR's stance that taking rating actions
 is behind it.
-",loss ratios,Financial,1.0349876333748398e-07,0.9999997615814209,1.9424832942149806e-07,0.085,0.143,0.772,39.67,14.42,0.0,1.0,23
+",loss ratios,Financial,0.0,0.0,0.610851526260376,0.085,0.143,0.772,39.67,14.42,0.0,1.0,23
 PGR_SEP22.txt,PGR,2022,Q3,"We do not think reinsurance reinstatement premiums (second event) meaningfully compress
-the denominator of its underlying loss ratio.",reinsurance,Financial,0.002149290172383189,0.006085426080971956,0.9917653203010559,0.0,0.119,0.881,10.91,20.53,0.0,1.0,18
+the denominator of its underlying loss ratio.",reinsurance,Financial,0.0,0.0,0.576616108417511,0.0,0.119,0.881,10.91,20.53,0.0,1.0,18
 PGR_SEP22.txt,PGR,2022,Q3,"Likewise, 95% of PGR's premium comes from lines other than
 homeowners for which little reinsurance exists.
-",reinsurance,Financial,1.5041910046420526e-06,1.1865288797707763e-05,0.9999865293502808,0.0,0.0,1.0,55.24,13.9,0.0,1.0,16
+",reinsurance,Financial,0.0,0.0,0.9300801753997803,0.0,0.0,1.0,55.24,13.9,0.0,1.0,16
 PGR_SEP22.txt,PGR,2022,Q3,"Wk Avg Daily Volume (mn)
 2.7
 Dividend Yield (%)
@@ -3391,10 +3391,10 @@ Exchange-NYSE
 52 Week range
 USD 129.77-88.05
 PGR's Hurricane lan net losses ($760mn, of which $585mn related to auto) reflected 95% IBNR
-which can be subject to variability.",hurricane,Climate,0.00014740743790753186,0.032705653458833694,0.9671468138694763,0.0,0.051,0.949,71.61,8.99,9.3,0.9411764705882353,51
+which can be subject to variability.",hurricane,Climate,0.0,0.9192761182785034,0.0,0.0,0.051,0.949,71.61,8.99,9.3,0.9411764705882353,51
 PGR_SEP22.txt,PGR,2022,Q3,"Especially since Hurricane lan took place at the end of
-September and early October.",hurricane,Climate,1.2545233403216116e-05,0.9969731569290161,0.00301434681750834,0.0,0.0,1.0,48.81,11.31,0.0,1.0,14
-PGR_SEP22.txt,PGR,2022,Q3,We had modeled about $600mn of catastrophe losses.,catastrophe,Financial,8.991200047603343e-06,0.9584168791770935,0.041574105620384216,0.0,0.542,0.458,71.82,8.2,0.0,1.0,8
+September and early October.",hurricane,Climate,0.0,0.0,0.719902753829956,0.0,0.0,1.0,48.81,11.31,0.0,1.0,14
+PGR_SEP22.txt,PGR,2022,Q3,We had modeled about $600mn of catastrophe losses.,catastrophe,Financial,0.0,0.0,0.5989331007003784,0.0,0.542,0.458,71.82,8.2,0.0,1.0,8
 PGR_SEP22.txt,PGR,2022,Q3,"130
 120
 110
@@ -3408,10 +3408,10 @@ Source: IDC
 Link to Barclays Live for interactive charting
 Sept. operating EPS of ($0.70) missed our ($0.39) estimate as catastrophe losses were worse
 than expected.
-",catastrophe,Financial,3.333329061661061e-07,0.9999994039535522,2.705584734030708e-07,0.0,0.292,0.708,71.31,9.28,9.5,1.0,34
+",catastrophe,Financial,0.0,0.9479987025260925,0.0,0.0,0.292,0.708,71.31,9.28,9.5,1.0,34
 PGR_SEP22.txt,PGR,2022,Q3,"Change Y-o-Y
 We raised our auto catastrophe loss estimate for October in light of potential loss creep.
-",catastrophe,Financial,0.9500338435173035,0.01761915720999241,0.032346904277801514,0.0,0.391,0.609,62.68,13.86,0.0,0.9411764705882353,17
+",catastrophe,Financial,0.0,0.7071937918663025,0.0,0.0,0.391,0.609,62.68,13.86,0.0,0.9411764705882353,17
 PGR_SEP22.txt,PGR,2022,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -3440,10 +3440,10 @@ Shareholders' equity and returns
 Common shareholders' equity ex AOCI
 Average common shareholders' equity ex AOCI
 Book Value Per Share to common ex AOCI
-Operating return on avg.",catastrophe,Financial,2.3280161258298904e-05,2.6950083338306285e-06,0.9999740123748779,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
+Operating return on avg.",catastrophe,Financial,0.0,0.0,0.9153894782066345,0.234,0.041,0.725,-1.11,25.48,0.0,0.71875,96
 PGR_SEP22.txt,PGR,2022,Q3,"Valuation Methodology: Our $104 PT is based on 18x EPS and 3.2x BVPS (ex AOCI) on 2023E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,4.195542715024203e-06,0.9958875775337219,0.0041081830859184265,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
+improve PIF growth back to double digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8751000165939331,0.0,0.0,0.085,0.1,0.815,59.94,11.95,11.9,0.8983050847457628,59
 PGR_SEP23.txt,PGR,2023,Q3,"BARCLAYS
 Equity Research
 U.S. Insurance/Non-Life
@@ -3454,7 +3454,7 @@ breather & underlying loss ratio
 improving
 Reserve development alternation: Sept - modest favorable PYD,
 August unfavorable, July favorable, June (and prior months)
-unfavorable.",catastrophe,Financial,0.7225325703620911,0.04929507151246071,0.22817236185073853,0.191,0.191,0.617,8.84,16.11,15.5,0.972972972972973,37
+unfavorable.",catastrophe,Financial,0.6109302043914795,0.0,0.0,0.191,0.191,0.617,8.84,16.11,15.5,0.972972972972973,37
 PGR_SEP23.txt,PGR,2023,Q3,"We anticipate seeing
 PGR return to its pre-pandemic expense ratio of nearly 20% only when pricing is adequate and it
 can organically grow statutory surplus.
@@ -3464,7 +3464,7 @@ can organically grow statutory surplus.
 120 -
 PGR reported quiet catastrophe losses of $84mn (vs our $106mn estimate) or 1.8pts on its
 consolidated combined ratio; PGR received a $21mn reinsurance recoverable in the quarter (9.5
-pt favorable impact to its property loss ratio.)",catastrophe,Financial,0.9999929666519165,2.4313073936355067e-06,4.6705836211913265e-06,0.068,0.128,0.804,46.47,14.52,13.4,0.9090909090909091,66
+pt favorable impact to its property loss ratio.)",catastrophe,Financial,0.747480571269989,0.0,0.0,0.068,0.128,0.804,46.47,14.52,13.4,0.9090909090909091,66
 PGR_SEP23.txt,PGR,2023,Q3,"We anticipate seeing
 PGR return to its pre-pandemic expense ratio of nearly 20% only when pricing is adequate and it
 can organically grow statutory surplus.
@@ -3474,14 +3474,14 @@ can organically grow statutory surplus.
 120 -
 PGR reported quiet catastrophe losses of $84mn (vs our $106mn estimate) or 1.8pts on its
 consolidated combined ratio; PGR received a $21mn reinsurance recoverable in the quarter (9.5
-pt favorable impact to its property loss ratio.)",reinsurance,Financial,0.9999929666519165,2.4313073936355067e-06,4.6705836211913265e-06,0.068,0.128,0.804,46.47,14.52,13.4,0.9090909090909091,66
+pt favorable impact to its property loss ratio.)",reinsurance,Financial,0.747480571269989,0.0,0.0,0.068,0.128,0.804,46.47,14.52,13.4,0.9090909090909091,66
 PGR_SEP23.txt,PGR,2023,Q3,"Nice reprieve following elevated catastrophe loss
 ratio points of 4.5% in August, 3.2% in July, and an average monthly cat loss ratio points of 4.1%
 in 1H23.
-",catastrophe,Financial,0.9999587535858154,2.9452859962475486e-05,1.1791254109994043e-05,0.08,0.259,0.661,64.57,7.16,8.8,0.7777777777777778,27
+",catastrophe,Financial,0.0,0.7379905581474304,0.0,0.08,0.259,0.661,64.57,7.16,8.8,0.7777777777777778,27
 PGR_SEP23.txt,PGR,2023,Q3,"September operating EPS of $0.84 beat our $0.40 estimate due to lower catastrophe losses and
 better combined ratio vs. our estimates.
-",catastrophe,Financial,1.0,1.8279218139127806e-08,3.834714590311705e-08,0.099,0.318,0.582,47.45,10.42,10.5,0.9523809523809523,21
+",catastrophe,Financial,0.9509005546569824,0.0,0.0,0.099,0.318,0.582,47.45,10.42,10.5,0.9523809523809523,21
 PGR_SEP23.txt,PGR,2023,Q3,"Model Summary (pg. 2)
 ($ in mn, except per share data)
 2019
@@ -3499,23 +3499,23 @@ Catastrophes pretax
 Cat pts
 PYD pretax (negative is unfavorable PYD)
 PYD pts (negative is unfavorable)
-",catastrophe,Financial,4.299941792851314e-05,1.886364771053195e-05,0.9999381303787231,0.048,0.051,0.901,41.7,13.16,0.0,0.8372093023255814,43
+",catastrophe,Financial,0.0,0.5425366759300232,0.0,0.048,0.051,0.901,41.7,13.16,0.0,0.8372093023255814,43
 PGR_SEP23.txt,PGR,2023,Q3,"Valuation Methodology: Our $111 PT is based on 16.5x EPS and 3.2x BVPS (ex AOCI) on 2024E.
 Risks which May Impede the Achievement of the Barclays Research Valuation and Price Target: The primary risks to our thesis are if PGR can
-improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,3.957202352466993e-06,0.9957780838012695,0.004217933863401413,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
+improve PIF growth back to double-digit levels while producing underlying loss ratios <70% on a sustainable basis.",loss ratios,Financial,0.8781934976577759,0.0,0.0,0.086,0.102,0.812,65.22,9.94,11.2,0.896551724137931,58
 PGR_SEP24.txt,PGR,2024,Q3,"While the catastrophe loss ratio of 9.1%
 was slightly above our 8.7% estimate, strong attritional loss ratio of 64.1% (vs our 68.2%
 estimate) resulted in the company delivering an overall loss ratio of 72.6% against our
-expectation of 76.8%.",catastrophe,Financial,1.0,1.092791368506596e-08,1.4109548196472588e-08,0.068,0.233,0.7,64.88,8.75,9.7,0.7435897435897436,39
+expectation of 76.8%.",catastrophe,Financial,0.7659468054771423,0.0,0.0,0.068,0.233,0.7,64.88,8.75,9.7,0.7435897435897436,39
 PGR_SEP24.txt,PGR,2024,Q3,"Of note, the Direct channel grew net
 premiums by 42% y/y on both a written and earned basis for the month even as loss ratios
 improved from 73% in September 2023 to 64% this month.
-",loss ratios,Financial,1.0,8.02176369774088e-09,1.2022907114328518e-08,0.083,0.061,0.856,61.33,15.14,0.0,0.9714285714285714,35
+",loss ratios,Financial,0.9576964974403381,0.0,0.0,0.083,0.061,0.856,61.33,15.14,0.0,0.9714285714285714,35
 PGR_SEP24.txt,PGR,2024,Q3,"It's also worth noting that PGR disclosed the estimated impact of Hurricane Milton, which will
-be included in October results.",hurricane,Climate,6.753655270586023e-07,0.0002664329658728093,0.9997327923774719,0.091,0.0,0.909,34.26,14.0,0.0,1.0,20
+be included in October results.",hurricane,Climate,0.0,0.0,0.9282146692276001,0.091,0.0,0.909,34.26,14.0,0.0,1.0,20
 PGR_SEP24.txt,PGR,2024,Q3,"We view this update favorably as it appears to be lesser than the Hurricane Helene
 impact and gives more certainty around expected impacts next month.
-",hurricane,Climate,0.9999959468841553,1.0625708313227733e-08,4.060258561366936e-06,0.175,0.0,0.825,46.1,16.4,0.0,1.0,25
+",hurricane,Climate,0.8066595792770386,0.0,0.0,0.175,0.0,0.825,46.1,16.4,0.0,1.0,25
 PGR_SEP24.txt,PGR,2024,Q3,"Sep 2024 - Underwriting Metrics
 Total Company P&C Underwriting
 Net premiums written
@@ -3609,7 +3609,7 @@ BARCe
 (0.5%)
 (0.6pp)
 (4.2pp)
-",catastrophe,Financial,2.616792880871799e-05,4.572282250592252e-06,0.9999692440032959,0.04,0.035,0.924,79.97,5.26,8.6,0.8046875,128
+",catastrophe,Financial,0.0,0.0,0.8526064157485962,0.04,0.035,0.924,79.97,5.26,8.6,0.8046875,128
 PGR_SEP24.txt,PGR,2024,Q3,"1.1pp
 (3.1pp)
 (4.1pp)
@@ -3867,7 +3867,7 @@ Street
 483
 2.7%
 (117)
-",catastrophe,Financial,8.23214759293478e-06,2.6838044959731633e-06,0.9999890327453613,0.031,0.028,0.941,90.56,4.23,7.7,0.8170731707317073,164
+",catastrophe,Financial,0.0,0.0,0.8118296265602112,0.031,0.028,0.941,90.56,4.23,7.7,0.8170731707317073,164
 PGR_SEP24.txt,PGR,2024,Q3,"Diff vs
 BARCe
 2.0%
@@ -3902,7 +3902,7 @@ Catastrophes (pts)
 Reserve development ($m)
 29
 Reserve development (pts)
-",catastrophe,Financial,0.0006234096945263445,4.187726153759286e-05,0.9993346333503723,0.083,0.073,0.844,76.82,6.67,8.8,0.75,60
+",catastrophe,Financial,0.0,0.0,0.7938731908798218,0.083,0.073,0.844,76.82,6.67,8.8,0.75,60
 PGR_JUL21.txt,PGR,2021,Q3,"Growth
 0%
 10%
@@ -3919,7 +3919,7 @@ FIGURE 1
 Jan-19
 effect of rate increases
 Feb-19
-Source:",rate increases,Financial,0.00015183797222562134,1.2791620065399911e-05,0.9998353719711304,0.12,0.0,0.88,84.0,10.3,0.0,1.0,22
+Source:",rate increases,Financial,0.0,0.0,0.9128559231758118,0.12,0.0,0.88,84.0,10.3,0.0,1.0,22
 PGR_JUL21.txt,PGR,2021,Q3,"Jul-20
 Aug-20
 Sep-20
@@ -3955,7 +3955,7 @@ Jul-21
 Barclays | Progressive Corp.
 FIGURE 3
 PGR has filed for rate increases in 3 of the last 4 months which is likely to result in continued PIF growth drag
-Wgt.",rate increases,Financial,0.022274427115917206,4.215748413116671e-05,0.9776833057403564,0.04,0.065,0.895,63.87,15.46,0.0,0.7575757575757576,66
+Wgt.",rate increases,Financial,0.0,0.8613666892051697,0.0,0.04,0.065,0.895,63.87,15.46,0.0,0.7575757575757576,66
 PGR_JUL21.txt,PGR,2021,Q3,"Net Earned Premiums (y/y %)
 Source: Barclays Research, Company Data.
 2018

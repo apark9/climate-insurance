@@ -118,17 +118,146 @@ def rank_companies_by_sentiment(sentiment_df, output_folder="output/sentiment_al
     sorted_by_vader.to_excel(output_excel_vader, index=False)
     sorted_by_vader.to_csv(output_csv_vader, index=False)
 
-def perform_graphing():
-    sentiment_file = os.path.join(DATA_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
-    sentiment_df = load_data(sentiment_file)
+def plot_keyword_sentiment_analysis(base_file, gpt_file, data_folder, title, output_file):
+    """
+    Creates separate keyword sentiment analysis plots for Sell-Side Reports and Transcripts.
+    Uses a Facet Grid to split results across FinBERT, VADER, and GPT.
 
-    quarter_to_month = {"1Q": "01", "2Q": "04", "3Q": "07", "4Q": "10"}
-    sentiment_df["DATE"] = sentiment_df.apply(
-        lambda row: f"{row['YEAR']}-{quarter_to_month.get(row['QUARTER'].upper(), '01')}-01", axis=1
+    Parameters:
+        base_file (str): Path to the base sentiment file (FinBERT, VADER).
+        gpt_file (str): Path to the GPT sentiment file.
+        data_folder (str): Folder containing transcript or sell-side files.
+        title (str): Title for the plot (Sell-Side Reports or Transcripts).
+        output_file (str): Output file path for the saved graph.
+    """
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+    # Load datasets
+    base_data = pd.read_csv(base_file)
+    gpt_data = pd.read_csv(gpt_file)
+
+    # Count total documents in the respective folder
+    total_documents = len([f for f in os.listdir(data_folder) if f.endswith(('.txt', '.pdf'))])
+    if total_documents == 0:
+        logging.warning(f"⚠️ No documents found in {data_folder}.")
+        return
+
+    # Rename GPT column
+    gpt_data.rename(columns={"avg_finbert": "GPT"}, inplace=True)
+
+    # Merge datasets on 'keyword'
+    merged_data = pd.merge(base_data, gpt_data[["keyword", "GPT"]], on="keyword", how="left")
+    merged_data.rename(columns={"avg_finbert": "FinBERT", "avg_vader": "VADER"}, inplace=True)
+
+    # Calculate frequency percentage
+    merged_data["Frequency (%)"] = (merged_data["count"] / total_documents) * 100
+
+    # Reshape for Seaborn plotting
+    sentiment_data = merged_data.melt(id_vars=["keyword", "Frequency (%)"], value_vars=["FinBERT", "VADER", "GPT"],
+                                      var_name="Model", value_name="Sentiment Score")
+
+    # Sort keywords by frequency for better readability
+    sentiment_data = sentiment_data.sort_values(by="Frequency (%)", ascending=False)
+
+    # Set up Facet Grid
+    g = sns.FacetGrid(sentiment_data, col="Model", sharex=True, sharey=True, height=6, aspect=1.2)
+    g.map_dataframe(sns.barplot, x="Sentiment Score", y="keyword", hue="Model", palette=["blue", "green", "red"])
+
+    # Adjust labels and formatting
+    g.set_axis_labels("Sentiment Score", "Keyword")
+    g.set_titles("{col_name} Sentiment")
+    g.fig.suptitle(title, fontsize=14)
+    g.fig.subplots_adjust(top=0.85)
+
+    # Save plot
+    plt.savefig(output_file, bbox_inches="tight")
+    plt.close()
+    logging.info(f"✅ Saved {title} analysis to {output_file}.")
+
+def plot_improved_comparison(
+    sell_side_base, sell_side_gpt, transcript_base, transcript_gpt, output_file
+):
+    """
+    Creates a clearer Sell-Side vs. Transcripts comparison by stacking sentiment scores vertically.
+    
+    Parameters:
+        sell_side_base (str): CSV file for Sell-Side FinBERT/VADER.
+        sell_side_gpt (str): CSV file for Sell-Side GPT.
+        transcript_base (str): CSV file for Transcripts FinBERT/VADER.
+        transcript_gpt (str): CSV file for Transcripts GPT.
+        output_file (str): Where to save the plot.
+    """
+    
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+    # Load Data
+    sell_side = pd.read_csv(sell_side_base)
+    sell_side_gpt = pd.read_csv(sell_side_gpt)
+    transcript = pd.read_csv(transcript_base)
+    transcript_gpt = pd.read_csv(transcript_gpt)
+
+    # Rename GPT column and merge
+    sell_side_gpt.rename(columns={"avg_finbert": "GPT"}, inplace=True)
+    sell_side = pd.merge(sell_side, sell_side_gpt[["keyword", "GPT"]], on="keyword", how="left")
+
+    transcript_gpt.rename(columns={"avg_finbert": "GPT"}, inplace=True)
+    transcript = pd.merge(transcript, transcript_gpt[["keyword", "GPT"]], on="keyword", how="left")
+
+    # Rename sentiment columns
+    sell_side.rename(columns={"avg_finbert": "AVG_FINBERT", "avg_vader": "AVG_VADER"}, inplace=True)
+    transcript.rename(columns={"avg_finbert": "AVG_FINBERT", "avg_vader": "AVG_VADER"}, inplace=True)
+
+    # Add Source Labels
+    sell_side["Source"] = "Sell-Side"
+    transcript["Source"] = "Transcripts"
+
+    # Merge both datasets
+    combined = pd.concat([sell_side, transcript])
+
+    # Reshape for Seaborn
+    melted = combined.melt(
+        id_vars=["keyword", "Source"], value_vars=["AVG_FINBERT", "AVG_VADER", "GPT"],
+        var_name="Model", value_name="Sentiment Score"
     )
-    sentiment_df["DATE"] = pd.to_datetime(sentiment_df["DATE"])
 
-    sentiment_df = compute_average_sentiment(sentiment_df)
+    # Fix duplicate keyword-source pairs by averaging
+    melted = melted.groupby(["keyword", "Source", "Model"], as_index=False).mean()
+
+    # Sort by the largest sentiment gap
+    sentiment_diff = melted.pivot_table(index="keyword", columns="Source", values="Sentiment Score").dropna()
+    sentiment_diff["Diff"] = abs(sentiment_diff["Sell-Side"] - sentiment_diff["Transcripts"])
+    melted["keyword"] = pd.Categorical(melted["keyword"], categories=sentiment_diff.sort_values("Diff", ascending=False).index)
+
+    # Plot
+    plt.figure(figsize=(12, 14))
+    sns.pointplot(
+        data=melted, x="Sentiment Score", y="keyword",
+        hue="Source", dodge=True, markers=["o", "s"], linestyles=""
+    )
+
+    # Labels and Formatting
+    plt.xlabel("Sentiment Score")
+    plt.ylabel("Keyword")
+    plt.title("Sell-Side vs. Transcripts: Keyword Sentiment Analysis")
+    plt.legend(title="Source")
+    plt.grid(axis="x", linestyle="--", alpha=0.7)
+
+    plt.tight_layout()
+    plt.savefig(output_file, bbox_inches="tight")
+    plt.close()
+    logging.info(f"✅ Saved improved sentiment analysis to {output_file}.")
+
+def perform_graphing():
+    # sentiment_file = os.path.join(DATA_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
+    # sentiment_df = load_data(sentiment_file)
+
+    # quarter_to_month = {"1Q": "01", "2Q": "04", "3Q": "07", "4Q": "10"}
+    # sentiment_df["DATE"] = sentiment_df.apply(
+    #     lambda row: f"{row['YEAR']}-{quarter_to_month.get(row['QUARTER'].upper(), '01')}-01", axis=1
+    # )
+    # sentiment_df["DATE"] = pd.to_datetime(sentiment_df["DATE"])
+
+    # sentiment_df = compute_average_sentiment(sentiment_df)
 
     # plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "FINBERT")
     # plot_sentiment_by_keyword_type_per_ticker(sentiment_df, "VADER")
@@ -136,7 +265,31 @@ def perform_graphing():
     # plot_overall_sentiment_by_keyword_type(sentiment_df, "FINBERT")
     # plot_overall_sentiment_by_keyword_type(sentiment_df, "VADER")
 
-    rank_companies_by_sentiment(sentiment_df)
+    # rank_companies_by_sentiment(sentiment_df)
+
+    plot_keyword_sentiment_analysis(
+        base_file="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
+        gpt_file="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
+        data_folder="data/sell_side_txt",
+        title="Sell-Side Reports: Keyword Sentiment Analysis",
+        output_file="output/plots/sell_side_sentiment_analysis.png"
+    )
+
+    plot_keyword_sentiment_analysis(
+        base_file="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
+        gpt_file="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
+        data_folder="data/transcripts",
+        title="Transcripts: Keyword Sentiment Analysis",
+        output_file="output/plots/transcript_sentiment_analysis.png"
+    )
+
+    plot_improved_comparison(
+        sell_side_base="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
+        sell_side_gpt="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
+        transcript_base="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
+        transcript_gpt="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
+        output_file="output/plots/sell_side_vs_transcripts_better.png"
+    )
 
     logging.info("✅ Graphing completed successfully.")
 

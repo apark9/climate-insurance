@@ -1,0 +1,296 @@
+Results for GPT - Sentiment_All (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:          Sentiment_All   R-squared:                        0.1237
+Estimator:                   PanelOLS   R-squared (Between):              0.0133
+No. Observations:                 425   R-squared (Within):               0.1237
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0370
+Time:                        12:11:07   Log-likelihood                    503.83
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      7.9280
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             8.3542
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0307     0.0221    -1.3871     0.1662     -0.0741      0.0128
+P_Earned                   0.0038     0.0150     0.2523     0.8009     -0.0257      0.0333
+Loss_Ratio                 0.0238     0.0150     1.5913     0.1123     -0.0056      0.0533
+Loss_Containment_Ratio     0.0108     0.0164     0.6589     0.5104     -0.0214      0.0430
+Market_Share               0.0566     0.0162     3.4951     0.0005      0.0247      0.0884
+Stock_Price               -0.0019     0.0051    -0.3778     0.7058     -0.0120      0.0082
+Total_Damage_Adj           0.0045     0.0029     1.5378     0.1249     -0.0012      0.0102
+==========================================================================================
+
+F-test for Poolability: 7.4935
+P-value: 0.0000
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for GPT - Sentiment_All (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:          Sentiment_All   R-squared:                        0.0900
+Estimator:                   PanelOLS   R-squared (Between):              0.0932
+No. Observations:                 425   R-squared (Within):               0.0783
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0900
+Time:                        12:11:07   Log-likelihood                    169.29
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      5.9056
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             2.4980
+                                        P-value                           0.0160
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0404     0.0437    -0.9240     0.3560     -0.1263      0.0455
+P_Earned                   0.0180     0.0223     0.8074     0.4199     -0.0258      0.0618
+Loss_Ratio                 0.0456     0.0333     1.3687     0.1718     -0.0199      0.1110
+Loss_Containment_Ratio     0.0045     0.0249     0.1797     0.8575     -0.0445      0.0535
+Market_Share               0.0158     0.0482     0.3276     0.7434     -0.0789      0.1105
+Stock_Price                0.0168     0.0190     0.8844     0.3770     -0.0206      0.0542
+Total_Damage_Adj           0.0025     0.0038     0.6532     0.5140     -0.0050      0.0099
+==========================================================================================
+
+
+
+Results for GPT - Sentiment_Climate (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:      Sentiment_Climate   R-squared:                        0.0699
+Estimator:                   PanelOLS   R-squared (Between):              0.0644
+No. Observations:                 425   R-squared (Within):               0.0699
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0667
+Time:                        12:11:08   Log-likelihood                    58.743
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      4.2162
+Entities:                          25   P-value                           0.0002
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             4.8833
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0792     0.0606     1.3068     0.1920     -0.0400      0.1985
+P_Earned                  -0.0503     0.0362    -1.3878     0.1660     -0.1215      0.0209
+Loss_Ratio                 0.0054     0.0380     0.1420     0.8872     -0.0692      0.0800
+Loss_Containment_Ratio     0.0643     0.0393     1.6374     0.1023     -0.0129      0.1416
+Market_Share              -0.0293     0.0511    -0.5744     0.5660     -0.1297      0.0710
+Stock_Price                0.0130     0.0176     0.7412     0.4590     -0.0215      0.0476
+Total_Damage_Adj           0.0117     0.0103     1.1395     0.2552     -0.0085      0.0319
+==========================================================================================
+
+F-test for Poolability: 2.4749
+P-value: 0.0002
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for GPT - Sentiment_Climate (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:      Sentiment_Climate   R-squared:                        0.0818
+Estimator:                   PanelOLS   R-squared (Between):              0.0964
+No. Observations:                 425   R-squared (Within):               0.0618
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0818
+Time:                        12:11:08   Log-likelihood                   -122.42
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      5.3232
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             2.8941
+                                        P-value                           0.0058
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.0293     0.0953     0.3069     0.7591     -0.1581      0.2166
+P_Earned                  -0.0158     0.0484    -0.3256     0.7449     -0.1109      0.0793
+Loss_Ratio                 0.0249     0.0669     0.3722     0.7099     -0.1065      0.1563
+Loss_Containment_Ratio     0.0586     0.0524     1.1176     0.2644     -0.0445      0.1617
+Market_Share              -0.0345     0.0993    -0.3470     0.7288     -0.2297      0.1608
+Stock_Price                0.0463     0.0303     1.5258     0.1278     -0.0133      0.1060
+Total_Damage_Adj           0.0093     0.0114     0.8136     0.4164     -0.0132      0.0318
+==========================================================================================
+
+
+
+Results for GPT - Sentiment_Risk (Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         Sentiment_Risk   R-squared:                        0.1523
+Estimator:                   PanelOLS   R-squared (Between):             -0.1260
+No. Observations:                 425   R-squared (Within):               0.1523
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0517
+Time:                        12:11:08   Log-likelihood                    9.3291
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      10.087
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,393)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             9.2382
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,393)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.2149     0.1076     1.9977     0.0464      0.0034      0.4264
+P_Earned                   0.0579     0.0490     1.1818     0.2380     -0.0384      0.1543
+Loss_Ratio                 0.0973     0.0200     4.8782     0.0000      0.0581      0.1366
+Loss_Containment_Ratio    -0.0529     0.0174    -3.0395     0.0025     -0.0872     -0.0187
+Market_Share              -0.2878     0.0954    -3.0171     0.0027     -0.4754     -0.1003
+Stock_Price                0.0872     0.0262     3.3285     0.0010      0.0357      0.1387
+Total_Damage_Adj          -0.0268     0.0092    -2.9244     0.0037     -0.0448     -0.0088
+==========================================================================================
+
+F-test for Poolability: 1.6159
+P-value: 0.0346
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for GPT - Sentiment_Risk (No Fixed Effects):
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         Sentiment_Risk   R-squared:                        0.0910
+Estimator:                   PanelOLS   R-squared (Between):              0.0097
+No. Observations:                 425   R-squared (Within):               0.1371
+Date:                Fri, Mar 14 2025   R-squared (Overall):              0.0910
+Time:                        12:11:08   Log-likelihood                   -100.88
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      5.9804
+Entities:                          25   P-value                           0.0000
+Avg Obs:                       17.000   Distribution:                   F(7,418)
+Min Obs:                       17.000                                           
+Max Obs:                       17.000   F-statistic (robust):             12.025
+                                        P-value                           0.0000
+Time periods:                      17   Distribution:                   F(7,418)
+Avg Obs:                       25.000                                           
+Min Obs:                       25.000                                           
+Max Obs:                       25.000                                           
+                                                                                
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                  0.3236     0.1452     2.2278     0.0264      0.0381      0.6090
+P_Earned                  -0.0162     0.0599    -0.2698     0.7875     -0.1340      0.1017
+Loss_Ratio                 0.0468     0.0462     1.0121     0.3121     -0.0441      0.1376
+Loss_Containment_Ratio    -0.0151     0.0310    -0.4880     0.6258     -0.0760      0.0457
+Market_Share              -0.3118     0.1277    -2.4405     0.0151     -0.5629     -0.0607
+Stock_Price                0.0292     0.0236     1.2360     0.2172     -0.0172      0.0756
+Total_Damage_Adj          -0.0251     0.0094    -2.6684     0.0079     -0.0436     -0.0066
+==========================================================================================
+
+
+
+Results for GPT - Sentiment_Financial (Fixed Effects):
+                           PanelOLS Estimation Summary                           
+=================================================================================
+Dep. Variable:     Sentiment_Financial   R-squared:                        0.0855
+Estimator:                    PanelOLS   R-squared (Between):              0.0315
+No. Observations:                  425   R-squared (Within):               0.0855
+Date:                 Fri, Mar 14 2025   R-squared (Overall):              0.0445
+Time:                         12:11:09   Log-likelihood                    506.73
+Cov. Estimator:              Clustered                                           
+                                         F-statistic:                      5.2508
+Entities:                           25   P-value                           0.0000
+Avg Obs:                        17.000   Distribution:                   F(7,393)
+Min Obs:                        17.000                                           
+Max Obs:                        17.000   F-statistic (robust):             4.3742
+                                         P-value                           0.0001
+Time periods:                       17   Distribution:                   F(7,393)
+Avg Obs:                        25.000                                           
+Min Obs:                        25.000                                           
+Max Obs:                        25.000                                           
+                                                                                 
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0465     0.0264    -1.7630     0.0787     -0.0983      0.0054
+P_Earned                   0.0161     0.0194     0.8288     0.4077     -0.0221      0.0544
+Loss_Ratio                 0.0226     0.0178     1.2719     0.2042     -0.0123      0.0575
+Loss_Containment_Ratio     0.0037     0.0193     0.1931     0.8470     -0.0341      0.0416
+Market_Share               0.0573     0.0183     3.1350     0.0018      0.0214      0.0932
+Stock_Price                0.0043     0.0079     0.5476     0.5843     -0.0112      0.0198
+Total_Damage_Adj           0.0015     0.0029     0.5132     0.6081     -0.0043      0.0073
+==========================================================================================
+
+F-test for Poolability: 8.0836
+P-value: 0.0000
+Distribution: F(24,393)
+
+Included effects: Entity
+
+Results for GPT - Sentiment_Financial (No Fixed Effects):
+                           PanelOLS Estimation Summary                           
+=================================================================================
+Dep. Variable:     Sentiment_Financial   R-squared:                        0.0827
+Estimator:                    PanelOLS   R-squared (Between):              0.0945
+No. Observations:                  425   R-squared (Within):               0.0453
+Date:                 Fri, Mar 14 2025   R-squared (Overall):              0.0827
+Time:                         12:11:09   Log-likelihood                    202.67
+Cov. Estimator:              Clustered                                           
+                                         F-statistic:                      5.3821
+Entities:                           25   P-value                           0.0000
+Avg Obs:                        17.000   Distribution:                   F(7,418)
+Min Obs:                        17.000                                           
+Max Obs:                        17.000   F-statistic (robust):             2.1734
+                                         P-value                           0.0356
+Time periods:                       17   Distribution:                   F(7,418)
+Avg Obs:                        25.000                                           
+Min Obs:                        25.000                                           
+Max Obs:                        25.000                                           
+                                                                                 
+                                   Parameter Estimates                                    
+==========================================================================================
+                        Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------------------
+P_Written                 -0.0440     0.0382    -1.1534     0.2494     -0.1191      0.0310
+P_Earned                   0.0215     0.0228     0.9424     0.3465     -0.0233      0.0663
+Loss_Ratio                 0.0445     0.0310     1.4374     0.1514     -0.0164      0.1054
+Loss_Containment_Ratio    -0.0006     0.0255    -0.0224     0.9821     -0.0507      0.0496
+Market_Share               0.0192     0.0415     0.4628     0.6438     -0.0624      0.1008
+Stock_Price                0.0140     0.0172     0.8143     0.4160     -0.0198      0.0477
+Total_Damage_Adj          -0.0004     0.0037    -0.1044     0.9169     -0.0077      0.0070
+==========================================================================================
+
+
+
