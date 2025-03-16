@@ -7,9 +7,9 @@ import code.graphing as graphing
 import code.naic as naic
 import code.sell_side as sell_side
 import code.analysis as analysis
+import code.climate as climate
 import nltk
 
-# import code.climate as climate
 # import code.financials as financials
 # import code.keywords as keywords
 
@@ -38,8 +38,13 @@ if __name__ == "__main__":
     # sentiment.generate_sentiment_excel()
     # sentiment.compute_quarterly_negative_sentiment()
 
+    'CLIMATE'
+    # climate.filter_dataset()
+    # climate.process_sentiment_data()
+    climate.perform_graphing()
+
     'ANALYSIS'
-    analysis.run_analysis()
+    # analysis.run_analysis()
 
     'GRAPHING'
     # graphing.perform_graphing()

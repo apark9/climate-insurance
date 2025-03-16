@@ -5,7 +5,7 @@ Dep. Variable:          sentiment_all   R-squared:                        0.1503
 Estimator:                   PanelOLS   R-squared (Between):              0.0387
 No. Observations:                 425   R-squared (Within):               0.1503
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.0546
-Time:                        01:43:55   Log-likelihood                    831.96
+Time:                        10:25:39   Log-likelihood                    831.96
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      9.9305
 Entities:                          25   P-value                           0.0000
@@ -44,7 +44,7 @@ Dep. Variable:          sentiment_all   R-squared:                        0.2584
 Estimator:                   PanelOLS   R-squared (Between):              0.0576
 No. Observations:                 425   R-squared (Within):               0.2584
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.1642
-Time:                        01:43:56   Log-likelihood                    860.87
+Time:                        10:25:39   Log-likelihood                    860.87
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      5.9856
 Entities:                          25   P-value                           0.0000
@@ -99,7 +99,7 @@ Dep. Variable:      sentiment_climate   R-squared:                        0.1011
 Estimator:                   PanelOLS   R-squared (Between):             -0.0130
 No. Observations:                 425   R-squared (Within):               0.1011
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.0479
-Time:                        01:43:57   Log-likelihood                    718.64
+Time:                        10:25:39   Log-likelihood                    718.64
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      6.3159
 Entities:                          25   P-value                           0.0000
@@ -138,7 +138,7 @@ Dep. Variable:      sentiment_climate   R-squared:                        0.6208
 Estimator:                   PanelOLS   R-squared (Between):             -0.6197
 No. Observations:                 425   R-squared (Within):               0.6208
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.5540
-Time:                        01:43:58   Log-likelihood                    902.05
+Time:                        10:25:39   Log-likelihood                    902.05
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      28.129
 Entities:                          25   P-value                           0.0000
@@ -193,7 +193,7 @@ Dep. Variable:         sentiment_risk   R-squared:                        0.0304
 Estimator:                   PanelOLS   R-squared (Between):             -0.0483
 No. Observations:                 425   R-squared (Within):               0.0304
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.0079
-Time:                        01:43:59   Log-likelihood                    542.30
+Time:                        10:25:40   Log-likelihood                    542.30
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      1.7581
 Entities:                          25   P-value                           0.0943
@@ -232,7 +232,7 @@ Dep. Variable:         sentiment_risk   R-squared:                        0.2376
 Estimator:                   PanelOLS   R-squared (Between):              0.0444
 No. Observations:                 425   R-squared (Within):               0.2376
 Date:                Sun, Mar 16 2025   R-squared (Overall):              0.2188
-Time:                        01:43:59   Log-likelihood                    593.39
+Time:                        10:25:40   Log-likelihood                    593.39
 Cov. Estimator:             Clustered                                           
                                         F-statistic:                      5.3542
 Entities:                          25   P-value                           0.0000
@@ -287,7 +287,7 @@ Dep. Variable:     sentiment_financial   R-squared:                        0.128
 Estimator:                    PanelOLS   R-squared (Between):              0.0350
 No. Observations:                  425   R-squared (Within):               0.1286
 Date:                 Sun, Mar 16 2025   R-squared (Overall):              0.0485
-Time:                         01:44:01   Log-likelihood                    805.99
+Time:                         10:25:40   Log-likelihood                    805.99
 Cov. Estimator:              Clustered                                           
                                          F-statistic:                      8.2879
 Entities:                           25   P-value                           0.0000
@@ -326,7 +326,7 @@ Dep. Variable:     sentiment_financial   R-squared:                        0.234
 Estimator:                    PanelOLS   R-squared (Between):              0.0319
 No. Observations:                  425   R-squared (Within):               0.2348
 Date:                 Sun, Mar 16 2025   R-squared (Overall):              0.1335
-Time:                         01:44:02   Log-likelihood                    833.59
+Time:                         10:25:40   Log-likelihood                    833.59
 Cov. Estimator:              Clustered                                           
                                          F-statistic:                      5.2712
 Entities:                           25   P-value                           0.0000
