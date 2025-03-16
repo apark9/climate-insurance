@@ -433,6 +433,100 @@ def process_pgr_files():
     pd.DataFrame(all_results).to_csv(pgr_output_file, index=False)
     logging.info(f"✅ PGR Sentiment results saved to {pgr_output_file}")
 
+def analyze_keyword_sentiment_over_time(merged_df, output_folder="analysis/keyword_freq"):
+    """
+    Aggregates sentiment scores over time for each keyword to enable time-series analysis,
+    incorporating FinBERT, VADER, and GPT sentiment models.
+
+    Parameters:
+    - merged_df (DataFrame): DataFrame containing processed sentiment data.
+    - output_folder (str): Folder where results should be saved.
+
+    Saves:
+    - A CSV file with sentiment scores per keyword per quarter/year for all sentiment models.
+    """
+
+    os.makedirs(output_folder, exist_ok=True)
+
+    # Standardize column names to lowercase
+    merged_df.columns = merged_df.columns.str.lower()
+
+    # 🔹 Locate the correct GPT output folder
+    gpt_folder = f"data/{sentiment_flag}_output_gpt"
+    gpt_file = os.path.join(gpt_folder, f"{sentiment_flag}_sentiment_results_merged_gpt.csv")
+
+    # Load GPT dataset from the correct folder
+    df_gpt = pd.read_csv(gpt_file) if os.path.exists(gpt_file) else None
+
+    if df_gpt is not None:
+        df_gpt.columns = df_gpt.columns.str.lower()
+
+        # 🔹 Ensure GPT sentiment column is correctly renamed from "finbert_negative"
+        if "finbert_negative" in df_gpt.columns:
+            print("DEBUG: Renaming 'finbert_negative' to 'gpt_negative' in GPT dataset")  # 🔴 Debugging message
+            df_gpt.rename(columns={"finbert_negative": "gpt_negative"}, inplace=True)
+
+        # 🔹 Standardize `keyword`, `quarter`, and `year` formatting
+        df_gpt["keyword"] = df_gpt["keyword"].str.strip().str.lower()
+        df_gpt["quarter"] = df_gpt["quarter"].str.strip().str.upper()
+        df_gpt["year"] = df_gpt["year"].astype(int)
+
+    # Ensure required columns exist in merged_df
+    required_cols = {"year", "quarter", "keyword", "finbert_negative", "vader_negative"}
+    missing_cols = required_cols - set(merged_df.columns)
+
+    if missing_cols:
+        logging.error(f"❌ Missing required columns in base dataset: {missing_cols}")
+        return
+
+    # 🔹 Standardize `keyword`, `quarter`, and `year` formatting before merging
+    merged_df["keyword"] = merged_df["keyword"].str.strip().str.lower()
+    merged_df["quarter"] = merged_df["quarter"].str.strip().str.upper()
+    merged_df["year"] = merged_df["year"].astype(int)
+
+    # 🔹 Fix `quarter` formatting: Convert "1Q" → "Q1", "2Q" → "Q2", etc.
+    quarter_mapping = {"1Q": "Q1", "2Q": "Q2", "3Q": "Q3", "4Q": "Q4"}
+    merged_df["quarter"] = merged_df["quarter"].replace(quarter_mapping)
+    
+    # Remove empty quarter values
+    merged_df = merged_df[merged_df["quarter"] != ""]
+
+    # 🔹 Aggregate FinBERT & VADER sentiment scores per keyword per time period
+    keyword_sentiment_trends = merged_df.groupby(["year", "quarter", "keyword"], as_index=False).agg(
+        avg_finbert_negative=("finbert_negative", "mean"),
+        avg_vader_negative=("vader_negative", "mean"),
+        count=("keyword", "count")  # Track frequency per period
+    )
+
+    # 🔹 Debugging: Check unique quarter values
+    print("DEBUG: Unique quarters in `keyword_sentiment_trends` after fixing:", sorted(keyword_sentiment_trends["quarter"].unique()))
+
+    if df_gpt is not None and "gpt_negative" in df_gpt.columns:
+        df_gpt["quarter"] = df_gpt["quarter"].astype(str)
+
+        # Aggregate GPT sentiment
+        gpt_sentiment_trends = df_gpt.groupby(["year", "quarter", "keyword"], as_index=False).agg(
+            avg_gpt_negative=("gpt_negative", "mean")
+        )
+
+        # 🔹 Debugging: Check merge success with an inner join first
+        test_merge = keyword_sentiment_trends.merge(
+            gpt_sentiment_trends, on=["year", "quarter", "keyword"], how="inner"
+        )
+        print("DEBUG: Sample of successfully merged rows after fixing quarter format:\n", test_merge.head())  # 🔴 Debugging
+
+        # Merge GPT data into the main sentiment dataset
+        keyword_sentiment_trends = keyword_sentiment_trends.merge(
+            gpt_sentiment_trends, on=["year", "quarter", "keyword"], how="left"
+        )
+
+    # 🔹 Save to CSV for analysis
+    output_file = os.path.join(output_folder, f"{sentiment_flag}_keyword_sentiment_trends.csv")
+    keyword_sentiment_trends.to_csv(output_file, index=False)
+
+    logging.info(f"✅ Saved keyword sentiment trends for all models to {output_file}")
+    print(f"✅ Saved keyword sentiment trends to {output_file}")  # 🔴 Confirm file saved
+
 def perform_analysis():
     merged_csv_path = os.path.join(OUTPUT_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")  
 
@@ -442,8 +536,10 @@ def perform_analysis():
 
     merged_df = pd.read_csv(merged_csv_path)
 
-    analyze_sentiment_trends(merged_df)
-    analyze_keyword_sentiment(merged_df)
+    # analyze_sentiment_trends(merged_df)
+    # analyze_keyword_sentiment(merged_df)
+
+    analyze_keyword_sentiment_over_time(merged_df)
 
 def generate_sentiment_excel(data_folder=f"data/{sentiment_flag}_output_gpt", output_path=f"output/{sentiment_flag}_sentiment_analysis_gpt.xlsx"):
     

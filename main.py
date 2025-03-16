@@ -28,7 +28,7 @@ if __name__ == "__main__":
     # naic.analyze_disclosures()
 
     'SENTIMENT'
-    # sentiment.load_finbert() # ALWAYS RUN THIS LINE FOR ANY SENTIMENT
+    sentiment.load_finbert() # ALWAYS RUN THIS LINE FOR ANY SENTIMENT
 
     # batch_number = int(sys.argv[1])
     # sentiment.process_batch(batch_number)
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # sentiment.compute_quarterly_negative_sentiment()
 
     'ANALYSIS'
-    # analysis.run_analysis()
+    analysis.run_analysis()
 
     'GRAPHING'
-    graphing.perform_graphing()
+    # graphing.perform_graphing()

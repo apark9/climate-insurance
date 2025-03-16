@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from IPython.display import display
 from config import sentiment_flag
+from scipy.stats import zscore
 
 ANALYSIS_FOLDER = "analysis/sentiment"
 DATA_FOLDER = f"data/{sentiment_flag}_output"
@@ -247,6 +248,137 @@ def plot_improved_comparison(
     plt.close()
     logging.info(f"✅ Saved improved sentiment analysis to {output_file}.")
 
+def plot_standardized_keyword_frequency(
+    sell_side_file, sell_side_gpt, transcript_file, transcript_gpt, output_file
+):
+    """
+    Creates a standardized bar chart comparing keyword frequency in both Sell-Side Reports and Transcripts
+    using Z-score normalization.
+
+    Parameters:
+        sell_side_file (str): CSV file for Sell-Side keyword sentiment.
+        sell_side_gpt (str): CSV file for Sell-Side GPT.
+        transcript_file (str): CSV file for Transcripts keyword sentiment.
+        transcript_gpt (str): CSV file for Transcripts GPT.
+        output_file (str): Where to save the graph.
+    """
+
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+    # Load Data
+    sell_side = pd.read_csv(sell_side_file)
+    sell_side_gpt = pd.read_csv(sell_side_gpt)
+    transcript = pd.read_csv(transcript_file)
+    transcript_gpt = pd.read_csv(transcript_gpt)
+
+    # Merge GPT keyword counts
+    sell_side_gpt.rename(columns={"avg_finbert": "GPT"}, inplace=True)
+    sell_side = pd.merge(sell_side, sell_side_gpt[["keyword", "GPT"]], on="keyword", how="left")
+
+    transcript_gpt.rename(columns={"avg_finbert": "GPT"}, inplace=True)
+    transcript = pd.merge(transcript, transcript_gpt[["keyword", "GPT"]], on="keyword", how="left")
+
+    # Merge Sell-Side & Transcript data
+    combined = pd.merge(
+        sell_side[["keyword", "count"]].rename(columns={"count": "Sell-Side"}),
+        transcript[["keyword", "count"]].rename(columns={"count": "Transcripts"}),
+        on="keyword",
+        how="outer"
+    ).fillna(0)
+
+    # Standardization: Apply Z-Score
+    combined["Sell-Side Z"] = zscore(combined["Sell-Side"])
+    combined["Transcripts Z"] = zscore(combined["Transcripts"])
+
+    # Sort by largest absolute Z-score difference
+    combined["Diff"] = abs(combined["Sell-Side Z"] - combined["Transcripts Z"])
+    combined = combined.sort_values(by="Diff", ascending=False)
+
+    # Plot grouped bar chart with Z-Scores
+    plt.figure(figsize=(12, 8))
+    bar_width = 0.4
+    keywords = combined["keyword"]
+    positions = range(len(keywords))
+
+    plt.barh(positions, combined["Sell-Side Z"], height=bar_width, label="Sell-Side", color="orange", alpha=0.7)
+    plt.barh([p + bar_width for p in positions], combined["Transcripts Z"], height=bar_width, label="Transcripts", color="blue", alpha=0.7)
+
+    # Formatting
+    plt.xlabel("Standardized Keyword Frequency (Z-Score)")
+    plt.ylabel("Climate-Related Keywords")
+    plt.title("Keyword Frequency Comparison (Z-Score Standardized)")
+    plt.yticks([p + bar_width / 2 for p in positions], keywords)
+    plt.axvline(x=0, color='black', linestyle="--", linewidth=0.8)  # Reference line at 0
+    plt.legend()
+    plt.grid(axis="x", linestyle="--", alpha=0.7)
+
+    # Save figure
+    plt.savefig(output_file, bbox_inches="tight")
+    plt.close()
+    logging.info(f"✅ Saved standardized keyword frequency analysis to {output_file}.")
+
+def plot_top_keywords_by_model(output_folder="output/keyword_sentiment_plots", top_n=5):
+    """
+    Plots sentiment trends over time for the top selected keywords, with separate graphs for each sentiment model.
+
+    Parameters:
+    - output_folder (str): Directory where plots will be saved.
+    - top_n (int): Number of top keywords to plot.
+    """
+
+    os.makedirs(output_folder, exist_ok=True)
+
+    # Load sentiment trends data
+    sentiment_trends_file = os.path.join("analysis/keyword_freq", f"{sentiment_flag}_keyword_sentiment_trends.csv")
+
+    if not os.path.exists(sentiment_trends_file):
+        logging.error(f"❌ Sentiment trends file not found: {sentiment_trends_file}")
+        return
+
+    sentiment_df = pd.read_csv(sentiment_trends_file)
+
+    # Select the top keywords based on total count
+    top_keywords = sentiment_df.groupby("keyword")["count"].sum().nlargest(top_n).index.tolist()
+
+    logging.info(f"✅ Selected Top {top_n} Keywords for Sentiment Plotting: {top_keywords}")
+
+    # Convert year and quarter into a datetime format
+    sentiment_df["date"] = sentiment_df["year"].astype(str) + "-" + sentiment_df["quarter"].str.replace("Q", "0")
+    sentiment_df["date"] = pd.to_datetime(sentiment_df["date"], errors="coerce")
+
+    # Define models to plot separately
+    sentiment_models = {
+        "FinBERT": "avg_finbert_negative",
+        "VADER": "avg_vader_negative",
+        "GPT": "avg_gpt_negative"
+    }
+
+    for model_name, column_name in sentiment_models.items():
+        plt.figure(figsize=(12, 6))
+
+        for keyword in top_keywords:
+            subset = sentiment_df[sentiment_df["keyword"] == keyword]
+
+            if subset.empty:
+                logging.warning(f"⚠️ No data found for keyword '{keyword}', skipping.")
+                continue
+
+            sns.lineplot(data=subset, x="date", y=column_name, marker="o", label=f"{keyword}")
+
+        plt.xlabel("Date")
+        plt.ylabel("Average Negative Sentiment Score")
+        plt.title(f"Sentiment Trends for Top {top_n} Keywords ({model_name})")
+        plt.xticks(rotation=45)
+        plt.legend(title="Keyword")
+        plt.grid()
+
+        output_path = os.path.join(output_folder, f"sentiment_trends_{model_name.lower()}_top_{top_n}_keywords.png")
+        plt.savefig(output_path, bbox_inches="tight")
+        plt.close()
+
+        logging.info(f"✅ Saved {model_name} sentiment trends plot at {output_path}")
+        print(f"✅ Saved {model_name} sentiment trends plot to {output_path}")  # Confirm file saved
+
 def perform_graphing():
     # sentiment_file = os.path.join(DATA_FOLDER, f"{sentiment_flag}_sentiment_results_merged.csv")
     # sentiment_df = load_data(sentiment_file)
@@ -267,31 +399,44 @@ def perform_graphing():
 
     # rank_companies_by_sentiment(sentiment_df)
 
-    plot_keyword_sentiment_analysis(
-        base_file="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
-        gpt_file="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
-        data_folder="data/sell_side_txt",
-        title="Sell-Side Reports: Keyword Sentiment Analysis",
-        output_file="output/plots/sell_side_sentiment_analysis.png"
-    )
+    # plot_keyword_sentiment_analysis(
+    #     base_file="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
+    #     gpt_file="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
+    #     data_folder="data/sell_side_txt",
+    #     title="Sell-Side Reports: Keyword Sentiment Analysis",
+    #     output_file="output/plots/sell_side_sentiment_analysis.png"
+    # )
 
-    plot_keyword_sentiment_analysis(
-        base_file="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
-        gpt_file="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
-        data_folder="data/transcripts",
-        title="Transcripts: Keyword Sentiment Analysis",
-        output_file="output/plots/transcript_sentiment_analysis.png"
-    )
+    # plot_keyword_sentiment_analysis(
+    #     base_file="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
+    #     gpt_file="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
+    #     data_folder="data/transcripts",
+    #     title="Transcripts: Keyword Sentiment Analysis",
+    #     output_file="output/plots/transcript_sentiment_analysis.png"
+    # )
 
-    plot_improved_comparison(
-        sell_side_base="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
-        sell_side_gpt="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
-        transcript_base="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
-        transcript_gpt="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
-        output_file="output/plots/sell_side_vs_transcripts_better.png"
-    )
+    # plot_improved_comparison(
+    #     sell_side_base="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
+    #     sell_side_gpt="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
+    #     transcript_base="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
+    #     transcript_gpt="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
+    #     output_file="output/plots/sell_side_vs_transcripts_better.png"
+    # )
 
-    logging.info("✅ Graphing completed successfully.")
+    # sell_side_docs = len([f for f in os.listdir("data/sell_side_txt") if f.endswith(('.txt', '.pdf'))])
+    # transcript_docs = len([f for f in os.listdir("data/transcripts") if f.endswith(('.txt', '.pdf'))])
+
+    # # Call function to generate improved keyword frequency comparison
+    # plot_standardized_keyword_frequency(
+    #     sell_side_file="analysis/keyword_freq/sell_side_keyword_sentiment.csv",
+    #     sell_side_gpt="analysis/keyword_freq/sell_side_keyword_sentiment_gpt.csv",
+    #     transcript_file="analysis/keyword_freq/transcripts_keyword_sentiment.csv",
+    #     transcript_gpt="analysis/keyword_freq/transcripts_keyword_sentiment_gpt.csv",
+    #     output_file="output/plots/standardized_keyword_frequency.png"
+    # )
+    # logging.info("✅ Graphing completed successfully.")
+
+    plot_top_keywords_by_model(output_folder="output/plots/keyword_sentiment_plots", top_n=3)
 
 
 if __name__ == "__main__":
