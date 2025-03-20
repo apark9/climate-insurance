@@ -1,37 +1,35 @@
+import os
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
+from scipy.stats import pearsonr, spearmanr
 
-# Load the dataset
-file_path = "data/emdat.csv"
-df = pd.read_csv(file_path, dtype=str)
-output_dir = "output/plots/climate"
-
-# List of states to filter
 states = ["California", "Florida", "Texas"]
 
-# Define a function to convert month to quarter
-def get_quarter(month):
-    month = int(month)
-    if month in [1, 2, 3]:
+data_dir = "data/climate"
+output_dir = "output/plots/climate"
+analysis_dir = "output/analysis"
+
+states = ["California", "Florida", "Texas"]
+
+def get_quarter_from_month(month):
+    if month <= 3:
         return "1Q"
-    elif month in [4, 5, 6]:
+    elif month <= 6:
         return "2Q"
-    elif month in [7, 8, 9]:
+    elif month <= 9:
         return "3Q"
-    elif month in [10, 11, 12]:
+    else:
         return "4Q"
-    return None
 
-def filter_dataset():
-    # Print available column names for debugging
-    print("Available Columns in Dataset:", df.columns.tolist())
+def filter_dataset(use_weighted_time=True):
+    file_path = "data/emdat.csv"
+    df = pd.read_csv(file_path, dtype=str)
 
-    # Strip column names of unexpected spaces
     df.columns = df.columns.str.strip()
 
-    # Identify the correct column name for damages
     possible_damage_cols = [
         "Total Damage, Adjusted ('000 US$)",
         "Total Damage, Adjusted (000 US$)",
@@ -39,111 +37,48 @@ def filter_dataset():
     ]
 
     damage_col = next((col for col in possible_damage_cols if col in df.columns), None)
-    
     if not damage_col:
         raise KeyError("Could not find the 'Total Damage, Adjusted' column in dataset!")
 
     for state in states:
-        # Filter data for the state
         state_df = df[df['Location'].str.contains(state, na=False, case=False)]
-        
-        # Keep necessary columns
         state_df = state_df[['End Year', 'End Month', damage_col]].copy()
-        
-        # Convert columns to appropriate types
-        state_df.dropna(subset=['End Year', 'End Month'], inplace=True)
+
+        state_df.dropna(subset=['End Year', 'End Month', damage_col], inplace=True)
         state_df['End Year'] = state_df['End Year'].astype(int)
         state_df['End Month'] = state_df['End Month'].astype(int)
-        state_df[damage_col] = pd.to_numeric(state_df[damage_col], errors='coerce')  # Convert damages to numeric
-        
-        # Create Quarter column
-        state_df['Quarter'] = state_df['End Month'].apply(get_quarter)
-        
-        # Aggregate damages by Year & Quarter (summing across events)
-        state_df = state_df.groupby(['End Year', 'Quarter'], as_index=False)[damage_col].sum()
-        
-        # Rename columns
-        state_df.columns = ['Year', 'Quarter', 'Damages']
-        
-        # Save the processed data
-        output_path = f"data/climate/emdat_climate_shocks_{state}.csv"
+        state_df[damage_col] = pd.to_numeric(state_df[damage_col], errors='coerce')
+
+        state_df = state_df[state_df[damage_col] > 0]
+
+        if use_weighted_time:
+            weighted_month = (
+                state_df.groupby('End Year')
+                .apply(lambda x: (x['End Month'] * x[damage_col]).sum() / x[damage_col].sum() if x[damage_col].sum() > 0 else np.nan)
+                .reset_index(name='Weighted Month')
+            )
+            weighted_month.dropna(subset=['Weighted Month'], inplace=True)
+            weighted_month['Quarter'] = weighted_month['Weighted Month'].apply(get_quarter_from_month)
+            state_df = state_df.groupby(['End Year'], as_index=False)[damage_col].sum()
+            state_df = state_df.merge(weighted_month[['End Year', 'Quarter']], on='End Year')
+            method_tag = "weighted"
+        else:
+            state_df['Quarter'] = state_df['End Month'].apply(get_quarter_from_month)
+            state_df = state_df.groupby(['End Year', 'Quarter'], as_index=False)[damage_col].sum()
+            method_tag = "endperiod"
+
+        if use_weighted_time:
+            state_df.columns = ['Year', 'Damages', 'Quarter']
+        else:
+            state_df.columns = ['Year', 'Quarter', 'Damages']
+
+        output_path = f"{data_dir}/emdat_climate_shocks_{state}_{method_tag}.csv"
         state_df.to_csv(output_path, index=False)
 
-    print("Aggregated files have been successfully created for California, Florida, and Texas.")
-
-def process_sentiment_data():
-    """
-    Processes sentiment datasets for specified companies in California, Florida, and Texas,
-    aggregating average negative sentiment scores per quarter.
-    Includes keyword and category in the saved dataset.
-    """
-
-    # Define file paths
-    vader_finbert_file = "data/transcripts_output/transcripts_sentiment_results_merged.csv"
-    gpt_file = "data/transcripts_output_gpt/transcripts_sentiment_results_merged_gpt.csv"
-    
-    # Define companies by state
-    state_companies = {
-        "California": {"AIG", "ALL", "BRK", "CB", "MCY", "TRV", "ZURN"},
-        "Florida": {"AIG", "AIZ", "ALL", "BRK", "CB", "PGR", "TRV", "UVE", "ZURN"},
-        "Texas": {"AIG", "ALL", "BRK", "CB", "PGR", "TRV", "ZURN"}
-    }
-
-    # Columns to keep
-    sentiment_columns = ["Ticker", "Year", "Quarter", "finbert_negative", "vader_negative", "keyword", "category"]
-    gpt_column_rename = {"finbert_negative": "gpt_negative"}
-
-    # Load FinBERT & Vader dataset
-    try:
-        finbert_vader_df = pd.read_csv(vader_finbert_file, dtype=str)
-        for col in ["finbert_negative", "vader_negative"]:
-            finbert_vader_df[col] = pd.to_numeric(finbert_vader_df[col], errors="coerce")
-        finbert_vader_df["Quarter"] = finbert_vader_df["Quarter"].str.replace("Q", "") + "Q"
-        finbert_vader_df = finbert_vader_df[sentiment_columns]
-    except FileNotFoundError:
-        finbert_vader_df = pd.DataFrame(columns=sentiment_columns)
-
-    # Load GPT dataset
-    try:
-        gpt_df = pd.read_csv(gpt_file, dtype=str)
-        if "finbert_negative" in gpt_df.columns:
-            gpt_df.rename(columns=gpt_column_rename, inplace=True)
-            gpt_df["gpt_negative"] = pd.to_numeric(gpt_df["gpt_negative"], errors="coerce")
-        gpt_df["Quarter"] = gpt_df["Quarter"].str.extract(r"(\d)").astype(str) + "Q"
-        gpt_df = gpt_df[["Ticker", "Year", "Quarter", "gpt_negative"]]
-    except FileNotFoundError:
-        gpt_df = pd.DataFrame(columns=["Ticker", "Year", "Quarter", "gpt_negative"])
-
-    # Merge sentiment datasets
-    combined_df = pd.merge(finbert_vader_df, gpt_df, on=["Ticker", "Year", "Quarter"], how="outer")
-
-    # Convert Year to integer for consistency
-    combined_df["Year"] = combined_df["Year"].astype(int)
-
-    # Process data for each state
-    for state, companies in state_companies.items():
-        state_df = combined_df[combined_df["Ticker"].isin(companies)].copy()
-
-        # Aggregate sentiment scores & count keyword frequency
-        state_df = state_df.groupby(["Year", "Quarter", "Ticker", "keyword", "category"], as_index=False).agg({
-            "finbert_negative": "mean",
-            "vader_negative": "mean",
-            "gpt_negative": "mean"
-        })
-
-        # Save to CSV including keyword and category
-        output_path = f"data/climate/sentiment_results_{state}.csv"
-        state_df.to_csv(output_path, index=False)
-
-    print("Sentiment datasets successfully created for California, Florida, and Texas.")
-
-def plot_sentiment_vs_damages(state):
-    """
-    Plots overall sentiment scores vs. damages for a given state,
-    using quarter as the x-axis instead of aggregating by year.
-    """
-    sentiment_file = f"data/climate/sentiment_results_{state}.csv"
-    damage_file = f"data/climate/emdat_climate_shocks_{state}.csv"
+def compute_correlation(state, use_weighted_time=True):
+    method_tag = "weighted" if use_weighted_time else "endperiod"
+    sentiment_file = f"{data_dir}/sentiment_results_{state}.csv"
+    damage_file = f"{data_dir}/emdat_climate_shocks_{state}_{method_tag}.csv"
 
     try:
         sentiment_df = pd.read_csv(sentiment_file)
@@ -152,7 +87,91 @@ def plot_sentiment_vs_damages(state):
         sentiment_df["Time"] = sentiment_df["Year"].astype(str) + "-" + sentiment_df["Quarter"]
         damage_df["Time"] = damage_df["Year"].astype(str) + "-" + damage_df["Quarter"]
 
-        # Merge datasets
+        common_times = set(sentiment_df["Time"]).intersection(set(damage_df["Time"]))
+        sentiment_df = sentiment_df[sentiment_df["Time"].isin(common_times)]
+        damage_df = damage_df[damage_df["Time"].isin(common_times)]
+
+        sentiment_agg = sentiment_df.groupby("Time", as_index=False).mean(numeric_only=True)
+        word_freq_df = sentiment_df[sentiment_df["category"] == "Climate"]
+        word_freq_df = word_freq_df.groupby("Time").size().reset_index(name="Keyword Frequency")
+
+        merged_df = sentiment_agg.merge(damage_df, on="Time", how="left")
+        keyword_freq_merged = word_freq_df.merge(damage_df, on="Time", how="left")
+
+        correlation_results = {}
+
+        for sentiment_col in ["finbert_negative", "vader_negative", "gpt_negative"]:
+            if sentiment_col in merged_df.columns and merged_df["Damages"].notna().sum() > 0:
+                pearson_corr, _ = pearsonr(merged_df[sentiment_col].dropna(), merged_df["Damages"].dropna())
+                spearman_corr, _ = spearmanr(merged_df[sentiment_col].dropna(), merged_df["Damages"].dropna())
+                
+                temp_df = merged_df[[sentiment_col, "Damages"]].dropna()
+                pandas_corr = temp_df[sentiment_col].corr(temp_df["Damages"])
+                
+                correlation_results[f"Sentiment ({sentiment_col})"] = {
+                    "Pearson": pearson_corr, 
+                    "Spearman": spearman_corr,
+                    "Pandas Corr": pandas_corr
+                }
+
+        if "Keyword Frequency" in keyword_freq_merged.columns and keyword_freq_merged["Damages"].notna().sum() > 0:
+            pearson_corr, _ = pearsonr(keyword_freq_merged["Keyword Frequency"].dropna(), keyword_freq_merged["Damages"].dropna())
+            spearman_corr, _ = spearmanr(keyword_freq_merged["Keyword Frequency"].dropna(), keyword_freq_merged["Damages"].dropna())
+
+            temp_df = keyword_freq_merged[["Keyword Frequency", "Damages"]].dropna()
+            pandas_corr = temp_df["Keyword Frequency"].corr(temp_df["Damages"])
+            
+            correlation_results["Keyword Frequency"] = {
+                "Pearson": pearson_corr,
+                "Spearman": spearman_corr,
+                "Pandas Corr": pandas_corr
+            }
+
+        return correlation_results
+
+    except FileNotFoundError:
+        print(f"Data missing for {state}, skipping correlation analysis.")
+        return None
+
+def compute_and_save_correlation(use_weighted_time=True):
+    method_tag = "weighted" if use_weighted_time else "endperiod"
+    correlation_results = {state: compute_correlation(state, use_weighted_time) for state in states}
+
+    output_text = f"Climate Correlation Analysis ({method_tag} method)\n\n"
+    for state, results in correlation_results.items():
+        if results:
+            output_text += f"State: {state}\n"
+            for metric, values in results.items():
+                output_text += f"  {metric}:\n"
+                output_text += f"    Pearson Correlation: {values['Pearson']:.4f}\n"
+                output_text += f"    Spearman Correlation: {values['Spearman']:.4f}\n"
+                output_text += f"    Pandas Corr: {values['Pandas Corr']:.4f}\n"
+            output_text += "\n"
+
+    correlation_file_path = f"{analysis_dir}/climate_correlation_results_{method_tag}.txt"
+
+    with open(correlation_file_path, "w") as file:
+        file.write(output_text)
+
+def run_climate_analysis():
+    filter_dataset(use_weighted_time=False)
+    compute_and_save_correlation(use_weighted_time=False)
+
+    filter_dataset(use_weighted_time=True)
+    compute_and_save_correlation(use_weighted_time=True)
+
+def plot_sentiment_vs_damages(state, use_weighted_time=True):
+    method_tag = "weighted" if use_weighted_time else "endperiod"
+    sentiment_file = f"data/climate/sentiment_results_{state}.csv"
+    damage_file = f"data/climate/emdat_climate_shocks_{state}_{method_tag}.csv"
+
+    try:
+        sentiment_df = pd.read_csv(sentiment_file)
+        damage_df = pd.read_csv(damage_file)
+
+        sentiment_df["Time"] = sentiment_df["Year"].astype(str) + "-" + sentiment_df["Quarter"]
+        damage_df["Time"] = damage_df["Year"].astype(str) + "-" + damage_df["Quarter"]
+
         merged_df = sentiment_df.groupby("Time", as_index=False).mean(numeric_only=True).merge(
             damage_df, on="Time", how="left")
 
@@ -163,34 +182,27 @@ def plot_sentiment_vs_damages(state):
         ax2 = ax1.twinx()
         sns.lineplot(data=merged_df, x="Time", y="Damages", label="Damages ($ millions)", color="black", ax=ax2, linestyle="dashed")
 
-        # Format y-axis for damages
         ax2.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f'{x/1e6:.1f}'))
 
         ax1.set_ylabel("Sentiment Score")
         ax2.set_ylabel("Damages ($ millions)")
 
-        # Improve x-axis readability
         plt.xticks(range(0, len(merged_df["Time"]), 4), merged_df["Time"][::4], rotation=45)
         plt.xlabel("Time (Year-Quarter)")
-        plt.title(f"Overall Sentiment vs. Damages Over Time - {state}")
+        plt.title(f"Overall Sentiment vs. Damages Over Time - {state} ({method_tag})")
         plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
 
-        # Save plot
-        plot_path = f"{output_dir}/sentiment_vs_damages_{state}.png"
+        plot_path = f"{output_dir}/sentiment_vs_damages_{state}_{method_tag}.png"
         plt.savefig(plot_path, dpi=300, bbox_inches="tight")
         plt.close()
 
     except FileNotFoundError:
-        print(f"Data missing for {state}, skipping plot.")
+        print(f"Data missing for {state}, skipping plot ({method_tag}).")
 
-
-def plot_climate_sentiment_vs_damages(state):
-    """
-    Plots climate-related sentiment vs. damages for a given state,
-    using the category column instead of hardcoded keywords.
-    """
+def plot_climate_sentiment_vs_damages(state, use_weighted_time=True):
+    method_tag = "weighted" if use_weighted_time else "endperiod"
     sentiment_file = f"data/climate/sentiment_results_{state}.csv"
-    damage_file = f"data/climate/emdat_climate_shocks_{state}.csv"
+    damage_file = f"data/climate/emdat_climate_shocks_{state}_{method_tag}.csv"
 
     try:
         sentiment_df = pd.read_csv(sentiment_file)
@@ -199,7 +211,6 @@ def plot_climate_sentiment_vs_damages(state):
         sentiment_df["Time"] = sentiment_df["Year"].astype(str) + "-" + sentiment_df["Quarter"]
         damage_df["Time"] = damage_df["Year"].astype(str) + "-" + damage_df["Quarter"]
 
-        # Filter for climate-related categories
         climate_df = sentiment_df[sentiment_df["category"] == "Climate"]
 
         climate_merged_df = climate_df.groupby("Time", as_index=False).mean(numeric_only=True).merge(
@@ -212,34 +223,27 @@ def plot_climate_sentiment_vs_damages(state):
         ax2 = ax1.twinx()
         sns.lineplot(data=climate_merged_df, x="Time", y="Damages", label="Damages ($ millions)", color="black", ax=ax2, linestyle="dashed")
 
-        # Format y-axis for damages
         ax2.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f'{x/1e6:.1f}'))
 
         ax1.set_ylabel("Climate Sentiment Score")
         ax2.set_ylabel("Damages ($ millions)")
 
-        # Improve x-axis readability
         plt.xticks(range(0, len(climate_merged_df["Time"]), 4), climate_merged_df["Time"][::4], rotation=45)
         plt.xlabel("Time (Year-Quarter)")
-        plt.title(f"Climate Sentiment vs. Damages Over Time - {state}")
+        plt.title(f"Climate Sentiment vs. Damages Over Time - {state} ({method_tag})")
         plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
 
-        # Save plot
-        plot_path = f"{output_dir}/climate_sentiment_vs_damages_{state}.png"
+        plot_path = f"{output_dir}/climate_sentiment_vs_damages_{state}_{method_tag}.png"
         plt.savefig(plot_path, dpi=300, bbox_inches="tight")
         plt.close()
 
     except FileNotFoundError:
-        print(f"Data missing for {state}, skipping plot.")
+        print(f"Data missing for {state}, skipping plot ({method_tag}).")
 
-
-def plot_climate_keyword_freq_vs_damages(state):
-    """
-    Plots climate keyword frequency vs. damages for a given state,
-    using the category column instead of hardcoded keywords.
-    """
+def plot_climate_keyword_freq_vs_damages(state, use_weighted_time=True):
+    method_tag = "weighted" if use_weighted_time else "endperiod"
     sentiment_file = f"data/climate/sentiment_results_{state}.csv"
-    damage_file = f"data/climate/emdat_climate_shocks_{state}.csv"
+    damage_file = f"data/climate/emdat_climate_shocks_{state}_{method_tag}.csv"
 
     try:
         sentiment_df = pd.read_csv(sentiment_file)
@@ -248,7 +252,6 @@ def plot_climate_keyword_freq_vs_damages(state):
         sentiment_df["Time"] = sentiment_df["Year"].astype(str) + "-" + sentiment_df["Quarter"]
         damage_df["Time"] = damage_df["Year"].astype(str) + "-" + damage_df["Quarter"]
 
-        # Filter for climate-related categories
         keyword_freq = sentiment_df[sentiment_df["category"] == "Climate"]
         keyword_freq = keyword_freq.groupby("Time").size().reset_index(name="Keyword Frequency")
 
@@ -259,30 +262,27 @@ def plot_climate_keyword_freq_vs_damages(state):
         ax2 = ax1.twinx()
         sns.lineplot(data=keyword_freq_merged, x="Time", y="Damages", label="Damages ($ millions)", color="black", ax=ax2, linestyle="dashed")
 
-        # Format y-axis for damages
         ax2.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f'{x/1e6:.1f}'))
 
         ax1.set_ylabel("Climate Keyword Frequency")
         ax2.set_ylabel("Damages ($ millions)")
 
-        # Improve x-axis readability
         plt.xticks(range(0, len(keyword_freq_merged["Time"]), 4), keyword_freq_merged["Time"][::4], rotation=45)
         plt.xlabel("Time (Year-Quarter)")
-        plt.title(f"Climate Keyword Frequency vs. Damages Over Time - {state}")
+        plt.title(f"Climate Keyword Frequency vs. Damages Over Time - {state} ({method_tag})")
         plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
 
-        # Save plot
-        plot_path = f"{output_dir}/climate_keyword_freq_vs_damages_{state}.png"
+        plot_path = f"{output_dir}/climate_keyword_freq_vs_damages_{state}_{method_tag}.png"
         plt.savefig(plot_path, dpi=300, bbox_inches="tight")
         plt.close()
 
     except FileNotFoundError:
-        print(f"Data missing for {state}, skipping plot.")
+        print(f"Data missing for {state}, skipping plot ({method_tag}).")
 
 def perform_graphing():
-    states = ["California", "Florida", "Texas"]
     for state in states:
-        plot_sentiment_vs_damages(state)
-        plot_climate_sentiment_vs_damages(state)
-        plot_climate_keyword_freq_vs_damages(state)
+        for use_weighted_time in [False, True]:
+            plot_sentiment_vs_damages(state, use_weighted_time)
+            plot_climate_sentiment_vs_damages(state, use_weighted_time)
+            plot_climate_keyword_freq_vs_damages(state, use_weighted_time)
 

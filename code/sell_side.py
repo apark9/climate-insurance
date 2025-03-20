@@ -9,15 +9,12 @@ key = "30Zo5NhnGlGhTaPZmF3ZkeOgWGFXldc3X92bH0aE869MDHfblB1CJQQJ99BCACYeBjFXJ3w3A
 
 client = DocumentAnalysisClient(endpoint, AzureKeyCredential(key))
 
-# Input and Output Directories
 input_dir = "data/sell_side"
 output_dir = "data/sell_side_output"
 
-# Ensure output directory exists
 os.makedirs(output_dir, exist_ok=True)
 
 def process_sellside():
-    # Process each file in the input directory
     for filename in os.listdir(input_dir):
         input_path = os.path.join(input_dir, filename)
         output_path = os.path.join(output_dir, f"{os.path.splitext(filename)[0]}.txt")
@@ -29,7 +26,6 @@ def process_sellside():
             
             extracted_text = "\n".join([line.content for page in result.pages for line in page.lines])
             
-            # Save extracted text to a file
             with open(output_path, "w", encoding="utf-8") as out_file:
                 out_file.write(extracted_text)
             

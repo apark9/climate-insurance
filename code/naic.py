@@ -4,9 +4,9 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from multiprocessing import Pool
 from textstat import textstat
 from PyPDF2 import PdfReader, PdfWriter
+from config import keyword_flag
 import pdfplumber
 import pandas as pd
-import logging
 import sys
 import spacy
 import time
@@ -23,10 +23,6 @@ output_folder = "output"
 mkt_share_folder = "data/NAIC_market_share"
 trimmed_folder = "data/NAIC_market_share/NAIC_market_share_trimmed"
 os.makedirs(output_folder, exist_ok=True)
-
-logging.getLogger("pdfplumber").setLevel(logging.WARNING)
-logging.getLogger("PyPDF2").setLevel(logging.WARNING)
-logging.getLogger("pdfminer").setLevel(logging.WARNING)
 
 def filter_sentences(text):
     sentences = text.split(".")
@@ -58,7 +54,6 @@ def parse_filename(file_name):
 
 def analyze_pdf(file_path):
     try:
-        logging.info(f"Processing transcript file: {file_path}")
         reader = PdfReader(file_path)
         text = "".join([page.extract_text() for page in reader.pages])
         filtered_sentences = filter_sentences(text)
@@ -82,16 +77,13 @@ def analyze_pdf(file_path):
             })
         return results
     except Exception as e:
-        logging.error(f"Error processing transcript file {file_path}: {e}")
         return []
 
 def analyze_transcripts():
     input_files = [os.path.join(transcript_folder, f) for f in os.listdir(transcript_folder) if f.endswith(".pdf")]
     if not input_files:
-        logging.warning("No transcript (PDF) files found for processing.")
         return
 
-    logging.info(f"Found {len(input_files)} transcript files to process.")
     all_results = []
 
     with Pool(processes=8) as pool:
@@ -103,7 +95,6 @@ def analyze_transcripts():
         combined_df = pd.DataFrame(all_results)
         output_file = os.path.join(output_folder, f"transcript_analysis_results_{keyword_flag}.csv")
         combined_df.to_csv(output_file, index=False, escapechar="\\")
-        logging.info(f"Transcript analysis results saved to {output_file}")
 
         aggregated_output = combined_df.groupby(["ticker", "Year"]).agg({
             "flesch_reading_ease": "mean",
@@ -115,72 +106,56 @@ def analyze_transcripts():
 
         aggregated_output_path = os.path.join(output_folder, f"aggregated_transcript_analysis_results_{keyword_flag}.csv")
         aggregated_output.to_csv(aggregated_output_path, index=False)
-        logging.info(f"Aggregated transcript analysis results saved to {aggregated_output_path}")
     else:
-        logging.warning("No transcript results to save after processing.")
+        print("No transcript results to save after processing.")
 
 
-# -------------------------------
-# STEP 1: TRIM PDFs BEFORE PROCESSING
-# (Already done, leaving as a comment)
-# -------------------------------
 
-# def trim_pdf(input_pdf):
-#     """Trims the PDF by removing pages after the '01-Fire' section."""
-#     start_time = time.time()
-#     output_pdf = os.path.join(trimmed_folder, os.path.basename(input_pdf))
-#     logging.info(f"Trimming PDF: {input_pdf}")
-#     with pdfplumber.open(input_pdf) as pdf:
-#         writer = PdfWriter()
-#         page_count = 0
-#         for i, page in enumerate(pdf.pages):
-#             text = page.extract_text()
-#             if text and "01-Fire" in text:
-#                 logging.info(f"Stopping at page {i} for {input_pdf} (found '01-Fire')")
-#                 break
-#             writer.add_page(PdfReader(input_pdf).pages[i])
-#             page_count += 1
-#         with open(output_pdf, "wb") as f:
-#             writer.write(f)
-#     elapsed_time = round(time.time() - start_time, 2)
-#     logging.info(f"Trimmed {input_pdf}: Kept {page_count} pages (Time taken: {elapsed_time}s)")
-#     return output_pdf
+def trim_pdf(input_pdf):
+    start_time = time.time()
+    output_pdf = os.path.join(trimmed_folder, os.path.basename(input_pdf))
+    with pdfplumber.open(input_pdf) as pdf:
+        writer = PdfWriter()
+        page_count = 0
+        for i, page in enumerate(pdf.pages):
+            text = page.extract_text()
+            if text and "01-Fire" in text:
+                logging.info(f"Stopping at page {i} for {input_pdf} (found '01-Fire')")
+                break
+            writer.add_page(PdfReader(input_pdf).pages[i])
+            page_count += 1
+        with open(output_pdf, "wb") as f:
+            writer.write(f)
+    elapsed_time = round(time.time() - start_time, 2)
+    return output_pdf
 
-# -------------------------------
-# STEP 2: EXTRACT MARKET SHARE DATA
-# -------------------------------
-
-BATCH_SIZE = 2  # Process 4 PDFs at a time
+BATCH_SIZE = 2
 
 def parse_market_data(text, year):
-    """Extracts market share data, separating Nationwide and State-level rankings."""
     lines = text.split("\n")
     national_data = []
     state_data = []
     capture_national = False
     capture_state = False
-    current_state = None  # Track current state for state-specific data
+    current_state = None
 
     for line in lines:
-        # Detect start of Nationwide data
         if "PROPERTY AND CASUALTY INSURANCE INDUSTRY" in line and "MARKET SHARE REPORT" in line:
             capture_national = True
-            capture_state = False  # Reset state capture
+            capture_state = False
             continue
 
-        # Detect transition to State-Level data
         match = re.match(r"^([A-Z\s]+)\s+\d+\s+\d+", line)
         if match and len(line.split()) >= 4:
             current_state = match.group(1).strip()
             capture_state = True
-            capture_national = False  # Stop capturing national data
+            capture_national = False
             continue
 
         cols = re.split(r"\s{2,}", line.strip())
 
-        # Ensure we are processing valid numerical rows
         if len(cols) >= 5 and cols[-3].replace(",", "").isdigit() and cols[-2].replace(".", "").isdigit():
-            company_name = " ".join(cols[:-3])  # Multi-word company names
+            company_name = " ".join(cols[:-3])
             premium_written = cols[-3]
             loss_ratio = cols[-1]
 
@@ -188,25 +163,20 @@ def parse_market_data(text, year):
                 premium_written = float(premium_written.replace(",", ""))
                 loss_ratio = float(loss_ratio)
             except ValueError:
-                continue  # Skip invalid rows
+                continue
 
-            # Append to correct dataset
             if capture_national:
                 national_data.append([company_name, year, premium_written, loss_ratio])
             elif capture_state and current_state:
                 state_data.append([current_state, company_name, year, premium_written, loss_ratio])
 
-    logging.info(f"Extracted {len(national_data)} nationwide records and {len(state_data)} state records for {year}")
     return national_data, state_data
 
 def pull_market_data(pdf_file):
-    """Extracts market share data, separating Nationwide vs. State-level data."""
     start_time = time.time()
     year = os.path.basename(pdf_file).replace(".pdf", "").strip()
     national_results = []
     state_results = []
-
-    logging.info(f"Processing market data from {pdf_file}")
 
     try:
         with pdfplumber.open(pdf_file) as pdf:
@@ -216,30 +186,26 @@ def pull_market_data(pdf_file):
             state_results.extend(state_data)
 
     except Exception as e:
-        logging.error(f"Error processing {pdf_file}: {e}")
+        print(f"Error processing {pdf_file}: {e}")
 
     elapsed_time = round(time.time() - start_time, 2)
-    logging.info(f"Completed {pdf_file} (Time taken: {elapsed_time}s)")
     return national_results, state_results
 
 def analyze_single_batch(batch_index):
-    """Processes a single batch of PDFs and saves separate Nationwide and State-Level data."""
     trimmed_files = sorted([os.path.join(trimmed_folder, f) for f in os.listdir(trimmed_folder) if f.endswith(".pdf")])
 
     if not trimmed_files:
-        logging.warning("No trimmed PDFs found. Exiting.")
+        print("No trimmed PDFs found. Exiting.")
         return
 
     total_batches = (len(trimmed_files) + BATCH_SIZE - 1) // BATCH_SIZE
 
     if batch_index >= total_batches:
-        logging.error(f"Invalid batch index: {batch_index}. Only {total_batches} batch(es) available.")
+        print(f"Invalid batch index: {batch_index}. Only {total_batches} batch(es) available.")
         return
 
     batch_start = batch_index * BATCH_SIZE
     batch_files = trimmed_files[batch_start: batch_start + BATCH_SIZE]
-
-    logging.info(f"Processing batch {batch_index + 1} ({batch_start + 1}-{batch_start + len(batch_files)} of {len(trimmed_files)})")
 
     all_national_results = []
     all_state_results = []
@@ -249,7 +215,6 @@ def analyze_single_batch(batch_index):
         all_national_results.extend(national_data)
         all_state_results.extend(state_data)
 
-    # Convert results to DataFrame and save batch results
     if all_national_results:
         national_df = pd.DataFrame(all_national_results, columns=["Company", "Year", "Premium Written", "Loss Ratio"])
         national_df["Year"] = national_df["Year"].astype(int)
@@ -259,8 +224,6 @@ def analyze_single_batch(batch_index):
 
         national_df.to_csv(national_csv, index=False)
         national_df.to_excel(national_xlsx, index=False)
-
-        logging.info(f"National batch {batch_index + 1} saved to {national_csv} and {national_xlsx}")
 
     if all_state_results:
         state_df = pd.DataFrame(all_state_results, columns=["State", "Company", "Year", "Premium Written", "Loss Ratio"])
@@ -272,8 +235,6 @@ def analyze_single_batch(batch_index):
         state_df.to_csv(state_csv, index=False)
         state_df.to_excel(state_xlsx, index=False)
 
-        logging.info(f"State batch {batch_index + 1} saved to {state_csv} and {state_xlsx}")
-
 if __name__ == "__main__":
-    # analyze_transcripts()
+    analyze_transcripts()
     analyze_single_batch(batch_index)

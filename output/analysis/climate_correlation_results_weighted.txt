@@ -1,0 +1,56 @@
+Climate Correlation Analysis (weighted method)
+
+State: California
+  Sentiment (finbert_negative):
+    Pearson Correlation: -0.2523
+    Spearman Correlation: -0.2607
+    Pandas Corr: -0.2523
+  Sentiment (vader_negative):
+    Pearson Correlation: -0.6253
+    Spearman Correlation: -0.7357
+    Pandas Corr: -0.6253
+  Sentiment (gpt_negative):
+    Pearson Correlation: -0.1682
+    Spearman Correlation: 0.0036
+    Pandas Corr: -0.1682
+  Keyword Frequency:
+    Pearson Correlation: 0.4383
+    Spearman Correlation: 0.3866
+    Pandas Corr: 0.4383
+
+State: Florida
+  Sentiment (finbert_negative):
+    Pearson Correlation: -0.3218
+    Spearman Correlation: 0.0637
+    Pandas Corr: -0.3218
+  Sentiment (vader_negative):
+    Pearson Correlation: -0.3629
+    Spearman Correlation: -0.1341
+    Pandas Corr: -0.3629
+  Sentiment (gpt_negative):
+    Pearson Correlation: -0.0652
+    Spearman Correlation: 0.2791
+    Pandas Corr: -0.0652
+  Keyword Frequency:
+    Pearson Correlation: 0.1192
+    Spearman Correlation: 0.3871
+    Pandas Corr: 0.1192
+
+State: Texas
+  Sentiment (finbert_negative):
+    Pearson Correlation: 0.1167
+    Spearman Correlation: 0.3118
+    Pandas Corr: 0.1167
+  Sentiment (vader_negative):
+    Pearson Correlation: -0.3685
+    Spearman Correlation: -0.2118
+    Pandas Corr: -0.3685
+  Sentiment (gpt_negative):
+    Pearson Correlation: 0.1140
+    Spearman Correlation: 0.3941
+    Pandas Corr: 0.1140
+  Keyword Frequency:
+    Pearson Correlation: 0.4337
+    Spearman Correlation: 0.0793
+    Pandas Corr: 0.4337
+

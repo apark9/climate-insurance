@@ -9,19 +9,7 @@ import code.sell_side as sell_side
 import code.analysis as analysis
 import code.climate as climate
 import nltk
-
-# import code.financials as financials
-# import code.keywords as keywords
-
 if __name__ == "__main__":
-
-    os.makedirs("logs", exist_ok=True)
-    logging.basicConfig(
-        filename="logs/main.log",
-        filemode="w",
-        level=logging.INFO,
-        format="%(asctime)s - [%(levelname)s] - %(message)s",
-    )
 
     'NAIC'
     # naic.setup_logging()
@@ -40,11 +28,12 @@ if __name__ == "__main__":
 
     'CLIMATE'
     # climate.filter_dataset()
-    # climate.process_sentiment_data()
-    climate.perform_graphing()
+    # climate.run_climate_analysis()
+    # climate.perform_graphing()
+
 
     'ANALYSIS'
     # analysis.run_analysis()
 
     'GRAPHING'
-    # graphing.perform_graphing()
+    graphing.perform_graphing()
